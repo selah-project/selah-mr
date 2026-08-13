@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि ⟨त्याने⟩ माझ्या नफ्शीला शांततेपासून दूर ढकलले, मी भलाई विसरलो.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "आणि ढकलले"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "शांततेपासून"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "माझी नफ्शी"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "मी विसरलो"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:54.194752918Z",
+  "model": "glm-5.2"
+}

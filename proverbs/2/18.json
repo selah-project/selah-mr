@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "कारण तिचे घर मृत्यूकडे झुकते, आणि तिच्या पांगल्या रेफाइमांकडे जातात.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "झुकते"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यू"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "तिचे घर"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि कडे"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइम"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "तिच्या पांगल्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:51.028288782Z",
+  "model": "glm-5.2"
+}

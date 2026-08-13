@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि कनाजचे मुले: ओत्निएल आणि सराया. आणि ओत्निएलचे मुले: हातात.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि मुले"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनाज"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओत्निएल"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "आणि सराया"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आणि मुले"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओत्निएल"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "हातात"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:51.203095089Z",
+  "model": "glm-5.2"
+}

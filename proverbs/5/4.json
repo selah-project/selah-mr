@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "पण तिचा शेवट पावटीप्रमाणे कडू आहे, तलवाराप्रमाणे धारदार आहे.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "पण तिचा शेवट"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "कडू"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "पावटीप्रमाणे"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "धारदार"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "तलवाराप्रमाणे"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "द्विधार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:49.466355365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि चाळीस हात ⟨होता⟩ ⟨हे⟩ घर, तो ⟨हा⟩ हेखाल आतून",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "आणि चाळीस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होता"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨हे⟩ घर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨हा⟩ हेखाल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आतून"
+    }
+  ],
+  "timestamp": "2026-08-13T12:27:38.950148032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "तरीही, मी जिवंत आहे, आणि याहवेहचा तेज ⟨את⟩ संपूर्ण पृथ्वी भरून जाईल.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "तरीही"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिवंत"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "आणि भरून जाईल"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "संपूर्ण पृथ्वी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:03:35.735985899Z",
+  "model": "glm-5.2"
+}

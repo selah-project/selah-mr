@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "इस्राएल एक ⟨का⟩ दास ⟨आहे⟩? की घरचा जन्मलेला तो ⟨आहे⟩? का तो लुटला गेला आहे?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "जन्मलेला"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरचा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "का"
+    },
+    {
+      "surface": "היה",
+      "gloss": "झाला आहे"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "लुटला गेला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:20:01.954614366Z",
+  "model": "glm-5.2"
+}

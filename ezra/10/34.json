@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "बानीच्या ⟨पुत्रांपैकी⟩: मादय, अम्राम, उएल.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "पुत्रांपैकी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानीच्या"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "मादय"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अम्राम"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "उएल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:56:25.863092840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 61,
+  "translation": "मुख्य संगीतकारासाठी, तारा वाद्यावर, दावीदचा.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकारासाठी"
+    },
+    {
+      "surface": "על",
+      "gloss": "यावर"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "तारा वाद्य"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:43:47.661245082Z",
+  "model": "glm-5.2"
+}

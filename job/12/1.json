@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "तेथे अय्योब उत्तर देत आहे व म्हणत आहे:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर देत आहे"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "व म्हणत आहे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:21:20.684948412Z",
+  "model": "glm-5.2"
+}

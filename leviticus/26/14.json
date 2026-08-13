@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व जर तुम्ही माझे ऐकणार नाही, व या सर्व आज्ञा पाळणार नाही,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "व जर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "तुम्ही ऐकणार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "तुम्ही पाळणार"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:54:34.106011117Z",
+  "model": "glm-5.2"
+}

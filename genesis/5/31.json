@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि लामेखचे सर्व दिवस सात व सत्तर वर्ष आणि सातशे वर्ष होते, आणि तो मरण पावला.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि होते"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लामेखचे"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आणि सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आणि सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि मरण पावला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:27.931555527Z",
+  "model": "glm-5.2"
+}

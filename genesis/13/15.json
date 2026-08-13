@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "कारण ⟨את⟩ सर्व ⟨the⟩ देश जो तू पाहतोस तो मी तुला देईन, आणि तुझ्या वंशाला अनंतकाळपर्यंत.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व देश"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "पाहतोस"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "देईन"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "आणि तुझ्या वंशाला"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनंतकाळ"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:48.854468010Z",
+  "model": "glm-5.2"
+}

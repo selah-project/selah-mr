@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 9:6",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "व ⟨एक⟩ मम्झेर अश्दोदमध्ये वसेल, व मी पलिश्तींचा गर्व छानून टाकीन.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "व वसेल"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "मम्झेर"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "अश्दोदमध्ये"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "व मी छानून टाकीन"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "गर्व"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तींचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:54.878803266Z",
+  "model": "glm-5.2"
+}

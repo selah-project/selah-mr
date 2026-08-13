@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "माझ्या मदतीला लवकर ये, अदोनाय; ⟨तू⟩ माझी तारण ⟨आहेत्⟩.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "लवकर ये"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "माझ्या मदतीला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "माझी तारण"
+    }
+  ],
+  "timestamp": "2026-08-13T14:37:40.805394822Z",
+  "model": "glm-5.2"
+}

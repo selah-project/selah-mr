@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि मी क्रोध आणि संतापाने ⟨את⟩ ⟨the⟩ राष्ट्रांचा बदला घेईन, ⟨which⟩ ऐकले नाहीत.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "आणि मी करीन"
+    },
+    {
+      "surface": "באף",
+      "gloss": "क्रोधाने"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "आणि संतापाने"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ राष्ट्रां"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨the⟩ राष्ट्रां"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨which⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ऐकले"
+    }
+  ],
+  "timestamp": "2026-08-13T14:19:03.360813082Z",
+  "model": "glm-5.2"
+}

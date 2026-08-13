@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "फाडण्याची वेळ व शिवण्याची वेळ, गपप राहण्याची वेळ व बोलण्याची वेळ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "फाडण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "व वेळ"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "शिवण्याची"
+    },
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "गपप राहण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "व वेळ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोलण्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T16:49:07.046055244Z",
+  "model": "glm-5.2"
+}

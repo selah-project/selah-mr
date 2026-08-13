@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "योएल ⟨हा⟩ प्रमुख आणि शफाम ⟨हा⟩ द्वितीय, आणि यानाय आणि शफात बाशानमध्ये.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "आणि शफाम"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "द्वितीय"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "आणि यानाय"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "आणि शफात"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "बाशानमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:24.296410420Z",
+  "model": "glm-5.2"
+}

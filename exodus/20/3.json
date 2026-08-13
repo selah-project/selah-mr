@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "तुझ्यासाठी दुसरे एलोहीम माझ्या चेहऱ्यासमोर ⟨असू⟩ नयेत.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतील"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्यासाठी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दुसरे"
+    },
+    {
+      "surface": "על",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "माझ्या चेहऱ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:30:49.102647648Z",
+  "model": "glm-5.2"
+}

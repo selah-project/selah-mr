@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "मी दोषी ठरतो — का ⟨हे⟩? व्यर्थ मी कष्ट करतो.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "दोषी ठरतो"
+    },
+    {
+      "surface": "למה",
+      "gloss": "का"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨हे⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "मी कष्ट करतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:20:35.864350035Z",
+  "model": "glm-5.2"
+}

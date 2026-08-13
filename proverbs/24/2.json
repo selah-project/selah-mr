@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "कारण त्यांचे हृदय हिंसेचे ⟨चिंतन⟩ करते, व त्यांचे ओठ कष्ट बोलतात.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שד",
+      "gloss": "हिंसा"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "⟨ते⟩ चिंतन करते"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "त्यांचे हृदय"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "व कष्ट"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "त्यांचे ओठ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "बोलतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:01.055385936Z",
+  "model": "glm-5.2"
+}

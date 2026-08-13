@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "जेव्हा ढग धारा करतात, ⟨ते⟩ मनुष्यांवर बहुतांशी झरतात.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "धारा करतात"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ढग"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "झरतात"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्यां"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुतांशी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:29:26.654652065Z",
+  "model": "glm-5.2"
+}

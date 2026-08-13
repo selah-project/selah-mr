@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "आणि हनन्याह ⟨हा⟩ नबी त्या वर्षी मरण पावला, सातव्या महिन्यात.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आणि मरण पावला"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "हनन्याह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨हा⟩ नबी"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षी"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महिन्यात"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातव्या"
+    }
+  ],
+  "timestamp": "2026-08-13T13:32:05.421420979Z",
+  "model": "glm-5.2"
+}

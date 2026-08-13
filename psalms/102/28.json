@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 102,
+  "translation": "आणि तू तोच ⟨आहेत⟩, आणि तुझी वर्षे संपणार नाहीत.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तोच"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "आणि तुझी वर्षे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "संपणार"
+    }
+  ],
+  "timestamp": "2026-08-13T14:53:38.221288147Z",
+  "model": "glm-5.2"
+}

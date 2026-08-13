@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "व ⟨नोसे⟩ शस्त्रधारी देखील की शाऊल मृत ⟨आहे⟩, व तोही तलवारीवर पडला, व मेला.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "व देखील"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨नोसे⟩ शस्त्रधारी"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "त्याच्या शस्त्रांचा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मृत"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "व पडला"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोही"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तलवारी"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "व मेला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:56.278532669Z",
+  "model": "glm-5.2"
+}

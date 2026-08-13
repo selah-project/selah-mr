@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व ⟨את⟩ प्रत्येक कावळा प्रकारानुसार",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "प्रत्येक कावळा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "कावळा"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "प्रकारानुसार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:09.286463109Z",
+  "model": "glm-5.2"
+}

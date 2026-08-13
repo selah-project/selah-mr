@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि यित्सहारचे मुले: कोरह, नेफेग आणि जिखरी.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "आणि नेफेग"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "आणि जिखरी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:24:23.173901124Z",
+  "model": "glm-5.2"
+}

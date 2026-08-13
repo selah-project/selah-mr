@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि याहवेह मोशे व अहरोन पुत्र अलेझार याजक यांना बोलला, ⟨असे⟩ म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व कडे"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "अलेझार"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:50.711224390Z",
+  "model": "glm-5.2"
+}

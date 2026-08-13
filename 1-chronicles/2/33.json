@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि योनातानचे मुले पेलेत व जाझा होते; हे यरहमएलचे मुले होते.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि … मुले"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातानचे"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "पेलेत"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "व जाझा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमएलचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:18.229538625Z",
+  "model": "glm-5.2"
+}

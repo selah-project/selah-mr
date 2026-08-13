@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "कोण ⟨आहे⟩ भोळा? तो इकडे वळो; बुद्धीने कमी असलेल्याला ती म्हणते त्याला:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "भोळा"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "तो वळो"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इकडे"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "कमी असलेल्याला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "बुद्धीने"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ती म्हणते"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:24.601194672Z",
+  "model": "glm-5.2"
+}

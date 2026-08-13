@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "सात सप्ताह तू गण — दैलावरून पिकामध्ये, तू सात सप्ताह गणायला सुरुवात कर.",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सप्ताह"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "तू गण"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "सुरुवातीपासून"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "दैला"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "पिकामध्ये"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "तू सुरुवात कर"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "गणायला"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "सप्ताह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:49.149050917Z",
+  "model": "glm-5.2"
+}

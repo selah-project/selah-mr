@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "की तू खाशील आणि तृप्त होशील, आणि चांगली घरे बांधशील आणि राहशील,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "की"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तू खाशील"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "आणि तृप्त होशील"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "आणि घरे"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बांधशील"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "आणि राहशील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:18:54.483430530Z",
+  "model": "glm-5.2"
+}

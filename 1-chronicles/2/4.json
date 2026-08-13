@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व तामार, त्याची सून, त्याला ⟨את⟩ पेरेट्स व ⟨את⟩ जेराख यांना जन्म देत होती. यहूदाचे सर्व पुत्र पाच होत.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "व तामार"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "त्याची सून"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जन्म देत होती"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेरेट्स"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेट्स"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "जेराख"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेराख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:41.994880378Z",
+  "model": "glm-5.2"
+}

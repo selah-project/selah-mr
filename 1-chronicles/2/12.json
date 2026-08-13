@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि बोअज़ जन्म दिला ⟨את⟩ ओबेद, आणि ओबेद जन्म दिला ⟨את⟩ यिशाय.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "आणि बोअज़"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "आणि ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशाय"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशाय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:21.740324908Z",
+  "model": "glm-5.2"
+}

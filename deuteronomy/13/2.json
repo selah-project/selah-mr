@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "जेव्हा तुमच्या मध्ये उठेल नबी किंवा स्वप्न पाहणारा, आणि तो तुम्हाला देईल चिन्ह किंवा मोफेत,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठेल"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तुमच्या मध्ये"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "स्वप्न पाहणारा"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "स्वप्न"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आणि देईल"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुम्हाला"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "मोफेत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:52.126615035Z",
+  "model": "glm-5.2"
+}

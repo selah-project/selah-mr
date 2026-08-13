@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "हरीण व हिरण व याहमूर व आको व दीशोन व तेओ व झामर",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "हरीण"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "व हिरण"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "व याहमूर"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "व आको"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "व दीशोन"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "व तेओ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "व झामर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:05.760010628Z",
+  "model": "glm-5.2"
+}

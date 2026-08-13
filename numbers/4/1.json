@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि याहवेह मोशे व अहरोन यांच्याशी बोलला, ⟨हे⟩ म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व शी"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:25.481407959Z",
+  "model": "glm-5.2"
+}

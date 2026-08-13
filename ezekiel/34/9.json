@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "त्यामुळे, हे राखीव राखणदारांनो, याहवेहचा वचन ऐका:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "त्यामुळे"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "हे राखणदारांनो"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:01:48.113135253Z",
+  "model": "glm-5.2"
+}

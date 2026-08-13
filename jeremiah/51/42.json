@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 51,
+  "translation": "बबेलवर समुद्र चढला; तिच्या लाटांच्या गर्दीने ती झाकली गेली.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "चढला"
+    },
+    {
+      "surface": "על",
+      "gloss": "-वर"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बबेल"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "गर्दीने"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "तिच्या लाटांच्या"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "झाकली गेली"
+    }
+  ],
+  "timestamp": "2026-08-13T13:46:09.053035122Z",
+  "model": "glm-5.2"
+}

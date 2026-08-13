@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "सर्व बहुमोल धन ⟨आम्हाला⟩ सापडेल, ⟨आम्ही⟩ आमची घरे लूटेने भरू",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "बहुमोल"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "सापडेल"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "भरू"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "आमची घरे"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:57.785834509Z",
+  "model": "glm-5.2"
+}

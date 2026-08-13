@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "त्यांचे द्राक्षारस तरण्यांचे विष, आणि अत्यांत घातक ⟨आहे⟩ पतनांचे शीर्ष.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "तरण्यांचे"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "त्यांचे द्राक्षारस"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "आणि शीर्ष"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "पतनांचे"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "घातक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:43.360056222Z",
+  "model": "glm-5.2"
+}

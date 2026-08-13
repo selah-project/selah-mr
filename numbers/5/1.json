@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि याहवेह मोशेला बोलला, ⟨की⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨की⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:56.926031477Z",
+  "model": "glm-5.2"
+}

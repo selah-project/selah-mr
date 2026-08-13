@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "आणि ⟨तो⟩ म्हणेल: कुठे आहेत त्यांचे देव, दगड ज्यामध्ये त्यांनी आश्रय घेतला?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आणि ⟨तो⟩ म्हणेल"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कुठे"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "त्यांचे देव"
+    },
+    {
+      "surface": "צור",
+      "gloss": "दगड"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "त्यांनी आश्रय घेतला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ज्यामध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:43.676974340Z",
+  "model": "glm-5.2"
+}

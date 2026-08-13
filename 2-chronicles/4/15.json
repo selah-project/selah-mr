@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "⟨आणि⟩ ⟨את⟩ ⟨एक⟩ समुद्र आणि ⟨आणि⟩ ⟨את⟩ बैल बारा त्याखाली",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "समुद्राला"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्राला"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "बैलांना"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैलांना"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दहा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "त्याच्याखाली"
+    }
+  ],
+  "timestamp": "2026-08-13T16:15:46.109060503Z",
+  "model": "glm-5.2"
+}

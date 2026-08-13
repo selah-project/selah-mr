@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "सहा दिवस तू काम करशील व ⟨तू⟩ करशील सर्व तुझे काम",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "तू काम करशील"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "व तू करशील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "तुझे काम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:31:18.214311933Z",
+  "model": "glm-5.2"
+}

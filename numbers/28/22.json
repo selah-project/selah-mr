@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "व ⟨एक⟩ शैल पापार्थक एक, ⟨तुमचे⟩ प्रायश्चित्त करण्यासाठी:",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "व शैल"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापार्थक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "प्रायश्चित्त करण्यासाठी"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨तुमचे⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:09.996882080Z",
+  "model": "glm-5.2"
+}

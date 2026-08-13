@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "उरिय्या ⟨ह⟩हित्ती; सर्व तीस व सात.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्या"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨ह⟩हित्ती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "व सात"
+    }
+  ],
+  "timestamp": "2026-08-13T12:23:27.309900888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "कारण ⟨हे⟩ ⟨एक⟩ राष्ट्र ⟨आहे⟩ सल्ल्यावर नष्ट ⟨होणारे⟩; ⟨आणि⟩ त्यांच्यात विवेक ⟨नाही⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "राष्ट्र"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नष्ट"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "सल्ल्यावर"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ते"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "त्यांच्यात"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "विवेक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:19.895793494Z",
+  "model": "glm-5.2"
+}

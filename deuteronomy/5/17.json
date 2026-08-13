@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "तू ⟨हत्या⟩ करू नको.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "तू हत्या करशील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:18.474882756Z",
+  "model": "glm-5.2"
+}

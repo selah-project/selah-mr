@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "सनाहची ⟨मुले⟩ — तीन हजार व चारशे तीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "सनाह"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "व तीस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:08.413386302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 87,
+  "translation": "व गायक ⟨होतील⟩ नर्तकांप्रमाणे; माझे सर्व झरे तुझ्यात आहेत.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "व गायक"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "नर्तकांप्रमाणे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "माझे झरे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझ्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:50:14.692569359Z",
+  "model": "glm-5.2"
+}

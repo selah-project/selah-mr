@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "मरुभूमीत: बेथ-ह-अराबा, मिद्दीन व सेखाखा —",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमीत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ह-अराबा"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्दीन"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "व सेखाखा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:28.221052023Z",
+  "model": "glm-5.2"
+}

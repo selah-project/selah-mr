@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "आणि खमोर, शेखेमचा पिता, याकोवाकडे त्याच्याशी बोलण्यासाठी बाहेर गेला.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आणि बाहेर गेला"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "खमोर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "शכם",
+      "gloss": "शेखेम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोलण्यासाठी"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨आपण⟩ ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:35.291059486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "शेळ्यांचा एक बोका, पाप-अर्पणासाठी.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "शेळ्यांचा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-अर्पणासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:29.783679920Z",
+  "model": "glm-5.2"
+}

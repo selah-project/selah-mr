@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "तुझ्या सूनेची नग्नता उघडू नकोस; ती तुझ्या मुलाची पत्नी ⟨आहे⟩; तिची नग्नता उघडू नकोस.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "तुझ्या सूनेची"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "उघडू"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तुझ्या मुलाची"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "उघडू"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "तिची नग्नता"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:08.320270007Z",
+  "model": "glm-5.2"
+}

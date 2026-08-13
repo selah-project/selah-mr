@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "हेफेर ⟨ह⟩मेखराती, अहिया ⟨ह⟩पेलोनी",
+  "tokens": [
+    {
+      "surface": "חֵ֚פֶר",
+      "gloss": "हेफेर"
+    },
+    {
+      "surface": "הַמְּכֵ֣רָתִ֔י",
+      "gloss": "⟨ह⟩मेखराती"
+    },
+    {
+      "surface": "אֲחִיָּ֖ה",
+      "gloss": "अहिया"
+    },
+    {
+      "surface": "הַפְּלֹנִֽי",
+      "gloss": "⟨ह⟩पेलोनी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:46.631169988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 59,
+  "translation": "आणि तू, याहवेह, त्यांच्यावर हसशील; सर्व गोयांची उपहास करशील.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "हसशील"
+    },
+    {
+      "surface": "למו",
+      "gloss": "त्यांच्यावर"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "उपहास करशील"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयांची"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:54.724129567Z",
+  "model": "glm-5.2"
+}

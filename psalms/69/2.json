@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 69,
+  "translation": "मला वाचव, हे एलोहीम, कारण पाणी ⟨माझ्या⟩ जीवापर्यंत आले ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "मला वाचव"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आले"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीवापर्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:45:10.871840290Z",
+  "model": "glm-5.2"
+}

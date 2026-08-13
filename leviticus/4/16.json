@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि अभिषिक्त याजकाने बैलाच्या रक्तातून मीटिंगच्या तंबूकडे आणले.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "आणि आणले"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजकाने"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "अभिषिक्त"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "रक्तातून"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैलाच्या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तंबू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मीटिंगच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:43:27.337331915Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "शिमोनला — शेलुमिएल, त्सुरिशद्दायचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "शिमोनला"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "शेलुमिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "त्सुरिशद्दाय"
+    }
+  ],
+  "timestamp": "2026-08-13T10:54:46.837439913Z",
+  "model": "glm-5.2"
+}

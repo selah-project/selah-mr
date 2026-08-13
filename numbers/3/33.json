@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "ला-मरारी: ⟨the⟩ मह्ली कुल व मूशी कुल; हे ⟨are⟩ मरारीची कुले.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "ला-मरारी"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "मह्ली"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "व कुल"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "मूशी"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ती"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुले"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:07.563331430Z",
+  "model": "glm-5.2"
+}

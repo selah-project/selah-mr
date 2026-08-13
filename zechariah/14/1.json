@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "पाहा, याहवेहला एक दिवस येत आहे, आणि तुझे लूट तुझ्या मध्ये वाटले जाईल.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "पाहा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "एक दिवस"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येत आहे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "आणि वाटले जाईल"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "तुझे लूट"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तुझ्या मध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T14:28:20.372415796Z",
+  "model": "glm-5.2"
+}

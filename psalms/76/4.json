@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 76,
+  "translation": "तिथे ⟨त्याने⟩ धनुष्याचे दिव्य बाण तोडले — ढाल आणि तलवार आणि युद्ध. सेला.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोडले"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "दिव्य बाण"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुष्याचे"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "आणि तलवार"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "आणि युद्ध"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:32.039645183Z",
+  "model": "glm-5.2"
+}

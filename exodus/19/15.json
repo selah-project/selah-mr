@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि तो लोकांना म्हणाला: 'तीन दिवसांसाठी तयार रहा; स्त्रीजवळ जाऊ नका.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "הע׮",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होऊ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "तयार"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवसांसाठी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    }
+  ],
+  "timestamp": "2026-08-13T10:30:42.607938992Z",
+  "model": "glm-5.2"
+}

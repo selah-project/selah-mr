@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि ⟨होते⟩ ⟨the⟩ लूट, ⟨the⟩ अतिरिक्त लूट जी ⟨the⟩ सैन्याच्या लोकांनी लुटली — धने: सहाशे हजार व सत्तर हजार व पाच हजार.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "⟨the⟩ लूट"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "अतिरिक्त"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "लुटली"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोकांनी"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨the⟩ सैन्याच्या"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "धने"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "व सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "व पाच"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:34.200196266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि हशुबाह, आणि ओहेल, आणि बर्क्याह, आणि हसद्याह, युशब-हेसेद — ⟨एकूण⟩ पाच.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "आणि हशुबाह"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "आणि ओहेल"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "आणि बर्क्याह"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "आणि हसद्याह"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "युशब-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:12.983994597Z",
+  "model": "glm-5.2"
+}

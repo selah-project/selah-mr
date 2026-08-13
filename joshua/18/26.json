@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "व ⟨the⟩ मिस्पा व ⟨the⟩ केफीरा व ⟨the⟩ मोत्सा",
+  "tokens": [
+    {
+      "surface": "וְהַמִּצְפֶּ֥ה",
+      "gloss": "व ⟨the⟩ मिस्पा"
+    },
+    {
+      "surface": "וְהַכְּפִירָ֖ה",
+      "gloss": "व ⟨the⟩ केफीरा"
+    },
+    {
+      "surface": "וְהַמֹּצָֽה",
+      "gloss": "व ⟨the⟩ मोत्सा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:00.689329198Z",
+  "model": "glm-5.2"
+}

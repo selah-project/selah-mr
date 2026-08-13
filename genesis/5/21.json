@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि खानोख जगला पाच व साठ वर्षे, आणि ⟨त्याने⟩ जन्म दिला ⟨את⟩ मतूशेलाख.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "खानोख"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मतूशेलाख"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "मतूशेलाख"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:33.207948343Z",
+  "model": "glm-5.2"
+}

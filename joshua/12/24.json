@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "तिर्झाचा राजा एक; सर्व राजे एकतीस.",
+  "tokens": [
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תִּרְצָ֖ה",
+      "gloss": "तिर्झा"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מְלָכִ֖ים",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וְאֶחָֽד",
+      "gloss": "व एक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:37:01.251347835Z",
+  "model": "glm-5.2"
+}

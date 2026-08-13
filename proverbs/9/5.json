@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "ये, ⟨माझी⟩ भाकरी खा आणि ⟨मी⟩ मिसळलेल्या द्राक्षारसात पिऊन टाका.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ये"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "खा"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "माझ्या भाकरीत"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "आणि प्या"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "द्राक्षारसात"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "मी मिसळलेल्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:47:39.520016201Z",
+  "model": "glm-5.2"
+}

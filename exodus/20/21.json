@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि ⟨the⟩ लोक दूर उभे राहिले, आणि मोशे ⟨the⟩ घनकाळोखाजवळ गेला जिथे ⟨the⟩ एलोहीम ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "आणि उभे राहिले"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "मרחק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "आणि मोशे"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "गेला-जवळ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "घनकाळोख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिथे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:31:23.680771097Z",
+  "model": "glm-5.2"
+}

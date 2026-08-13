@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "नाही असणार तुझ्याकडे तुझ्या पिशवीत दगड व दगड, मोठी व लहान.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "असणार"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "तुझ्याकडे"
+    },
+    {
+      "surface": "בְּכִֽיסְךָ֖",
+      "gloss": "तुझ्या पिशवीत"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "दगड"
+    },
+    {
+      "surface": "וָאָ֑בֶן",
+      "gloss": "व दगड"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "मोठी"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "व लहान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:40.846839365Z",
+  "model": "glm-5.2"
+}

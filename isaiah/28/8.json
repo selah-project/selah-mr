@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "कारण सर्व टेबलं उलट्यांनी भरली आहेत, घाण, ⟨शुद्ध⟩ जागेशिवाय।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "टेबलं"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरली आहेत"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "उलट्यांनी"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "घाण"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "शिवाय"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जागा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:04:00.242215644Z",
+  "model": "glm-5.2"
+}

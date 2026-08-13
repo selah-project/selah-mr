@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 13:2",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "टाको निदान ⟨on⟩ टक्कर डोंगरावर, उंच करा आवाज ⟨to⟩ त्यांना, हलवा हात व ⟨they⟩ येतील दरवाजे ⟨of⟩ नोबल्सचे.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "टाको ⟨on⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "डोंगरावर"
+    },
+    {
+      "surface": "נשפה",
+      "gloss": "टक्कर"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "उंच करा"
+    },
+    {
+      "surface": "נס",
+      "gloss": "निदान"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "उंच करा"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "להם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "הניפו",
+      "gloss": "हलवा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "व ⟨they⟩ येतील"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "दरवाजे"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "नोबल्सचे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:59:27.234599716Z",
+  "model": "glm-5.2"
+}

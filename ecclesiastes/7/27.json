@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "पाहे, हे मी आढळले, कोहेलेत म्हणते, एक आणि एक, गणून हिशोब शोधण्यासाठी।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "पाहे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "मी आढळले"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "म्हणते"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "आणि एक"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "शोधण्यासाठी"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "हिशोब"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:37.686099901Z",
+  "model": "glm-5.2"
+}

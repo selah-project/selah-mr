@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "बलवानांचे नगर ⟨हे⟩ ज्ञानी चढून जातो आणि त्याच्या भरवशाचे बळ उतरवतो.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "बलवानांचे"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढून जातो"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानी"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "आणि उतरवतो"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बळ"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "त्याच्या भरवशाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:11.947630602Z",
+  "model": "glm-5.2"
+}

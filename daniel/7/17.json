@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "हे मोठे प्राणी, जे चार आहेत, ते चार राजे आहेत, जे पृथ्वीतून उभे राहतील.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "हे"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "मोठे"
+    },
+    {
+      "surface": "די",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ते"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "उभे राहतील"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पासून"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:48:59.968352384Z",
+  "model": "glm-5.2"
+}

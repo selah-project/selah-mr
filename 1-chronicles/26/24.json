@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व शेबुएल — गेरशोमचा पुत्र, मोशेचा पुत्र — भांडारांवर प्रमुख ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "व शेबुएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरशोमचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेचा"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "भांडारां"
+    }
+  ],
+  "timestamp": "2026-08-13T16:13:19.514142964Z",
+  "model": "glm-5.2"
+}

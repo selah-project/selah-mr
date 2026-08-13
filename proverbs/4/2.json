@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कारण मी तुम्हाला चांगला उपदेश दिला आहे; माझी शिकवण सोडू नका.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "उपदेश"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगला"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मी दिला आहे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हाला"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "माझी शिकवण"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "सोडू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:25.575246580Z",
+  "model": "glm-5.2"
+}

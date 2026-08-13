@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि मोशे त्यांचा न्याय ⟨את⟩ याहवेहसमोर जवळ आणला.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "आणि जवळ आणला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्यांचा न्याय"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "त्यांचा न्याय"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:49.581232396Z",
+  "model": "glm-5.2"
+}

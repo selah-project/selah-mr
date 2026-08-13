@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि ⟨तूं⟩ ⟨את⟩ बैल याहवेहासमोर मोबाड आश्रयाच्या दाराशी वधशील.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "आणि वधशील"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बैल"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहासमोर"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दाराशी"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "मोबाड"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "आश्रयाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:35:38.244814427Z",
+  "model": "glm-5.2"
+}

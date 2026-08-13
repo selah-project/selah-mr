@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "जर सर्पदंश झाला, मंत्र न ⟨म्हटल्याशिवाय⟩, तर जिभेच्या मालकाला काहीही फायदा नाही.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "दंश झाला"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "सर्प"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "न"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "मंत्र"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "फायदा"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "मालकाला"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "जिभेच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:10.610573666Z",
+  "model": "glm-5.2"
+}

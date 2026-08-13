@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 55,
+  "translation": "मुख्यासाठी, तारा-वाद्यांवर; एक बोधक, दाविदाचा.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्यासाठी"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "तारा-वाद्यांवर"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "एक बोधक"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविदाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:45:39.804981809Z",
+  "model": "glm-5.2"
+}

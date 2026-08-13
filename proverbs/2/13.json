@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "जे सरळ मार्ग सोडून अंधाराच्या वाटांवर चालायला निघतात —",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "जे सोडतात"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सरळ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "चालायला"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "वाटांवर"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अंधाराच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:13.543099589Z",
+  "model": "glm-5.2"
+}

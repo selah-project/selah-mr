@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "यहूदाचे पुत्र ⟨होते⟩ एर व ओनान; व एर व ओनान केनान देशात मरण पावले.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाचे"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "व ओनान"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "व मरण पावले"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "व ओनान"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "केनान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:10.694007600Z",
+  "model": "glm-5.2"
+}

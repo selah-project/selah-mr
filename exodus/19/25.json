@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि मोशे ⟨कडे⟩ लोकांच्या उतरला, आणि ⟨त्यांना⟩ सांगितले.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "आणि उतरला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकांच्या"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि सांगितले"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "त्यांना"
+    }
+  ],
+  "timestamp": "2026-08-13T10:29:41.457096767Z",
+  "model": "glm-5.2"
+}

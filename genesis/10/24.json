@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि अर्पकशदाने ⟨את⟩ शलख जन्मला, आणि शलखाने ⟨את⟩ एबेर जन्मला.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "आणि अर्पकशदाने"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शलख"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शलख"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "आणि शलखाने"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबेर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:28.905555819Z",
+  "model": "glm-5.2"
+}

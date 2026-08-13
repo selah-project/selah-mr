@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "दाबून पिटाळलेला, चेपलेला, ⟨किंवा⟩ स्खलन-अवयव कापलेला, याहवेहच्या सभांत येणार नाही.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "येणार"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "पिटाळलेला"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "दाबलेला"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "आणि कापलेला"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "स्खलन-अवयव"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभांत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:33:34.423538071Z",
+  "model": "glm-5.2"
+}

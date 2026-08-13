@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि हे ⟨होते⟩ त्याचे सरदार: अज़र्याहू त्याचा पुत्र त्सादोक इहो याजक.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याचे"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "अज़र्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    }
+  ],
+  "timestamp": "2026-08-13T12:25:45.854797155Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व अनाब, व एश्तेमोह, व अनीम;",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "व अनाब"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "व एश्तेमोह"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "व अनीम"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:17.465705381Z",
+  "model": "glm-5.2"
+}

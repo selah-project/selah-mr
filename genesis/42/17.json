@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "आणि त्याने ⟨את⟩⟨त्यांना⟩ कैदेच्या ठिकाणी एकत्र केले, तीन दिवस.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "आणि त्याने एकत्र केले"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "त्यांना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे \/ आत"
+    },
+    {
+      "surface": "मשמר",
+      "gloss": "कैद"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T10:17:53.415308550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 109,
+  "translation": "आणि ते जाणोत की ही तुझी हात ⟨आहे⟩; तू, हे याहवेह, ⟨ती⟩ केलीस.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "आणि ते जाणोत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तुझी हात"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे याहवेह"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "केलीस"
+    }
+  ],
+  "timestamp": "2026-08-13T14:56:45.006878178Z",
+  "model": "glm-5.2"
+}

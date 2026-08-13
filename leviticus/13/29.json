@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि एक मनुष्य किंवा स्त्री, जेव्हा त्याच्यामध्ये ⟨एक⟩ नगण असेल, मस्तकावर किंवा दाढीवर —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आणि एक मनुष्य"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्याच्यामध्ये"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "नगण"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "मस्तकावर"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "दाढीवर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:04.018569528Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 98,
+  "translation": "नद्या ताळी वाजवोत; एकत्र पर्वते गाऊन उमगोत।",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "नद्या"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ताळी वाजवोत"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हातांची"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पर्वते"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "गाऊन उमगोत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:53:07.300779777Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "आणि झेबुलुनचे मुले: सेरेद व एलोन व यहलेल.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "झेबुलुनचे"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "सेरेद"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "व एलोन"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "व यहलेल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:33.611281934Z",
+  "model": "glm-5.2"
+}

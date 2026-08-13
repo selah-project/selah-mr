@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि शूशन दुर्गात यहूद्यांनी वध करून नष्ट केले पाचशे पुरुष.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "आणि शूशन दुर्गात"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "दुर्गात"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "वध करून"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूद्यांनी"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "नष्ट केले"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाचशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-13T15:44:05.671200428Z",
+  "model": "glm-5.2"
+}

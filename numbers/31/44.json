@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि बैल छत्तीस हजार,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "आणि बैल"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आणि तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:58.964772419Z",
+  "model": "glm-5.2"
+}

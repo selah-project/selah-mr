@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "कशी पडले शूरवीर, आणि नष्ट झाली युद्धाची शस्त्रे!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कशी"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "पडले"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "शूरवीर"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "आणि नष्ट झाली"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "शस्त्रे"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्धाची"
+    }
+  ],
+  "timestamp": "2026-08-13T12:10:56.356239633Z",
+  "model": "glm-5.2"
+}

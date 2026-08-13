@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "व जगला लामेख दोन व ऐंशी वर्षे व ⟨स⟩शंभर वर्षे, व जन्म दिला ⟨एका⟩ पुत्राला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "व जगला"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लामेख"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "व ऐंशी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "व ⟨स⟩शंभर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "व जन्म दिला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:30.884493927Z",
+  "model": "glm-5.2"
+}

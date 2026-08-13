@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "कृपया, मी ⟨कोणाच्याही⟩ मनुष्याचे चेहरे उचलू नयीत, व ⟨मी⟩ मनुष्याला खवखवू नये।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नये"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उचलू"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्याचे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्याला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "खवखवू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:27:48.507973669Z",
+  "model": "glm-5.2"
+}

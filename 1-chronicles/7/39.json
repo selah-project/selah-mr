@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "व उल्लाचे मुले: अराख व हन्निएल व रित्स्या",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व मुले"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "उल्ला"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "अराख"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "व हन्निएल"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "व रित्स्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:57.962707875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "व दाविद उठला व तो गेला तो व सहाशे माणसे जे त्याच्याबरोबर होती अखीशाकडे माओकचा मुलगा गतचा राजा",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "व उठला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "व गेला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सहाशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणसे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "त्याच्याबरोबर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अखीशाकडे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "माओकचा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गतचा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:09:41.058863549Z",
+  "model": "glm-5.2"
+}

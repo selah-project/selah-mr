@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "joshua 15:57",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "हक्कायीन, गिबआ व तिम्ना; दहा नगरे व त्यांच्या गांवे.",
+  "tokens": [
+    {
+      "surface": "הקין",
+      "gloss": "हक्कायीन"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "गिबआ"
+    },
+    {
+      "surface": "ותמנה",
+      "gloss": "व तिम्ना"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "व त्यांच्या गांवे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:37:50.409581098Z",
+  "model": "glm-5.2"
+}

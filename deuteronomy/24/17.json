@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "⟨तू⟩ वाकवू नकोस गराचा न्याय ⟨किंवा⟩ अनाथाचा, आणि विधवेचे वस्त्र वट्टीत घेऊ नको.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "वाकवू"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גר",
+      "gloss": "गराचा"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथाचा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "वट्टीत घेऊ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवेचे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:22.867837557Z",
+  "model": "glm-5.2"
+}

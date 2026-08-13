@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "आणि तिथे मरण पावला मोशे, याहवेहचा दास, मोआब देशात, याहवेहच्या मुखाप्रमाणे.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आणि मरण पावला"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "על",
+      "gloss": "प्रमाणे"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुखाच्या"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:31:30.049416185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "प्रेम करण्याची वेळ व द्वेष करण्याची वेळ, युद्धाची वेळ व शांतीची वेळ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "प्रेम करण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "व वेळ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "द्वेष करण्याची"
+    },
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्धाची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "व वेळ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांतीची"
+    }
+  ],
+  "timestamp": "2026-08-13T16:49:07.046270666Z",
+  "model": "glm-5.2"
+}

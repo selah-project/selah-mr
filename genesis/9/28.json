@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि नोह महाप्रलयानंतर तीनशे वर्षे व पन्नास वर्षे जगला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोह"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "नंतर"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "महाप्रलया"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "व पन्नास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:32.212236875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि गोमेरचे पुत्र — अश्केनाज आणि रीफत आणि तोगर्मा.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि पुत्र"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेरचे"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "अश्केनाज"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "आणि रीफत"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "आणि तोगर्मा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:04.547282161Z",
+  "model": "glm-5.2"
+}

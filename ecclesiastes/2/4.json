@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "मी मोठे केले माझे कर्तब्य; मी बांधली मला घरे; मी लावली मला द्राक्षातोटी.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "मी मोठे केले"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "माझे कर्तब्य"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "मी बांधली"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घरे"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "मी लावली"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "द्राक्षातोटी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:29.525450884Z",
+  "model": "glm-5.2"
+}

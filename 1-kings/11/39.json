@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि मी दमवून टाकीन ⟨את⟩ दावीदाचे वंश — याचसाठी; पण सर्व दिवस ⟨असे⟩ नाही.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "आणि मी दमवून टाकीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दावीदाचे वंश"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "वंश"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीदाचे"
+    },
+    {
+      "surface": "למען",
+      "gloss": "याचसाठी"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אך",
+      "gloss": "पण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T12:32:49.999476402Z",
+  "model": "glm-5.2"
+}

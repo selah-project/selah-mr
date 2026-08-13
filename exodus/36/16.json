@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि त्याने ⟨את⟩ पाच पडदे वेगळे जोडले, आणि ⟨את⟩ सहा पडदे वेगळे ⟨जोडले⟩.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "आणि-त्याने-जोडले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाच पडदे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "पडदे"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "वेगळे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि-⟨את⟩",
+      "marks": "सहा पडदे"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "पडदे"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "वेगळे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:39:21.252897844Z",
+  "model": "glm-5.2"
+}

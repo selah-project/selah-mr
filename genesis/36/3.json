@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि ⟨את⟩ बासेमाथ इश्माएलची कन्या, नबायोथची बहीण.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "बासेमाथ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बासेमाथ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "कन्या"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "इश्माएलची"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहीण"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "नबायोथची"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:46.094086092Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "रक्तावर खाऊ नका; ⟨जोतिष⟩ करू नका आणि ⟨जादूटोणा⟩ करू नका.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "तुम्ही करू"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नका"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "तुम्ही करू"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:58.740016581Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "मी ⟨हा⟩ शारोनचा गुलब, ⟨आणि⟩ रांगांची कमळ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "गुलब"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "शारोनचा"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "कमळ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "रांगांची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:57.512444561Z",
+  "model": "glm-5.2"
+}

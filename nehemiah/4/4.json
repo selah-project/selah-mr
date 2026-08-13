@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि यहूदाने म्हटले: भारवाहकांचे बळ थकले आहे, व रूपळ खूप आहे, व आम्ही भिंत बांधू शकत नाही.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हटले"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाने"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "थकले आहे"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बळ"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "भारवाहकांचे"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "व रूपळ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "खूप"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "व आम्ही"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "शकत"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बांधू"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "भिंत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:56:59.737465355Z",
+  "model": "glm-5.2"
+}

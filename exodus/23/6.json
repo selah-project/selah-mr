@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "तुझ्या गरिबाचा न्याय त्याच्या वादात ⟨तू⟩ वळवू नकोस.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "तू वळवू"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "तुझ्या गरिबाचा"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "त्याच्या वादात"
+    }
+  ],
+  "timestamp": "2026-08-13T10:32:53.480816875Z",
+  "model": "glm-5.2"
+}

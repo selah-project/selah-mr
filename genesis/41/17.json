@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "आणि फारो योसेफाशी बोलला: माझ्या स्वप्नात, पहा, मी नदीच्या काठावर उभा ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-शी"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "माझ्या स्वप्नात"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "पहा"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "उभा"
+    },
+    {
+      "surface": "על",
+      "gloss": "-वर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "काठ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "नदीच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:17:22.388457478Z",
+  "model": "glm-5.2"
+}

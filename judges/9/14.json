@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "व सर्व झाडांनी काटेरी झुडपाला म्हटले: तू चल, तू आमचा राजा व्हे.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "व त्यांनी म्हटले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "झाडांनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "काटेरी झुडपाला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू चल"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा व्हे"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "आमचा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:48:25.917248156Z",
+  "model": "glm-5.2"
+}

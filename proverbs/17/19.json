@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "अपराधाचा आवड करणारा भांडणाचा आवड करतो; आपले दार उंच करणारा ऱ्हास शोधतो.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "आवड करणारा"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अपराधाचा"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "आवड करतो"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "भांडणाचा"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "उंच करणारा"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "आपले दार"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "शोधतो"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ऱ्हास"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:19.817527297Z",
+  "model": "glm-5.2"
+}

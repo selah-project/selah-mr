@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "जर सत्ताधारीचा स्वभाव तुझ्यावर भडकला, तर आपली जागा सोडू नको; कारण ⟨शांतता⟩ मोठ्या अपराधांना शमवते.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "स्वभाव"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "सत्ताधारीचा"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "भडकला"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "तुझी जागा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "सोडू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "उपचार"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "शमवते"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "अपराधांना"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "मोठ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:09.184809768Z",
+  "model": "glm-5.2"
+}

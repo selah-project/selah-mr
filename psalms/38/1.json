@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "गीत दावीदचे, स्मरण करण्याकरिता.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदचे"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "स्मरण करण्याकरिता"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:29.300896463Z",
+  "model": "glm-5.2"
+}

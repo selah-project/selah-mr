@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "⟨आणि⟩ ⟨आणि⟩ कावळा, त्याच्या प्रकारानुसार.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रत्येक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "कावळा"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "त्याच्या प्रकारानुसार"
+    }
+  ],
+  "timestamp": "2026-08-13T10:45:35.028169144Z",
+  "model": "glm-5.2"
+}

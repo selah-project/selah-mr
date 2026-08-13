@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "याहवेह तुला आशीर्वाद देवो, आणि तुझे रक्षण करो;",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "तुला आशीर्वाद देवो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "आणि तुझे रक्षण करो"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:03.867129186Z",
+  "model": "glm-5.2"
+}

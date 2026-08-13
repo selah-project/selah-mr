@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "अरखाचे ⟨मुले⟩, सहाशे बावन्न.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "अरखाचे"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "⟨मुले⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:20.875223295Z",
+  "model": "glm-5.2"
+}

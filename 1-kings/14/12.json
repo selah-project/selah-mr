@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि तू उठ, तुझ्या घरी जा; तुझे पाऊल शहरात पडताच, बाळक मरेल.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "तुझ्या घरी"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "पडताच"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "तुझे पाऊल"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "शहरात"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "आणि मरेल"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बाळक"
+    }
+  ],
+  "timestamp": "2026-08-13T12:33:48.174395779Z",
+  "model": "glm-5.2"
+}

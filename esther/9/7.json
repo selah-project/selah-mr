@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि ⟨את⟩ परशंदाता, आणि ⟨את⟩ दल्फोन, आणि ⟨את⟩ अस्पथा.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "परशंदाता"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "परशंदाता"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दल्फोन"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "दल्फोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अस्पथा"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "अस्पथा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:44:05.671366203Z",
+  "model": "glm-5.2"
+}

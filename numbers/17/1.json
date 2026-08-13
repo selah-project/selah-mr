@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि याहवेह मोशेशी बोलला, ⟨तो म्हणाला⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याशी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨तो म्हणाला⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:05:02.855006645Z",
+  "model": "glm-5.2"
+}

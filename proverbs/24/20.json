@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "कारण वाईटाचा ⟨काही⟩ अंत नसतो, दुष्टांचा दिवा विझतो.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नसतो"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨काही⟩ ⟨आहे⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "वाईटाचा"
+    },
+    {
+      "surface": "נר",
+      "gloss": "दिवा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांचा"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "विझतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:03.117939854Z",
+  "model": "glm-5.2"
+}

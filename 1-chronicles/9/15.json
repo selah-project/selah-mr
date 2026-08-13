@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि बक्बक्कर, खेरेश, गलल, आणि मत्तन्या मीकाचा मुलगा, जिख्रीचा मुलगा, आसाफचा मुलगा.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "आणि बक्बक्कर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "खेरेश"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "गलल"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "आणि मत्तन्या"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "मीकाचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "जिख्रीचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:07:26.604080189Z",
+  "model": "glm-5.2"
+}

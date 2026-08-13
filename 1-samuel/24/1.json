@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि दावीद तेथून चढला, आणि तो एन-गेदीच्या गडांमध्ये राहिला.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "आणि-चढला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "משם",
+      "gloss": "तेथून"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आणि-राहिला"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "गडांमध्ये"
+    },
+    {
+      "surface": "עין",
+      "gloss": "एन"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गेदी"
+    }
+  ],
+  "timestamp": "2026-08-13T12:05:29.395108842Z",
+  "model": "glm-5.2"
+}

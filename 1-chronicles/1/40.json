@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "शोबलचे ⟨⟩पुत्र: अल्यान, व मनहत, व एबल, शेफी व ओनाम; व झिबोनचे ⟨⟩पुत्र: अय्या व अना.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "शोबल"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "अल्यान"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "व मनहत"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "व एबल"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "शेफी"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "व ओनाम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "व ⟨⟩पुत्र"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "झिबोन"
+    },
+    {
+      "surface": "איה",
+      "gloss": "अय्या"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "व अना"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:36.831394914Z",
+  "model": "glm-5.2"
+}

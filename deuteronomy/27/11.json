@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि मोशेने त्या दिवशी ⟨את⟩ लोकांना आज्ञा केली, ⟨म्हणाला⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "आणि आज्ञा केली"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोकांना"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकांना"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨म्हणाला⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:02.953648474Z",
+  "model": "glm-5.2"
+}

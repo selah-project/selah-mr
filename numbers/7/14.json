@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "सोन्याची एक पंची, दहा ⟨शेकेल⟩ सोने, धून भरलेली।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "पंची"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरलेली"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:06.864181471Z",
+  "model": "glm-5.2"
+}

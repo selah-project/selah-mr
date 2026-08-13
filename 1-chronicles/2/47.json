@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि यहदायचे पुत्र — रेगेम व योताम व गेशान व पेलेत व एय्फा व शाअफ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... पुत्र"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "यहदाय"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "रेगेम"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "व योताम"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "व गेशान"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "व पेलेत"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "व एय्फा"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "व शाअफ"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:21.743415867Z",
+  "model": "glm-5.2"
+}

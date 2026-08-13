@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 62,
+  "translation": "फक्त तोच ⟨आहे⟩ माझी खडक ⟨आणि⟩ माझी मुक्ति, माझे बुरुज; ⟨मी⟩ बरेच हलणार नाही.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तोच"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "माझी खडक"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "माझी मुक्ति"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "माझे बुरुज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "हलणार"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बरेच"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:49.703428257Z",
+  "model": "glm-5.2"
+}

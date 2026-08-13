@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 45,
+  "translation": "खरोखर तू ⟨एल⟩ आहेस ⟨जो⟩ लपतो, इस्राएलचा एलोहीम, उद्धारकर्ता.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "लपतो"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलचा"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "उद्धारकर्ता"
+    }
+  ],
+  "timestamp": "2026-08-13T13:12:18.699609877Z",
+  "model": "glm-5.2"
+}

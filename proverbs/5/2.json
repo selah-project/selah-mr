@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "विचार राखण्यासाठी, आणि ⟨तुझे⟩ ओठ ज्ञान राखोत.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "राखण्यासाठी"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आणि ज्ञान"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "तुझे ओठ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "राखोत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:49.466088655Z",
+  "model": "glm-5.2"
+}

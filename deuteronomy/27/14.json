@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि लवीयांनी उत्तर दिले आणि सांगितले सर्व इस्राएलांना उच्च स्वरात.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "आणि उत्तर दिले"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लवीयांनी"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "आणि सांगितले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "प्रति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणसांना"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वरात"
+    },
+    {
+      "surface": "רם",
+      "gloss": "उच्च"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:17.812651083Z",
+  "model": "glm-5.2"
+}

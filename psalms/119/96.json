@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "सर्व पूर्णतेचा मी अंत पाहिला; तुझी आज्ञा अत्यंत विशाल ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "पूर्णतेचा"
+    },
+    {
+      "surface": "रאיתי",
+      "gloss": "मी पाहिला"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "विशाल"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "तुझी आज्ञा"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:59:45.007774741Z",
+  "model": "glm-5.2"
+}

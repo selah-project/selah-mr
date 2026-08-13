@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "घरे बांधा आणि ⟨त्यांत⟩ वसा; बागा लावा आणि ⟨את⟩ त्यांचे फळ खा.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "बांधा"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घरे"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "आणि वसा"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "आणि लावा"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बागा"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "आणि खा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्यांचे फळ"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "त्यांचे फळ"
+    }
+  ],
+  "timestamp": "2026-08-13T16:40:35.347363075Z",
+  "model": "glm-5.2"
+}

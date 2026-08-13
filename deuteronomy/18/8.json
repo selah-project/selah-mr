@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "वाटा वाटा ते खातील, त्याच्या विक्रीच्या वस्तूंव्यतिरिक्त, पित्यांवर.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "वाटा"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "वाटा"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ते खातील"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "व्यतिरिक्त"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "त्याच्या विक्रीच्या वस्तूं"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "पित्यां"
+    }
+  ],
+  "timestamp": "2026-08-13T11:23:34.079929630Z",
+  "model": "glm-5.2"
+}

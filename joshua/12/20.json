@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "शिम्रोन-मेरोनचा राजा एक; अक्शाफचा राजा एक;",
+  "tokens": [
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שִׁמְר֤וֹן",
+      "gloss": "शिम्रोन"
+    },
+    {
+      "surface": "מְראוֹן֙",
+      "gloss": "मेरोन"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אַכְשָׁ֖ף",
+      "gloss": "अक्शाफ"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:36:07.546351650Z",
+  "model": "glm-5.2"
+}

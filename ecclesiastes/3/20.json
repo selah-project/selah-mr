@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "सर्व एका स्थानाकडे चालते; सर्व धूळपासून ⟨निर्माण⟩ झाले आणि सर्व धूळाकडे परत जाते.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चालते"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... कडे"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "היה",
+      "gloss": "झाले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "... पासून"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "धूळ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "שב",
+      "gloss": "परत जाते"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... कडे"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "धूळ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:24.883209772Z",
+  "model": "glm-5.2"
+}

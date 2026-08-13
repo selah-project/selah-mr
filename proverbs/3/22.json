@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "व ⟨ती⟩ तुझ्या जीवाला जीवन असतील, व कृपा तुझ्या गळ्याला:",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "व असतील"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "तुझ्या जीवाला"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "व कृपा"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "तुझ्या गळ्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:34.750947845Z",
+  "model": "glm-5.2"
+}

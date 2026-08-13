@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "हे पाह, तू सुंदर आहेस, माझ्या प्रियकरा; हो, तू मनोरंजक आहेस; हो, आमचा पलंग हिरवाईचा आहे.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "हे पाह"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुंदर"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "माझ्या प्रियकरा"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हो"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "तू मनोरंजक"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हो"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "आमचा पलंग"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "हिरवाईचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:48.671906025Z",
+  "model": "glm-5.2"
+}

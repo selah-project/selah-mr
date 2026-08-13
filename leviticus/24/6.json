@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि तू ⟨את⟩ ⟨त्यांना⟩ दोन मांडण्यांत ठेवशील — मांडणीत सहा — शुद्ध मेजेवर, याहवेह समोर.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "आणि तू ठेवशील"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "दोन मांडण्या"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "मांडण्यांत"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "मांडणीत"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेजे"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:52:50.147612071Z",
+  "model": "glm-5.2"
+}

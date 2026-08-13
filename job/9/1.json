@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "अन् अय्योब उत्तर देत अन् म्हणतसे:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "अन् उत्तर देत"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "अन् म्हणतसे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:20:05.492277188Z",
+  "model": "glm-5.2"
+}

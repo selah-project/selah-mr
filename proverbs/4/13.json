@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "मळणीला घटकपणे पकड, ⟨तिला⟩ सोडू नकोस; ⟨तिची⟩ रक्षा कर, कारण ती ⟨आहे⟩ तुझे जीवन.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "घटकपणे पकड"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "मळणीला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "सोडू"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "तिची रक्षा कर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "तुझे जीवन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:19.295288849Z",
+  "model": "glm-5.2"
+}

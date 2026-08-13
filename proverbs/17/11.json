@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "खरोखर बंडखोर वाईट शोधतो, आणि त्याच्यावर एक क्रूर दूत पाठवला जाईल.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "बंडखोर"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "शोधतो"
+    },
+    {
+      "surface": "רע",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "आणि दूत"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "क्रूर"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "पाठवला जाईल"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्याच्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:43.820177516Z",
+  "model": "glm-5.2"
+}

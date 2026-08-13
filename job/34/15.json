@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "सर्व देह एकत्र मरेल व मनुष्य धूळावर परत येईल.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "मरेल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "व मनुष्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "धूळावर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूळ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "परत येईल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:29:36.400301222Z",
+  "model": "glm-5.2"
+}

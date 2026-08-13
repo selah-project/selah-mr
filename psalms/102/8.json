@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 102,
+  "translation": "मी जागरण केले व मी छतावर एकट्या पक्ष्यासारखा झालो.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "मी जागरण केले"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "व मी झालो"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "पक्ष्यासारखा"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "एकट्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छतावर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:53:09.868645578Z",
+  "model": "glm-5.2"
+}

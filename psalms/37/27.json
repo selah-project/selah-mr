@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "वाईटापासून ⟨दूर⟩ सरक आणि चांगले कर आणि वास्तव्य कर सनातनकाळ.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "सरक"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "वाईटापासून"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आणि कर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "आणि वास्तव्य कर"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सनातनकाळ"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:07.319001470Z",
+  "model": "glm-5.2"
+}

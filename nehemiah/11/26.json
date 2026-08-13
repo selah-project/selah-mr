@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "व येशूआ व मोलादा व बेथ-पलेट येथे.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "व येशूआ"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "व मोलादा"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "व बेथ-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पलेट"
+    }
+  ],
+  "timestamp": "2026-08-13T16:50:08.685632648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व सेगूबने ⟨את⟩ याईर जन्म दिला, व त्याच्यासाठी ⟨होते⟩ वीस व तीन नगरे गिलादच्या देशात.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "व सेगूबने"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याईर"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याईर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "व झाले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याच्यासाठी"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "व तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलादच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:44.974444499Z",
+  "model": "glm-5.2"
+}

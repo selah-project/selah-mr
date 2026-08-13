@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि मी कुंभाराच्या घरात उतरलो, आणि तो दगडांवर काम करत होता.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "आणि उतरलो"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "कुंभार"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "आणि तो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत होता"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "दगडां"
+    }
+  ],
+  "timestamp": "2026-08-13T16:40:16.195685401Z",
+  "model": "glm-5.2"
+}

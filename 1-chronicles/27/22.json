@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "दानला अझरएल यरोहामचा पुत्र ⟨होता⟩. हे इस्राएलच्या गोत्रांचे सरदार होत.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "दानला"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "अझरएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोहामचा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "गोत्रांचे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:13:33.432330356Z",
+  "model": "glm-5.2"
+}

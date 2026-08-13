@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि हाताक ⟨आला⟩, आणि एस्तेरला सांगितले ⟨את⟩ मार्दोखाईचे वचन.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "आणि आला"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हाताक"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "आणि सांगितले"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "एस्तेरला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्दोखाईचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:48:45.609199053Z",
+  "model": "glm-5.2"
+}

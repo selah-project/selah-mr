@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "काय ⟨कोण्या⟩ लोकांनी अग्नीच्या मधून बोलणाऱ्या एलोहीमचा आवाज ऐकला आहे, जसा तू ऐकलास आणि तो ⟨जगत राहिला⟩?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "काय ऐकले"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमचा"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलणाऱ्या"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "האש",
+      "gloss": "अग्नीच्या"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसा"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "तू ऐकलास"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "आणि तो जगला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:48.487615100Z",
+  "model": "glm-5.2"
+}

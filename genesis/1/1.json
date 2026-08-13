@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "प्रारंभी एलोहीमने ⟨את⟩ आकाश व ⟨את⟩ पृथ्वी निर्माण केली.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "प्रारंभी"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "निर्माण केली"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आकाश"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "पृथ्वी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T09:57:19.238030233Z",
+  "model": "glm-5.2"
+}

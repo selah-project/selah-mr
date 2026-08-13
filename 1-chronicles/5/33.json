@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "मरायोतने ⟨את⟩ अमर्याला जन्म दिला, व अमर्याने ⟨את⟩ अखितूबला जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "मरायोत"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमर्याला"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्या"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "व अमर्याने"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अखितूबला"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अखितूब"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:36.944697059Z",
+  "model": "glm-5.2"
+}

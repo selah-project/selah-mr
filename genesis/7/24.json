@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि वरचे झाले पाणी भूमीवर पन्नास आणि शंभर दिवस।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "आणि वरचे झाले"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "על",
+      "gloss": "भूमीवर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "आणि शंभर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:11.631712431Z",
+  "model": "glm-5.2"
+}

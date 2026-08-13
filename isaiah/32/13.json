@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "माझ्या लोकांच्या भूमीवर काटा व शमीर ⟨येईल⟩; कारण आनंदाच्या सर्व घरांवर, ⟨आणि⟩ आनंदीत नगरावर",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "भूमी"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "माझ्या लोकांच्या"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "काटा"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "शमीर"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "चढेल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "घरां"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "आनंदाच्या"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "नगरावर"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "आनंदीत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:06:18.066394346Z",
+  "model": "glm-5.2"
+}

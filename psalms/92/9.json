@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 92,
+  "translation": "आणि तू उंच ⟨आहेस⟩ सार्वकाळ, याहवेह.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "उंच"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सार्वकाळ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T14:51:20.105518412Z",
+  "model": "glm-5.2"
+}

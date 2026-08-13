@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "दंडाचा आणि कृपेचा पाठलाग करणारा ⟨जो⟩ जीवन शोधतो — दंड आणि मान.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "पाठलाग करणारा"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "दंडाचा"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "आणि कृपेचा"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "शोधतो"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "दंड"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आणि मान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:11.947384992Z",
+  "model": "glm-5.2"
+}

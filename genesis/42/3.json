@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "व योसेफचे दहा भाऊ मिस्रातून धान्य विकत घेण्याकरिता खाली गेले.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "व खाली गेले"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाऊ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफचे"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "विकत घेण्याकरिता"
+    },
+    {
+      "surface": "בר",
+      "gloss": "धान्य"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रातून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:17:58.507492606Z",
+  "model": "glm-5.2"
+}

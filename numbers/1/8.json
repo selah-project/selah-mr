@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "इस्साखारला — नेतानेल, त्सुआरचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "इस्साखारला"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नेतानेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सुआर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:54:46.837706465Z",
+  "model": "glm-5.2"
+}

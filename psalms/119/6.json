@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "तेथे ⟨मी⟩ लाजू नये, ⟨जेव्हा⟩ मी तुझ्या सर्व आज्ञांकडे पाहीन.",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "तेथे"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "नये"
+    },
+    {
+      "surface": "אֵבוֹשׁ",
+      "gloss": "लाजू"
+    },
+    {
+      "surface": "בְּהַבִּיטִי",
+      "gloss": "पाहीन"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מִצְוֺתֶיךָ",
+      "gloss": "तुझ्या आज्ञा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:57:43.303917992Z",
+  "model": "glm-5.2"
+}

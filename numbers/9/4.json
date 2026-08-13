@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि मोशे यिस्राएलच्या पुत्रांशी बोलला ⟨आणि⟩ पासह ⟨असा⟩ करण्यासाठी.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांशी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलच्या"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "करण्यासाठी"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पासह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:45.698137151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "ला नप्तली, अखीरा बेटा एनान.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ला नप्तली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:22.382884335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "सूर्य पृथ्वीवर उगवला होता, आणि लोत त्सोअरात आला.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "बाहेर आला"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "आणि लोत"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "त्सोअरात"
+    }
+  ],
+  "timestamp": "2026-08-13T10:05:13.184831496Z",
+  "model": "glm-5.2"
+}

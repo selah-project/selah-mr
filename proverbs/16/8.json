@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "थोडे धार्मिकतेसह चांगले ⟨आहे⟩, न्यायाविरहित विपुल उत्पन्नापेक्षा.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोडे"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "धार्मिकतेसह"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "विपुल"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "उत्पन्नापेक्षा"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "विरहित"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-13T17:07:06.753945357Z",
+  "model": "glm-5.2"
+}

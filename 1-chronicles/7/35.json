@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि त्याचा भाऊ हेलेमचा मुलगा: त्सोफख, यिम्ना, शेलेश आणि अमाल.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "आणि … मुलगा"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "हेलेम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "त्याचा भाऊ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोफख"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "आणि यिम्ना"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आणि शेलेश"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "आणि अमाल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:28.399239499Z",
+  "model": "glm-5.2"
+}

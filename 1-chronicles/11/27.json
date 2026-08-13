@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "शम्मोथ ⟨हा⟩ हरोरी, खेलेत्स ⟨हा⟩ पेलोनी.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "शम्मोथ"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "हरोरी"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "खेलेत्स"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "पेलोनी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:24.839686604Z",
+  "model": "glm-5.2"
+}

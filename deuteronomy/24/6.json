@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "घसणगिरी व चालवणारा धारणेस घेऊ नये, कारण तो प्राणाची धारणा घेतो.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יַחֲבֹ֥ל",
+      "gloss": "धारणेस घेऊ"
+    },
+    {
+      "surface": "רֵחַ֖יִם",
+      "gloss": "घसणगिरी"
+    },
+    {
+      "surface": "וָרָ֑כֶב",
+      "gloss": "आणि चालवणारा"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "נֶ֖פֶשׁ",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "חֹבֵֽל",
+      "gloss": "धारणेस घेतो"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:10.419215714Z",
+  "model": "glm-5.2"
+}

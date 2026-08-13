@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि याहवेहे मोशेशी बोलले, म्हणाले:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाले"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:26.346315506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "जो वाऱ्याकडे बघतो तो पेरणार नाही, आणि जो ढगांकडे बघतो तो कापणी करणार नाही.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "जो बघतो"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वाऱ्याकडे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "तो पेरणार"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आणि जो बघतो"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ढगांकडे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "तो कापणी करणार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:20.067006237Z",
+  "model": "glm-5.2"
+}

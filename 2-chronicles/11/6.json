@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "व ⟨את⟩ बेथलेहेम व ⟨את⟩ एताम व ⟨את⟩ तेकोआ बांधले.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "व बांधले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेथलेहेम"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "एताम"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "एताम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तेकोआ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "तेकोआ"
+    }
+  ],
+  "timestamp": "2026-08-13T16:18:07.208028753Z",
+  "model": "glm-5.2"
+}

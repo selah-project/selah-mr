@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि नखशोन जन्म दिला ⟨את⟩ सल्मा, आणि सल्मा जन्म दिला ⟨את⟩ बोअज़.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "आणि नखशोन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सल्मा"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "सल्मा"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "आणि सल्मा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअज़"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज़"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:21.740189242Z",
+  "model": "glm-5.2"
+}

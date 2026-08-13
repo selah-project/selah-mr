@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 102,
+  "translation": "तू याहवेह सनातन बसशील, आणि तुझे स्मरण पिढीोपिढी ⟨राहील⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सनातन"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बसशील"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "तुझे स्मरण"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पिढीोपिढी"
+    },
+    {
+      "surface": "ודר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T14:53:10.316174682Z",
+  "model": "glm-5.2"
+}

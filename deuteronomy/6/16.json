@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "⟨आपण⟩ ⟨את⟩ याहवेह तुमचा एलोहीम पारखू नका, जसे तुम्ही मास्सा येथे पारखले.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "तुम्ही पारखावे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याहवेह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुमचा एलोहीम"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसे"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "तुम्ही पारखले"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "मास्सा येथे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:18:09.170615424Z",
+  "model": "glm-5.2"
+}

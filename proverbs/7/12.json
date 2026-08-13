@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "कधी बाहेर, कधी चौकांत, आणि प्रत्येक कोपऱ्याजवळ ती घात घालते",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "कधी"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहेर"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "कधी"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "चौकांत"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "आणि जवळ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "कोपऱ्या"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "ती घात घालते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:20.624011287Z",
+  "model": "glm-5.2"
+}

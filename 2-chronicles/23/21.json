@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि देशाच्या सर्व लोकांनी आनंद केला, आणि ⟨the⟩ नगर शांत झाली, आणि ⟨את⟩ अतल्याहू ⟨they⟩ तलवारीने ठार मारले.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "आणि आनंद केला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोकांनी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशाच्या"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "आणि ⟨the⟩ नगर"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "शांत झाली"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अतल्याहू"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "अतल्याहू"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "⟨they⟩ ठार मारले"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवारीने"
+    }
+  ],
+  "timestamp": "2026-08-13T16:21:40.933341849Z",
+  "model": "glm-5.2"
+}

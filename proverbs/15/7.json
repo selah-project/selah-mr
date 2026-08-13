@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "ज्ञानींचे ओठ ज्ञान पसरवतात, आणि मूर्खांचे हृदय ⟨असे⟩ नाही.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ज्ञानींचे"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "पसरवतात"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आणि हृदय"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खांचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "असे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:41.685847309Z",
+  "model": "glm-5.2"
+}

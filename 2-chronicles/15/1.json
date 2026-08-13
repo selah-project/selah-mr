@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि अज़र्याहू ओदेदचा पुत्र — त्याच्यावर एलोहीमचा आत्मा ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "आणि अज़र्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ओदेद"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "होता"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्याच्यावर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:19:16.930208066Z",
+  "model": "glm-5.2"
+}

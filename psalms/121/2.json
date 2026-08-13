@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 121,
+  "translation": "⟨माझी⟩ मदत याहवेहाकडून आहे, आकाश व पृथ्वी ⟨चे⟩ निर्मातेाकडून.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "मदत"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "पासून"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "निर्माता"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "व पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:26.342391247Z",
+  "model": "glm-5.2"
+}

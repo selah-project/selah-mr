@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "नम्रतेचे फळ — याहवेहाचे भय; संपत्ती, व आदर, व जीवन.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "फळ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "नम्रतेचे"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहाचे"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "संपत्ती"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "व आदर"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "व जीवन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:04.087403210Z",
+  "model": "glm-5.2"
+}

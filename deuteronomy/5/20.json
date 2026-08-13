@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि तू ⟨त्या⟩ तुझ्या जवळच्याविरुद्ध खोटा साक्षीदार राहू नको.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आणि नको"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "तू साक्षी देशील"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "तुझ्या जवळच्याविरुद्ध"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "खोटी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:18.475241437Z",
+  "model": "glm-5.2"
+}

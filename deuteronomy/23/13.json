@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि तुझ्यासाठी एक हात ⟨हवा⟩ छावणीच्या बाहेर, आणि तू बाहेर तिथे जाशील.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ती ⟨असेल⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्यासाठी"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहेर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावणीच्या"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "तू बाहेर जाशील"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहेर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:25:55.435834453Z",
+  "model": "glm-5.2"
+}

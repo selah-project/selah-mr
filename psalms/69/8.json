@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 69,
+  "translation": "कारण तुझ्यासाठी मी अपमान सहन केला; लाजेने माझे चेहरे झाकले.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ्यासाठी"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "मी सहन केला"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "अपमान"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "झाकले"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "लाजेने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "माझे चेहरे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:45:01.111309727Z",
+  "model": "glm-5.2"
+}

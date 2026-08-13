@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "नीतीच्या मार्गावर मी चालतो, न्यायाच्या पगड्यांच्या मध्ये.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "मार्गावर"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "नीतीच्या"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "मी चालतो"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "पगड्यांच्या"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्यायाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:46.578216362Z",
+  "model": "glm-5.2"
+}

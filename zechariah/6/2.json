@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "पहिल्या रथात लाल घोडे, आणि दुसऱ्या रथात काळे घोडे.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "रथात"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "पहिल्या"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोडे"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "आणि रथात"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दुसऱ्या"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोडे"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "काळे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:25:03.073298407Z",
+  "model": "glm-5.2"
+}

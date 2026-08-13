@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 57,
+  "translation": "जाग, माझ्या वैभवा, जाग, हे नाबेल ⟨व⟩ किन्नोर; ⟨मी⟩ शहर जागवीन.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "माझ्या वैभवा"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "हे नाबेल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "व किन्नोर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "जागवीन"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "शहर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:09.538497591Z",
+  "model": "glm-5.2"
+}

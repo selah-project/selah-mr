@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि एक दिवस असेल — तो याहवेहला माहीत ⟨असेल⟩ — दिवस नाही आणि रात्र नाही, आणि संध्याकाळी प्रकाश असेल.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आणि असेल"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "माहीत"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात्र"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आणि घडेल"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "संध्याकाळी"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-13T14:28:18.748814146Z",
+  "model": "glm-5.2"
+}

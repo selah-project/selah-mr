@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक बैल, एक मेंढी, एक वर्षाचा एक कोकरू, दहनार्थासाठी;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨हा⟩ चा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गुराचा"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेंढी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "चा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "वर्षाचा"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "दहनार्थासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:48.273479478Z",
+  "model": "glm-5.2"
+}

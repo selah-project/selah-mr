@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 89,
+  "translation": "कोणता पुरुष जगेल व मृत्यू पाहणार नाही? तो ⟨आपला⟩ जीव शाओलच्या हातून सोडवेल का? सेला.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोणता"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जगेल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "पाहणार"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यू"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "सोडवेल"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "आपला जीव"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हातून"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाओल"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:52:14.141994058Z",
+  "model": "glm-5.2"
+}

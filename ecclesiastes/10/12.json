@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "ज्ञानीच्या तोंडाचे शब्द कृपाळू आहेत; पण मूर्खाचे ओठ त्यालाच गिळून टाकतात.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "פי",
+      "gloss": "तोंडाचे"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानीच्या"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपाळू"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "पण ओठ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खाचे"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "त्यालाच गिळून टाकतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:10.610731946Z",
+  "model": "glm-5.2"
+}

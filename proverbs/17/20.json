@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "वाकडे हृदयाचा चांगले सापडत नाही, आणि जो आपल्या जिभेत फिरवतो तो वाईटात पडतो.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "वाकडे"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयाचा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "सापडत"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "आणि फिरवतो"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "आपल्या जिभेत"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "तो पडतो"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "वाईटात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:19.817676247Z",
+  "model": "glm-5.2"
+}

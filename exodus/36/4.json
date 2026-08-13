@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "व आले सर्व ज्ञानी जे करत होते ⟨את⟩ सर्व पवित्र-काम — एक एक ⟨पित्याच्या⟩ कामापासून जे ते करत होते.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "व आले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "ज्ञानी"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "जे करत होते"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "कामापासून"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ते"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "करत होते"
+    }
+  ],
+  "timestamp": "2026-08-13T10:40:41.000354846Z",
+  "model": "glm-5.2"
+}

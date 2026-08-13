@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि मरारीचे ⟨त्यांचे⟩ भाऊ डाव्या बाजूला — एतान, किशीचा मुलगा, अब्दीचा मुलगा, मलूखचा मुलगा.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि … पुत्र"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "त्यांचे भाऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "यांच्यावर"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "डावी बाजू"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एतान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "किशी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "अब्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "मलूख"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:53.891802162Z",
+  "model": "glm-5.2"
+}

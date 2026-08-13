@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि येरेद जगला सठ्ठाव व वासष्ट वर्षे व ⟨शत⟩ वर्षे, आणि त्याने ⟨את⟩ हनोख जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "येरेद"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "सठ्ठाव"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व वासष्ट"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "व ⟨शत⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हनोख"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "हनोख"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:29.993634915Z",
+  "model": "glm-5.2"
+}

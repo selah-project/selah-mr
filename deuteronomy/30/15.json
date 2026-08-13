@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "पाह, दिले मी तुझ्यासमोर आज ⟨את⟩ जीवन व ⟨את⟩ भले, व ⟨את⟩ मृत्यू व ⟨את⟩ वाईट;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "नתתי",
+      "gloss": "दिले मी"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तुझ्यासमोर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जीवन"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "भले"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भले"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "मृत्यू"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मृत्यू"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "वाईट"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "वाईट"
+    }
+  ],
+  "timestamp": "2026-08-13T11:29:15.920694134Z",
+  "model": "glm-5.2"
+}

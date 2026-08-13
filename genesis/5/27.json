@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "व झाले सर्व मतूशेलख याचे दिवस नऊ व साठ वर्षे व नऊशे वर्षे, व मरण पावला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "व झाले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "मतूशेलख"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "व नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "व मरण पावला"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:30.884332251Z",
+  "model": "glm-5.2"
+}

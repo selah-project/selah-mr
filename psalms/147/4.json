@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 147,
+  "translation": "ताऱ्यांची संख्या मोजतो; ⟨त्यांना⟩ सर्वांना नावे ⟨तो⟩ बोलतो.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "मोजतो"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "संख्या"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ताऱ्यांची"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "सर्वांना"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नावे"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "बोलतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:15.949213668Z",
+  "model": "glm-5.2"
+}

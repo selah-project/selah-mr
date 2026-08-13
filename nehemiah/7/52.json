@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "बेसयचे पुत्र, मेउनीमचे पुत्र, नेफुशेसिमचे पुत्र,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "बेसय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "मेउनीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "नेफुशेसिम"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:59.939160886Z",
+  "model": "glm-5.2"
+}

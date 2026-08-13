@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "हारामा व गाबाचे पुरुष: सहाशे एकवीस.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "हारामा"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "व गाबा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "व एक"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:46.006827196Z",
+  "model": "glm-5.2"
+}

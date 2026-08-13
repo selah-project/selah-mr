@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "त्याने माझ्या मूत्रपिंडांत आणले आपल्या भात्याचे पुत्र.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "आणले"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "माझ्या मूत्रपिंडांत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "आपल्या भात्याचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:56.347526674Z",
+  "model": "glm-5.2"
+}

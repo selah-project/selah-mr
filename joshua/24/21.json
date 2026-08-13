@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि ⟨लोकांनी⟩ यिहोशुआला म्हटले: नाही, की ⟨आम्ही⟩ ⟨את⟩ याहवेहाची सेवा करू.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हटले"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांना"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यिहोशुआ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याहवेह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "सेवा करू"
+    }
+  ],
+  "timestamp": "2026-08-13T11:42:02.541661038Z",
+  "model": "glm-5.2"
+}

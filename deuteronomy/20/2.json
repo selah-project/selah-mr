@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि जेव्हा तुम्ही युद्धाच्या जवळ जाल, तेव्हा याजक जवळ येईल आणि ⟨तो⟩ लोकांशी बोलेल.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आणि जेव्हा होईल"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "तुम्ही जवळ जाल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्धाच्या"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "तेव्हा जवळ येईल"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "व बोलेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकां"
+    }
+  ],
+  "timestamp": "2026-08-13T11:23:54.727681874Z",
+  "model": "glm-5.2"
+}

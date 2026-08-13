@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एलामचे ⟨मुले⟩, एक हजार दोनशे चौपन्न.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "एलामचे"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "⟨मुले⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "व"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:20.875515226Z",
+  "model": "glm-5.2"
+}

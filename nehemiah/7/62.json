@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "देलायाचे पुत्र, तोबियाचे पुत्र, नकोदाचे पुत्र — सहाशे बेचाळीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "देलायाचे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "तोबियाचे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नकोदाचे"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहाशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "बेचाळीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T15:59:28.633528427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "फक्त ⟨את⟩ त्याचे रक्त तू खाऊ नकोस; ते तू पृथ्वीवर पाण्याप्रमाणे ओतून टाकवे.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्याचे रक्त"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "त्याचे रक्त"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तू खाऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ते तू ओतून टाकवे"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पाण्याप्रमाणे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:03.866084579Z",
+  "model": "glm-5.2"
+}

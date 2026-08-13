@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि याहवेह मोशेशी सिनाय अरण्यात बोलला, या प्रमाणे:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "अरण्यात"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सिनाय"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या प्रमाणे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:36.247183979Z",
+  "model": "glm-5.2"
+}

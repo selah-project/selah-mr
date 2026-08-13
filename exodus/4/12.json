@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि आता जा, आणि मी तुझ्या तोंडासह असेन, आणि तुला शिकवीन जे तू बोलशील.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "आणि मी"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "असेन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सह"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तुझ्या तोंडा"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "आणि तुला शिकवीन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तू बोलशील"
+    }
+  ],
+  "timestamp": "2026-08-13T10:23:43.245819434Z",
+  "model": "glm-5.2"
+}

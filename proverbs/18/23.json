@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "दीनारा प्रार्थना बोलतो, आणि श्रीमंत रूखाईने उत्तर देतो.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "प्रार्थना"
+    },
+    {
+      "surface": "ידबר",
+      "gloss": "बोलतो"
+    },
+    {
+      "surface": "רש",
+      "gloss": "दीनारा"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "आणि श्रीमंत"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "उत्तर देतो"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "रूखाईने"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:53.305373848Z",
+  "model": "glm-5.2"
+}

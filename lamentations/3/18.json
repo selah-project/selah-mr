@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि म्हणालो, नाश झाला माझा नित्य-भाग आणि माझी आशा, मी पासून याहवेह.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आणि म्हणालो"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नाश झाला"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "माझा नित्य-भाग"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "आणि माझी आशा"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "पासून याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:54.194934364Z",
+  "model": "glm-5.2"
+}

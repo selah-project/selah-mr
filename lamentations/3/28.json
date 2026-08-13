@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "एकांती बसावे व शांत रहावे, कारण ⟨त्याने⟩ ते त्याच्यावर ठेवले ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बसावे"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "एकांती"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "व शांत रहावे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ठेवले"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्याच्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:16.654690352Z",
+  "model": "glm-5.2"
+}

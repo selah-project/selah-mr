@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि याहवेहचा वचन यिर्मेयाहूकडे ⟨आला⟩, ⟨म्हणाला⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨आला⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:36:03.949740743Z",
+  "model": "glm-5.2"
+}

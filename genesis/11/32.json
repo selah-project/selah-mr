@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि तेरहाचे दिवस पाच वर्षे आणि दोनशे वर्षे होते, आणि तेरह मेला खारान मध्ये.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरहाचे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आणि दोनशे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि मेला"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "खारान मध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:25.820482970Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "त्यावर अय्योब उत्तर देऊन म्हणाला,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर देऊन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:26:10.115956876Z",
+  "model": "glm-5.2"
+}

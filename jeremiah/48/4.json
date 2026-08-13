@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "मोआब तुटला; तिच्या लहानांनी ओरडी दिली आहे.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "तुटला"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "השमיעו",
+      "gloss": "दिली आहे"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ओरडी"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "तिच्या लहानांनी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:32.877970624Z",
+  "model": "glm-5.2"
+}

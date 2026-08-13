@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "दगडाचे वजन व ⟨the⟩ वाळूचा ओझा, पण मूर्खाचा राग ⟨is⟩ दोहोंपेक्षा जड.",
+  "tokens": [
+    {
+      "surface": "כֹּֽבֶד",
+      "gloss": "वजन"
+    },
+    {
+      "surface": "אֶ֭בֶן",
+      "gloss": "दगडाचे"
+    },
+    {
+      "surface": "וְנֵ֣טֶל",
+      "gloss": "व ⟨the⟩ ओझा"
+    },
+    {
+      "surface": "הַח֑וֹל",
+      "gloss": "वाळूचा"
+    },
+    {
+      "surface": "וְכַ֥עַס",
+      "gloss": "पण राग"
+    },
+    {
+      "surface": "אֱ֝וִ֗יל",
+      "gloss": "मूर्खाचा"
+    },
+    {
+      "surface": "כָּבֵ֥ד",
+      "gloss": "जड"
+    },
+    {
+      "surface": "מִשְּׁנֵיהֶֽם",
+      "gloss": "दोहोंपेक्षा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:49.658553580Z",
+  "model": "glm-5.2"
+}

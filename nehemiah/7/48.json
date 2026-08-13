@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "लेवानाची मुले, खगाबाची मुले, शल्मयची मुले.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लेवानाची"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "खगाबाची"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "शल्मयची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:52.797905115Z",
+  "model": "glm-5.2"
+}

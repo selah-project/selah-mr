@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "⟨את⟩ टेबल, ⟨את⟩ त्याची सर्व भांडी, व ⟨את⟩ समोरची भाकरी:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "टेबल"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "टेबल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "त्याची भांडी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "भाकरी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भाकरी"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "समोरची"
+    }
+  ],
+  "timestamp": "2026-08-13T10:41:14.169553530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "लोद, खादीद व ओनो यांचे पुत्र — सातशे एकोणीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "खादीद"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "व ओनो"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T15:59:03.816100806Z",
+  "model": "glm-5.2"
+}

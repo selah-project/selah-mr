@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "तेव्हा इय्योव उत्तर देऊन म्हणाला,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर देऊन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इय्योव"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:47:45.655869613Z",
+  "model": "glm-5.2"
+}

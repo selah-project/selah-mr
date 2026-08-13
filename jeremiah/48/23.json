@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "व किर्याताईम व बेथ-गामुल व बेथ-मेओन यांच्यावर।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "किर्याताईम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "गामुल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "मेओन"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:55.470935774Z",
+  "model": "glm-5.2"
+}

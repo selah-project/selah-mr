@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "⟨את⟩ दिम्ना व ⟨את⟩ तिचे उपनगर, ⟨את⟩ नहलल व ⟨את⟩ तिचे उपनगर — चार शहरे.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिम्ना"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "दिम्ना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तिचे-उपनगर"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "तिचे-उपनगर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नहलल"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "नहलल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तिचे-उपनगर"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "तिचे-उपनगर"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "शहरे"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:40:03.213902362Z",
+  "model": "glm-5.2"
+}

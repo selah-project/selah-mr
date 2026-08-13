@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि तू आर्यात ⟨את⟩ साक्षी ठेवशील, जी मी तुला देईन.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "आणि तू ठेवशील"
+    },
+    {
+      "surface": "אל",
+      "gloss": "आर्यात"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "आर्यात"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "साक्षी"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "मी देईन"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:33:22.276483425Z",
+  "model": "glm-5.2"
+}

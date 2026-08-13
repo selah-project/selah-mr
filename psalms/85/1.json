@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 85,
+  "translation": "मुख्य गायकासाठी, कोरहाच्या पुत्रांसाठी, गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य गायकासाठी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांसाठी"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:49:48.020682467Z",
+  "model": "glm-5.2"
+}

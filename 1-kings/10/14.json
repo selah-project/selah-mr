@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि ⟨होते⟩ सुवर्णाचे वजन जे शलोमोहाकडे एका वर्षात आले: सहाशे सषष्ट आणि सहा सुवर्णाच्या किकार.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": ""
+    },
+    {
+      "surface": "שלמה",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": ""
+    },
+    {
+      "surface": "למלכת",
+      "gloss": ""
+    },
+    {
+      "surface": "שבא",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "חפצה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שאלה",
+      "gloss": ""
+    },
+    {
+      "surface": "מלבד",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": ""
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "כיד",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "שלמה",
+      "gloss": ""
+    },
+    {
+      "surface": "ותפן",
+      "gloss": ""
+    },
+    {
+      "surface": "ותלך",
+      "gloss": ""
+    },
+    {
+      "surface": "לאरצה",
+      "gloss": ""
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T12:31:25.437882226Z",
+  "model": "glm-5.2"
+}

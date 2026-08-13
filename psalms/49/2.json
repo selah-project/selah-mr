@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "हे ऐका, सर्व ⟨हे⟩ लोकांनो; कान लावा, ⟨हे⟩ जगाचे सर्व रहिवासी.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "हे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "लोकांनो"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "कान लावा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहिवासी"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "जगाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:16.396234558Z",
+  "model": "glm-5.2"
+}

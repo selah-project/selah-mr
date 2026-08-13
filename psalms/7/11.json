@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "माझे ढाल ⟨आहे⟩ एलोहीमावर, ऋजुहृदयांचा उद्धारकर्ता.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "माझे ढाल"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "उद्धारकर्ता"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ऋजु..."
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयांचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:30:36.516035903Z",
+  "model": "glm-5.2"
+}

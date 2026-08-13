@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि तू त्यावर तेल घालशील आणि त्यावर गंधरस ठेवशील; ते ⟨हे⟩ मन्ना ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "आणि तू घालशील"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "त्यावर"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "आणि तू ठेवशील"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "त्यावर"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "गंधरस"
+    },
+    {
+      "surface": "मנחה",
+      "gloss": "मन्ना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ते ⟨हे⟩ ⟨आहे⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T10:42:21.627113823Z",
+  "model": "glm-5.2"
+}

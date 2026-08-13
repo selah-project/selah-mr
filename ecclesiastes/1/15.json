@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "वाकडे ⟨वस्तू⟩ सरळ करता येत नाही, आणि कमतरता मोजता येत नाही.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "वाकडे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "शकते"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "सरळ करणे"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "आणि कमतरता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "शकते"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "मोजणे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:35.879185264Z",
+  "model": "glm-5.2"
+}

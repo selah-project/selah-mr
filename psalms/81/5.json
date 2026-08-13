@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 81,
+  "translation": "कारण हा इस्राएलासाठी विधी ⟨आहे⟩ याकोवाच्या एलोहीमचा नियम.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "חק",
+      "gloss": "विधी"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इस्राएलासाठी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हा"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "...च्या एलोहीमचा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:46.016443535Z",
+  "model": "glm-5.2"
+}

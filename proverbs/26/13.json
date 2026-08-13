@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आळसी म्हणतो, रस्त्यात सिंह ⟨आहे⟩, चौकांच्या मध्ये सिंह ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आळसी"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्त्यात"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "चौकांच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:57.761235004Z",
+  "model": "glm-5.2"
+}

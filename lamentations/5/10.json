@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आमची त्वचा तंदूरासारखी तापली, उपाशीच्या भयानक लाटांच्या समोरून.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "आमची त्वचा"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "तंदूरासारखी"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "तापली"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "समोरून"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "भयानक लाटांच्या"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "उपाशीच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:00.729400535Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "माझ्या वचनांकडे कान लाव, याहवेह, माझी गुणगुण समज.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "माझ्या वचनांकडे"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "कान लाव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समज"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "माझी गुणगुण"
+    }
+  ],
+  "timestamp": "2026-08-13T14:29:48.306935612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "खूप ⟨पाप करू नको⟩, आणि ⟨मूर्ख हू नको⟩; ⟨तुझ्या⟩ वेळेआधी तू का मरशकी?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "पाप कर"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "खूप"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नको"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "למה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "तू मरशकी"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "विना"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "तुझी वेळ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:57.120640873Z",
+  "model": "glm-5.2"
+}

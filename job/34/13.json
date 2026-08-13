@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "कोणी ⟨त्याच्यावर⟩ पृथ्वी सोपवली? व कोणी संपूर्ण जग ठरवले?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोणी"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "सोपवली"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨त्याच्यावर⟩"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "व कोणी"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ठरवले"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "जग"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "संपूर्ण"
+    }
+  ],
+  "timestamp": "2026-08-13T15:29:36.399895829Z",
+  "model": "glm-5.2"
+}

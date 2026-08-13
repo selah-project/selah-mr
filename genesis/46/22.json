@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "हे राहेलचे मुले होत, जे याकोवला जन्मले; सर्व जीवे चौदा.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेलचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मले"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोवला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीवे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:25.547871004Z",
+  "model": "glm-5.2"
+}

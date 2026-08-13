@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "हात्सोर, रामा, गित्तायिम.",
+  "tokens": [
+    {
+      "surface": "חָצ֥וֹר",
+      "gloss": "हात्सोर"
+    },
+    {
+      "surface": "רָמָ֖ה",
+      "gloss": "रामा"
+    },
+    {
+      "surface": "גִּתָּֽיִם",
+      "gloss": "गित्तायिम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:00:46.972503935Z",
+  "model": "glm-5.2"
+}

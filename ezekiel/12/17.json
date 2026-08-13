@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि याहवेहचा वचन माझ्याकडे होत ⟨म्हणाला⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि होत"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨म्हणाला⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T13:50:35.606478140Z",
+  "model": "glm-5.2"
+}

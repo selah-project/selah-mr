@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "⟨तो⟩ कोणत्याही मोबिलाचे चेहरे उचलणार नाही, व ⟨तो⟩ सहमत होणार नाही जरी ⟨तू⟩ लाच वाढविशील.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उचलणार"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणत्याही"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "मोबिलाचे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "सहमत होणार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जरी"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "वाढविशील"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "लाच"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:52.488538282Z",
+  "model": "glm-5.2"
+}

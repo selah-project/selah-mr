@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "आणि गादचे मुले: झिफ्योन व हग्गी शुनी व एझ्बोन एरी व अरोदी व अरेली.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादचे"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "झिफ्योन"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "व हग्गी"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "शुनी"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "व एझ्बोन"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "एरी"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "व अरोदी"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "व अरेली"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:33.611685402Z",
+  "model": "glm-5.2"
+}

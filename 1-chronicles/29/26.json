@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि दावीद, यिशयाचा पुत्र, सर्व इस्राएलवर राज्य करीत असे.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "आणि दावीद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशय"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज्य करीत असे"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:14:24.708451973Z",
+  "model": "glm-5.2"
+}

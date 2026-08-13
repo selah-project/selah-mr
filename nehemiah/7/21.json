@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आतेरचीचे पुत्र, खिजकियाहूच्या ⟨कडील⟩, एकोणनव्वद व आठ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "आतेरची"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "खिजकियाहूच्या"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "एकोणनव्वद"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "व आठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:33.836224619Z",
+  "model": "glm-5.2"
+}

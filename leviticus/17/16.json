@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि जर तो धुत नाही आणि आपले मांस स्नान करीत नाही, तर तो आपला अनिष्ट भार उचलील.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "तो धुत"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "आणि आपले मांस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "स्नान करीत"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "तर तो उचलील"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "आपला अनिष्ट भार"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:41.486745299Z",
+  "model": "glm-5.2"
+}

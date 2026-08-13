@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कारण मी याहवेह ⟨आहे⟩ — ⟨मी⟩ बदललो नाही; आणि तुम्ही याकोवची मुले, तुम्ही नष्ट झाला नाही.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "बदललो"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आणि तुम्ही"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोवची"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "नष्ट झाला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:29:43.861160098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि झीझा, शिफी याचा पुत्र, अल्लोन याचा पुत्र, यदाया याचा पुत्र, शिम्री याचा पुत्र, शमाया याचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "आणि झीझा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "शिफी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "अल्लोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "यदाया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "शिम्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमाया"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:49.949269469Z",
+  "model": "glm-5.2"
+}

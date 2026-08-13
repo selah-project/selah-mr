@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "जर एक माणूस बायको घेई आणि तिच्याकडे आल्यावर तिला द्वेष करील,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जर"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "घेई"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक माणूस"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "बायको"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आणि आल्यावर"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "तिच्याकडे"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "तिला द्वेष करील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:25:27.460443266Z",
+  "model": "glm-5.2"
+}

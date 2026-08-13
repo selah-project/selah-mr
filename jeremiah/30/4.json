@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "आणि ही वचने आहेत जी याहवेहने इस्राएल व यहूदा यांच्याविषयी बोलली.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि ही"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचने"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलली"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "विषयी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:33:12.038965939Z",
+  "model": "glm-5.2"
+}

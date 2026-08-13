@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "सल्मा, बेथ-लेहेमचा पिता; हारेफ, बेथ-गादेरचा पिता.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "सल्मा"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेमचा"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "हारेफ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "गादेरचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:34.962193933Z",
+  "model": "glm-5.2"
+}

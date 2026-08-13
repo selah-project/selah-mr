@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि याहवेहने मोशेशी आणि अहरोनशी बोलून म्हटले:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलून"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि शी"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हटले"
+    }
+  ],
+  "timestamp": "2026-08-13T11:03:30.872234267Z",
+  "model": "glm-5.2"
+}

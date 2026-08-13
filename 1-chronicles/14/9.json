@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि पलिश्ती आले आणि राफाईमच्या दरीत फैलावले.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "आणि पलिश्ती"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आले"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "आणि फैलावले"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "दरीत"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "राफाईमच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:08:12.480294942Z",
+  "model": "glm-5.2"
+}

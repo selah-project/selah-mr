@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व यानीम, बेथ-तप्पूख, व अफेका;",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "व यानीम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "व"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "बेथ-तप्पूख"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "व अफेका"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:22.177262478Z",
+  "model": "glm-5.2"
+}

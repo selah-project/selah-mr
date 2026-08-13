@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हारीमचे पुत्र — हजार व सतरा.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारीम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "व सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:55.145949284Z",
+  "model": "glm-5.2"
+}

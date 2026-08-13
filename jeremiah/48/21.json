@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "आणि मिशोर देशावर न्याय आला आहे — खोलोन व याहत्सा व मोफाआत यांच्यावर।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "आणि न्याय"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला आहे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— यांच्यावर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देशावर"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "मिशोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्यावर"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "खोलोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "याहत्सा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "मोफाआत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:55.470560569Z",
+  "model": "glm-5.2"
+}

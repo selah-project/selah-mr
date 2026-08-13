@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि कोरहाची पुत्रे मरली नाहीत.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि पुत्रे"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरहाची"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरली"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:17.836739970Z",
+  "model": "glm-5.2"
+}

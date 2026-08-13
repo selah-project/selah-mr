@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "दान आणि नफ्ताली, गाद आणि आशेर.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "आणि नफ्ताली"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आणि आशेर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:22:27.431407949Z",
+  "model": "glm-5.2"
+}

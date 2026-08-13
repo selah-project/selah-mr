@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि ते पाठविले मजकडून ⟨असा⟩ हा बोल चार वेळा, आणि मी त्यांना परत केले ⟨असा⟩ हा बोल।",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "आणि ते पाठविले"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मजकडून"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "असा बोल"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "वेळा"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "आणि मी परत केले"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "त्यांना"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "असा बोल"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:45.056143358Z",
+  "model": "glm-5.2"
+}

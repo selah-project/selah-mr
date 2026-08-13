@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "वाअश्रिएल — ⟨ही⟩ अश्रिएली कुळ; वशेखेम — ⟨ही⟩ शिख्मी कुळ.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "वाअश्रिएल"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "अश्रिएली"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "वशेखेम"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "शिख्मी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:42.198804052Z",
+  "model": "glm-5.2"
+}

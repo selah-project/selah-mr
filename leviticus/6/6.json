@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "अग्नी सातत्याने यज्ञवेदीवर पेटविली जाईल, ती विझविली जाणार नाही.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "अग्नी"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सातत्याने"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "पेटविली जाईल"
+    },
+    {
+      "surface": "על",
+      "gloss": "यावर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "यज्ञवेदी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "विझविली जाईल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:43:43.176770236Z",
+  "model": "glm-5.2"
+}

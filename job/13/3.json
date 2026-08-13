@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "परंतु मी शद्दायशी बोलेन, व एलाशी वाद घालीन इच्छितो.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "परंतु"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दाय"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलेन"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "व वाद घालीन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "इच्छितो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:21:32.579862481Z",
+  "model": "glm-5.2"
+}

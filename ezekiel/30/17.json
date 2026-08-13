@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "अवेनचे तरुण व पी-बेसेतचे तोंण ⟨सव‬⟩ तलवारीने पडतील, व ⟨हे⟩ बंदीत जातील.",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "तरुण"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवेन"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "व पी-"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "बेसेत"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवारीने"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "पडतील"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "व ⟨हे⟩"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "बंदीत"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "जातील"
+    }
+  ],
+  "timestamp": "2026-08-13T13:59:43.749118627Z",
+  "model": "glm-5.2"
+}

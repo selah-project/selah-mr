@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि कपड्याच्या कुष्ठरोगासाठी आणि घरासाठी.",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "आणि कुष्ठरोगासाठी"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "कपड्याच्या"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "आणि घरासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:57.837072684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आरोग्यदायी जीभ ⟨हे⟩ जीवनाचे झाड ⟨आहे⟩, आणि त्यातली विकृती ⟨ही⟩ आत्म्याचा भंग ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "आरोग्यदायी"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "झाड"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवनाचे"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "आणि विकृती"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यातली"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "भंग"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "आत्म्याचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:28.865704977Z",
+  "model": "glm-5.2"
+}

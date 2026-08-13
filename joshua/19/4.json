@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "व एलतोलद व बेतूल व खोर्मा.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "व एलतोलद"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "व बेतूल"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "व खोर्मा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:05.831548444Z",
+  "model": "glm-5.2"
+}

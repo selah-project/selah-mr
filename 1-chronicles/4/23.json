@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 4:23",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "ते होते कुंभार, व नेताईम व गेदेराचे रहिवासी; राजाच्या कामात ते तिथे राहत होते.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ते"
+    },
+    {
+      "surface": "היוצרים",
+      "gloss": "कुंभार"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "व रहिवासी"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "नेताईम"
+    },
+    {
+      "surface": "וגדרה",
+      "gloss": "व गेदेराचे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सोबत"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "कामात"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "राहत होते"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:48.602970080Z",
+  "model": "glm-5.2"
+}

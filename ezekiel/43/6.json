@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 43,
+  "translation": "आणि मी ऐकले ⟨मला⟩ बोलताना घरातून, आणि ⟨एक⟩ माणूस माझ्याजवळ उभा ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "आणि-मी-ऐकले"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलताना"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "घरातून"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आणि-एक-माणूस"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होता"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "उभा"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "माझ्याजवळ"
+    }
+  ],
+  "timestamp": "2026-08-13T14:06:34.866355258Z",
+  "model": "glm-5.2"
+}

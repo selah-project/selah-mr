@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि मी तुम्हांला म्हणालो: भयभीत होऊ नका आणि त्यांच्यापासून घाबरू नका.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आणि मी म्हणालो"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तुम्हांला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "भयभीत होऊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नका"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "घाबरू"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "त्यांच्यापासून"
+    }
+  ],
+  "timestamp": "2026-08-13T11:15:43.734318270Z",
+  "model": "glm-5.2"
+}

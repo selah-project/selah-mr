@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि हे ⟨आहेत⟩ एसाव्हाच्या वंशावळी — एदोमचा पिता — सेईर पर्वतावर.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "वंशावळी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव्हाच्या"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमचा"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतावर"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:56.232491997Z",
+  "model": "glm-5.2"
+}

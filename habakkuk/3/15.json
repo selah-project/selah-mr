@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "तू समुद्राला तुझ्या घोड्यांनी त्रोटलास, अनेक पाण्यांची लाट.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "तू त्रोटलास"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुद्राला"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "तुझ्या घोड्यांनी"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "लाट"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्यांची"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "अनेक"
+    }
+  ],
+  "timestamp": "2026-08-13T14:23:28.723102696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "व त्याची उपपत्नी व तिचे नाव रउमाह; तिनेही जन्म दिला ⟨את⟩ तेबह व ⟨את⟩ गहम व ⟨את⟩ तहश व ⟨את⟩ माखाह",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "व त्याची उपपत्नी"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "व तिचे नाव"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "रउमाह"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "तिनेही जन्म दिला"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ही"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेबह"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "तेबह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "गहम"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "गहम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तहश"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "तहश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "माखाह"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माखाह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:11.888014191Z",
+  "model": "glm-5.2"
+}

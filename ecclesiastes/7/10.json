@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "⟨तू⟩ म्हणू नकोस: 'काय ⟨होते⟩ की पूर्वीचे दिवस ⟨होते⟩ यांहून चांगले?' कारण ज्ञानातून नाही तू याविषयी विचारलेस.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "म्हणू"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨होते⟩"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "की दिवस"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पूर्वीचे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨होते⟩"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "यांहून"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ज्ञानातून"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "विचारलेस"
+    },
+    {
+      "surface": "על",
+      "gloss": "-विषयी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:57.399117229Z",
+  "model": "glm-5.2"
+}

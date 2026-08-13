@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "तो तुला कर्ज देईल, आणि तू त्याला कर्ज देणार नाहीस; तो ⟨हा⟩ शीर्ष असेल, आणि तू ⟨हा⟩ शेपूट असशील.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "तुला कर्ज देईल"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीस"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "त्याला कर्ज देणार"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "शीर्ष"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "असशील"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "शेपूट"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:25.552790167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "दिवस ⟨आहे⟩ तुझ्या भिंती बांधण्याचा; तो दिवस दूर होईल ⟨हा⟩ विधी.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बांधण्याचा"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "तुझ्या भिंती"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "दूर होईल"
+    },
+    {
+      "surface": "חק",
+      "gloss": "विधी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:44:39.430428178Z",
+  "model": "glm-5.2"
+}

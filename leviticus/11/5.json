@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि ⟨את⟩ शफान — की ⟨तो⟩ गरा चाघवितो आणि खुरांचे विभाजन करीत नाही, ⟨तो⟩ तुमच्यासाठी अशुद्ध ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "शफान"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "शफान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "चाघवितो"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "गरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨तो⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "आणि खुरांचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "विभाजन करीत"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨तो⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमच्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:45:46.896325031Z",
+  "model": "glm-5.2"
+}

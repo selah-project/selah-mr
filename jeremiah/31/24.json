@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 31:24",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "त्यात याहूदा आणि त्याची सर्व शहरे एकत्र राहतील — शेतकरी आणि ⟨those⟩ कळपासोबत फिरणारे.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "राहतील"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "याहूदा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "त्याची शहरे"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "शेतकरी"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "आणि फिरणारे"
+    },
+    {
+      "surface": "בעדר",
+      "gloss": "कळपासोबत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:34:35.393751329Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "पहत-मोआबची मुले, येशूवच्या व योआवच्या मुलांची, दोन हजार आठशे बारा.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पहत"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "मुलांच्या"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशूव"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआव"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आणि दोन"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बारा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:52.097898818Z",
+  "model": "glm-5.2"
+}

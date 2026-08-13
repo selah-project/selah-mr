@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "व रहबाम यरूशलाममध्ये वसला, व यहूदामध्ये बांधणीसाठी नगरे बांधली.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "व वसला"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलाममध्ये"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "व बांधली"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "बांधणीसाठी"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदामध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T16:18:07.207773645Z",
+  "model": "glm-5.2"
+}

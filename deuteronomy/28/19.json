@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "अभिशप्त तू ⟨तू⟩ तुझ्या येण्यात, व अभिशप्त तू ⟨तू⟩ तुझ्या जाण्यात",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिशप्त"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "तुझ्या येण्यात"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "व अभिशप्त"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "तुझ्या जाण्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:46.808705151Z",
+  "model": "glm-5.2"
+}

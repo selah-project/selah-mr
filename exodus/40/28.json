@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "आणि त्याने मिरासाच्या द्वाराचे ⟨את⟩ आच्छादन लावले.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "आणि त्याने लावले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आच्छादन"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "आच्छादन"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "द्वाराचे"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "मिरासाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:41:09.251490096Z",
+  "model": "glm-5.2"
+}

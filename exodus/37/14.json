@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "मेखल्याच्या बाजूला कड्या ⟨were⟩, सळ्यांसाठी घरे ⟨as⟩, ⟨את⟩ सारणी वाहण्यासाठी.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "बाजूला"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "मेखल्याच्या"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होत्या"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "कड्या"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घरे"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "सळ्यांसाठी"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "वाहण्यासाठी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारणी"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "सारणी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:39:29.500472761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व यित्सहाक तिथून गेला, व त्याने गरारच्या नदीत तळ टाकला, व तेथे वस्ती केली.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "व गेला"
+    },
+    {
+      "surface": "משם",
+      "gloss": "तिथून"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "व तळ-टाकला"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नदीत"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "गरारच्या"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "व वस्ती-केली"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तेथे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:09:34.575158077Z",
+  "model": "glm-5.2"
+}

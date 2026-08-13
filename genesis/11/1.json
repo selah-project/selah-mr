@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि ⟨होते⟩ संपूर्ण ⟨the⟩ पृथ्वी ओठ एक आणि वचने एक.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ पृथ्वी"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "आणि वचने"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:55.321128834Z",
+  "model": "glm-5.2"
+}

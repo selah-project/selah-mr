@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हागाबचे पुत्र, शामलायचे पुत्र, हानानचे पुत्र",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "हागाब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "शामलाय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "हानान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:43.605540158Z",
+  "model": "glm-5.2"
+}

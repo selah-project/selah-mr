@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "लोकर व अळशी एकत्र गुंफलेले शाअत्नेझ ⟨वस्त्र⟩ लेऊ नकोस.",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תִלְבַּשׁ֙",
+      "gloss": "लेऊ"
+    },
+    {
+      "surface": "שַֽׁעַטְנֵ֔ז",
+      "gloss": "शाअत्नेझ"
+    },
+    {
+      "surface": "צֶ֥מֶר",
+      "gloss": "लोकर"
+    },
+    {
+      "surface": "וּפִשְׁתִּ֖ים",
+      "gloss": "व अळशी"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "एकत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T11:24:50.607798486Z",
+  "model": "glm-5.2"
+}

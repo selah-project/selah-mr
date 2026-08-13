@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि यिस्साखारच्या मुलांना ⟨होती⟩ तोला, फुआ, याशूब आणि शिम्रोन — चार.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "आणि ... मुलांना"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साखारच्या"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "तोला"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "आणि फुआ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "याशूब"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "आणि शिम्रोन"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:27.095736567Z",
+  "model": "glm-5.2"
+}

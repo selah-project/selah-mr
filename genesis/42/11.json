@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "आम्ही सर्व एका माणसाचे पुत्र आहोत; आम्ही प्रामाणिक ⟨men⟩ आहोत; तुझे दास गुप्तचर नाहीत.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "आम्ही सर्व"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणसाचे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "आहोत"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "प्रामाणिक"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "आम्ही"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨have been⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तुझे दास"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "गुप्तचर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:17:46.349951615Z",
+  "model": "glm-5.2"
+}

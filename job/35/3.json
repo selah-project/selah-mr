@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "कारण तू म्हणतोस: तुला काय फायदा, माझ्या पापातून मला काय लाभ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तू म्हणतोस"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "फायदा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "मला लाभ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "माझ्या पापातून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:29.929712051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "त्याकरिता मी तुला आज्ञा करीत आहे, म्हणत: तीन शहरे तू स्वतःसाठी वेगळी कर.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "यासाठी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुला आज्ञा करीत आहे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणत"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "शहरे"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "तू वेगळी कर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू स्वतःसाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:24:23.061047212Z",
+  "model": "glm-5.2"
+}

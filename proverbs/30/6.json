@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "त्याच्या वचनांवर ⟨काही⟩ जोडू नके, की तो ⟨तुला⟩ दोष देईल आणि तू खोटा आढळशील.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नके"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "जोडू"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "त्याच्या वचनां"
+    },
+    {
+      "surface": "פן",
+      "gloss": "की"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "दोष देईल"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨तुला⟩"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "आणि खोटा आढळशील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:34.219760429Z",
+  "model": "glm-5.2"
+}

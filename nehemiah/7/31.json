@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "मिखमासचे पुरुष: एकशे बावीस.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "मिखमास"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:46.006970566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "काय मनुष्य ⟨स्वतःला⟩ देव बनवेल, आणि ते देव नाहीत?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "काय बनवेल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "स्वतःला"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देव"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आणि ते"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देव"
+    }
+  ],
+  "timestamp": "2026-08-13T13:27:19.060453352Z",
+  "model": "glm-5.2"
+}

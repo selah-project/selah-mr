@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि झाले सोन्याचे ⟨the⟩ वजन जे शलोमोहला येई एका वर्षी — सहाशे आणि साठ आणि सहा तुळ्यांचे सोने.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "वजन"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोन्याचे ⟨the⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येई"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोहला"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एका"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहाशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आणि साठ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आणि सहा"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "तुळ्यांचे"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    }
+  ],
+  "timestamp": "2026-08-13T16:17:16.711332032Z",
+  "model": "glm-5.2"
+}

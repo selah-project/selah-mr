@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 55,
+  "translation": "मी एलोहीमकडे बोलावेन, आणि याहवेह मला तारणार आहे.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "बोलावेन"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आणि याहवेह"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "मला तारणार आहे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:41:25.035050804Z",
+  "model": "glm-5.2"
+}

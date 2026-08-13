@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "इसरोन इसरोन एका कोकराला, सात कोकरांसाठी;",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "इसरोन"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "इसरोन"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "एका कोकराला"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात...साठी"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "कोकरां"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:02.449507667Z",
+  "model": "glm-5.2"
+}

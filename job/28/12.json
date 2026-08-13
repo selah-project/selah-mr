@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "आणि ज्ञान कोठून सापडेल? आणि समज याच स्थान कोठे आहे?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "आणि ज्ञान"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कोठून"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "सापडेल"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "आणि कोठे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समज"
+    }
+  ],
+  "timestamp": "2026-08-13T15:26:39.584781517Z",
+  "model": "glm-5.2"
+}

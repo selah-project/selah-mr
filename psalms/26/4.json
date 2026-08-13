@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "मी शून्य पुरुषांसोबत बसलो नाही, आणि लपवणाऱ्यांसोबत मी येत नाही.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "मी बसलो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सोबत"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "पुरुषां"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "शून्य"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आणि सोबत"
+    },
+    {
+      "surface": "נעלमים",
+      "gloss": "लपवणाऱ्यां"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "मी येत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:48.052094317Z",
+  "model": "glm-5.2"
+}

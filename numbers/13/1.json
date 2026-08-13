@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि याहवेह मोशेशी बोलला, यासाठी म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:01:53.829092948Z",
+  "model": "glm-5.2"
+}

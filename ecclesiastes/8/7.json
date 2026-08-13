@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "कारण तो जाणत नाही काय होणार आहे, कारण जसे होईल तसे त्याला कोण सांगणार?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "तो नाही"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाणत"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "होणार आहे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होईल"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "सांगणार"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:53.825645058Z",
+  "model": "glm-5.2"
+}

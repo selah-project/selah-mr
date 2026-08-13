@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "चल, पहाटेपर्यंत आपण प्रेमाने तृप्त होऊ, प्रेमात आनंदोत्सव करू.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "चल"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "आपण तृप्त होऊ"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "प्रेमाने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "पहाटे"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "आनंदोत्सव करू"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "प्रेमात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:19.242694545Z",
+  "model": "glm-5.2"
+}

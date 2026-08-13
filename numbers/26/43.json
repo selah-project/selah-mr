@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 26:43",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "शुहामीची सर्व कुळे त्यांच्या गणनांनुसार चार व साठ हजार व चारशे ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळे"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "शुहामीची"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "त्यांच्या गणनांनुसार"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "व चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:32.783380649Z",
+  "model": "glm-5.2"
+}

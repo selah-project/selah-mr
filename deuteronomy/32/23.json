@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "मी त्यांच्यावर दुःखे गोळा करीन, माझे बाण मी त्यांच्यावर संपवीन.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "मी गोळा करीन"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "त्यांच्यावर"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "दुःखे"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "माझे बाण"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "मी संपवीन"
+    },
+    {
+      "surface": "בם",
+      "gloss": "त्यांच्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:18.372465572Z",
+  "model": "glm-5.2"
+}

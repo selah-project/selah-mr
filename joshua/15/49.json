@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व दन्ना, व किर्यात-सन्ना — ती ⟨आहे⟩ दबीर;",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "व दन्ना"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "व किर्यात"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "सन्ना"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "दबीर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:17.465471029Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "व नष्ट होईल मोआब लोकांमधून, कारण याहवेहविरुद्ध ⟨त्याने⟩ गर्व केला.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "व नष्ट होईल"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "लोकांमधून"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "गर्व केला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:43:07.584567225Z",
+  "model": "glm-5.2"
+}

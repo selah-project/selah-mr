@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "उघड, लवाणूना, तुझे दारे, आणि अग्नी भक्षण करो तुझ्या देवदारांना.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "उघड"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लवाणून"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "तुझे दारे"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "आणि भक्षण करो"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नी"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "तुझ्या देवदारांना"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:58.349976718Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "तो आपले तोंड धूळ मध्ये ठेवे — कदाचित आशा ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "तो ठेवे"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "धूळ मध्ये"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "आपले तोंड"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "कदाचित"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨आहे⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आशा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:55.910216249Z",
+  "model": "glm-5.2"
+}

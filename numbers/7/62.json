@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "सोन्याचा एक पल्ला, दहा ⟨शेकेल⟩, धूनद्रव्याने भरलेला:",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "पल्ला"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "सोन्याचा"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "भरलेला"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "धूनद्रव्याने"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:20.019647280Z",
+  "model": "glm-5.2"
+}

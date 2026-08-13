@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि खेत्स्रोनची मुले जे त्याच्यासाठी जन्मले ⟨את⟩ यरहमेल आणि ⟨את⟩ राम आणि ⟨את⟩ कलुबाय.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि मुले"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "खेत्स्रोनची"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जन्मले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याच्यासाठी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरहमेल"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "राम"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "कलुबाय"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "कलुबाय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:21.739732488Z",
+  "model": "glm-5.2"
+}

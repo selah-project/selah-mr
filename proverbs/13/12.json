@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "तुटलेली आशा हृदयाला आजारी करते, पण आलेली इच्छा जीवनाचे झाड ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "तुटलेली"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "आजारी करते"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयाला"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "पण झाड"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवनाचे"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आलेली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:19.635700434Z",
+  "model": "glm-5.2"
+}

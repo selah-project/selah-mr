@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि पूर्ण झाले ⟨the⟩ आकाश आणि ⟨the⟩ पृथ्वी, आणि सर्व ⟨their⟩ सैन्य.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "आणि पूर्ण झाले"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "आणि पृथ्वी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "त्यांचे सैन्य"
+    }
+  ],
+  "timestamp": "2026-08-13T09:57:56.476525897Z",
+  "model": "glm-5.2"
+}

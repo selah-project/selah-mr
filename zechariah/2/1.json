@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि मी ⟨את⟩ माझे डोळे उचलले व पाहिले, आणि हे पाहा, चार शिंगे ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "आणि-मी-उचलले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "माझे-डोळे"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "माझे-डोळे"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "व-पाहिले"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आणि-हे-पाहा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "शिंगे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:25:30.309990118Z",
+  "model": "glm-5.2"
+}

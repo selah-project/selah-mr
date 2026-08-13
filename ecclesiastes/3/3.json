@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "वध करण्याची वेळ, आणि बरे करण्याची वेळ; पाडण्याची वेळ, आणि बांधण्याची वेळ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "एक वेळ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "वध करण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "बरे करण्याची"
+    },
+    {
+      "surface": "עת",
+      "gloss": "एक वेळ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "पाडण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बांधण्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:46.696613054Z",
+  "model": "glm-5.2"
+}

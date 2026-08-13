@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "एकोणिसावा लमल्लोतीला, त्याचे मुले व त्याचे भाऊ बारा:",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "एकोणीस"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-वा"
+    },
+    {
+      "surface": "लמלותי",
+      "gloss": "लमल्लोतीला"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याचे मुले"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व त्याचे भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-बारा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:10.295236580Z",
+  "model": "glm-5.2"
+}

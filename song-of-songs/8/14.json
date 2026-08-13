@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "पळ, माझ्या प्रेमी, आणि ⟨तू⟩ ससा किंवा हरिणाचे पारडू ⟨बन⟩, सुगंधी पर्वतांवर.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "पळ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "माझ्या प्रेमी"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "आणि समान ⟨बन⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨तू⟩"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ससाला"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "पारडूला"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "हरिणांच्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "पर्वतां"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "सुगंधी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:33:45.125520407Z",
+  "model": "glm-5.2"
+}

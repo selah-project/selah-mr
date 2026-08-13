@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "व मोआबमध्ये मी निवाडे करीन, व ⟨ते⟩ ओळखतील की मी याहवेह ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "व मोआबमध्ये"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "मी करीन"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "निवाडे"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "व ओळखतील"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T13:57:19.048088295Z",
+  "model": "glm-5.2"
+}

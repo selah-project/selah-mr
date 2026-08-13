@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि दावीद हा धाकटा होता; आणि तीन मोठे गेले शाऊलच्या मागे.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "आणि दावीद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हा"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "धाकटा"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आणि तीन"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "मोठे"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "गेले"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "मागे"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊलच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:02:14.745334633Z",
+  "model": "glm-5.2"
+}

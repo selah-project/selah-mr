@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "व मेला शाऊल व त्याच्या तीन पुत्र व त्याचे संपूर्ण घर — एकत्र मेले.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "व मेला"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "व तीन"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याच्या पुत्र"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व संपूर्ण"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "त्याचे घर"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मेले"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:56.278801734Z",
+  "model": "glm-5.2"
+}

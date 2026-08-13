@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "चतुराईला म्हण: ⟨तू⟩ माझी बहीण ⟨आहेस⟩; आणि जाणीवीला ⟨तू⟩ नातेवाईण म्हण.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "म्हण"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "चतुराईला"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "माझी बहीण"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨तू⟩",
+      "marks": "चतुराई"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "आणि जाणीवीला"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "जाणीवीला"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "म्हण"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:20.723595365Z",
+  "model": "glm-5.2"
+}

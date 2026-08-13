@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 68,
+  "translation": "पृथ्वीच्या राज्यांनो, एलोहीमला गाऊ; अदोनायला गाऊ — सेलाह.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "राज्यांनो"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीच्या"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "गाऊ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीमला"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "गाऊ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनायला"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेलाह"
+    }
+  ],
+  "timestamp": "2026-08-13T14:45:04.501050145Z",
+  "model": "glm-5.2"
+}

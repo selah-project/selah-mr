@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "डोळ्यांचे दर्शन नेस्त्याच्या फिरण्यापेक्षा चांगले ⟨आहे⟩; हेही हेबल ⟨आहे⟩ व वाऱ्याची खेचणी ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "डोळ्यांचे"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "फिरण्यापेक्षा"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेस्त्याच्या"
+    },
+    {
+      "surface": "גם",
+      "gloss": "हेही"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "व खेचणी"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वाऱ्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:51.419822362Z",
+  "model": "glm-5.2"
+}

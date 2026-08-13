@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "एक तोरा व ⟨एक⟩ नियम तुम्हाला असेल, व गेर-अतिथीला जो तुमच्यासोबत ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "व नियम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हाला"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "व गेर-अतिथीला"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "गेर-अतिथी"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तुम्हाला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:32:32.539362469Z",
+  "model": "glm-5.2"
+}

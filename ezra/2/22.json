@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "नेतोफाचे लोक, तेचाळीस व सहा.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "נְטֹפָ֖ה",
+      "gloss": "नेतोफाचे"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "तेचाळीस"
+    },
+    {
+      "surface": "וְשִׁשָּֽׁה",
+      "gloss": "व सहा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:51.954325520Z",
+  "model": "glm-5.2"
+}

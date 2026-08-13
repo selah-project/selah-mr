@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि याहवेह मोशे व अहरोन यांना मिस्र देशात बोलला, यासाठी:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांना"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्र"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:26:49.836517848Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "जर मी पाहिले ⟨होते⟩ प्रकाश, की ⟨तो⟩ तेजते, व ⟨चंद्र⟩ तेजोमय चालत ⟨असतो⟩,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "मी पाहिले"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "तेजते"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "व चंद्र"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "तेजोमय"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चालत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:27:02.905508119Z",
+  "model": "glm-5.2"
+}

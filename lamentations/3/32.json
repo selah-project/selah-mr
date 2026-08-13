@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कारण जरी तो दुःख देतो, तरी तो दया करतो, त्याच्या मोठ्या करुणेच्या प्रमाणात.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण जरी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "तरी"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "तो दुःख देतो"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "तो दया करतो"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "प्रमाणात"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "त्याच्या मोठ्या करुणेच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:55.910731971Z",
+  "model": "glm-5.2"
+}

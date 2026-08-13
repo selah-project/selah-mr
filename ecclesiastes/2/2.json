@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हास्याविषयी म्हणालो, ⟨ते⟩ वेडे ⟨आहे⟩; आणि आनंदाविषयी: हे काय करीत आहे?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "हास्याविषयी"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "म्हणालो"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "वेडे"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "आणि आनंदाविषयी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करीत आहे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:29.525085768Z",
+  "model": "glm-5.2"
+}

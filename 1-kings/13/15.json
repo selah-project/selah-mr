@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि त्याने त्याला म्हटले, माझ्याबरोबर घरी चल आणि भाकरी खा.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि त्याने म्हटले"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "चल"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "घरी"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "आणि खा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भाकरी"
+    }
+  ],
+  "timestamp": "2026-08-13T12:33:25.154987932Z",
+  "model": "glm-5.2"
+}

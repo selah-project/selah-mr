@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "कारण माझे ताळू सत्य उच्चारेल; आणि माझ्या ओठांना द्रोह ⟨अ⟩ घृणास्पद ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "उच्चारेल"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "माझे ताळू"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "आणि घृणास्पद"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "माझ्या ओठांना"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "द्रोह"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:11.735695659Z",
+  "model": "glm-5.2"
+}

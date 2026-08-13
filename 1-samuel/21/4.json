@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि आता तुझ्या हाताखाली काय आहे? पाच भाकरी माझ्या हाती दे, किंवा जे सापडेल.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "יש",
+      "gloss": "आहे"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तुझ्या हाता"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भाकरी"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "दे"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "माझ्या हाती"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "जे सापडेल"
+    }
+  ],
+  "timestamp": "2026-08-13T12:05:41.067458576Z",
+  "model": "glm-5.2"
+}

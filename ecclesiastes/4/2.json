@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि मी स्तुती केली ⟨את⟩ मृतांना जे आधीच मरण पावले, ⟨हे स्तुती⟩ जीवितांहून अधिक, जे ते आजपर्यंत जिवंत आहेत.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "आणि मी स्तुती केली"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मृतांना"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मृतांना"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "जे आधीच"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरण पावले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "हून"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवितांपेक्षा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ते"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिवंत"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "आजपर्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:26.823031666Z",
+  "model": "glm-5.2"
+}

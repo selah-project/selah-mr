@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "योसेफ गोत्रासाठी — मनश्शे गोत्रासाठी, सुसीचा मुलगा गद्दी.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्रासाठी"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्रासाठी"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "सुसी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:01:38.187292716Z",
+  "model": "glm-5.2"
+}

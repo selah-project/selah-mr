@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "मी भिणार नाही लाखो लोकांची, जे सभोवताली माझ्यावर उतरले आहेत.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "मी भिणार"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "लाखो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोकांची"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "सभोवताली"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "उतरले आहेत"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:30:13.763926689Z",
+  "model": "glm-5.2"
+}

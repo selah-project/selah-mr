@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि शेतचे सर्व दिवस बारा वर्षे आणि नऊशे वर्षे ⟨होते⟩, आणि तो मेला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "שת",
+      "gloss": "शेतचे"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨बारा⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आणि नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि तो मेला"
+    }
+  ],
+  "timestamp": "2026-08-13T09:58:52.841284501Z",
+  "model": "glm-5.2"
+}

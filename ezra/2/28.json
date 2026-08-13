@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "बेथ-एल व हाअईचे लोकः दोनशे वीस तीन.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "व हाअई"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:53.727181081Z",
+  "model": "glm-5.2"
+}

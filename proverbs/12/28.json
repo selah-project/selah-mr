@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "धार्मिकतेच्या मार्गात ⟨आहे⟩ जीवन, आणि त्या निबड मार्गावर मृत्यू नाही.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "मार्गात"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धार्मिकतेच्या"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "आणि मार्गावर"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "निबड"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:46.915798990Z",
+  "model": "glm-5.2"
+}

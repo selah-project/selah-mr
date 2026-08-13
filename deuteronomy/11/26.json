@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "पहा, मी ठेवत आहे तुमच्या समोर आज आशीर्वाद व शाप.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "पहा"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ठेवत आहे"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "तुमच्या समोर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "आशीर्वाद"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "व शाप"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:25.059859817Z",
+  "model": "glm-5.2"
+}

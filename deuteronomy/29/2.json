@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "⟨⟩ महान चाचण्या ज्या तुझ्या डोळ्यांनी पाहिल्या, ⟨⟩ चिन्हे आणि ⟨⟩ महान चमत्कार ती ⟨⟩",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "चाचण्या"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्या"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "पाहिल्या"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तुझ्या डोळ्यांनी"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "चिन्हे"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "आणि चमत्कार"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "महान"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ती"
+    }
+  ],
+  "timestamp": "2026-08-13T11:28:32.849805033Z",
+  "model": "glm-5.2"
+}

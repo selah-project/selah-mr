@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 121,
+  "translation": "घे, तंद्री धरणार नाही व झोपणार नाही इस्राएलचा रक्षक.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "घे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "तंद्री धरणार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "झोपणार"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "रक्षक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:26.342684397Z",
+  "model": "glm-5.2"
+}

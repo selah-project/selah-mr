@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि माझा जीव खूपच घाबरला आहे; तू ⟨את⟩ याहवेह — केव्हापर्यंत?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "आणि माझा जीव"
+    },
+    {
+      "surface": "נבהलה",
+      "gloss": "घाबरला आहे"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "खूपच"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "तू ⟨את⟩",
+      "marks": "याहवेह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "केव्हा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:30:14.579610763Z",
+  "model": "glm-5.2"
+}

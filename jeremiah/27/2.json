@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "असे याहवेह मला म्हणाला: तू स्वतःसाठी बेड्या व ओझ्या बनव व ⟨त्या⟩ तुझ्या गळ्यात घाल.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनव"
+    },
+    {
+      "surface": "לך",
+      "gloss": "स्वतःसाठी"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "बेड्या"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "व ओझ्या"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "व घाल"
+    },
+    {
+      "surface": "על",
+      "gloss": "तुझ्या ... वर"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "गळ्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T13:32:35.641614403Z",
+  "model": "glm-5.2"
+}

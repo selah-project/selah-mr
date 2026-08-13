@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "आणि अहरोन घालील दोन शेंदऱ्यांवर लॉट एक लॉट याहवेहसाठी आणि एक लॉट अझाझेलसाठी.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "आणि घालील"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "शेंदऱ्यां"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "लॉट"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "लॉट"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहसाठी"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "आणि लॉट"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "अझाझेलसाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:48:53.534136090Z",
+  "model": "glm-5.2"
+}

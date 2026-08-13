@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 57,
+  "translation": "ऊंच ⟨हो⟩, हे एलोहीम, आकाशांपेक्षा; तुझी गौरव संपूर्ण पृथ्वीवर.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ऊंच ⟨हो⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "पेक्षा"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशां"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "तुझी गौरव"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:21.279281892Z",
+  "model": "glm-5.2"
+}

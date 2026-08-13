@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि याहवेहने मला चार कारागीर दाखवले.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "आणि-दाखवले-मला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "कारागीर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:25:30.310307608Z",
+  "model": "glm-5.2"
+}

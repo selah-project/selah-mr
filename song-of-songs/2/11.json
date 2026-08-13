@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "कारण हे पाहा, ⟨the⟩ हिवाळा गेला, ⟨the⟩ पाऊस ओलांडला, गेला.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हे पाहा"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "हिवाळा"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "गेला"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "पाऊस"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ओलांडला"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:54.678764115Z",
+  "model": "glm-5.2"
+}

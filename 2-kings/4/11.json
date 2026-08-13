@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि एक दिवस आला, व तो तिथे आला, व तो माळकडे वळला, व तिथे झोपला.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "एक दिवस"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "व तो आला"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "व तो वळला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−कडे"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "माळकडे"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "व तो झोपला"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "तिथे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:41:06.122050700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व त्याचे सैन्य व त्यांची गणना: बसषठ्याहजार व सातशे.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "व त्याचे सैन्य"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "व त्यांची गणना"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "व सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:17.153403431Z",
+  "model": "glm-5.2"
+}

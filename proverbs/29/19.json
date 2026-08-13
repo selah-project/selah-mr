@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "शब्दांनी ⟨एक⟩ दास शिकवता येत नाही; कारण तो समजतो, पण ⟨त्याची⟩ प्रतिसाद नाही.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "शब्दांनी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "शिकवता येत"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "तो समजतो"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "पण"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "प्रतिसाद"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:00.778757668Z",
+  "model": "glm-5.2"
+}

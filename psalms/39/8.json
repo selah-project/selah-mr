@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "व आता काय ⟨मी⟩ अपेक्षिते अदोनाय? ⟨माझी⟩ अपेक्षा तुझ्याकडे आहे.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "व आता"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "⟨मी⟩ अपेक्षिते"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "⟨माझी⟩ अपेक्षा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्याकडे"
+    },
+    {
+      "surface": "היא",
+      "gloss": "आहे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:40.327759418Z",
+  "model": "glm-5.2"
+}

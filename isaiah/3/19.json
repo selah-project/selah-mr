@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "लोंब्या, आणि कांकणे, आणि मुखवटे,",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "लोंब्या"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "आणि कांकणे"
+    },
+    {
+      "surface": "והרעलות",
+      "gloss": "आणि मुखवटे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:55:31.653425628Z",
+  "model": "glm-5.2"
+}

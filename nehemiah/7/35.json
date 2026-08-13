@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "हारीमच्या ⟨पुत्र⟩, तीनशे वीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारीम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:36.867302526Z",
+  "model": "glm-5.2"
+}

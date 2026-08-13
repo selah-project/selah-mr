@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "लेवी-पुत्रांपैकी, चार हजार व सहाशे।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "पैकी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:07:50.131323506Z",
+  "model": "glm-5.2"
+}

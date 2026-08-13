@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "कारण तो म्हणतो: 'माझे सरदार एकत्र सर्व राजे नाही का?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "तो म्हणतो"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "नाही का"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "माझे सरदार"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "सर्व राजे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:59:41.847937804Z",
+  "model": "glm-5.2"
+}

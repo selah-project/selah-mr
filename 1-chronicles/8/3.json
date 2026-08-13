@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि बेलाला पुत्रे ⟨होते⟩: अद्दार, आणि गेरा, आणि अबिहूद.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्रे"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "बेलाला"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "अद्दार"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "आणि गेरा"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "आणि अबिहूद"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:03.623102416Z",
+  "model": "glm-5.2"
+}

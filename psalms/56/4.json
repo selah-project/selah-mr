@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 56,
+  "translation": "ज्या दिवशी मला भीती वाटते, मी ⟨तरच⟩ तुझ्यावर भरवसा ठेवतो.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ज्या दिवशी"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "मला भीती वाटते"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "भरवसा ठेवतो"
+    }
+  ],
+  "timestamp": "2026-08-13T14:41:42.875133752Z",
+  "model": "glm-5.2"
+}

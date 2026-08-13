@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 109,
+  "translation": "त्याचे मुले अनाथ होतील आणि त्याची पत्नी विधवा ⟨होईल⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "होतील"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याचे मुले"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "आणि त्याची पत्नी"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:56:04.713166046Z",
+  "model": "glm-5.2"
+}

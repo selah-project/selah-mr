@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "इगआल नातान ⟨हा⟩ त्सोबायती याचा पुत्र, बानी ⟨हा⟩ गादी;",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "इगआल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "त्सोबायती"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "गादी"
+    }
+  ],
+  "timestamp": "2026-08-13T12:23:03.320101647Z",
+  "model": "glm-5.2"
+}

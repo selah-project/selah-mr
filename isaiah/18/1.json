@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "हाय! पंखांच्या फडफडाटाची देश, जो कूशच्या नद्यांच्या पलीकडे ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "फडफडाट"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "पंखांचा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "पलीकडे"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "नद्यांच्या"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    }
+  ],
+  "timestamp": "2026-08-13T13:00:55.353029661Z",
+  "model": "glm-5.2"
+}

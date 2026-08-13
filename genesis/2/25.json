@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि दोघे नग्न होते, मनुष्य आणि त्याची पत्नी, आणि ते लाजले नाहीत.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि होते"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दोघे"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "नग्न"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "आणि त्याची पत्नी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "लाजले"
+    }
+  ],
+  "timestamp": "2026-08-13T09:56:54.136949050Z",
+  "model": "glm-5.2"
+}

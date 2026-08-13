@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "हारीमचे मुले — एक हजार सतरा.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारीमचे"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:48.167082447Z",
+  "model": "glm-5.2"
+}

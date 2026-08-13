@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "एक शेरा, एक, तुमच्यासाठी प्रायश्चित्त करण्यास।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "शेरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "प्रायश्चित्त करण्यास"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तुमच्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:39.585096659Z",
+  "model": "glm-5.2"
+}

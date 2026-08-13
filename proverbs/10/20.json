@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "निवडलेले चांदी ⟨आहे⟩ धर्मीची जीभ, दुष्टांचे हृदय ⟨हे⟩ किरकोळ.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चांदी"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "निवडलेले"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मीची"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांचे"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "किरकोळ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:21.513466239Z",
+  "model": "glm-5.2"
+}

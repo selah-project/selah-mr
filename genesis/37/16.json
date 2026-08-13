@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "व त्याने म्हटले: ⟨את⟩ माझे भाऊ मी शोधत आहे; मला सांग ना, ते कुठे काठीण राखतात?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "व त्याने म्हटले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "माझे भाऊ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "माझे भाऊ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "शोधत आहे"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "सांग"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "कुठे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ते"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "काठीण राखतात"
+    }
+  ],
+  "timestamp": "2026-08-13T10:15:26.500471594Z",
+  "model": "glm-5.2"
+}

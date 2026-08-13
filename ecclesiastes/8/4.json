@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "जिथे राजाचे वचन आहे तिथे अधिकार आहे, आणि कोण त्याला म्हणेल, 'तू काय करतोस?'",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "जिथे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाचे"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "अधिकार"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आणि कोण"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "म्हणेल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू करतोस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:18.729245740Z",
+  "model": "glm-5.2"
+}

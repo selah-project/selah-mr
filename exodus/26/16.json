@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "दहा हात ⟨होतील⟩ ⟨एका⟩ करशाची लांबी, आणि एक हात व अर्धा हात ⟨होईल⟩ ⟨एका⟩ करशाची रुंदी.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लांबी"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "करशाची"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आणि एक हात"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "व अर्धा"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "रुंदी"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "करशाची"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एका"
+    }
+  ],
+  "timestamp": "2026-08-13T10:34:43.507500830Z",
+  "model": "glm-5.2"
+}

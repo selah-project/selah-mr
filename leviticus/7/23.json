@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "इस्राएलपुत्रांशी बोलून सांग: तुम्ही बैलाचे, मेंढीचे आणि शेळीचे कोणतेही चरबी खाऊ नये.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोलून सांग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रां"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणजे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणतेही"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैलाचे"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "आणि मेंढीचे"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "आणि शेळीचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खाऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T10:44:24.117427442Z",
+  "model": "glm-5.2"
+}

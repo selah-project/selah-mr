@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि देशाचा फायदा सर्वांवर आहे — एक राजा शेतासाठी सेवा केली जाते.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "आणि फायदा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देशाचा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सर्वांवर"
+    },
+    {
+      "surface": "היא",
+      "gloss": "आहे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "एक राजा"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "शेतासाठी"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "सेवा केली जाते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:41.592415632Z",
+  "model": "glm-5.2"
+}

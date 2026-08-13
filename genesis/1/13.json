@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि ⟨होऊन गेले⟩ संध्याकाळ, आणि ⟨होऊन गेले⟩ प्रभात — तिसरा दिवस.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होऊन गेले⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "संध्याकाळ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होऊन गेले⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "प्रभात"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "तिसरा"
+    }
+  ],
+  "timestamp": "2026-08-13T09:57:21.108290490Z",
+  "model": "glm-5.2"
+}

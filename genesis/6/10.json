@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "नोहाने तीन पुत्र जन्म दिले: ⟨את⟩ शेम, ⟨את⟩ खाम व ⟨את⟩ याफेत.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिले"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहाने"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "याफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:40.604647564Z",
+  "model": "glm-5.2"
+}

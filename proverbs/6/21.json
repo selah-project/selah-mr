@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "त्यांना तुझ्या हृदयावर नित्य बांध, त्यांना तुझ्या गळ्याभोवती बांध.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "त्यांना बांध"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तुझ्या हृदया"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "नित्य"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "त्यांना बांध"
+    },
+    {
+      "surface": "על",
+      "gloss": "भोवती"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "तुझ्या गळ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:32.347301239Z",
+  "model": "glm-5.2"
+}

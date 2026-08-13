@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "बेथ-लेखेम व नेतोफाचे पुरुष एकशे अठ्ठ्याऐंशी.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "व नेतोफाचे"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ऐंशी"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "व आठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:32.322750290Z",
+  "model": "glm-5.2"
+}

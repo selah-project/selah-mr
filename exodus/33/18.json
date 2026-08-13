@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि तो म्हणाला: मला दया करून ⟨את⟩ तुझे वैभव दाखव.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि तो म्हणाला"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "मला दाखव"
+    },
+    {
+      "surface": "נא",
+      "gloss": "दया करून"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तुझे वैभव"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "तुझे वैभव"
+    }
+  ],
+  "timestamp": "2026-08-13T10:37:45.426455807Z",
+  "model": "glm-5.2"
+}

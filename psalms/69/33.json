@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 69,
+  "translation": "नम्र ⟨एकोंनी⟩ पाहिले, आनंदित झाले; एलोहीमचे शोधक, ⟨तुमचे⟩ हृदय जगो.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "पाहिले"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "नम्र"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "आनंदित झाले"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "शोधक"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमचे"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "जगो"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-13T14:45:06.762875539Z",
+  "model": "glm-5.2"
+}

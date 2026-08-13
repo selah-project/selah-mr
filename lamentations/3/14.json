@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "मी ⟨होतो⟩ सर्व माझ्या जनतेचा उपहास, ⟨त्यांची⟩ गीत ⟨होती⟩ सारा दिवस.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "मी ⟨होतो⟩"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "उपहास"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "माझ्या जनतेचा"
+    },
+    {
+      "surface": "נגירתם",
+      "gloss": "त्यांचे गीत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:56.347778017Z",
+  "model": "glm-5.2"
+}

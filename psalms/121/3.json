@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 121,
+  "translation": "तो ⟨तुझे⟩ पाऊल आंदुळणार देणार नाही; तुझा रक्षक तंद्री धरणार नाही.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देणार"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "आंदुळणार"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "पाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "तंद्री धरणार"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "रक्षक"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:26.342544185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "कारण एलोहीम प्रत्येक कृतीला ⟨את⟩ न्यायात आणणार ⟨आहे⟩, प्रत्येक गुप्त गोष्टीवर, ती चांगली असो वाईक असो.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रत्येक कृतीला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "कृतीला"
+    },
+    {
+      "surface": "האलהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आणणार"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्यायात"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "נעलם",
+      "gloss": "गुप्त गोष्टीवर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "असो"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "वाईक"
+    },
+    {
+      "surface": "רע",
+      "gloss": "असो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:35.177883206Z",
+  "model": "glm-5.2"
+}

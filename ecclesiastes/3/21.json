@@ -1,0 +1,69 @@
+{
+  "tier": "hand",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कोण जाणतो — मानवाच्या मुलांचा आत्मा, तो वर जाणारा, आणि पशूचा आत्मा, तो खाली पृथ्वीकडे जाणारा?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जाणत"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांची"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानव"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "वर जाणारी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आणि आत्मा"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशूची"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "खाली जाणारी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "पृथ्वीकडे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:49.799359905Z",
+  "model": "glm-5.2"
+}

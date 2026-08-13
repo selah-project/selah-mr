@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 103,
+  "translation": "साक्षेपी भांडण करणार नाही, आणि कायमचा राग धरणार नाही.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "साक्षेपी"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "भांडण करणार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "कायमचा"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "राग धरणार"
+    }
+  ],
+  "timestamp": "2026-08-13T14:53:33.301011010Z",
+  "model": "glm-5.2"
+}

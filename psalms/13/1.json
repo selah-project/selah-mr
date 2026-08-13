@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "मुख्यायांकडून ⟨एक⟩ मझमूर दाविदाचा",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्यायांकडून"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मझमूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविदाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:32:06.562359567Z",
+  "model": "glm-5.2"
+}

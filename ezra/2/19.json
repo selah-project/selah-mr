@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हशुमचे पुत्र, दोनशे वीस व ⟨तीन⟩.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חָשֻׁ֔ם",
+      "gloss": "हशुम"
+    },
+    {
+      "surface": "מָאתַ֖יִם",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "וּשְׁלֹשָֽׁה",
+      "gloss": "व ⟨तीन⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:42.222348276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "प्रत्येक रेंगाळणारा पक्षी जो चार पायांवर चालतो, तो तुम्हाला घृणास्पद ⟨होय⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "रेंगाळणारा"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "चालतो"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणास्पद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हाला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:45:41.504426145Z",
+  "model": "glm-5.2"
+}

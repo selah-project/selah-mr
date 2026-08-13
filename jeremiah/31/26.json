@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "यावरून मी जागा झालो व पाहिले; व माझी झोप मला गोड वाटली.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "यावरून"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ह्या"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "मी जागा झालो"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "व पाहिले"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "व माझी झोप"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "गोड वाटली"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:33:57.087508128Z",
+  "model": "glm-5.2"
+}

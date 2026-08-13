@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "शेखन्याह, रेहूम, मेरेमोथ.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "शेखन्याह"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "रेहूम"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "मेरेमोथ"
+    }
+  ],
+  "timestamp": "2026-08-13T16:00:44.232094192Z",
+  "model": "glm-5.2"
+}

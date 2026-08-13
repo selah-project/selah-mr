@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "कोहेलेताच्या — दाविदाचा पुत्राच्या, येरूशालायिमचा राजाच्या — वचनांचा ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "वचनांचा"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेताच्या"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्राच्या"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविदाचा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "येरूशालायिमचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:37:57.933426615Z",
+  "model": "glm-5.2"
+}

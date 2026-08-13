@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "अव्राम — ⟨हा⟩ अव्राहाम ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "अव्राम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हा⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहाम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:09.348962763Z",
+  "model": "glm-5.2"
+}

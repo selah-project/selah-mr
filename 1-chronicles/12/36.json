@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि दानीपैकी — युद्धाचा सांगाडा रचणारे, अठ्ठावीस हजार आणि सहाशे.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आणि ... पैकी"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "दानी"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "रचणारे"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्धाचा सांगाडा"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "आणि आठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आणि सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:08:00.995076019Z",
+  "model": "glm-5.2"
+}

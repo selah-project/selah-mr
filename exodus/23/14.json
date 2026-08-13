@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "वर्षातून तीन वेळा तू माझ्यासाठी उत्सव करशील.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पाय"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "तू उत्सव करशील"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझ्यासाठी"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षातून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:32:58.272558314Z",
+  "model": "glm-5.2"
+}

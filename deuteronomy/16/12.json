@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "व तू आठवण कर की तू मिस्रामध्ये दास होतास, व तू राखून ⟨आणि⟩ करशील ⟨את⟩ ⟨हे⟩हे विधी.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "व तू आठवण कर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "היית",
+      "gloss": "तू होतास"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रामध्ये"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "व तू राखशील"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "व करशील"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे विधी"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "विधी"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "हे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:49.149662382Z",
+  "model": "glm-5.2"
+}

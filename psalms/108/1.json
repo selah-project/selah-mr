@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 108,
+  "translation": "गीत, मझमोर, दावीदला.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזमור",
+      "gloss": "मझमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:56:07.899426391Z",
+  "model": "glm-5.2"
+}

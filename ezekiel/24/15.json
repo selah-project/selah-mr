@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "व याहवेहचा वचन मजकडे आला, यास बोलण्याकरिता:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "व ⟨होते⟩"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "यास बोलण्याकरिता"
+    }
+  ],
+  "timestamp": "2026-08-13T13:57:32.827354316Z",
+  "model": "glm-5.2"
+}

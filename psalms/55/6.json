@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 55,
+  "translation": "भय आणि कंप ⟨माझ्यावर⟩ येते, आणि थररती मला झाकते.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "आणि कंप"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "येते"
+    },
+    {
+      "surface": "בי",
+      "gloss": "माझ्यावर"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "आणि मला झाकते"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "थररती"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:18.369512874Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 104,
+  "translation": "माझे चिंतन त्याला गोड वाटो; मी याहवेहांत आनंदित होईन.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "गोड वाटो"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "माझे चिंतन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "आनंदित होईन"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "याहवेहांत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:54:24.120703229Z",
+  "model": "glm-5.2"
+}

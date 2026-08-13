@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "मिळव ज्ञान, मिळव समज; ⟨ती⟩ विसरू नकोस आणि माझ्या तोंडाच्या वचनांपासून वळू नकोस.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "मिळव"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "मिळव"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समज"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "विसरू"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नकोस"
+    },
+    {
+      "surface": "תט",
+      "gloss": "वळू"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "वचनांपासून"
+    },
+    {
+      "surface": "פי",
+      "gloss": "माझ्या तोंडाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:24.890547745Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "नेबोच्या दुसऱ्याच्या ⟨पुरुष⟩, बावन्ना.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसऱ्याच्या"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:36.866777278Z",
+  "model": "glm-5.2"
+}

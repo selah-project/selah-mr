@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "व ⟨होता⟩ शेवा लेखक, व त्सादोक व एब्यातार ⟨होते⟩ कोहेन;",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "व शेवा"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "लेखक"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "व त्सादोक"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "व एब्यातार"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "कोहेन"
+    }
+  ],
+  "timestamp": "2026-08-13T12:20:17.608773192Z",
+  "model": "glm-5.2"
+}

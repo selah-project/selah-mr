@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "आणि याहवेहचा वचन यिर्मेयाहू नवीजाणाऱ्याकडे आले, या सांगण्यास:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...कडे"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नवीजाणाऱ्याकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या सांगण्यास"
+    }
+  ],
+  "timestamp": "2026-08-13T13:37:13.663185227Z",
+  "model": "glm-5.2"
+}

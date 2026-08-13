@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 25:31",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "चार व वीस — रोमम्ती-एझेरला; त्याचे मुले व त्याचे भाऊ बारा.",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    },
+    {
+      "surface": "לרוממתי",
+      "gloss": "रोमम्तीला"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "एझेर"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याचे मुले"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व त्याचे भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा ⟨दोन⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨आणि दहा⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:02.133125440Z",
+  "model": "glm-5.2"
+}

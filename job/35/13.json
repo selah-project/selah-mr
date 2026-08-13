@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "खरोखर व्यर्थतेला एल ऐकत नाही, आणि शद्दाय ⟨त्याकडे⟩ पाहत नाही.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "व्यर्थतेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ऐकत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "आणि शद्दाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "पाहत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:47.857842498Z",
+  "model": "glm-5.2"
+}

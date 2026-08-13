@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "आणि लबनोन जाळण्यास पुरे नाही, आणि त्याचे प्राणी चढावास पुरे नाहीत.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "आणि लबनोन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "די",
+      "gloss": "पुरे"
+    },
+    {
+      "surface": "בער",
+      "gloss": "जाळण्यास"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "आणि त्याचे प्राणी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "די",
+      "gloss": "पुरे"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "चढावास"
+    }
+  ],
+  "timestamp": "2026-08-13T13:09:15.103910157Z",
+  "model": "glm-5.2"
+}

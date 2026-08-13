@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व बेरेख्याहू व एल्काना दाररक्षक ⟨होते⟩, आरानच्या.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "व बेरेख्याहू"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "व एल्काना"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "दाररक्षक"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "आरानच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:08:55.240318987Z",
+  "model": "glm-5.2"
+}

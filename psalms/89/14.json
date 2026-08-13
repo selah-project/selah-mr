@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 89,
+  "translation": "तुझ्याच ⟨आहे⟩ बाहू बळासहित; तुझा हात बळकट, तुझा उजवा हात उंच केला.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "तुझ्याच"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बाहू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "बळासहित"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "बळकट"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तुझा हात"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "उंच केला"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तुझा उजवा हात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:51:13.539550532Z",
+  "model": "glm-5.2"
+}

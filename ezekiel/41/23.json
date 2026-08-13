@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "आणि हेखलासाठी आणि पवित्रस्थानासाठी दोन दरवाजे.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "आणि दोन"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "दरवाजे"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "हेखलासाठी"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "आणि पवित्रस्थानासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:05:52.176097552Z",
+  "model": "glm-5.2"
+}

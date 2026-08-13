@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "आणि याहवेह मोशेशी बोलला, या सांगत:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:41:15.870151903Z",
+  "model": "glm-5.2"
+}

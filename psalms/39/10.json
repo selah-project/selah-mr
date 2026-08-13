@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "मी गप्प झालो, मी माझे तोंड उघडत नाही, कारण तू हे केले आहेस.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "मी गप्प झालो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "मी उघडत"
+    },
+    {
+      "surface": "פי",
+      "gloss": "माझे तोंड"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "केले आहेस"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:13.805898297Z",
+  "model": "glm-5.2"
+}

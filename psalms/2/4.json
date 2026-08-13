@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आकाशांमध्ये बसलेला हसतो; अदोनाय त्यांची उपहास करतो.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "बसलेला"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाशांमध्ये"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "हसतो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "उपहास करतो"
+    },
+    {
+      "surface": "למו",
+      "gloss": "त्यांची"
+    }
+  ],
+  "timestamp": "2026-08-13T14:29:04.000449135Z",
+  "model": "glm-5.2"
+}

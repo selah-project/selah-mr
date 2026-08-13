@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "हे ⟨होत⟩ गिलअदचे पुत्र: इअझेर — ⟨ही⟩ इअझेरी कुळ; लाखेलेक — ⟨ही⟩ खेलेकी कुळ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलअदचे"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "इअझेर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "इअझेरी"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "लाखेलेक"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "खेलेकी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:42.198668287Z",
+  "model": "glm-5.2"
+}

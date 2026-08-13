@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "किंवा जर ते जिवंत मांस परत येऊन पांढरे झाले, तर तो कोहेनाकडे येईल.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जर"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "परत येऊन"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "החי",
+      "gloss": "जिवंत"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "आणि बदलून झाले"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "पांढरे"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आणि येईल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याकडे"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:22.397942969Z",
+  "model": "glm-5.2"
+}

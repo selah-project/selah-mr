@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "शेमचे ⟨हे⟩ पुत्र: एलाम व अश्शूर व अर्पकशद व लूद व अराम व ऊस व हूल व गेथर व मशेख.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "व अश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "व अर्पकशद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "व लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "व अराम"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "व ऊस"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "व हूल"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "व गेथर"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "व मशेख"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:52.148201606Z",
+  "model": "glm-5.2"
+}

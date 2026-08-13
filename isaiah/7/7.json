@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "असे म्हणतो अदोनाय याहवेह: ती उभी राहणार नाही आणि ती ⟨होणार⟩ नाही.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "उभी राहणार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨होणार⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T12:56:37.816650596Z",
+  "model": "glm-5.2"
+}

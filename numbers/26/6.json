@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "खेत्स्रोन — ⟨हा⟩ खेत्स्रोनी कुळ, कर्मी — ⟨हा⟩ कर्मीई कुळ.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "खेत्स्रोन"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "खेत्स्रोनी"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "कर्मी"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "कर्मीई"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:36.981765965Z",
+  "model": "glm-5.2"
+}

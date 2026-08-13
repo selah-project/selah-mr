@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "दोष्य ⟨मनुष्य⟩ ⟨आपल्या⟩ जीव-तृप्तीने खातो, पण दुष्टांचे पोट हुकटे असते.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "दोष्य"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खातो"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "तृप्तीने"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "पण पोट"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांचे"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "हुकटे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:12.080173137Z",
+  "model": "glm-5.2"
+}

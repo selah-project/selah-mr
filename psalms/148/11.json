@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 148,
+  "translation": "पृथ्वीचे राजे व सर्व राष्ट्रे, सरदार व पृथ्वीचे सर्व न्यायी:",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वीचे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "राष्ट्रे"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वीचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:43.966050716Z",
+  "model": "glm-5.2"
+}

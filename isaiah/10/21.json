@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "शेष परतून, याकोवचा शेष, सामर्थ्यवान एल कडे.",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "परतून"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "सामर्थ्यवान"
+    }
+  ],
+  "timestamp": "2026-08-13T12:58:29.032363220Z",
+  "model": "glm-5.2"
+}

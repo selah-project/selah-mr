@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "जेव्हा तू ⟨את⟩ जमीन कसशील तेव्हा ती आपली ताकत तुला पुढे देणार नाही; भटकता फिरता तू पृथ्वीत ⟨असशील⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "तू कसशील"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जमीन"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "जमीन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "पुढे"
+    },
+    {
+      "surface": "תת",
+      "gloss": "देणार"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "נע",
+      "gloss": "भटकता"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "फिरता"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "तू ⟨असशील⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीत"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:09.130811433Z",
+  "model": "glm-5.2"
+}

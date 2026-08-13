@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "तू पाहिलेस त्यांचा सर्व सूड, त्यांच्या सर्व कल्पना माझ्याविषयी.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "तू पाहिलेस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "त्यांचा सूड"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "त्यांच्या कल्पना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझ्याविषयी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:44.392996248Z",
+  "model": "glm-5.2"
+}

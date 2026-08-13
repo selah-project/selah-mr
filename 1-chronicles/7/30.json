@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आशेरची मुले: यिम्ना, यिश्वा, यिश्वी, बरिआ आणि शेरह त्यांची बहीण.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेरची"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "यिम्ना"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "यिश्वा"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "यिश्वी"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "बरिआ"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "शेरह"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "त्यांची बहीण"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:35.686133571Z",
+  "model": "glm-5.2"
+}

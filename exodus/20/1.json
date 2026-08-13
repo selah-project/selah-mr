@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि एलोहीमने ⟨את⟩ सर्व ⟨ही⟩ वचने बोलले, यास तोंड फोडून:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि-बोलले"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व ही वचने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨ही⟩ वचने"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यास तोंड फोडून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:30:49.102184146Z",
+  "model": "glm-5.2"
+}

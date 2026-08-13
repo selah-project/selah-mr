@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक बैल, गुराचे शिंगर, एक मेंढा, एक एकवर्षीय कोकरू, दग्धार्पणासाठी।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨मुलगा⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गुराचे"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेंढा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨मुलगा⟩"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एकवर्षीय"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "दग्धार्पणासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:06.864341401Z",
+  "model": "glm-5.2"
+}

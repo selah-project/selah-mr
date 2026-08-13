@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि हे अनाचे मुले ⟨होते⟩: दिशोन आणि अनाची कन्या ओहोलीबामा.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाचे"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "आणि ओहोलीबामा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "कन्या"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाची"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:48.228341497Z",
+  "model": "glm-5.2"
+}

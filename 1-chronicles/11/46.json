@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 11:46",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "एलीएल ⟨हा⟩ माखवीय व यरीबय व योशव्याह एल्नामचे पुत्र व यित्मा ⟨हा⟩ मोआबीय",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "एलीएल"
+    },
+    {
+      "surface": "המחוים",
+      "gloss": "माखवीय"
+    },
+    {
+      "surface": "וריבי",
+      "gloss": "व यरीबय"
+    },
+    {
+      "surface": "ושויה",
+      "gloss": "व योशव्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אלנעם",
+      "gloss": "एल्नाम"
+    },
+    {
+      "surface": "ויתמה",
+      "gloss": "व यित्मा"
+    },
+    {
+      "surface": "המואבי",
+      "gloss": "मोआबीय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:52.999047204Z",
+  "model": "glm-5.2"
+}

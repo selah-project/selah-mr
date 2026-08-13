@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "वाईट माणसांचा हेवा करू नको, व ⟨את⟩ त्यांच्यासोबत ⟨असण्याची⟩ इच्छा करू नको.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "तू हेवा करू"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "माणसांचा"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व नको"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "तू इच्छा करू"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "असण्याची"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ त्यांच्यासोबत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:01.055174583Z",
+  "model": "glm-5.2"
+}

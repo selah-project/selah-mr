@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "याहवेची वाट पाह, धैर्य धर आणि ⟨तुझे⟩ हृदय बळकट कर, आणि याहवेची वाट पाह!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "वाट पाह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेची"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "धैर्य धर"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "आणि बळकट कर"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "आणि वाट पाह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेची"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:20.780314160Z",
+  "model": "glm-5.2"
+}

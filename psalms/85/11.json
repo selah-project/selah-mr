@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 85,
+  "translation": "कृपा आणि सत्य भेटले; नीती आणि शांतता चुंबन घेतले.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आणि सत्य"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "भेटले"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "नीती"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "आणि शांतता"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "चुंबन घेतले"
+    }
+  ],
+  "timestamp": "2026-08-13T14:49:54.276117411Z",
+  "model": "glm-5.2"
+}

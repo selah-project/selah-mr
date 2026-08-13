@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "⟨त्या⟩ दिवशी ⟨ते⟩ खाल्ले जाईल, त्यापासून ⟨काहीही⟩ सकाळपर्यंत शिल्लक ठेवू नका; मी याहवेह.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाल्ले जाईल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "शिल्लक ठेवू"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "त्यापासून"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "सकाळ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:51:53.349359459Z",
+  "model": "glm-5.2"
+}

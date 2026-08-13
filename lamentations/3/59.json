@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "तू पाहिलेस, हे याहवेह, माझी जुलूम; तू माझा न्यायनिवाडा कर.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "तू पाहिलेस"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे याहवेह"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "माझी जुलूम"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "तू न्यायनिवाडा कर"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "माझा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:44.392852817Z",
+  "model": "glm-5.2"
+}

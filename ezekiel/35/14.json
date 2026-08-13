@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "असे अदोनाय याहवेह बोलत आहे: सर्व पृथ्वी आनंदित होत असताना, मी तुला ओसाड करीन.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोलत आहे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "आनंदित होत असताना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ओसाड"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "मी करीन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:02:06.436642323Z",
+  "model": "glm-5.2"
+}

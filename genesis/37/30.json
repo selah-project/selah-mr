@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "व तो आपल्या भावांकडे परतला व म्हणाला: बालक नाही, व मी — मी कुठे चाललो?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "परतला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "आपल्या भावां"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "व म्हणाला"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "व मी"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कुठे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "בא",
+      "gloss": "चाललो"
+    }
+  ],
+  "timestamp": "2026-08-13T16:29:44.319017870Z",
+  "model": "glm-5.2"
+}

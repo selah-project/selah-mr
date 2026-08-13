@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "ही ⟨आहे⟩ संपूर्ण पृथ्वीवर निर्धारित सल्ला, व ही ⟨आहे⟩ सर्व राष्ट्रांवर ताठीलेली हात.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "सल्ला"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "निर्धारित"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "व ही"
+    },
+    {
+      "surface": "היד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ताठीलेली"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "राष्ट्रां"
+    }
+  ],
+  "timestamp": "2026-08-13T12:59:27.875242876Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "अर्थहीनता अर्थहीनतांची, कोहेलेत म्हणतो — अर्थहीनता अर्थहीनतांची; सर्व ⟨आहे⟩ अर्थहीन.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "अर्थहीनता"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "अर्थहीनतांची"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "अर्थहीनता"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "अर्थहीनतांची"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "अर्थहीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:37:57.933783305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि सारय वांझ होती; तिला संतती नव्हती.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "आणि ⟨होती⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सारय"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "वांझ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नव्हती"
+    },
+    {
+      "surface": "לה",
+      "gloss": "तिला"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "संतती"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:25.819921564Z",
+  "model": "glm-5.2"
+}

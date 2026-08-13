@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "शर्ट ती बनवते व विकते; व कटिबंध ती देते ⟨कनी⟩ कनानीला।",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "शर्ट"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ती बनवते"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "व विकते"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "व कटिबंध"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ती देते"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "कनानीला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:17:12.463779409Z",
+  "model": "glm-5.2"
+}

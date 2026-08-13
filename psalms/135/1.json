@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 135,
+  "translation": "स्तुती करा याह; स्तुती करा ⟨את⟩ नाव याहवेह; स्तुती करा, ⟨हे⟩ दास याहवेह!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुती करा"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुती करा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाव"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुती करा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T15:01:49.168357758Z",
+  "model": "glm-5.2"
+}

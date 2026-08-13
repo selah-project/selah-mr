@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "मधाची चवळ ⟨आहे⟩ प्रिय शब्द, जीवाला गोड आणि हाडांना आरोग्य.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "चवळ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मधाची"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "प्रिय"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "गोड"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "जीवाला"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "आणि आरोग्य"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "हाडांना"
+    }
+  ],
+  "timestamp": "2026-08-13T16:47:35.511799758Z",
+  "model": "glm-5.2"
+}

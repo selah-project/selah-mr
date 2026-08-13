@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि शलमोह खमात-त्सोबाहात गेला, आणि त्याने तिच्यावर प्रबल होत घेतले.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आणि गेला"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलमोह"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमात-"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोबाहात"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "आणि प्रबल होत घेतले"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "तिच्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:17:10.289313380Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "संपूर्ण तू ⟨होशील⟩ याहवेह तुझ्या एलोहीम सोबत.",
+  "tokens": [
+    {
+      "surface": "תָּמִ֣ים",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "תִּֽהְיֶ֔ה",
+      "gloss": "तू ⟨होशील⟩"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "सोबत"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אֱלֹהֶֽיךָ",
+      "gloss": "तुझ्या एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T11:24:10.721464043Z",
+  "model": "glm-5.2"
+}

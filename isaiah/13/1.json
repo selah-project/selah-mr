@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "बाबेलचा भार, जो यशयाहवूने, आमोत्च्या मुलाने, पाहिला.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेलचा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "पाहिला"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशयाहवूने"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलाने"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "आमोत्च्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:59:27.233757678Z",
+  "model": "glm-5.2"
+}

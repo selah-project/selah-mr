@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "पंधरा हात वरती बळपण धरले पाणी, आणि ⟨त्यांनी⟩ झाकले ⟨होते⟩ पर्वते.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "वरती"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "बळपण धरले"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "आणि ⟨त्यांनी⟩ झाकले ⟨होते⟩"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पर्वते"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:01.912962882Z",
+  "model": "glm-5.2"
+}

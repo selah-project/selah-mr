@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "तसेच सातत्याने असे; ढग त्याला झाकीत आणि अग्नीचे दर्शन रात्री.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सातत्याने"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ढग"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "त्याला झाकीत"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "आणि दर्शन"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नीचे"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात्री"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:42.017216021Z",
+  "model": "glm-5.2"
+}

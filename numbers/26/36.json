@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व ही शूतलहच्या पुत्रांची ⟨यादी⟩ — एरान: हाएरानींचे कुटुंब.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "व ही"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "शूतलह"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "एरान"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुटुंब"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "हाएरानी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:49.113988826Z",
+  "model": "glm-5.2"
+}

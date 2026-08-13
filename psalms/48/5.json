@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "कारण पाहा, ⟨एक⟩ राजे एकत्र आले; ते एकत्र गेले.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "पाहा"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "एकत्र आले"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "गेले"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:16.740318167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "व इबहार, व एलीशुआ, व नेफेग, व याफीय.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "व इबहार"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "व एलीशुआ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "व नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "व याफीय"
+    }
+  ],
+  "timestamp": "2026-08-13T12:12:23.479800824Z",
+  "model": "glm-5.2"
+}

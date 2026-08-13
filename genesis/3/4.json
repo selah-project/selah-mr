@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि सर्पाने स्त्रीला म्हटले, मरणार नाही, मरणार तुम्ही!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हटले"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "सर्पाने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "हאשה",
+      "gloss": "स्त्रीला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरणार"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "तुम्ही मरणार"
+    }
+  ],
+  "timestamp": "2026-08-13T09:57:16.798178330Z",
+  "model": "glm-5.2"
+}

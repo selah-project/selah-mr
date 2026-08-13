@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "⟨את⟩ ऊत्स त्याचा पहिला-जन्म व ⟨את⟩ बूज त्याचा भाऊ व ⟨את⟩ कमुएल, अरामचा पिता",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊत्स"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ऊत्स"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "त्याचा पहिला-जन्म"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "बूज"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बूज"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "त्याचा भाऊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "कमुएल"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "कमुएल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "...चा पिता"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:11.887346126Z",
+  "model": "glm-5.2"
+}

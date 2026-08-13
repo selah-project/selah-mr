@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "ज्या मार्गाने ⟨तो⟩ आला, ⟨त्याच मार्गाने तो⟩ परत जाईल, व या नगरीत येणार नाही — याहवेहचे वचन.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "मार्गाने"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्या"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "परत जाईल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व त्या"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगरीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "येणार"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:39:47.522904179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 47,
+  "translation": "एलोहीम जयघोषासह चढला, याहवेह शंखनादासह.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "चढला"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "जयघोषासह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाजासह"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शंख"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:27.598432969Z",
+  "model": "glm-5.2"
+}

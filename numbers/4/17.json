@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि याहवेह मोशेशी व अहरोनाशी बोलला, यासाठी की ⟨म्हणावे⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व ...शी"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी की म्हणावे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:26.385661142Z",
+  "model": "glm-5.2"
+}

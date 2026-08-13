@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "व मी परतलो, मी ⟨हे⟩ हेबेल ⟨हे⟩ सूर्याखाली पाहिले.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "व मी परतलो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "व मी पाहिले"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "हשמש",
+      "gloss": "सूर्याखाली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:17.398536138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "इस्राएलाच्या संपूर्ण मंडळी ⟨त्याचे⟩ करेल.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "मंडळी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलाच्या"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "करतील"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "त्याचे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:27:39.125848574Z",
+  "model": "glm-5.2"
+}

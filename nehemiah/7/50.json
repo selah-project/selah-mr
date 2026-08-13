@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "रेआयाचे पुत्र, रेत्सिनचे पुत्र, नेकोदाचे पुत्र,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "रेआया"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रेत्सिन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नेकोदा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:59.938872762Z",
+  "model": "glm-5.2"
+}

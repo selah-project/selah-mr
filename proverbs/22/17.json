@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "झुकव तुझे कान व ऐक विद्वानांचे वचने, व तुझे हृदय ठेव माझ्या ज्ञानाला।",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "झुकव"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "तुझे कान"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "व ऐक"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचने"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "विद्वानांचे"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "व तुझे हृदय"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ठेव"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "माझ्या ज्ञानाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:18.892968926Z",
+  "model": "glm-5.2"
+}

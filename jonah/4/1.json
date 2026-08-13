@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि योनाला मोठी वाईट वाटली आणि ⟨त्याला⟩ राग आला.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "आणि वाईट वाटली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "प्रति"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योनाला"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट गोष्ट"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "मोठी"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "आणि राग आला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨त्याला⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T14:18:49.298895725Z",
+  "model": "glm-5.2"
+}

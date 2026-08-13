@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "अमर्याह, मल्लूख, हत्तूश.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "मल्लूख"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "हत्तूश"
+    }
+  ],
+  "timestamp": "2026-08-13T16:00:44.231994086Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "व एव्रोन व रेखोब व खम्मोन व काना — मोठ्या सिदोनपर्यंत.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "व एव्रोन"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "व रेखोब"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "व खम्मोन"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "व काना"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "सिदोन"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "मोठ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:44.423804850Z",
+  "model": "glm-5.2"
+}

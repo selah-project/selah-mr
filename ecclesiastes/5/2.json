@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "कारण स्वप्न ब-यापैकी कष्टातून येते, आणि मूर्खाचा आवाज ब-यापैकी वचनांतून ⟨येतो⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येते"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "स्वप्न"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ब-यापैकी"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "कष्टातून"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "आणि आवाज"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खाचा"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ब-यापैकी"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "वचनांतून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:46.236969470Z",
+  "model": "glm-5.2"
+}

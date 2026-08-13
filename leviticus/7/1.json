@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि ही ⟨आशाम⟩-ची तोरा ⟨आहे⟩; पवित्र-पवित्रांचे ते ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "आणि ही"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "आशाम-ची"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्रांचे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ते"
+    }
+  ],
+  "timestamp": "2026-08-13T10:43:58.546581753Z",
+  "model": "glm-5.2"
+}

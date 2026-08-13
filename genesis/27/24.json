@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि म्हणाला, तू हो ⟨का⟩ माझा पुत्र एसाव? आणि तो म्हणाला, मी ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בני",
+      "gloss": "माझा पुत्र"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि तो म्हणाला"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:10:14.941766105Z",
+  "model": "glm-5.2"
+}

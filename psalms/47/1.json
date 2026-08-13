@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 47,
+  "translation": "⟨मुख्यनायकासाठी, कोरहपुत्रांच्यासाठी, एक मझमोर.⟩",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्यनायकासाठी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांच्यासाठी"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मझमोर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:54.942508619Z",
+  "model": "glm-5.2"
+}

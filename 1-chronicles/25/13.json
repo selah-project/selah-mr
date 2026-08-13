@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "सहावा बुक्कियाहू, ⟨त्याची⟩ पुत्रे व ⟨त्याचे⟩ भाऊ — बारा.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "सहावा"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "बुक्कियाहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "पुत्रे"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:55.714070484Z",
+  "model": "glm-5.2"
+}

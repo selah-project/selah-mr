@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "आणि मी, जणू बधिर ⟨मणूस⟩, ऐकत नाही; आणि जणू मूक जो ⟨आपला⟩ तोंड उघडत नाही.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आणि मी"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "जणू बधिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ऐकत"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "आणि जणू मूक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "उघडत"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "तोंड"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:18.588256247Z",
+  "model": "glm-5.2"
+}

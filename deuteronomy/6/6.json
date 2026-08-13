@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि ⟨या⟩ वचने ⟨आहेत⟩ जी मी आज तुला आज्ञा करतो ⟨की⟩ तुझ्या हृदयावर ⟨असतील⟩.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "आणि-⟨ती⟩-होतील"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ही-वचने"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुला-आज्ञा-करतो"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तुझ्या-हृदयाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:47.236671528Z",
+  "model": "glm-5.2"
+}

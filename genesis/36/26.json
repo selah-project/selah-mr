@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि हे दिशोनचे मुले ⟨होते⟩: हेमदान आणि एशबान आणि यित्रान आणि केरान.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दिशोनचे"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "हेमदान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "आणि एशबान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "आणि यित्रान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "आणि केरान"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:48.228573150Z",
+  "model": "glm-5.2"
+}

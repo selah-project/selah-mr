@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "व ⟨ती⟩ ज्ञान कोठून येते, व हे ग्रहणाचे ठिकाण कोठे ⟨आहे⟩?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "व ⟨ती⟩ ज्ञान"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कोठून"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "येते"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "व कोठे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठिकाण"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ग्रहणाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:25:59.786079537Z",
+  "model": "glm-5.2"
+}

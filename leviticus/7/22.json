@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि याहवेहे मोशेशी बोलून सांगितले:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलून सांगितले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाले"
+    }
+  ],
+  "timestamp": "2026-08-13T10:44:24.117291656Z",
+  "model": "glm-5.2"
+}

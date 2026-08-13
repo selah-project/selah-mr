@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 83,
+  "translation": "गीत, मझमोर, असाफला.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मझमोर"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:44.664011883Z",
+  "model": "glm-5.2"
+}

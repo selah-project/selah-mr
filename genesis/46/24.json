@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "आणि नफ्तालीचे मुले: यह्त्सेल व गुनी व येत्सेर व शिल्लेम.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि … मुले"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्तालीचे"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "यह्त्सेल"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "व गुनी"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "व येत्सेर"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "व शिल्लेम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:25.548115072Z",
+  "model": "glm-5.2"
+}

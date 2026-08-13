@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि कुजबुज केली लोकांनी मोशेवर, म्हणाले: \"काय पिऊ?\"",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "आणि कुजबुज केली"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकांनी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेवर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाले"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "पिऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T10:29:21.183008590Z",
+  "model": "glm-5.2"
+}

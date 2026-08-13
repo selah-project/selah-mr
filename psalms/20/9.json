@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "ते मानाला, व पडले; आणि आम्ही उभे राहिलो, व स्थिर उभे आहोत.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ते"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "मानाला"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "व पडले"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आणि आम्ही"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "उभे राहिलो"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "व स्थिर उभे आहोत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:33:33.089432340Z",
+  "model": "glm-5.2"
+}

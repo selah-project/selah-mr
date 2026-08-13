@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "गोयांचे सर्व राजे, ते सर्व, आदरानी झोपले, प्रत्येक आपापल्या घरात.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयांचे"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ते सर्व"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "झोपले"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "आदरानी"
+    },
+    {
+      "surface": "איש",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "आपापल्या घरात"
+    }
+  ],
+  "timestamp": "2026-08-13T12:59:09.932511456Z",
+  "model": "glm-5.2"
+}

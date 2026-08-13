@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "जा, त्यांना सांग: तुम्ही ⟨स्वतःला⟩ तुमच्या तंबूंना परत जा.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "सांग"
+    },
+    {
+      "surface": "להם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "परत जा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨स्वतःला⟩"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "तुमच्या तंबूंना"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:58.746753020Z",
+  "model": "glm-5.2"
+}

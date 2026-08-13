@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "व दिबोन व नेबो व बेथ-दिब्लाथायिम यांच्यावर।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "दिबोन"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "व यांच्यावर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "दिब्लाथायिम"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:55.470791932Z",
+  "model": "glm-5.2"
+}

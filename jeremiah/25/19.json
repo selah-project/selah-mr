@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "⟨את⟩ फारो मिस्रचा राजा व ⟨את⟩ त्याचे दास व ⟨את⟩ त्याचे सरदार व ⟨את⟩ त्याचे सारे लोक",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फारो"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रचा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "दास"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "त्याचे दास"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "सरदार"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "त्याचे सरदार"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "सारे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "त्याचे लोक"
+    }
+  ],
+  "timestamp": "2026-08-13T13:31:13.424898374Z",
+  "model": "glm-5.2"
+}

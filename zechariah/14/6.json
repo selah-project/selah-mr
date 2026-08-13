@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि त्या दिवशी घडेल की प्रकाश असणार नाही — ⟨अमूल्य⟩ दीप्तिमान ⟨गाढ होतील⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आणि घडेल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "त्या दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असणार"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "अमूल्य दीप्तिमान"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "गाढ होतील"
+    }
+  ],
+  "timestamp": "2026-08-13T14:28:18.748681106Z",
+  "model": "glm-5.2"
+}

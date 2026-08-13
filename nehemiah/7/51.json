@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "गज्जामचे पुत्र, उझ्झाचे पुत्र, पासेयाचे पुत्र,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "गज्जाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उझ्झा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पासेया"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:59.939020111Z",
+  "model": "glm-5.2"
+}

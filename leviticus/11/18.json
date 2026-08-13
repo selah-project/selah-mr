@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि ⟨את⟩ श्वेत पक्षी आणि ⟨את⟩ पेलिकन आणि ⟨את⟩ गिधाड",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "श्वेत पक्षी"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "श्वेत पक्षी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "पेलिकन"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "पेलिकन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "गिधाड"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "गिधाड"
+    }
+  ],
+  "timestamp": "2026-08-13T10:45:41.504133261Z",
+  "model": "glm-5.2"
+}

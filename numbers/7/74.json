@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक सोन्याची तांबूलपेटी दहा ⟨शेकेल⟩ सोन्याची, धूपाने पूर्ण:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "तांबूलपेटी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोन्याची"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "पूर्ण"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूपाने"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:08.716995663Z",
+  "model": "glm-5.2"
+}

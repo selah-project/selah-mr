@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि गुरेढोरे दोन व सत्तरी हजार",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "आणि गुरेढोरे"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "व सत्तरी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:56.473111533Z",
+  "model": "glm-5.2"
+}

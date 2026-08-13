@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "तेव्हा तू ⟨व⟩ भय याहवेह चे समजशील, वएलोहीम चे ज्ञान शोधशील.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तेव्हा"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "तू समजशील"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "वज्ञान"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "तू शोधशील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:32.847562611Z",
+  "model": "glm-5.2"
+}

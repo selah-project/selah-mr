@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "माझ्याकडे तोंड फेरा आणि दंग व्हा, आणि हात तोंडावर ठेवा.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "फेरा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याकडे"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "आणि दंग व्हा"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "आणि ठेवा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "פה",
+      "gloss": "तोंडावर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:24:07.617678033Z",
+  "model": "glm-5.2"
+}

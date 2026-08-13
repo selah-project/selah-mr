@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "पाणी समुद्रातून निघून जाते आणि नदी कोरडी पडून सुकते.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "निघून जाते"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "מני",
+      "gloss": "तून"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "आणि नदी"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "कोरडी पडते"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "आणि सुकते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:22:00.962508776Z",
+  "model": "glm-5.2"
+}

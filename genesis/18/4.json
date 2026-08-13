@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "थोडे पाणी घेतले जावे, आणि तुमचे पाय धुवा, आणि झाडाखाली विसावा.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "घेतले जावे"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोडे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "आणि धुवा"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "तुमचे पाय"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "आणि विसावा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "झाडा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:04:35.082081596Z",
+  "model": "glm-5.2"
+}

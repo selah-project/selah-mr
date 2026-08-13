@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "आणि तो म्हणाला: तुझी मजुरी ठरव, माझ्यावर, आणि मी ती देईन.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ठरव"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "तुझी मजुरी"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावर"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "आणि मी देईन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:11:35.871218180Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "एत्नीचा पुत्र, झेरखचा पुत्र, अदायाचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אֶתְנִ֥י",
+      "gloss": "एत्नी"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זֶ֖רַח",
+      "gloss": "झेरख"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עֲדָיָֽה",
+      "gloss": "अदाया"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:27.116752176Z",
+  "model": "glm-5.2"
+}

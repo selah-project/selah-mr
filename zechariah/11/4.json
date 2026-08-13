@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "योग्यो असे याहवेह माझा एलोहीम सांगतो: चरव ⟨את⟩ वधाच्या ⟨मेंढ्यांचे⟩ कापड.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "योग्यो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "असे सांगतो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "माझा एलोहीम"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "चरव"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वधाच्या कापड"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "कापड"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "वधाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:58.350509189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 75,
+  "translation": "कारण एलोहीम न्यायाधीश हे; ⟨तो⟩ याला नम करतो आणि याला उंच करतो।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "न्याय करतो"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हा"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "नम करतो"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आणि हा"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उंच करतो"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:27.435699068Z",
+  "model": "glm-5.2"
+}

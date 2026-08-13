@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "कोलाहल करणारी ती ⟨आहे⟩ आणि बंडखोर; तिच्या घरात तिचे पाय राहत नाहीत",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "कोलाहल करणारी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "आणि बंडखोर"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "तिच्या घरात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "राहत"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "तिचे पाय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:20.623877385Z",
+  "model": "glm-5.2"
+}

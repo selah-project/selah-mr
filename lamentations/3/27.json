@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "चांगले ⟨आहे⟩ ⟨त्या⟩ पुरुषासाठी की ⟨तो⟩ जुंग वाहिले ⟨आहे⟩ आपल्या तारुण्यात.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "⟨त्या⟩ पुरुषासाठी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "वाहिले"
+    },
+    {
+      "surface": "על",
+      "gloss": "जूं"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "आपल्या तारुण्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:16.654550999Z",
+  "model": "glm-5.2"
+}

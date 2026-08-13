@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "येरीखोची ⟨मुले⟩ — तीनशे पंचेचाळीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "येरीखो"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "व पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:08.413240567Z",
+  "model": "glm-5.2"
+}

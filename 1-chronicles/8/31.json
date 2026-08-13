@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि गदोर, आणि अह्यो, आणि झखर.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "आणि गदोर"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आणि अह्यो"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "आणि झखर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:59.492723380Z",
+  "model": "glm-5.2"
+}

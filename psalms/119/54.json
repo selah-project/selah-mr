@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "गीते ⟨माझी⟩ झाली मला तुझी विधी, माझ्या परदेशाच्या घरात.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "गीते"
+    },
+    {
+      "surface": "היו",
+      "gloss": "झाली"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तुझी विधी"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरात"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "माझ्या परदेशाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:58:45.168508769Z",
+  "model": "glm-5.2"
+}

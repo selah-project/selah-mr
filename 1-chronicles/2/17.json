@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व अबीगैलने ⟨את⟩ अमासा जन्माला दिला, व अमासाचा पिता येतेर हा यिश्माएली होता.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "व अबीगैल"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमासा"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "अमासा"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "व पिता"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "अमासाचा"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "हा यिश्माएली"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:00.454216037Z",
+  "model": "glm-5.2"
+}

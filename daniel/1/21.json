@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि दानियेल ⟨होता⟩ कोरश राजाच्या पहिल्या वर्षापर्यंत।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होता⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानियेल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "वर्षापर्यंत"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "पहिल्या"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "कोरशच्या"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:45:01.895889920Z",
+  "model": "glm-5.2"
+}

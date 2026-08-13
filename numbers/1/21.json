@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची गणना ⟨होती⟩ लगती रुबेनच्या — सहा व चाळीस हजार व पाचशे.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची गणना"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "लगती"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रुबेनच्या"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "व चाळीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "व पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:07.804402194Z",
+  "model": "glm-5.2"
+}

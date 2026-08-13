@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि दुसऱ्या दिवशी इस्राएलची मुले बिन्यामीनच्या मुलांजवळ आली.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "आणि आली"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलची"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलां"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीनच्या"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसऱ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:54:06.773225780Z",
+  "model": "glm-5.2"
+}

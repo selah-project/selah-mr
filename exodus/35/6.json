@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "व निळे ⟨ cloth ⟩ व जांभळे ⟨ cloth ⟩ व लाल रेशम व सुती व शेळ्यांचे केस.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "व निळे"
+    },
+    {
+      "surface": "ואר्ऒמן",
+      "gloss": "व जांभळे"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "व"
+    },
+    {
+      "surface": "שני",
+      "gloss": "लाल रेशम"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सुती"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "व शेळ्यांचे केस"
+    }
+  ],
+  "timestamp": "2026-08-13T10:38:45.633701007Z",
+  "model": "glm-5.2"
+}

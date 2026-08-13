@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि याहवेह दीनांसाठी दुर्ग आहे, संकटाच्या काळी दुर्ग ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨आहे⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "दीनांसाठी"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "काळी"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "संकटाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:31:51.529208012Z",
+  "model": "glm-5.2"
+}

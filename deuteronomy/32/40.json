@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "कारण मी आकाशाकडे माझा हात उंच करतो आणि म्हणतो: मी सनातन जगतो!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "मी उंच करतो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाशाच्या"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "माझा हात"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "आणि म्हणतो"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जगतो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सनातन"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:43.677559504Z",
+  "model": "glm-5.2"
+}

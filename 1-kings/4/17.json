@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "यहोशाफात परूखाचा पुत्र ⟨होता⟩ यिस्साखरमध्ये;",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "परूखाचा"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "यिस्साखरमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T12:26:46.361228850Z",
+  "model": "glm-5.2"
+}

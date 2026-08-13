@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि ⟨आणि⟩ गिधाड, आणि ⟨आणि⟩ ससाण, त्याच्या प्रकारानुसार.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "गिधाड"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "गिधाड"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "ससाण"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ससाण"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "तिच्या प्रकारानुसार"
+    }
+  ],
+  "timestamp": "2026-08-13T10:45:35.028056894Z",
+  "model": "glm-5.2"
+}

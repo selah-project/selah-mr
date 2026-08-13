@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि तोउ, खमातचा राजा, ऐकले की दावीदने ⟨את⟩ संपूर्ण सैन्य हददएझेर, त्सोबाचा राजा याचे मारले.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आणि ऐकले"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "तोउ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमातचा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मारले"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीदने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "संपूर्ण सैन्य"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सैन्य"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "हददएझेर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोबाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:10:53.111330959Z",
+  "model": "glm-5.2"
+}

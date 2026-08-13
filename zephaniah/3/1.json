@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "हाय! ⟨ही⟩ बंडखोर व विटंबलेली, ⟨ही⟩ दबदबीची नगरी!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "बंडखोर"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "व विटंबलेली"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ही⟩ नगरी"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "दबदबीची"
+    }
+  ],
+  "timestamp": "2026-08-13T14:22:46.743678069Z",
+  "model": "glm-5.2"
+}

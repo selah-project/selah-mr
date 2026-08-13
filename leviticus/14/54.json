@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "ही ⟨आहे⟩ शिक्षा सर्व प्रकारच्या कुष्ठरोगाच्या दाहासाठी आणि नॅतेकासाठी.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "शिक्षा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "दाह"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "कुष्ठरोगाच्या"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "आणि नॅतेकासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:57.836968019Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "लोकांचे प्रमुख — पर्ओश, पहत-मोआब, एलाम, झत्तू, बानी;",
+  "tokens": [
+    {
+      "surface": "רָאשֵׁ֖י",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "הָעָ֑ם",
+      "gloss": "लोकांचे"
+    },
+    {
+      "surface": "פַּרְעֹשׁ֙",
+      "gloss": "पर्ओश"
+    },
+    {
+      "surface": "פַּחַ֣ת",
+      "gloss": "पहत"
+    },
+    {
+      "surface": "מוֹאָ֔ב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "עֵילָ֥ם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "זַתּ֖וּא",
+      "gloss": "झत्तू"
+    },
+    {
+      "surface": "בָּנִֽי",
+      "gloss": "बानी"
+    }
+  ],
+  "timestamp": "2026-08-13T17:09:30.567089791Z",
+  "model": "glm-5.2"
+}

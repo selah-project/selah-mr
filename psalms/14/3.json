@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "सर्व ⟨एकत्र⟩ दूर फिरले, ते सर्व मळले, चांगले करणारा नाही, एकही नाही.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "סר",
+      "gloss": "दूर फिरले"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨एकत्र⟩"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "मळले"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करणारा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एकही"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T14:31:44.596822946Z",
+  "model": "glm-5.2"
+}

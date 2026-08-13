@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आनंदी ⟨हृदय⟩ ⟨होते⟩ चेहऱ्याला चांगले करते, आणि हृदयाच्या दुःखात ⟨रूह⟩ खचलेली ⟨असते⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "आनंदी"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "चांगले करते"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "आणि दुःखात"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "खचलेली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:17.711994167Z",
+  "model": "glm-5.2"
+}

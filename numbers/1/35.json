@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची ⟨मोजणी⟩ मनश्शे गणाची — बत्तीस हजार व दोनशे.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची मोजणी"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गणाची"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "व तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "व दोनशे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:45.439373613Z",
+  "model": "glm-5.2"
+}

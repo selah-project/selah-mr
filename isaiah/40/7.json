@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "गवत वाळते, फूल कुजते, की याहवेहचा वारा त्यात फुंकतो; खरोखर लोक गवत ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "वाळते"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "गवत"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "कुजते"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "फूल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वारा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "फुंकतो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "गवत"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    }
+  ],
+  "timestamp": "2026-08-13T13:09:49.063552310Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "कशी ⟨स⟩बसली एकांतात ⟨the⟩ नगर, ⟨the⟩ बहुल-जनसमुदाय ⟨one⟩! ⟨स⟩⟨became⟩ विधवेसारखी; ⟨the⟩ बहुल-जनसमुदाय ⟨among the⟩ राष्ट्रांमध्ये, ⟨the⟩ स्त्री-प्रमुख ⟨among the⟩ प्रांतांमध्ये — ⟨स⟩⟨became⟩ दिलाली!",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कशी"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "बसली"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "एकांतात"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ नगर"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "बहुल-जनसमुदाय"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनसमुदाय"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨became⟩"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "विधवेसारखी"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "बहुल-जनसमुदाय"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "राष्ट्रांमध्ये"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "स्त्री-प्रमुख"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "प्रांतांमध्ये"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨became⟩"
+    },
+    {
+      "surface": "למס",
+      "gloss": "दिलाली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:51.785494659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हे एमीम पूर्वी त्या देशात राहत होते, एक मोठी आणि विपुल आणि उंच जमात, अनाकींप्रमाणे.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "हे एमीम"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पूर्वी"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "राहत होते"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्या देशात"
+    },
+    {
+      "surface": "עם",
+      "gloss": "एक जमात"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "मोठी"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "आणि विपुल"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "आणि उंच"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "अनाकींप्रमाणे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:05.943470090Z",
+  "model": "glm-5.2"
+}

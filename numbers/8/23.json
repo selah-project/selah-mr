@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि याहवेहाने मोशेशी बोलून म्हटले:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलून"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहाने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हटले"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:11.556056294Z",
+  "model": "glm-5.2"
+}

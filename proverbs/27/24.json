@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "कारण संपत्ती साठकाळ टिकत नाही, आणि मुकुट काय तो पिढीदरपिढी ⟨टिकतो⟩?",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "साठकाळ"
+    },
+    {
+      "surface": "חֹ֑סֶן",
+      "gloss": "संपत्ती"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "आणि काय"
+    },
+    {
+      "surface": "נֵ֝֗זֶר",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "לְד֣וֹר",
+      "gloss": "पिढीदर"
+    },
+    {
+      "surface": "דוֹר",
+      "gloss": "पिढी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:27.171581665Z",
+  "model": "glm-5.2"
+}

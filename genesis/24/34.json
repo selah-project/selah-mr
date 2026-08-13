@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि त्याने म्हटले, अव्राहामचा दास मी ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि त्याने म्हटले"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहाम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:08:37.271692879Z",
+  "model": "glm-5.2"
+}

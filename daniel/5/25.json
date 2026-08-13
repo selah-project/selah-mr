@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि हा ⟨is⟩ तो लेख जो लिहिला गेला: मने, मने, तेकेल, उफरसिन.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "आणि हा"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "लेख"
+    },
+    {
+      "surface": "די",
+      "gloss": "जो"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "लिहिला गेला"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "मने"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "मने"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "तेकेल"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "उफरसिन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:47:57.858506423Z",
+  "model": "glm-5.2"
+}

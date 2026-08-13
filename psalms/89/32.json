@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 89,
+  "translation": "जर ते माझे विधी भंग करतील, आणि माझ्या आज्ञा पाळणार नाहीत,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "माझे विधी"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ते भंग करतील"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "आणि माझ्या आज्ञा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "पाळणार"
+    }
+  ],
+  "timestamp": "2026-08-13T14:51:00.598820349Z",
+  "model": "glm-5.2"
+}

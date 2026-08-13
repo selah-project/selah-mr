@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "जे म्हणतात: जवळ नाही; घरे बांधा; ही ⟨आहे⟩ भांडी, आणि आम्ही आहोत मांस.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "जे म्हणतात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बांधा"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घरे"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ही"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "भांडी"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आणि आम्ही"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    }
+  ],
+  "timestamp": "2026-08-13T13:49:59.892707682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "पावसाला पिता आहे का? किंवा कोणी दवाच्या थेंबांना जन्म दिला?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "आहे का"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "पावसाला"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोणी"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "थेंबांना"
+    },
+    {
+      "surface": "טל",
+      "gloss": "दवाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:30:04.247073542Z",
+  "model": "glm-5.2"
+}

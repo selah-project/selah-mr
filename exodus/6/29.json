@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि याहवेह बोलला मोशेशी, म्हणाला: मी याहवेह; बोल फारोशी, मिस्राइमचा राजा, ⟨את⟩ सर्व जे मी बोलत आहे तुझ्याशी.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्राइमचा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलत आहे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझ्याशी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:23:59.221459758Z",
+  "model": "glm-5.2"
+}

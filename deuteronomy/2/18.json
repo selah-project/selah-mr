@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "तू आज ⟨את⟩ मोआबच्या सीमेवरून, ⟨את⟩ आर ओलांडत आहेस:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ओलांडत आहेस"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआबच्या सीमेवरून"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आर"
+    },
+    {
+      "surface": "ער",
+      "gloss": "आर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:09.710655738Z",
+  "model": "glm-5.2"
+}

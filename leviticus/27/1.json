@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि याहवेह मोशेशी बोलला, असे म्हणत:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:11.102320610Z",
+  "model": "glm-5.2"
+}

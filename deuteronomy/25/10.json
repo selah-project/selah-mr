@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि इस्राएलमध्ये त्याचे नाव ⟨हे⟩ 'चपल उतरवलेल्याचे घर' असे म्हटले जाईल.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "आणि म्हटले जाईल"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "त्याचे नाव"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएलमध्ये"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "उतरवलेल्याचे"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "चपल"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:34.739943312Z",
+  "model": "glm-5.2"
+}

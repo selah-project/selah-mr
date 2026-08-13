@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "परोशचे पुत्र: दोन हजार एकशे दहा्‌सत्तरी दोन.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "परोशचे"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दोन हजार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "दहा्‌सत्तरी"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:39.790696767Z",
+  "model": "glm-5.2"
+}

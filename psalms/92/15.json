@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 92,
+  "translation": "अजूनही वार्धक्यात फळ देतील, सधन व हरेहरे असतील.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "अजूनही"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "फळ देतील"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "वार्धक्यात"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "सधन"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "व हरेहरे"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "असतील"
+    }
+  ],
+  "timestamp": "2026-08-13T14:52:23.306363726Z",
+  "model": "glm-5.2"
+}

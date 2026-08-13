@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "चांगली ⟨आहे⟩ ज्ञान वारसासह, आणि फायदा सूर्य पाहणाऱ्यांना.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सह"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "वारसा"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "आणि फायदा"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "पाहणाऱ्यांना"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:57.399242174Z",
+  "model": "glm-5.2"
+}

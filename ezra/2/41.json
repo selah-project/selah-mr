@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "⟨देवाच्या⟩ गायक: आसाफाचे पुत्र, एक सौ वीस व आठ.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गायक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ"
+    },
+    {
+      "surface": "मאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "व आठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:49.498837088Z",
+  "model": "glm-5.2"
+}

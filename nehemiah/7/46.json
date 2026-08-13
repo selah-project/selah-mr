@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "नतीनीम: त्सिहाची मुले, खसुप्हाची मुले, तब्बावतची मुले.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "नतीनीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "त्सिहाची"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "खसुप्हाची"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "तब्बावतची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:52.797578756Z",
+  "model": "glm-5.2"
+}

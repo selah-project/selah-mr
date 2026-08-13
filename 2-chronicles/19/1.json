@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि यहोशाफात, यहूदाचा राजा, शांतीने आपल्या घरी यरूशलेमला परतला.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आणि परतला"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाचा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याकडे"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "त्याच्या घरी"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शांतीने"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलेमला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:21:30.997467897Z",
+  "model": "glm-5.2"
+}

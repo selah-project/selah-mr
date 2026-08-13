@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 115,
+  "translation": "⟨the⟩ मेले याहचे स्तवन करत नाहीत, व तो दुम्याच्या खाली जाणारे.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मेले"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "स्तवन करत"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व लो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे सर्व"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "खाली जाणारे"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "दुम्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:57:23.529188362Z",
+  "model": "glm-5.2"
+}

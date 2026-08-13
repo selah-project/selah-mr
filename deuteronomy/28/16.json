@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "अभिशप्त तू ⟨आहेस⟩ शहरात आणि अभिशप्त तू ⟨आहेस⟩ शेतात.",
+  "tokens": [
+    {
+      "surface": "אָר֥וּר",
+      "gloss": "अभिशप्त"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בָּעִ֑יר",
+      "gloss": "शहरात"
+    },
+    {
+      "surface": "וְאָר֥וּר",
+      "gloss": "आणि अभिशप्त"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בַּשָּׂדֶֽה",
+      "gloss": "शेतात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:28:09.094856051Z",
+  "model": "glm-5.2"
+}

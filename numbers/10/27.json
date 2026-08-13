@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि नफ्ताली मुलांच्या गोत्राच्या सैन्यदळावर एनानचा मुलगा अखीरा ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आणि ... वर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सैन्यदळ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांच्या"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्ताली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:28.486832864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "हे सर्व एकत्र आले सिद्दीमच्या दरीत — तो ⟨आहे⟩ मीठाचा समुद्र.",
+  "tokens": [
+    {
+      "surface": "कל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "एकत्र आले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दरीत"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "दरी"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "सिद्दीमच्या"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "मीठाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:53.261001410Z",
+  "model": "glm-5.2"
+}

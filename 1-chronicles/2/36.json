@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि अत्तायने ⟨את⟩ नातानला जन्म दिला, आणि नातानने ⟨את⟩ जाबादला जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "आणि अत्तायने"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नातानला"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातानला"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आणि नातानने"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जाबादला"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "जाबादला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:18.230055116Z",
+  "model": "glm-5.2"
+}

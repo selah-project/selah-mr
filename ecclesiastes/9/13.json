@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "हेही मी पाहिले — चित्त खाली सूर्याची ज्ञान, आणि ती मला मोठी वाटली.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "हेही"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मी पाहिले"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्याची"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "आणि मोठी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला वाटली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:10.034858836Z",
+  "model": "glm-5.2"
+}

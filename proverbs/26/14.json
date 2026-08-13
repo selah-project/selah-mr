@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "दरवाजा ⟨आपल्या⟩ खिळकावर फिरतो, व आळसी ⟨आपल्या⟩ पलंगावर.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "दरवाजा"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "फिरतो"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "खिळकावर"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "व आळसी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "पलंगावर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:57.761467298Z",
+  "model": "glm-5.2"
+}

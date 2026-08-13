@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 75,
+  "translation": "उंचावर तुमची शिंग उंच करू नका; ताठ मानेने बोलू नका।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "उंच करू"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "उंचावर"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "तुमची शिंग"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "बोलू"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "मानेने"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ताठ"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:27.435402317Z",
+  "model": "glm-5.2"
+}

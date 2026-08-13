@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि ऊगवत सूर्य आणि मावळत सूर्य, आणि ⟨कडे⟩ ⟨त्याच्या⟩ जागी हाँफत ऊगवणारा ⟨तो⟩ ⟨आहे⟩ तिथे.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "आणि ऊगवत"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आणि मावळत"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि ⟨कडे⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "त्याच्या जागी"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "हाँफत"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ऊगवणारा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:28.119980540Z",
+  "model": "glm-5.2"
+}

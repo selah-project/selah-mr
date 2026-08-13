@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि खानोखचे सर्व दिवस ⟨झाले⟩ पाच व साठ वर्षे व तीनशे वर्षे.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨झाले⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "खानोखचे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "व तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:33.208348634Z",
+  "model": "glm-5.2"
+}

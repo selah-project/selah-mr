@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि याहवेह मला म्हणाला, या प्रमाणे: मी ⟨את⟩ हे लोक पाहिले आहे, आणि पाह, हा कठोर-मानेचा लोक आहे.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या प्रमाणे"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मी पाहिले आहे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे लोक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "हे लोक"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आणि पाह"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "मान"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨आहे⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:18:55.883323071Z",
+  "model": "glm-5.2"
+}

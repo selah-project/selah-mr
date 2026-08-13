@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "मी पण माझा वाटा उत्तर देईन, मी पण माझे ज्ञान दाखवीन।",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "उत्तर देईन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "पण"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "माझा वाटा"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "दाखवीन"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "माझे ज्ञान"
+    },
+    {
+      "surface": "אף",
+      "gloss": "पण"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:00.693463480Z",
+  "model": "glm-5.2"
+}

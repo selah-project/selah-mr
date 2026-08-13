@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि ⟨हा⟩ शिलोनी पासून: असाया ⟨हा⟩ पहिला आणि त्याचे पुत्र.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आणि ... पासून"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "शिलोनी"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असाया"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आणि त्याचे पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:16.625823903Z",
+  "model": "glm-5.2"
+}

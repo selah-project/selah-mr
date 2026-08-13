@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "दोषार्पण ⟨आहे⟩ — तो निश्चित दोषी आहे याहवेहप्रति.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "दोषार्पण"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "दोषी आहे"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "निश्चित दोषी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहप्रति"
+    }
+  ],
+  "timestamp": "2026-08-13T10:42:58.697222103Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि एवेर जगला चार व तीस वर्षे, आणि त्याने जन्म दिला ⟨את⟩ पेलेग.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवेर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "व तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेलेग"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पेलेग"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:10.491406357Z",
+  "model": "glm-5.2"
+}

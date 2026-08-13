@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "मख्नद्बाय, शशाय, शाराय.",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "मख्नद्बाय"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "शशाय"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "शाराय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:55:21.609620781Z",
+  "model": "glm-5.2"
+}

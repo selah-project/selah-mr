@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "संकोच येत ⟨आहे⟩ व ⟨ते⟩ शांती शोधतील व ⟨ती⟩ नाही.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "संकोच"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येत ⟨आहे⟩"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "व ⟨ते⟩ शोधतील"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांती"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "व ⟨ती⟩ नाही"
+    }
+  ],
+  "timestamp": "2026-08-13T13:48:44.838880720Z",
+  "model": "glm-5.2"
+}

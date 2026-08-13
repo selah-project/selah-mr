@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व हूरने ⟨את⟩ ऊरी जन्माला दिला, व ऊरीने ⟨את⟩ बत्सलएल जन्माला दिला.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "व हूर"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊरी"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ऊरी"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "व ऊरी"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बत्सलएल"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "बत्सलएल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:00.454766214Z",
+  "model": "glm-5.2"
+}

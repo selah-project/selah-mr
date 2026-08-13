@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "नीतिमानांची ⟨ती⟩ इच्छा ⟨ती⟩ फक्त भलाई ⟨आहे⟩, पण दुष्टांची आशा ⟨ती⟩ राग ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "नीतिमानांची"
+    },
+    {
+      "surface": "אך",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांची"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "राग"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:07.321817095Z",
+  "model": "glm-5.2"
+}

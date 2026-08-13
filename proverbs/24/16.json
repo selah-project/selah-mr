@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "कारण सात वेळा धार्मिक पडतो व उभा राहतो, पण दुष्ट लोक वाईटात आडवी येतात.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात वेळा"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "पडतो"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "व उभा राहतो"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "पण दुष्ट लोक"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "आडवी येतात"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "वाईटात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:17.937277068Z",
+  "model": "glm-5.2"
+}

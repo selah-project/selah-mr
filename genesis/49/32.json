@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "शेताची आणि त्यातील गुहेची खरेदी ⟨जी⟩ खेत-मुलांकडून ⟨होती⟩.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "खरेदी"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "शेताची"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "आणि गुहेची"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "खेत-मुलांकडून"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांकडून"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:22:30.588161041Z",
+  "model": "glm-5.2"
+}

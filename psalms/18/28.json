@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "कारण तू ⟨एक⟩ दीन जनतेला तारण करतोस्, आणि उंच डोळ्यांना तू नम्र करतोस्.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "तारण करतोस्"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "आणि डोळे"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "उंच"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "तू नम्र करतोस्"
+    }
+  ],
+  "timestamp": "2026-08-13T16:45:07.724361413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "⟨the⟩ याजक: यदायाचे पुत्र, येशूआच्या घराण्याचे — नऊशे त्र्याहत्तर.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदाया"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घराण्याचे"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशूआ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:59:03.816453366Z",
+  "model": "glm-5.2"
+}

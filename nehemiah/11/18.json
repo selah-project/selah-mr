@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "पवित्र नगरीतील सर्व लेवीयांची संख्या दोनशे अस्सी चार ⟨होती⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीय"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगरीत"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "उर चार"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:12.028466025Z",
+  "model": "glm-5.2"
+}

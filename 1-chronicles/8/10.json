@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व ⟨את⟩ यउत्स व ⟨את⟩ शख्या व ⟨את⟩ मिर्मा; हे ⟨होते⟩ त्याचे पुत्र, पितृघराण्यांचे प्रमुख.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "यउत्स"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "यउत्स"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "शख्या"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "शख्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "मिर्मा"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "मिर्मा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याचे पुत्र"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "पितृघराण्यांचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:05.957615103Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "थंड पाणी थकलेल्या जीवावर, आणि दूरच्या देशातून चांगली बातमी ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "थंड"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "थकलेल्या"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "आणि बातमी"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "...देशातून"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूरच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:52.462319348Z",
+  "model": "glm-5.2"
+}

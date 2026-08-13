@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "व ⟨את⟩ देदान व ⟨את⟩ तेमा व ⟨את⟩ बूस व ⟨את⟩ सर्व केसाच्या कडा कापणारे",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "देदान"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "देदान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तेमा"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "तेमा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "बूस"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बूस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "सर्व केसाच्या कडा कापणारे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "कापणारे"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "केसाच्या कडा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:31:12.371033616Z",
+  "model": "glm-5.2"
+}

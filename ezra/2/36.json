@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "⟨The⟩ याजक: यदायाची ⟨मुले⟩, येशूआच्या घराच्या — नऊशे त्र्याहत्तर.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदाया"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घराच्या"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशूआ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "व तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:08.413534112Z",
+  "model": "glm-5.2"
+}

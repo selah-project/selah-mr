@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "डोळ्यांनी पिटाळतो, पायांनी बोलतो, बोटांनी खुणावतो.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "पिटाळतो"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "डोळ्यांनी"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "बोलतो"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "पायांनी"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "खुणावतो"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "बोटांनी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:11.275566277Z",
+  "model": "glm-5.2"
+}

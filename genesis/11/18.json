@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि पेलेग जगला तीस वर्षे, आणि ⟨त्याने⟩ ⟨את⟩-रेऊ जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि-जगला"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पेलेग"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि-जन्म-दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रेऊ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:50.266377859Z",
+  "model": "glm-5.2"
+}

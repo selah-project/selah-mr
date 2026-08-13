@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि त्सफन्याह ⟨हा⟩ याजक यिर्मेयाहू ⟨ह्या⟩ नबी यांच्या कानांत ⟨हे⟩ पत्र वाचले.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "आणि वाचले"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "त्सफन्याह"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे पत्र"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "पत्र"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कानांत"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:32:43.558580998Z",
+  "model": "glm-5.2"
+}

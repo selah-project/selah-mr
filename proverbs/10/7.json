@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "धार्मिकाचे स्मरण ⟨आहे⟩ आशीर्वादासाठी, आणि दुष्टांचे नाव सडेल.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "स्मरण"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धार्मिकाचे"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "आशीर्वादासाठी"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आणि नाव"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांचे"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "सडेल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:35.063346998Z",
+  "model": "glm-5.2"
+}

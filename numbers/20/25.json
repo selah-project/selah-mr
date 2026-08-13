@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "घे ⟨את⟩ अहरोन व ⟨את⟩ एलाजार त्याच्या पुत्राला, व त्यांना होर पर्वतावर चढव.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "घे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहरोन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "एलाजार"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याच्या पुत्राला"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "व चढव"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨अहरोन व एलाजार⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पर्वत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:06:40.310818676Z",
+  "model": "glm-5.2"
+}

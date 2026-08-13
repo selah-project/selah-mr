@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "मुख्य संगीतकारास, येदुतुनास; दावीदचे झबोर.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकारास"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "येदुतुनास"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "झबोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदचे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:07.951964048Z",
+  "model": "glm-5.2"
+}

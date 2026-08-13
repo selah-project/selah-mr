@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "याहवेह सर्व देहाच्या आत्म्यांचा एलोहीम ⟨करो⟩, सभेवर एक माणूस नियुक्त करो,",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "नियुक्त करो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "आत्म्यांचा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देहाच्या"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक माणूस"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:51.374994717Z",
+  "model": "glm-5.2"
+}

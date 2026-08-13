@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "चतुराला ज्ञान ⟨हे⟩ बळ देते, शहरात ⟨असणाऱ्या⟩ दहा अधिकाऱ्यांपेक्षा ⟨अधिक⟩.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "बळ देते"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "चतुराला"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "दहांपेक्षा"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "अधिकाऱ्यांना"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होते"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "शहरात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:57.121002151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "एक निष्प्रयोजन माणूस, अनीतीचा मनुष्य ⟨आहे⟩ — जो वदनाच्या वक्रतेने चालतो.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "एक माणूस"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "निष्प्रयोजन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "און",
+      "gloss": "अनीतीचा"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चालतो"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "वक्रतेने"
+    },
+    {
+      "surface": "פה",
+      "gloss": "वदनाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:09.068263813Z",
+  "model": "glm-5.2"
+}

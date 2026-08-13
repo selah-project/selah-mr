@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 76,
+  "translation": "मुख्यांसाठी, तारा-वाद्यांवर; असाफाचा मझमोर, एक गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्यांसाठी"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "तारा-वाद्यांवर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मझमोर"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफाचा"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:32.039137680Z",
+  "model": "glm-5.2"
+}

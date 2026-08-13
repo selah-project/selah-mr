@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "व एलिशामा व एल्यादा व एलिफलेत — ⟨एकूण⟩ नऊ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "व-एलिशामा"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "व-एल्यादा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "व-एलिफलेत"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:33.058533319Z",
+  "model": "glm-5.2"
+}

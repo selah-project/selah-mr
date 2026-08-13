@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "संपूर्ण सभा एकत्र ⟨होती⟩ — चाळीस हजार दोन हजार तीनशे साठ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "हजार (दहन्हजार)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:53:02.959827823Z",
+  "model": "glm-5.2"
+}

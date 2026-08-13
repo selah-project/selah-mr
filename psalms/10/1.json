@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "का, याहवेह, तू दूर उभी राहतोस? तू संकटाच्या काळी लपतोस?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "तू उभी राहतोस"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "तू लपवितोस"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "काळी"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "संकटाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:31:14.264432014Z",
+  "model": "glm-5.2"
+}

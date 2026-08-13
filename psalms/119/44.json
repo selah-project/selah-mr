@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "आणि मी तुझी तोरट सतत कायम आणि सदासर्वकाळ राखीन.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "आणि मी राखीन"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "तुझी तोरट"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सतत"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "कायम"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आणि सदासर्वकाळ"
+    }
+  ],
+  "timestamp": "2026-08-13T14:58:35.857297469Z",
+  "model": "glm-5.2"
+}

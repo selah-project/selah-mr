@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "कातराळ हाताचा करता दारिद्र्य येते, पण श्रमशील हात संपत्ती ⟨कमवतो⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "दारिद्र्य"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करता"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हाताचा"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कातराळ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "पण हात"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "श्रमशील"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "संपत्ती कमवतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:32.455375064Z",
+  "model": "glm-5.2"
+}

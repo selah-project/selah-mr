@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 60,
+  "translation": "उठावे ⟨प्रकाशे⟩ ⟨कारण⟩ तुझा प्रकाश आला, व याहवेहचा तेज तुझ्यावर उगवले.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "उठावे"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "प्रकाशे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "तुझा प्रकाश"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "व तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "उगवले"
+    }
+  ],
+  "timestamp": "2026-08-13T13:16:59.189187551Z",
+  "model": "glm-5.2"
+}

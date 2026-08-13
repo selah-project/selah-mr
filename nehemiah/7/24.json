@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "चारीफचे पुत्र, शेंभर बारा.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "चारीफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "शेंभर"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:33.836698156Z",
+  "model": "glm-5.2"
+}

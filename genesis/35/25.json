@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "आणि बिल्हाचे — राहेलच्या दासीचे — मुले: दान व नफ्तली.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हाचे"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासीचे"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेलच्या"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "व नफ्तली"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:24.085962991Z",
+  "model": "glm-5.2"
+}

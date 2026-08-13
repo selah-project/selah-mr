@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि ⟨את⟩ रेसेन, नीनवे आणि कलह यांच्या मध्ये; हीच ⟨होती⟩ महानगर.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "रेसेन"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "रेसेन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "कलह"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हीच"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "महान"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:47.892986628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "पण ज्या दिवशी त्यात जिवंत मांस दिसून येईल, तो अशुद्ध ठरेल.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आणि दिवशी"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "दिसून येण्याच्या वेळी"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिवंत"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "तो अशुद्ध ठरेल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:22.397671567Z",
+  "model": "glm-5.2"
+}

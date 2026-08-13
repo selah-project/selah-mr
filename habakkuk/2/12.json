@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हाय! ⟨जो⟩ रक्तांनी नगर बांधतो, आणि अन्यायाने वसाहत स्थापतो!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बांधतो"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "रक्तांनी"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "आणि स्थापतो"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "वसाहत"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "अन्यायाने"
+    }
+  ],
+  "timestamp": "2026-08-13T14:21:48.781033391Z",
+  "model": "glm-5.2"
+}

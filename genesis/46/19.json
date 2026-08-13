@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "राहेलचे पुत्र, याकोवच्या पत्नीचे: योसेफ व बिन्यामीन.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "व बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:20:01.263969635Z",
+  "model": "glm-5.2"
+}

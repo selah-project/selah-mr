@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "उजवीकडे झुकू नकोस आणि डावीकडे; तुझा पाय वाईटापासून दूर सार.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुकू"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "उजवीकडे"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "आणि डावीकडे"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "दूर सार"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तुझा पाय"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "वाईटापासून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:22.882995290Z",
+  "model": "glm-5.2"
+}

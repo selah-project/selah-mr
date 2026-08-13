@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि ही त्यांची नावे आहेत: रूबेन गोत्राला, शम्मुआ, झक्कूरचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "ו אלה",
+      "gloss": "आणि ही"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "त्यांची नावे"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "-गोत्राला"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "झक्कूरचा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:01:53.829632175Z",
+  "model": "glm-5.2"
+}

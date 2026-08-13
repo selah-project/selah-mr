@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "हाय तुला, हे देश, जेथे तुझा राजा बालक ⟨आहे⟩, आणि तुझे सरदार पहाटे जेवतात!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "हे देश"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "तुझा राजा"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "आणि तुझे सरदार"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "पहाटे"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "जेवतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:47.547085811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि अदामाचे सर्व दिवस जे तो जगला नऊशे वर्षे आणि तीस वर्षे ⟨होते⟩, आणि तो मेला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "अदामाचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जगला"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आणि तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि तो मेला"
+    }
+  ],
+  "timestamp": "2026-08-13T09:58:52.840670264Z",
+  "model": "glm-5.2"
+}

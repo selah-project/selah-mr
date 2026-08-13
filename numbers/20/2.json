@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि मंडळीसाठी पाणी नव्हते; आणि ते मोशेवर आणि अहरोनवर संघटित झाले.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आणि-नव्हते"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होता"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाणी"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "मंडळीसाठी"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "आणि-संघटित-झाले"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि-वर"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    }
+  ],
+  "timestamp": "2026-08-13T11:05:52.821222306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "त्याला टाळ, ⟨त्यातून⟩ जाऊ नकोस; त्यापासून दूर सरक व पुढे जा.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "त्याला टाळ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यातून"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "दूर सरक"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "त्यापासून"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "व पुढे जा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:19.295623090Z",
+  "model": "glm-5.2"
+}

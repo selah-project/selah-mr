@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "इरा ⟨the⟩ यित्री, गारेब ⟨the⟩ यित्री.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "⟨the⟩ यित्री"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "गारेब"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "⟨the⟩ यित्री"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:59.039678486Z",
+  "model": "glm-5.2"
+}

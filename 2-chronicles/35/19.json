@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "योशियाच्या राज्याच्या अठराव्या वर्षी हा पासह करण्यात आला.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "अठराव्या"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "वर्षी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज्याच्या"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाच्या"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करण्यात-आला"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पासह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:27:45.114720685Z",
+  "model": "glm-5.2"
+}

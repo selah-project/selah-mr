@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि उझ्झिएलचे मुले: मिशाएल, एलत्साफन आणि सितरी.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उझ्झिएल"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "मिशाएल"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "आणि एलत्साफन"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "आणि सितरी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:24:23.174102888Z",
+  "model": "glm-5.2"
+}

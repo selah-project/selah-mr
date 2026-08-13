@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि तू ⟨एक⟩ किंन्ह उचल ⟨कर⟩ यिस्राएलच्या नेत्यांविषयी.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उचल"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "किंन्ह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "विषयी"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "नेते"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-13T13:53:48.429397514Z",
+  "model": "glm-5.2"
+}

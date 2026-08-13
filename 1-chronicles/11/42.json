@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "अदीना शिझाचा पुत्र ⟨the⟩ रूबेनी, ⟨the⟩ रूबेन्यांचा प्रमुख, व ⟨with⟩ त्याच्याबरोबर तीस",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "अदीना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "शिझाचा"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "रूबेनी"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "रूबेन्यांचा"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "व त्याच्याबरोबर"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-08-13T16:50:29.384135775Z",
+  "model": "glm-5.2"
+}

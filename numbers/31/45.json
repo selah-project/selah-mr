@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि गाढवांची तीस हजार आणि पाचशे,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "आणि-गाढवांची"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आणि-पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:55.283927887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "कारण दबाहूळ ज्ञानीला वेडा ⟨करते⟩, आणि भेटवल्ली ⟨את⟩ हृदयाला नष्ट ⟨करते⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "दबाहूळ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "वेडा करते"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानीला"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "आणि नष्ट करते"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हृदयाला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयाला"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "भेटवल्ली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:55.462323758Z",
+  "model": "glm-5.2"
+}

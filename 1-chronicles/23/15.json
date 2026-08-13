@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "मोशेचे पुत्र — गेरशोम व एलिएजेर.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेचे"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेरशोम"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "व एलिएजेर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:22.975178921Z",
+  "model": "glm-5.2"
+}

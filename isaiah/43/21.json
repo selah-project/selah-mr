@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 43,
+  "translation": "हे लोक ⟨मी⟩ माझ्यासाठी घडवले, माझी स्तुती ते सांगतील.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "זו",
+      "gloss": "हे"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "घडवले"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझ्यासाठी"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "माझी स्तुती"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ते सांगतील"
+    }
+  ],
+  "timestamp": "2026-08-13T13:10:41.178503041Z",
+  "model": "glm-5.2"
+}

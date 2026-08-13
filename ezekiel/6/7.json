@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "व घातलेला तुमच्यामध्ये पडेल, व तुम्हाला कळेल की मी याहवेह ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "व पडेल"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "घातलेला"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "तुमच्यामध्ये"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "व तुम्हाला कळेल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T13:48:10.257656655Z",
+  "model": "glm-5.2"
+}

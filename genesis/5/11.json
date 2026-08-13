@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि एनोशचे सर्व दिवस पाच वर्षे आणि नऊशे वर्षे ⟨झाले⟩, आणि तो मृत्यू पावला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨झाले⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोशचे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आणि नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि मृत्यू पावला"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:06.268267243Z",
+  "model": "glm-5.2"
+}

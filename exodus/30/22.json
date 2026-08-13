@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "आणि याहवेह मोशेशी बोलला, म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि-बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:36:46.497835857Z",
+  "model": "glm-5.2"
+}

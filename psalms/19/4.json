@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "वाणी नाही, व ⟨आणि⟩ शब्द नाहीत; ⟨त्यांचा⟩ आवाज न ऐकला जातांना ।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "वाणी"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "व ⟨आणि⟩ ... नाहीत"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "न"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ऐकला जातांना"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "⟨त्यांचा⟩ आवाज"
+    }
+  ],
+  "timestamp": "2026-08-13T14:33:13.159369412Z",
+  "model": "glm-5.2"
+}

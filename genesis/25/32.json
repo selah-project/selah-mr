@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि एसाव म्हणाला, पाह, मी तर मरणार आहे; आणि मग हे पहिलेपण मला कशाला लागेल?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी तर"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "मरणार"
+    },
+    {
+      "surface": "למות",
+      "gloss": "आहे"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "आणि मग"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "पहिलेपण"
+    }
+  ],
+  "timestamp": "2026-08-13T10:09:24.962890917Z",
+  "model": "glm-5.2"
+}

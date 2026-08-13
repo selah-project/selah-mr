@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "खूप नीतिमान होऊ नकोस, आणि अतिशय बुद्धिमान होऊ नकोस — कशाला तू नष्ट हशील?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "होऊ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "नीतिमान"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "खूप"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नकोस"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "बुद्धिमान होऊ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "अतिशय"
+    },
+    {
+      "surface": "למה",
+      "gloss": "कशाला"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "नष्ट हशील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:57.885198301Z",
+  "model": "glm-5.2"
+}

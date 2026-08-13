@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 91,
+  "translation": "हातांवर ते तुला उचलतील, की तू दगडाला तुझे पाय न आपटशील.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "हातां"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ते तुला उचलतील"
+    },
+    {
+      "surface": "פן",
+      "gloss": "की नये"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "तू आपटशील"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "दगडाला"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तुझे पाय"
+    }
+  ],
+  "timestamp": "2026-08-13T14:51:23.879861634Z",
+  "model": "glm-5.2"
+}

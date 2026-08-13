@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "नेत्सियाचे पुत्र, खतीफाचे पुत्र,",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נְצִ֖יחַ",
+      "gloss": "नेत्सिया"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חֲטִיפָֽא",
+      "gloss": "खतीफा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:49.065040610Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि हिराम राजाला शंभर व वीस सुवर्णतुलां पाठवत होता.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "आणि पाठवले"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "हिराम"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाला"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "सुवर्णतुलां"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोन्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:31:18.332735647Z",
+  "model": "glm-5.2"
+}

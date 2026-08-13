@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 39:29",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "तिथून तो अन्न शोधतो, दूरवर त्याच्या डोळे पाहतात.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "तिथून"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "शोधतो"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "दूरवर"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "त्याच्या डोळे"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "पाहतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:17.669390406Z",
+  "model": "glm-5.2"
+}

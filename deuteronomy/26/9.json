@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि त्याने आम्हाला या ठिकाणी आणले, आणि आम्हाला ⟨את⟩ ही देश दिली, दूध व मधाने वहात असलेली देश.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "आणि त्याने आम्हाला आणले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "या ठिकाणी"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "-"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "आणि त्याने दिली"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "आम्हाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ही देश"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ही देश"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "वहात असलेली"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "व मध"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:11.757745130Z",
+  "model": "glm-5.2"
+}

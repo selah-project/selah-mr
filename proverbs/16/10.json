@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "राजाच्या ओठांवर ⟨आहे⟩ दैव्य वचन, न्यायात ⟨त्याचे⟩ तोंड दगदगा करणार नाही.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "दैव्य वचन"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठां"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्यायात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ימעल",
+      "gloss": "दगदगा करणार"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "तोंड"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:51.716719264Z",
+  "model": "glm-5.2"
+}

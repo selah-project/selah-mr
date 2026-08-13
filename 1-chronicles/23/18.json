@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "यित्सहारची मुले: शलोमित ⟨हा⟩ प्रमुख.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "शलोमित"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:05.276049386Z",
+  "model": "glm-5.2"
+}

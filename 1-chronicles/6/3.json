@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "व कहाथची पुत्रे — अम्राम, यित्सहार, हेब्रोन व उझ्झिएल.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व पुत्रे"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहाथची"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अम्राम"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "हेब्रोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "व उझ्झिएल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:48.364171299Z",
+  "model": "glm-5.2"
+}

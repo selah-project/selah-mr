@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "एकोणिसावा पतख्याला, विसावा यखेझ्केलाला.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "पतख्याला"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "एकोणीस"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "यखेझ्केलाला"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "विसावा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:33.151202942Z",
+  "model": "glm-5.2"
+}

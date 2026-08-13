@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कारण दीर्घ आयुष्य व जीवनाची वर्षे व शांती तुला वाढवतील.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "दीर्घ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "आयुष्य"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "व वर्षे"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवनाची"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "व शांती"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "वाढवतील"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:58.185073668Z",
+  "model": "glm-5.2"
+}

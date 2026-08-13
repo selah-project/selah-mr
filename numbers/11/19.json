@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "एक दिवस नाही तुम्ही खाल, आणि दोन दिवस नाही, आणि पाच दिवस नाही, आणि दहा दिवस नाही, आणि वीस दिवस नाही —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "तुम्ही खाल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "दोन दिवस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T11:02:37.795326579Z",
+  "model": "glm-5.2"
+}

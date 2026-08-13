@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "लमा करू नको ⟨आत्म्याला⟩ पापीऱ्यांसह, व ⟨जीवाला⟩ रक्ताच्या माणसांसह।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "जमा कर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सह"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "पापीऱ्यां"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "आत्म्याला"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "व सह"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "माणसां"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रक्ताच्या"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जीवाला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:34.813796163Z",
+  "model": "glm-5.2"
+}

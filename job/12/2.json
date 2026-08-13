@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "खरोखर, की तुम्हीच ⟨आहे⟩ ⟨the⟩ लोक, व तुमच्याबरोबर ज्ञान मरेल.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्ही"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "व तुमच्याबरोबर"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरेल"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:21:20.685157621Z",
+  "model": "glm-5.2"
+}

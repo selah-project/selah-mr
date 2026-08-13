@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक शेंकरा, पापार्थासाठी;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "शेंकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "शेळ्यांचा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापार्थासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:48.273706960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व जेरहची मुले: झिम्री व एतान व हेमान व कलकोल व दरा — ते सर्व पाच.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व …ची मुले"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरह"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "झिम्री"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "व एतान"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "व हेमान"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "व कलकोल"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "व दरा"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ते सर्व"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:53.970739679Z",
+  "model": "glm-5.2"
+}

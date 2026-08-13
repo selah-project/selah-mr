@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 82,
+  "translation": "दीन व अनाथाचा न्याय करा; दीन व गरिबांना न्याय्य करा.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "न्याय करा"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "व अनाथाचा"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "व गरिबांना"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "न्याय्य करा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:30.749227700Z",
+  "model": "glm-5.2"
+}

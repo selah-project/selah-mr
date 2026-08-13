@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "तारशीश-कन्या, ⟨नदीप्रमाणे⟩ तुझ्या देशातून जा; आता पट्टा नाही.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "तुझ्या देशातून"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "⟨नदीप्रमाणे⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "-कन्या"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तारशीश"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "पट्टा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आता"
+    }
+  ],
+  "timestamp": "2026-08-13T13:02:47.316068681Z",
+  "model": "glm-5.2"
+}

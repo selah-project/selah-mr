@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि सदोमचे माणसे दुष्ट होते आणि याहवेला अतिशय पापी होते.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "आणि माणसे"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोमचे"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "आणि पापी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेला"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अतिशय"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:48.853969257Z",
+  "model": "glm-5.2"
+}

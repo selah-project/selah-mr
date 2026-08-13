@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि याहवेह मोशेशी बोलला, असे म्हणून:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:42:32.981008303Z",
+  "model": "glm-5.2"
+}

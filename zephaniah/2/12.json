@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "तुम्हीही, कूशी लोक, माझ्या तलवारीने मारले गेलेले — तेच आहात.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तुम्हीही"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्ही"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "कूशी लोक"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "मारले गेलेले"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "माझ्या तलवारीने"
+    },
+    {
+      "surface": "המה",
+      "gloss": "तेच आहात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:23:29.109637127Z",
+  "model": "glm-5.2"
+}

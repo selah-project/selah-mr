@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि अबीमेलेख इस्राएलवर प्रभुत्व करू लागला — तीन वर्षे.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "आणि-प्रभुत्व-करू-लागला"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबीमेलेख"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:48:18.487001240Z",
+  "model": "glm-5.2"
+}

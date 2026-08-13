@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व झेबद्याह, व मेशुल्लाम, व हिज़्की, व हाबेर.",
+  "tokens": [
+    {
+      "surface": "וּזְבַדְיָ֥ה",
+      "gloss": "व झेबद्याह"
+    },
+    {
+      "surface": "וּמְשֻׁלָּ֖ם",
+      "gloss": "व मेशुल्लाम"
+    },
+    {
+      "surface": "וְחִזְקִ֥י",
+      "gloss": "व हिज़्की"
+    },
+    {
+      "surface": "וָחָֽבֶר",
+      "gloss": "व हाबेर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:48.310171658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "तेव्हा अय्योब उत्तर देऊने म्हणाला;",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर देऊने"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:24:58.013376398Z",
+  "model": "glm-5.2"
+}

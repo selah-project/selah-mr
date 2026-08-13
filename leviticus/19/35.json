@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "तुम्ही न्यायात, मोजमापात, वजनात आणि द्रवमापात अन्याय करू नका.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करू"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्यायात"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "मोजमापात"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "वजनात"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "आणि द्रवमापात"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:51.244890545Z",
+  "model": "glm-5.2"
+}

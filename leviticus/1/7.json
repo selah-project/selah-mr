@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि अहरोनचे मुले, ⟨⟩ कोहेन, वेदीवर अग्नी देतील, आणि अग्नीवर लाकडी दांडे रचतील.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "आणि-देतील"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "आणि-रचतील"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लाकडी-दांडे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "האש",
+      "gloss": "अग्नी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:42:42.321203939Z",
+  "model": "glm-5.2"
+}

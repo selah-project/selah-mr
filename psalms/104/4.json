@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 104,
+  "translation": "आपले दूत वारे करणारा, आपले सेवक जळती अग्नी करणारा.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "करणारा"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "आपले दूत"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "वारे"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "आपले सेवक"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नीला"
+    },
+    {
+      "surface": "להט",
+      "gloss": "जळती"
+    }
+  ],
+  "timestamp": "2026-08-13T14:54:00.992503257Z",
+  "model": "glm-5.2"
+}

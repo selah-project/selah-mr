@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "माझे दुःख व माझे कष्ट पाह; व माझ्या सर्व पापांची ⟨क्षमा⟩ कर.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "माझे दुःख"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "व माझे कष्ट"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "व उचल"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "माझ्या पापांना"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:35.753341394Z",
+  "model": "glm-5.2"
+}

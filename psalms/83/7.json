@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 83,
+  "translation": "एदोमच्या तंबू आणि यिश्माएली; मोआब आणि हागरी;",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "तंबू"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमच्या"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "आणि यिश्माएली"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "आणि हागरी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:44.848635923Z",
+  "model": "glm-5.2"
+}

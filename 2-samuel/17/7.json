@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि खुशय अबशलोमाला म्हणाला, अहितोफेलने यावेळी जी सल्ला दिली ती चांगली नाही.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "खुशय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "याला"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशलोम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "सल्ला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "दिली"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अहितोफेलने"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:18:29.460261042Z",
+  "model": "glm-5.2"
+}

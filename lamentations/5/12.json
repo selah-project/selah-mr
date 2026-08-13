@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "सरदारांना त्यांच्या हातांनी फाशी दिली, वृद्धांचे चेहरे आदर दिले गेले नाहीत.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "सरदारांना"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "त्यांच्या हातांनी"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "फाशी दिली"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्धांचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "आदर दिले गेले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:00.729706856Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "त्या वेळी राजा आखाझ अश्शूरच्या राजांकडे आपल्याला मदत करण्यासाठी पाठवण करीत गेला.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पाठवण करीत गेला"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आखाझ"
+    },
+    {
+      "surface": "על",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजां"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूरच्या"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "मदत करण्यासाठी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपल्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:24:51.532941017Z",
+  "model": "glm-5.2"
+}

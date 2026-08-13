@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व हादाद मरला, व त्याच्याऐवजी मस्रेकाहमधून सम्ला राज्य करू लागला.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "व मरला"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हादाद"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "व राज्य करू लागला"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "त्याच्याऐवजी"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "सम्ला"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "मस्रेकाहमधून"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:14.784355912Z",
+  "model": "glm-5.2"
+}

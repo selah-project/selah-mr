@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "इस्राएलपुत्रांशी बोल आणि त्यांना सांग: की तुम्ही ⟨את⟩ यार्देन पार करता कनान देशाकडे",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रां"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आणि सांग"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्ही"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार करता"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यार्देन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यार्देन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "देशाकडे"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:13:52.463818600Z",
+  "model": "glm-5.2"
+}

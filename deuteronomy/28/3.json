@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "धन्य तू ⟨आहेस⟩ शहरात, व धन्य तू ⟨आहेस⟩ शेतात.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "शहरात"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "व धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "शेतात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:31.253170109Z",
+  "model": "glm-5.2"
+}

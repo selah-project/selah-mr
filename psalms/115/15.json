@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 115,
+  "translation": "तुम्ही याहवेहाकडून धन्य आहा, ⟨जो⟩ आकाश व पृथ्वी बनवणारा.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्ही"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहाकडून"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवणारा"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "व पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:57:46.763016055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 55,
+  "translation": "हे, मी लांब भटकून जाईन, रानात मुक्काम करीन. सेला.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "मी लांब"
+    },
+    {
+      "surface": "נדड",
+      "gloss": "भटकून जाईन"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "मुक्काम करीन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "रानात"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:18.369795137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "पुरुष ⟨त्याच्या⟩ ठारणीचा कठोर-मानेचा, अचानक तुटेल व ⟨त्याला⟩ राहत नाही.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ठारणीचा"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "मानेचा"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "तुटेल"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "व ⟨त्याला⟩ राहत नाही"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:29.995064667Z",
+  "model": "glm-5.2"
+}

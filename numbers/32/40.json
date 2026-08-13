@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "व मोशेने ⟨את⟩ गिलाद माखीर मनश्शेच्या पुत्राला दिला व तो त्यात राहिला.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "व … दिला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिलाद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "माखीराला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्राला"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शेच्या"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "व तो राहिला"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:12:41.928913085Z",
+  "model": "glm-5.2"
+}

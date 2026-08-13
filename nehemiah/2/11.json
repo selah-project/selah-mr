@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व मी आलो⟨न⟩ ⟨कडे⟩ येरूशालाईम; व मी होतो तेथे दिवस तीन.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "व मी आलो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨कडे⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरूशालाईम"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "व मी होतो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तेथे"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:08.437813811Z",
+  "model": "glm-5.2"
+}

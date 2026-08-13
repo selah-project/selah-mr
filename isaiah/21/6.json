@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "कारण असे मजकडे अदोनाय बोलला: जा, त्या देखणाऱ्याला उभे कर, जे तो पाहील ते तो सांगो.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोलला"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "उभे कर"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "त्या देखणाऱ्याला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "तो पाहील"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ते तो सांगो"
+    }
+  ],
+  "timestamp": "2026-08-13T13:02:17.779823157Z",
+  "model": "glm-5.2"
+}

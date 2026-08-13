@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आकाशांचा विस्तार करतो एकटा, व समुद्राच्या उंचीवर चालतो.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "विस्तार करतो"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाशांचा"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "एकटा"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "व चालतो"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "उंची"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्राच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:20:01.816829598Z",
+  "model": "glm-5.2"
+}

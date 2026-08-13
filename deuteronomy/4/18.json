@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कोणत्याही भूमीवर सरपटणाऱ्याचे रूप, कोणत्याही जलचर माश्याचे रूप, जे पृथ्वीखालील जलात आहे —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणत्याही"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "सरपटणाऱ्याचे"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "भूमीवर"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणत्याही"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "माश्याचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "जलात"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "खालील"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:10.917918232Z",
+  "model": "glm-5.2"
+}

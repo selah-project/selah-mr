@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "अगदी तू भयभक्ती भंग करतोस, आणि एलाच्या समोर चिंतन कमी करतोस.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "अगदी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "भंग करतोस"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "भयभक्ती"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "आणि कमी करतोस"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "चिंतन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एलाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:22:43.291070587Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि मनुष्य ⟨एका⟩ जीव सोळा हजार, आणि त्यांचा याहवेहला कर दुहेरी तीस जीव.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आणि जीव"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "आणि त्यांचा कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आणि तीस"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीव"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:43.644066267Z",
+  "model": "glm-5.2"
+}

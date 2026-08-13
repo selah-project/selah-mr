@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि याहवेहचा दूत यिहोशुआला साक्षी देत होता, यास म्हणून:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "आणि साक्षी देत होता"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "यिहोशुआला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यास म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:03.790568240Z",
+  "model": "glm-5.2"
+}

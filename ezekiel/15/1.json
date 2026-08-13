@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 15:1",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि याहवेहचा वचन माझ्याकडे आला, या सांगत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:51:58.028951922Z",
+  "model": "glm-5.2"
+}

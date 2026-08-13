@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "व खत्सर-शूअल व बाला व एत्सेम.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "व खत्सर-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "शूअल"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "व बाला"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "व एत्सेम"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:05.831426834Z",
+  "model": "glm-5.2"
+}

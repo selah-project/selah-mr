@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "शेफात्याहचे मुले — तीन सौ, अठ्ठावन्न व दोन.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शेफात्याहचे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "अठ्ठावन्न"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:10.154853426Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "अनंतर ⟨तू⟩ धार्मिकता व न्याय व सरळपणा — हर एक चांगला मार्ग — समजशील",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "अनंतर"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "समजशील"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धार्मिकता"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "व न्याय"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "व सरळपणा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:29.612167961Z",
+  "model": "glm-5.2"
+}

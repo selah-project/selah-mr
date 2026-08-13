@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि चौथ्या वर्षी सर्व त्याचे फळ पवित्र, स्तोत्रोत्सव याहवेहला.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "आणि वर्षी"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "चौथ्या"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "त्याचे फळ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "स्तोत्रोत्सव"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:51:20.435549668Z",
+  "model": "glm-5.2"
+}

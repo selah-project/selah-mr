@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "कारण लांबी ⟨of⟩ ⟨the⟩ कक्षांची ⟨which were⟩ बाह्य प्रांगणाच्या बाजूला पन्नास हात ⟨was⟩; आणि पाहा, समोर ⟨the⟩ मंदिराच्या शंभर हात.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लांबी"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "कक्षांची"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "प्रांगणाच्या-बाजूला"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "बाह्य"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आणि-पाहा"
+    },
+    {
+      "surface": "על",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामोरे"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "मंदिराच्या"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:05:42.829415525Z",
+  "model": "glm-5.2"
+}

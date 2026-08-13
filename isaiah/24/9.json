@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "गाण्यासह ते द्राक्षारस पिणार नाहीत; पिणाऱ्यांना आसव कडू वाटते.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "गाण्यासह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ते पिणार"
+    },
+    {
+      "surface": "יין",
+      "gloss": "द्राक्षारस"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "कडू वाटते"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "आसव"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "पिणाऱ्यांना"
+    }
+  ],
+  "timestamp": "2026-08-13T13:02:34.393076871Z",
+  "model": "glm-5.2"
+}

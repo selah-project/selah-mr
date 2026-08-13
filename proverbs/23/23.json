@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "सत्य विकत घेवून त्याची विक्री करू नकोस; तसेच ज्ञान, शिस्त आणि समज.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "विकत घेवून"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि ... नकोस"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "विक्री करू"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "शिस्त"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "आणि समज"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:33.309887539Z",
+  "model": "glm-5.2"
+}

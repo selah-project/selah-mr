@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि याहवेहचा वचन मला दुसऱ्यांदा ⟨आले⟩, असे म्हणतः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दुसऱ्यांदा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणतः"
+    }
+  ],
+  "timestamp": "2026-08-13T13:25:53.410043347Z",
+  "model": "glm-5.2"
+}

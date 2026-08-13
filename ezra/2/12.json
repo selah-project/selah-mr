@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "अझगादचे पुत्र, एक हजार दोनशे बावीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "अझगाद"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:41.073699301Z",
+  "model": "glm-5.2"
+}

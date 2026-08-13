@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "व लेआ ने म्हटले, एक दळ येत आहे! व तिने ⟨את⟩ त्याचे नाव गाद ठेवले.",
+  "tokens": [
+    {
+      "surface": "ותאमר",
+      "gloss": "व म्हटले"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआ ने"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "एक दळ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "व ठेवले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्याचे नाव"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "त्याचे नाव"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-08-13T10:11:19.244381340Z",
+  "model": "glm-5.2"
+}

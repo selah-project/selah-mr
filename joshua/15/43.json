@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व यिप्ताह व अश्ना व नत्सीव",
+  "tokens": [
+    {
+      "surface": "וצפתח",
+      "gloss": "व यिप्ताह"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "व अश्ना"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "व नत्सीव"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:17.947504010Z",
+  "model": "glm-5.2"
+}

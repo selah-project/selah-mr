@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "गावा याहवेहला, सर्व पृथ्वी; दिवसांतून दिवसांत त्याची तारण सांगा.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गावा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "सांगा"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिवसांतून"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दिवसांत"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "त्याची तारण"
+    }
+  ],
+  "timestamp": "2026-08-13T16:09:17.854857015Z",
+  "model": "glm-5.2"
+}

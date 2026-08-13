@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि अहरोनचे मुले, ⟨⟩ कोहनीय, ⟨את⟩ तुकडे, ⟨את⟩ मस्तक आणि ⟨את⟩ चरबी, लाकडी दांड्यांवर जे अग्नीवर आहेत जे वेदीवर आहेत, रचतील.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "आणि-रचतील"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहनीय"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तुकडे"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "तुकडे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मस्तक"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "मस्तक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि-⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "लाकडी-दांड्यांवर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "האש",
+      "gloss": "अग्नी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:42:42.321381006Z",
+  "model": "glm-5.2"
+}

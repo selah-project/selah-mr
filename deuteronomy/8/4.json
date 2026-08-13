@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "तुझी वस्त्रे तुझ्यावरून जीर्ण झाली नाहीत व तुझे पाय सुजले नाहीत, ही चाळीस वर्षे.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "तुझी वस्त्रे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "जीर्ण झाली"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "तुझ्यावरून"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "व तुझे पाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "सुजले"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:19:25.371944138Z",
+  "model": "glm-5.2"
+}

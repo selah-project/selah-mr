@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि ⟨את⟩ ओफीर आणि ⟨את⟩ खविला आणि ⟨את⟩ योवाव; हे सर्व योक्तानचे पुत्र होत.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "ओफीर"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ओफीर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "खविला"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "खविला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "योवाव"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योवाव"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "योक्तान"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:30.151142892Z",
+  "model": "glm-5.2"
+}

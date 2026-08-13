@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व गेरा, व शफुफान, व हुराम.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "व गेरा"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "व शफुफान"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "व हुराम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:37.109547679Z",
+  "model": "glm-5.2"
+}

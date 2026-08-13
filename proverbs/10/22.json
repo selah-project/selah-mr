@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "याहवेहचा आशीर्वाद तो संपत्ती देतो, आणि त्याबरोबर दुःख जोडत नाही.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "आशीर्वाद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "संपत्ती देतो"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "जोडत"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "त्याबरोबर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:04.522917973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "कारण मी ⟨एका⟩ माणसाहून अधिक पशू आहे, व मला मानवाची समज ∅ नाही।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בער",
+      "gloss": "पशू"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "माणसाहून"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "समज"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानवाची"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:44.189448696Z",
+  "model": "glm-5.2"
+}

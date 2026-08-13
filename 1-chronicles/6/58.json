@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "व ⟨את⟩ रामोत व ⟨את⟩ तिचे उपनगरे, व ⟨את⟩ आनेम व ⟨את⟩ तिचे उपनगरे.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "रामोत"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "रामोत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तिचे उपनगरे"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "तिचे उपनगरे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "आनेम"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "आनेम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तिचे उपनगरे"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "तिचे उपनगरे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:00.320545647Z",
+  "model": "glm-5.2"
+}

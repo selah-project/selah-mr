@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "चल, माझ्या प्रियकरा, आपण शेतात जाऊया, आपण खेड्यांमध्ये राहूया.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "चल"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "माझ्या प्रियकरा"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "आपण जाऊया"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "शेतात"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "आपण राहूया"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "खेड्यांमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:15.016679446Z",
+  "model": "glm-5.2"
+}

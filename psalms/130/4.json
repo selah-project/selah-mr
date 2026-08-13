@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 130,
+  "translation": "कारण तुझ्याजवळ ⟨आहे⟩ क्षमा, यासाठी की ⟨तू⟩ भय मानले जाशील.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तुझ्याजवळ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "क्षमा"
+    },
+    {
+      "surface": "למען",
+      "gloss": "यासाठी की"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "भय मानले जाशील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:01:02.907971153Z",
+  "model": "glm-5.2"
+}

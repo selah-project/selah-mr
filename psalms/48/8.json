@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "पूर्वेकडील वाऱ्याने तू तर्शीशची जहाजे तोडतोस.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "वाऱ्याने"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्वेकडील"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "तू तोडतोस"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाजे"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शीशची"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:16.740863976Z",
+  "model": "glm-5.2"
+}

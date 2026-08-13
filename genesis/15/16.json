@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि चौथी पिढी इथे परत येईल, कारण एमोरींचा अपराध अजून ⟨इतका⟩ पूर्ण झालेला नाही.",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "आणि पिढी"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "चौथी"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "परत येईल"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इथे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूर्ण झालेला"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरींचा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अजून"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इथपर्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:04:09.809786822Z",
+  "model": "glm-5.2"
+}

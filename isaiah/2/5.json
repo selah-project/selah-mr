@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "याकोवाच्या घरा, चला आणि चलू याहवेहच्या प्रकाशात.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घरा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोवाच्या"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "चला"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "आणि चलू"
+    },
+    {
+      "surface": "באור",
+      "gloss": "प्रकाशात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:53:46.804559008Z",
+  "model": "glm-5.2"
+}

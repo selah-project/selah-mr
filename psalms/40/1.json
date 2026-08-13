@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "गायक-मंडळाच्या संचालकासाठी, दावीदचा, एक मजमोर.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संचालकासाठी"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदचा"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एक मजमोर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:31.012498227Z",
+  "model": "glm-5.2"
+}

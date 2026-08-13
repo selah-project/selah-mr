@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "अकराव्या दिवशी अशेरच्या पुत्रांचा नासी, पगीएल बिन ओखरान.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "अकरा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "अकरा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांचा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "अशेर"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "पगीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिन"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ओखरान"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:48.274040346Z",
+  "model": "glm-5.2"
+}

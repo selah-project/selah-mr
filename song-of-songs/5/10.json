@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "माझा प्रियकर ⟨हा⟩ दमदारीत व लालभडक, दहाहजारांवर ध्वजांकित!",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "माझा प्रियकर"
+    },
+    {
+      "surface": "צח",
+      "gloss": "दमदारीत"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "व लालभडक"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "ध्वजांकित"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "दहाहजारांवर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:32:50.584423253Z",
+  "model": "glm-5.2"
+}

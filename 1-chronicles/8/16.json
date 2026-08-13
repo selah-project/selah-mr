@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व मिखाएल व यिश्पा व योहा — हे बेरियाचे पुत्र ⟨होते⟩.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "व मिखाएल"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "व यिश्पा"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "व योहा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बेरियाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:49.192097642Z",
+  "model": "glm-5.2"
+}

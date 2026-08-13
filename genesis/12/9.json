@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि अव्राम निघाला, चालत व प्रवास करत दक्षिणेकडे.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "आणि निघाला"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अव्राम"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "चालत"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "व प्रवास करत"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "दक्षिणेकडे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:47.262528684Z",
+  "model": "glm-5.2"
+}

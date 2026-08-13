@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "आणि यिस्सास्खारचे मुले: तोला व पुव्वा व योब व शिम्रोन.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्सास्खारचे"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "तोला"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "व पुव्वा"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "व योब"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "व शिम्रोन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:33.611054609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "एलामची मुले, एक हजार दोनशे चौपन्न.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आणि चार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:52.098032189Z",
+  "model": "glm-5.2"
+}

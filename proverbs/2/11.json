@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "विवेक तुझे रक्षण करील, ताळमी तुझे रक्षण करील",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "विवेक"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रक्षण करील"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ताळमी"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "रक्षण करील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:29.612544154Z",
+  "model": "glm-5.2"
+}

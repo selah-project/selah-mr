@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "किती सुंदर आणि किती मधुर आहेस तू, हे प्रेम, सुखांमध्ये!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "किती"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "सुंदर आहेस तू"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आणि किती"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "मधुर आहेस तू"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "हे प्रेम"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "सुखांमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:00.906530189Z",
+  "model": "glm-5.2"
+}

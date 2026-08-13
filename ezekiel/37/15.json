@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "आणि याहवेहचा वचन माझ्याकडे आला, म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:42:35.542576481Z",
+  "model": "glm-5.2"
+}

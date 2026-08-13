@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "धातूचा एक सुवर्ण पात्र, धूपघटकाने भरलेला;",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "पात्र"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुवर्ण"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरलेला"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूपघटक"
+    }
+  ],
+  "timestamp": "2026-08-13T10:58:44.466489699Z",
+  "model": "glm-5.2"
+}

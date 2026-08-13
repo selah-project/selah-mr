@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि जे ⟨त्याने⟩ तुमच्यासाठी मरुभूमीत केले, तुम्ही या ⟨जागी⟩ येईपर्यंत —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "आणि जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमच्यासाठी"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमीत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "तुम्ही येई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "या ⟨जागी⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ह्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:02.943056653Z",
+  "model": "glm-5.2"
+}

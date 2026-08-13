@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "माझ्याकडे ⟨तोंड⟩ फिरव व माझ्यावर दया कर की ⟨मी⟩ एकटा व हतबल आहे.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "फिरव"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याकडे"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "व माझ्यावर दया कर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "एकटा"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "व हतबल"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨मी⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:27.779912005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "आणि सर्व खिळे निवासासाठी आणि अंगणासाठी सभोवताल तांबे.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "खिळे"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "निवासासाठी"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "आणि अंगणासाठी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "सभोवताल"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तांबे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:39:52.047184660Z",
+  "model": "glm-5.2"
+}

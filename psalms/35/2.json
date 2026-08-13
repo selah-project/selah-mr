@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "पकड ढाल व रक्षकवेष्टन, व उठ माझ्या साहाय्यासाठी.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "पकड"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "व रक्षकवेष्टन"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "व उठ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "माझ्या साहाय्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:36:53.647069671Z",
+  "model": "glm-5.2"
+}

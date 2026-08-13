@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 66,
+  "translation": "गायनाचे गीत, मृदंगवादकास. हाक द्या एलोहीमला, सर्व पृथ्वी!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "गायनाचे गीत, मृदंगवादकास"
+    },
+    {
+      "surface": "שיר",
+      "gloss": ""
+    },
+    {
+      "surface": "מזמור",
+      "gloss": ""
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "हाक द्या"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीमला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:43:41.937078124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "राहेलचे पुत्र — योसेफ आणि बिन्यामीन:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेलचे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आणि बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:13:52.140311625Z",
+  "model": "glm-5.2"
+}

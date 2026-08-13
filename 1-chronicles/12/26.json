@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "शिमोन-पुत्रांपैकी, बळाचे पराक्रमी पुरुष सैन्यासाठी, सात हजार व एकशे।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "पैकी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "पराक्रमी पुरुष"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बळाचे"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "सैन्यासाठी"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "व एकशे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:07:50.131175968Z",
+  "model": "glm-5.2"
+}

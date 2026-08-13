@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 139,
+  "translation": "आणि पाह ⟨की⟩ माझ्यात दुःखद मार्ग आहे का, आणि मला अनंत मार्गात नेट.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आणि पाह"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की...का"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "दुःखद"
+    },
+    {
+      "surface": "בי",
+      "gloss": "माझ्यात"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "आणि मला नेट"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्गात"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनंत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:02:54.452999771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "किर्यत-यारीम, कफीरा व बेरोथचे पुरुष: सातशे तेहताळीस.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-यारीम"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "कफीरा"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "व बेरोथ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "व तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:46.006510205Z",
+  "model": "glm-5.2"
+}

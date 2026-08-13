@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 44,
+  "translation": "जो वचन तू आपल्याला याहवेहच्या नावाने बोलला आहेस, आम्ही तुझे ऐकत नाही.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "तू बोलला आहेस"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "आपल्याला"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नावाने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "आम्ही ऐकत"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:40:24.701264488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि याहवेहचा वचन यिर्मेयाहूकडे झाला, असे म्हणत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "असे म्हणत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:35:12.928984958Z",
+  "model": "glm-5.2"
+}

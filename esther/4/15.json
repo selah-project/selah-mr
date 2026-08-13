@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि एस्तेर मर्दोखीला उत्तर द्यावयास म्हणाली.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आणि म्हणाली"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "उत्तर द्यावयास"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मर्दोखीला"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मर्दोखी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:43:26.796324044Z",
+  "model": "glm-5.2"
+}

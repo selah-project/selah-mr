@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "भार जो पाहिले हबक्कूक हा नवी त्याने",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "पाहिले"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "हबक्कूक"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "हा नवी त्याने"
+    }
+  ],
+  "timestamp": "2026-08-13T14:21:47.520651721Z",
+  "model": "glm-5.2"
+}

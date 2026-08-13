@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "शेळ्यांचा एक बोका, पाप-अर्पणालाय:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "शेळ्यांचा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-अर्पणालाय"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:59.689405574Z",
+  "model": "glm-5.2"
+}

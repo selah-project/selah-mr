@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि शिम्शोनची पत्नी ⟨became⟩ त्याच्या सोबतीची, जो त्याचा जवळचा मित्र होता.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "आणि-⟨became⟩"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिम्शोनची"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "त्याच्या-सोबतीची"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "जवळचा-मित्र-होता"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याचा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:51:10.268412010Z",
+  "model": "glm-5.2"
+}

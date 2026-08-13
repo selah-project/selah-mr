@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "अयिन, रिम्मोन, व एतेर, व अशान; चार नगरे व ⟨त्यांची⟩ गांवे",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "अयिन"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "व एतेर"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "व अशान"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "व ⟨त्यांची⟩ गांवे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:19.763610361Z",
+  "model": "glm-5.2"
+}

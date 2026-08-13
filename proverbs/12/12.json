@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "दुष्टाने वाईटांचे जाळे इच्छिले, पण धार्मिकांचे मूळ फळ देते.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "इच्छिले"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टाने"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "जाळे"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "वाईटांचे"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "पण मूळ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धार्मिकांचे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "फळ देते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:58.821368199Z",
+  "model": "glm-5.2"
+}

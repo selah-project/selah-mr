@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "ढग संपला व ⟨तो⟩ गेला; तसाच शेओलात उतरणारा ⟨हा⟩ येणार नाही.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "संपला"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ढग"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "व गेला"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसाच"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "उतरणारा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओलात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "येणार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:19:38.318151672Z",
+  "model": "glm-5.2"
+}

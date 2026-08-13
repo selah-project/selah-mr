@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि ती त्याच्या घरातून बाहेर गेली, आणि गेली आणि दुसऱ्या मनुष्याची झाली.",
+  "tokens": [
+    {
+      "surface": "וצאה",
+      "gloss": "आणि बाहेर गेली"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "त्याच्या घरातून"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "आणि गेली"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आणि झाली"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुष्याची"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसऱ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:27.845505551Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "तो पाहतो का माझे मार्ग, आणि माझे सर्व पाऊल मोजतो?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "पाहतो"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "माझे मार्ग"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि माझे सर्व"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "पाऊल"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "मोजतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:27:35.826699096Z",
+  "model": "glm-5.2"
+}

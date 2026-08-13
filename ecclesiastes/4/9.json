@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "तेज आहेत ⟨⟩ दोन एकापेक्षा, ज्यांच्यासाठी त्यांच्या परिश्रमात उत्तम फळ ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "तेज आहेत"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पेक्षा"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्यांच्यासाठी"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨आहे⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "त्यांच्यासाठी"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "फळ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "त्यांच्या परिश्रमात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:15.406117471Z",
+  "model": "glm-5.2"
+}

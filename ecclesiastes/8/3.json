@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "त्याच्या समोरून घाई नकोस चालू; वाईट गोष्टीत उभा राहू नकोस, कारण जे काही त्याला आवडते ते तो करतो.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תבהल",
+      "gloss": "घाई"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "त्याच्या समोरून"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "चालू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "उभा राहू"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "गोष्टीत"
+    },
+    {
+      "surface": "רע",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे काही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "त्याला आवडते"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "तो करतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:18.729103542Z",
+  "model": "glm-5.2"
+}

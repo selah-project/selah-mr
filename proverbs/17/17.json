@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "सर्व काळी मित्र प्रेम करतो, आणि दुःखकाळी भाऊ जन्माला येतो.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "עת",
+      "gloss": "काळी"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करतो"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "मित्र"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "आणि भाऊ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "दुःखकाळी"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "जन्माला येतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:19.817098690Z",
+  "model": "glm-5.2"
+}

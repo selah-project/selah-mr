@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 36:6",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "⟨तो⟩ दुष्टाला जगवत नाही, आणि दीनांचा न्याय ⟨तो⟩ देतो.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जगवत नाही"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टाला"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आणि न्याय"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दीनांचा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:50.808554809Z",
+  "model": "glm-5.2"
+}

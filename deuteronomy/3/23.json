@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि मी याहवेहाकडे त्या वेळी कृपार्थ केला, म्हणजे ⟨म्हणतो⟩;",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "आणि मी … कृपार्थ केला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨याहवेह⟩ाकडे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणजे ⟨म्हणतो⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:16.985563986Z",
+  "model": "glm-5.2"
+}

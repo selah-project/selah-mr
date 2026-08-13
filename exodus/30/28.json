@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "आणि ⟨את⟩ होम-वेदी व ⟨את⟩ तिची सर्व पात्रे, आणि ⟨את⟩ ⟨the⟩ धोण व ⟨את⟩ तिचे आधार.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "होम-वेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "होम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "सर्व पात्रे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "तिची पात्रे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "धोण"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "धोण"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "तिचे आधार"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "तिचे आधार"
+    }
+  ],
+  "timestamp": "2026-08-13T10:36:24.502920614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "उघडले ⟨आहे⟩ आमच्याविरुद्ध ⟨त्यांचे⟩ मुख ⟨आहे⟩ सर्व आमचे शत्रू.",
+  "tokens": [
+    {
+      "surface": "פָּצ֥וּ",
+      "gloss": "उघडले"
+    },
+    {
+      "surface": "עָלֵ֛ינוּ",
+      "gloss": "आमच्याविरुद्ध"
+    },
+    {
+      "surface": "פִּיהֶ֖ם",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אֹיְבֵֽינוּ",
+      "gloss": "आमचे शत्रू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:37:18.843474624Z",
+  "model": "glm-5.2"
+}

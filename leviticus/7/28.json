@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि याहवेह मोशेशी बोलला, म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "यांच्याशी"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:44:19.540231149Z",
+  "model": "glm-5.2"
+}

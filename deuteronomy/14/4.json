@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "ही ⟨हे⟩ पशू आहेत ज्यांना तुम्ही खावे: बैल, मेंढीचे कोकरू, व शेळीचे करकू.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्यांना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שה",
+      "gloss": "कोकरू\/करकू"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "मेंढीचे"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "व करकू"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "शेळीचे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:30.169810156Z",
+  "model": "glm-5.2"
+}

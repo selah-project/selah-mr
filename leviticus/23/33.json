@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि याहवेह मोशेशी बोलला, ⟨हे⟩ म्हणून:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:53:00.437155443Z",
+  "model": "glm-5.2"
+}

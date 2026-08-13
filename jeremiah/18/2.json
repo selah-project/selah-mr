@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "उठ आणि कुंभाराच्या घरी चल, आणि तिथे मी तुला माझी ⟨आती⟩ गोष्टी ऐकवीन.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "आणि चल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरी"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "कुंभाराच्या"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आणि तिथे"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ऐकवीन मी तुला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गोष्टी"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "माझी गोष्टी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:40:15.845461274Z",
+  "model": "glm-5.2"
+}

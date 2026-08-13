@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "हुराय मिनहले गाश, अबिएल ⟨the⟩ अर्बाथी.",
+  "tokens": [
+    {
+      "surface": "חוּרַי",
+      "gloss": "हुराय"
+    },
+    {
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "मिनहले"
+    },
+    {
+      "surface": "גַּעַשׁ",
+      "gloss": "गाश"
+    },
+    {
+      "surface": "אֲבִיאֵל",
+      "gloss": "अबिएल"
+    },
+    {
+      "surface": "הָעַרְבָתִי",
+      "gloss": "अर्बाथी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:07:33.114619998Z",
+  "model": "glm-5.2"
+}

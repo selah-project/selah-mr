@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 148,
+  "translation": "पर्वते व सर्व टेकड्या, फळझाडे व सर्व देवदारू:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "पर्वते"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "टेकड्या"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "झाडे"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फळ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदारू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:43.965673020Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 104,
+  "translation": "⟨जो⟩ झरे दरीत पाठवतो, पर्वतांच्या मधून ते वाहत जातात.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "पाठवणारा"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "झरे"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "दरीत"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पर्वतांच्या"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ते वाहत जातात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:53:51.014110017Z",
+  "model": "glm-5.2"
+}

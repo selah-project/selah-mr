@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि जेव्हा तू प्रतिज्ञा करण्यास टाळशील, तुझ्यावर पाप राहणार नाही.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आणि जेव्हा"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "तू टाळशील"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "प्रतिज्ञा करण्यास"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "राहील"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-08-13T11:25:48.267156879Z",
+  "model": "glm-5.2"
+}

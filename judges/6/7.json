@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "व असे झाले, की जेव्हा इस्राएलपुत्रांनी याहवेहकडे मिद्यानविषयी ओरकले,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "व असे झाले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की जेव्हा"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ओरकले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांनी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "על",
+      "gloss": "विषयी"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "बाबतीत"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:46:02.644015558Z",
+  "model": "glm-5.2"
+}

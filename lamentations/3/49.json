@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "माझे डोळे वाहू लागले आणि ते थांबणार नाहीत, ⟨कारण⟩ विराम नाही,",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "माझे डोळे"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "वाहू लागले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाहीत"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "थांबणार"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "विराम"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:21.021311620Z",
+  "model": "glm-5.2"
+}

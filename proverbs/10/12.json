@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "द्वेष मतभेद जागवतो, आणि सर्व अपराधांवर प्रेम झाकते.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "द्वेष"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "जागवतो"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "मतभेद"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "अपराधां"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "झाकते"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "प्रेम"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:23.458201683Z",
+  "model": "glm-5.2"
+}

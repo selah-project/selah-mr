@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "मुख्य संगीतकारासाठी, गित्तीत वाद्यावर, दावीदचा गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकारासाठी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गित्तीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:30:49.254265165Z",
+  "model": "glm-5.2"
+}

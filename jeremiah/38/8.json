@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "आणि एबेद-मेलेक राजाच्या भवनातून बाहेर आला आणि राजाशी बोलला, म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आणि बाहेर आला"
+    },
+    {
+      "surface": "עבד מלך",
+      "gloss": "एबेद-मेलेक"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "भवनातून"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:37:50.319387478Z",
+  "model": "glm-5.2"
+}

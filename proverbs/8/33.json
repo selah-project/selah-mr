@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "शिक्षा ऐका व ज्ञानी व्हा, व ⟨त्याला⟩ नकारू नका.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "शिक्षा"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "व ज्ञानी व्हा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व नको"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "नकारू नका"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:14.117918817Z",
+  "model": "glm-5.2"
+}

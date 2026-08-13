@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "तू संकटाच्या दिवशी थकलास तर तुझी शक्ती लहान ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "הִתְרַפִּיתָ",
+      "gloss": "तू थकलास"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "צָרָה",
+      "gloss": "संकटाच्या"
+    },
+    {
+      "surface": "צַר",
+      "gloss": "लहान"
+    },
+    {
+      "surface": "כֹּחֲךָ",
+      "gloss": "तुझी शक्ती"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:16.219313562Z",
+  "model": "glm-5.2"
+}

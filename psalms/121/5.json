@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 121,
+  "translation": "याहवेह ⟨तुझा⟩ रक्षक; याहवेह ⟨तुझी⟩ सावली ⟨तुझ्या⟩ उजव्या हातावर.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "तुझा रक्षक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "तुझी सावली"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तुझा उजवा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:51.910502678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 81,
+  "translation": "मुख्य संगीतकारासाठी, गत्तीत वाद्यावर, आसाफासाठी।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकारासाठी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गत्तीत वाद्य"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "आसाफासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:23.200893448Z",
+  "model": "glm-5.2"
+}

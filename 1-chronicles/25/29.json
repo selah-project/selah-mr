@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "दोन व वीस — गिद्दल्तीला; त्याचे मुले व त्याचे भाऊ बारा.",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "गिद्दल्तीला"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याचे मुले"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व त्याचे भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा ⟨दोन⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨आणि दहा⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:02.132770937Z",
+  "model": "glm-5.2"
+}

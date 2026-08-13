@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "गीत, झिंजारा, कोरहपुत्रांसाठी।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "झिंजारा"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांसाठी"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:47.771258837Z",
+  "model": "glm-5.2"
+}

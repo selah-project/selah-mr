@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि आता मी एक ज्ञानी मनुष्य पाठवला आहे, बुद्धी जाणणारा, खुराम आबीकडे.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "मी पाठवला आहे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक मनुष्य"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानी"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जाणणारा"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुद्धी"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "खुराम"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "आबी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:15:37.926686405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि बत-शेबेने म्हटले: ठीक आहे, मी तुझ्यासाठी बोलेन राजाशी.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आणि तिने म्हटले"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ठीक आहे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलेन"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ्यासाठी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:25:42.145280983Z",
+  "model": "glm-5.2"
+}

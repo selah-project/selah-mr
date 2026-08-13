@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व ⟨את⟩ ⟨the⟩ गिद्ध व ⟨the⟩ ससाणा व ⟨the⟩ गरुड प्रकारानुसार",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "व"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ गिद्ध"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "⟨the⟩ गिद्ध"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "व ⟨the⟩ ससाणा"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "प्रकारानुसार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:09.286236957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि जर तू तुझ्या हृदयात म्हणशील, कसे आपण ओळखू ⟨את⟩ ⟨हे⟩ वचन जे याहवेहने बोलले नाही?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तू म्हणशील"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तुझ्या हृदयात"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कसे"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "आपण ओळखू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोलले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:23:15.578381407Z",
+  "model": "glm-5.2"
+}

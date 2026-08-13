@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व ⟨they⟩ घेतले ⟨את⟩ लोट व ⟨את⟩ त्याचा संपत्ति — अव्रामच्या भावाचा पुत्र — व ⟨they⟩ गेले; व ⟨he⟩ सदोममध्ये राहत होता.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "व घेतले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोट"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोट"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "त्याचा संपत्ति"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "त्याचा संपत्ति"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भावाचा"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अव्राम"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "व गेले"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "व ⟨he⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "राहत होता"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "सदोममध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:48.605612894Z",
+  "model": "glm-5.2"
+}

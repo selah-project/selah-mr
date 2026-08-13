@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि खेतच्या मुलांनी ⟨את⟩ अब्राहामाला उत्तर दिले, त्याला म्हणत.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "आणि उत्तर दिले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांनी"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेतच्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अब्राहामाला"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अब्राहाम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणत"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:19.204033334Z",
+  "model": "glm-5.2"
+}

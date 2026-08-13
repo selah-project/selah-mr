@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "काय नाही मी लिहिले तुला तीनदा सल्ल्यांमध्ये व ज्ञानामध्ये?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "काय नाही"
+    },
+    {
+      "surface": "कתבתי",
+      "gloss": "मी लिहिले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "तीनदा"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "सल्ल्यांमध्ये"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "व ज्ञानामध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:18.893484884Z",
+  "model": "glm-5.2"
+}

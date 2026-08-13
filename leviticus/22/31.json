@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आणि तुम्ही माझ्या आज्ञा जपाल आणि ⟨त्या⟩ कराल; मी याहवेह.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "आणि तुम्ही जपाल"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "माझ्या आज्ञा"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "आणि तुम्ही कराल"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨त्या⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:51:53.349477610Z",
+  "model": "glm-5.2"
+}

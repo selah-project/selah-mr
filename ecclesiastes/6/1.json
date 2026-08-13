@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "एक वाईट गोष्ट ⟨आहे⟩ जी मी सूर्याखाली पाहिली, आणि ती मनुष्यांवर भारी ⟨आहे⟩:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨आहे⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट गोष्ट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मी पाहिली"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्या"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "आणि भारी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्यां"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:51.641880034Z",
+  "model": "glm-5.2"
+}

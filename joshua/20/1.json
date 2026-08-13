@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि याहवेह यिहोशूयाला बोलला, लेखून:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ला"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यिहोशूया"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेखून"
+    }
+  ],
+  "timestamp": "2026-08-13T11:40:18.112547037Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि राजा दावीद ⟨את⟩ सर्व वचने ⟨ही⟩ ऐकली, आणि त्याला अत्यंत चिडले.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "आणि ⟨हा⟩ राजा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐकली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व वचने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचने"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "आणि चिडले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T12:15:47.190660872Z",
+  "model": "glm-5.2"
+}

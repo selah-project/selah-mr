@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "पण ज्ञानाविना ⟨असलेली⟩ जीव ⟨ही⟩ चांगली नाही, आणि पावलांनी धावणारा पाप करतो.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पण"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "विना"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञाना"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "आणि धावणारा"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "पावलांनी"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "पाप करतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:55.437690780Z",
+  "model": "glm-5.2"
+}

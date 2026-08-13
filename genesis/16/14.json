@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "त्यामुळे ⟨त्या⟩ विहिरीस बेर-लहाय-रोई असे नाव पडले; पाहा, ⟨ती⟩ कादेश आणि बेरेद यांच्या मध्ये ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "त्यामुळे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अतः"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "नाव पडले"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "विहिरीस"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "लहाय"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "रोई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "पाहा"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "बेरेद"
+    }
+  ],
+  "timestamp": "2026-08-13T10:04:27.608979593Z",
+  "model": "glm-5.2"
+}

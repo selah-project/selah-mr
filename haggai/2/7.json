@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि मी ⟨את⟩ सर्व ⟨the⟩ राष्ट्रांना हिदरवीन, आणि सर्व ⟨the⟩ राष्ट्रांची इच्छित वस्तू येईल, आणि मी ⟨את⟩ ⟨this⟩ ⟨the⟩ भवन ⟨with⟩ तेज भरून करीन, म्हणतो याहवेह सेनापति.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "आणि मी हिदरवीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "(सर्व ⟨the⟩ राष्ट्रांना)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨the⟩ राष्ट्रांना"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "आणि येईल"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "इच्छित वस्तू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨the⟩ राष्ट्रांची"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "आणि मी भरून करीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "(⟨this⟩ ⟨the⟩ भवन)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ भवन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨this⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनापति"
+    }
+  ],
+  "timestamp": "2026-08-13T14:24:18.908306918Z",
+  "model": "glm-5.2"
+}

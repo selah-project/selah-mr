@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "येरीहोच्या ⟨पुत्र⟩, तीनशे पंचेचाळीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "येरीहो"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ארबעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "व पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:36.867405668Z",
+  "model": "glm-5.2"
+}

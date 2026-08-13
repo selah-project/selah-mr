@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "व ⟨त्यांनी⟩ मर्द्खायला एस्तेरच्या ⟨את⟩ वचने सांगितली.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "व सांगितली"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "मर्द्खायला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचने"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचने"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेरच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:49:39.127762690Z",
+  "model": "glm-5.2"
+}

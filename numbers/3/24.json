@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "व ⟨the⟩ प्रमुख, ⟨the⟩ घराचा ⟨the⟩ पित्याचा, लगर्शुनी — एल्यासाफ, पुत्र लाएलाचा.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "वप्रमुख"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराचा"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पित्याचा"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "लगर्शुनी"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "लाएलाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:51.988862Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "अंधारात मला बसवले ⟨त्याने⟩, प्राचीन मृतांप्रमाणे.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "अंधारात"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "मला बसवले"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "मृतांप्रमाणे"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "प्राचीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:51.698083924Z",
+  "model": "glm-5.2"
+}

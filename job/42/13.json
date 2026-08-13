@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "आणि त्याला झाले सात पुत्र आणि तीन कन्या.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "आणि तीन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "कन्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:32:25.663640046Z",
+  "model": "glm-5.2"
+}

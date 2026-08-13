@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 7:23",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि शांतिअर्पणासाठी बैल दोन, मेंढे पाच, बोके पाच, एक वर्षाची कोकरे पाच; हे नतनएल बन त्सुआरचे अर्पण ⟨होते⟩.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "आणि अर्पणासाठी"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शांती"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेंढे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "बोके"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "कोकरे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "वर्षाचे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "अर्पण"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नतनएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बन"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सुआर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:32:13.725831410Z",
+  "model": "glm-5.2"
+}

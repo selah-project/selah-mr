@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक बैल, गोधनाचा ⟨एक⟩, एक मेंढा, एक कोकरू, त्याच्या वर्षाचे ⟨पुत्र⟩, वर-अर्पणालाय:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गोधन"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेंढा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "त्याच्या वर्षाचे"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "वर-अर्पणालाय"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:59.689138757Z",
+  "model": "glm-5.2"
+}

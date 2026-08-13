@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 84,
+  "translation": "आमचा ढाल, पाहे, एलोहीम; आणि ⟨तू⟩ पाहे तुझा मशीह चेहरा.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "आमचा ढाल"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "पाहे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "आणि पाहे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "तुझा मशीह"
+    }
+  ],
+  "timestamp": "2026-08-13T14:50:29.534527325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "शुद्ध सोन्याचा एक किकार तो ⟨आपण⟩ ⟨את⟩ तिला बनवेल — ⟨את⟩ ही सर्व वस्तू.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "किकार"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "तो बनवेल"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ तिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ही सर्व वस्तू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "वस्तू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ही"
+    }
+  ],
+  "timestamp": "2026-08-13T10:33:20.744978751Z",
+  "model": "glm-5.2"
+}

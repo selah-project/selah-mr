@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "⟨त्याने⟩ माझ्यावर बांधले आणि वेढले विषाने आणि कष्टाने.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "बांधले"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावर"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "आणि वेढले"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "विषाने"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "आणि कष्टाने"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:51.697881437Z",
+  "model": "glm-5.2"
+}

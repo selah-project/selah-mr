@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि याहवेह बोलला मोशेकडे आणि अहरोनकडे, यासाठी ⟨की⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि-बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि-कडे"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:07:13.005208666Z",
+  "model": "glm-5.2"
+}

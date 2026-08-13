@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "ला गाद, एल्यासाप बेटा देउएल.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ला गाद"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाप"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:22.382744301Z",
+  "model": "glm-5.2"
+}

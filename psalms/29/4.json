@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "याहवेहचा आवाज ⟨आहे⟩ सामर्थ्यात; याहवेहचा आवाज ⟨आहे⟩ सोभाग्यात.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "सामर्थ्यात"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "सोभाग्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:58.325478931Z",
+  "model": "glm-5.2"
+}

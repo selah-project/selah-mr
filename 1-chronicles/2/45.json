@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि शम्मायचा ⟨हा⟩ माओन ⟨होता⟩, आणि माओन ⟨हा⟩ बेथ-त्सुरचा पिता ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "आणि ... पुत्र"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "माओन"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "आणि माओन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सुर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:21.742983521Z",
+  "model": "glm-5.2"
+}

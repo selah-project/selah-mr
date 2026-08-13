@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 64,
+  "translation": "पण एलोहीम ⟨him⟩ अचानक बाणाने मारील; त्यांचे जखमा होतील.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "पण मारील"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "बाणाने"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "היו",
+      "gloss": "त्यांचे झाले"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "जखमा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:43:19.631800277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "सनाह यांचे पुत्र — तीन हजार नऊशे तेहतीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "सनाह"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:59:03.816307150Z",
+  "model": "glm-5.2"
+}

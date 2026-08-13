@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "सैन्यांच्या ⟨हे⟩ सैन्याने लूट केली, प्रत्येक जण ⟨स्वतःसाठी⟩.",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "הַצָּבָא",
+      "gloss": "हा-त्साबा"
+    },
+    {
+      "surface": "בָּזְזוּ",
+      "gloss": "बाज़लू"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "ईश"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "लो"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:15.320815277Z",
+  "model": "glm-5.2"
+}

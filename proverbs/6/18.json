@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "दुष्ट कल्पना आटपणारे हृदय, वाईटकडे धावण्यास त्वरित पाय,",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "आटपणारे"
+    },
+    {
+      "surface": "מחשबות",
+      "gloss": "कल्पना"
+    },
+    {
+      "surface": "און",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पाय"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "त्वरित"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "धावण्यास"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "वाईटकडे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:41.262380151Z",
+  "model": "glm-5.2"
+}

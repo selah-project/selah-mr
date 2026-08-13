@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि बेथ-लबाओथ आणि शारूहेन; तेरा नगरे व ⟨त्यांची⟩ गांवे",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "आणि बेथ-"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "लबाओथ"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "आणि शारूहेन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "व ⟨त्यांची⟩ गांवे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:19.763395487Z",
+  "model": "glm-5.2"
+}

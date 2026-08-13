@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "नववा येशूअला, दहावा शखन्याहूला.",
+  "tokens": [
+    {
+      "surface": "לְיֵשׁוּעַ",
+      "gloss": "येशूअला"
+    },
+    {
+      "surface": "הַתְּשִׁיעִי",
+      "gloss": "नववा"
+    },
+    {
+      "surface": "לִשְׁכַנְיָהוּ",
+      "gloss": "शखन्याहूला"
+    },
+    {
+      "surface": "הָעֲשִׂרִי",
+      "gloss": "दहावा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:20.014798852Z",
+  "model": "glm-5.2"
+}

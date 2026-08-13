@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "व याहवेह मोशेला बोलला, म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "व बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:37:02.934557786Z",
+  "model": "glm-5.2"
+}

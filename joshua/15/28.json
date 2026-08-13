@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व खत्सर-शुअल, व बेर-शेबा, व बिझ्योथ्या:",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "व"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "खत्सर-शुअल"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "व"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "बेर-शेबा"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "व बिझ्योथ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:03.643949260Z",
+  "model": "glm-5.2"
+}

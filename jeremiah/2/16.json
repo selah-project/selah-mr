@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "नोफ आणि तहपन्हेसचे पुत्रही तुझे डोक्याचा भुंगा चारतात.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ही"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נף",
+      "gloss": "नोफ"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "तहपन्हेस"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "तुझे चारतात"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "डोक्याचा भुंगा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:20:01.954896521Z",
+  "model": "glm-5.2"
+}

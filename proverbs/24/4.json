@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "व विद्येने खोल्या सर्व मौल्यवान व सुखकर संपत्तीने भरल्या जातात.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "व विद्येने"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "खोल्या"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भरल्या जातात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הון",
+      "gloss": "संपत्तीने"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "मौल्यवान"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "व सुखकर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:01.055684098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "त्यांचा तूण ⟨एक⟩ उघडी कबर आहे; ते सर्व बलवान पुरुष आहेत.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "त्यांचा तूण"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "कबर"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "उघडी"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ते सर्व"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-13T13:21:24.315129555Z",
+  "model": "glm-5.2"
+}

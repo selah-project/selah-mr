@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि नोह ⟨होता⟩ सहाशे वर्षांचा पुत्र, आणि जलप्रलय ⟨होता⟩ पाण्यांचा पृथ्वीवर.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "आणि नोह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षांचा"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "आणि जलप्रलय"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨होता⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्यांचा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:45.646292293Z",
+  "model": "glm-5.2"
+}

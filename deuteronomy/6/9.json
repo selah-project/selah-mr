@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि ⟨त्यांची⟩ तुझ्या घराच्या चौकटींवर व तुझ्या दरवाज्यांवर उतरून लिही.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "आणि तू लिहिशील"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "चौकटीं"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "तुझ्या घराच्या"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "व तुझ्या दरवाज्यां"
+    }
+  ],
+  "timestamp": "2026-08-13T16:32:53.760924784Z",
+  "model": "glm-5.2"
+}

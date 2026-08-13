@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "कसा मी एकटा तुमचा त्रास, आणि तुमचा भार, आणि तुमचे वाद उच्चू शकतो?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कसा"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "मी उच्चू शकतो"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "एकटा"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "तुमचा त्रास"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "आणि तुमचा भार"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "आणि तुमचे वाद"
+    }
+  ],
+  "timestamp": "2026-08-13T11:14:41.040781192Z",
+  "model": "glm-5.2"
+}

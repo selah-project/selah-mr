@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि याहवेह अव्राहाम-पासून नव्हे — मोशे व अहरोन यांच्याशी बोलून म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि कडे"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:50.356389647Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "दुष्टांचे दरोडे ⟨त्यांना⟩ ओढीत, कारण ⟨त्यांनी⟩ न्याय करण्यास नकार दिला.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "दरोडे"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांचे"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "ओढीत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "नकार दिला"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करण्यास"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:19.731162194Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "जंताला दोन कन्या आहेत: 'दे, दे.' तीन गोष्टी ⟨आहेत⟩ ज्या संतृप्त होत नाहीत, चार ज्या म्हणत नाहीत: 'पुरे.'",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "जंताला"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "कन्या"
+    },
+    {
+      "surface": "הב",
+      "gloss": "दे"
+    },
+    {
+      "surface": "הב",
+      "gloss": "दे"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "गोष्टी"
+    },
+    {
+      "surface": "लא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "संतृप्त होत"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "म्हणत"
+    },
+    {
+      "surface": "הון",
+      "gloss": "पुरे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:52.406518824Z",
+  "model": "glm-5.2"
+}

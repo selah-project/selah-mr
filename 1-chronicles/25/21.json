@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "चौदावा मत्तित्याहूला, ⟨त्याची⟩ चिरंजीव, व ⟨त्याची⟩ भाऊ, बारा:",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "चौदावा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨चौदा⟩"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "मत्तित्याहूला"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "चिरंजीव"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨बारा⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:11.503902481Z",
+  "model": "glm-5.2"
+}

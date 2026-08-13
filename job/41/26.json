@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "⟨अहो⟩ ⟨את⟩ सर्व उंच ⟨गोष्टी⟩ पाहतो; तो ⟨आहे⟩ राजा सर्व गर्विष्ठांवर.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व उंच"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "उंच"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "पाहतो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांचा"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "गर्व"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:29.319627825Z",
+  "model": "glm-5.2"
+}

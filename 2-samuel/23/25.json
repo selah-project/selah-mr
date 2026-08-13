@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "शम्माह ⟨हा⟩ हरोदी, एलिका ⟨हा⟩ हरोदी.",
+  "tokens": [
+    {
+      "surface": "שַׁמָּה֙",
+      "gloss": "शम्माह"
+    },
+    {
+      "surface": "הַֽחֲרֹדִ֔י",
+      "gloss": "हरोदी"
+    },
+    {
+      "surface": "אֱלִיקָ֖א",
+      "gloss": "एलिका"
+    },
+    {
+      "surface": "הַחֲרֹדִֽי",
+      "gloss": "हरोदी"
+    }
+  ],
+  "timestamp": "2026-08-13T12:22:41.074567929Z",
+  "model": "glm-5.2"
+}

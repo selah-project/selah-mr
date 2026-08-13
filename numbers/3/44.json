@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि याहवेहने मोशेशी बोलला, या अर्थी:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या अर्थी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:05.590546934Z",
+  "model": "glm-5.2"
+}

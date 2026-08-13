@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "आणि योसेफ त्याला म्हणाला: हा त्याचा अर्थ आहे — तीन फांद्या तीन दिवस ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हा"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "त्याचा अर्थ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "फांद्या"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨आहेत⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T10:16:53.600474815Z",
+  "model": "glm-5.2"
+}

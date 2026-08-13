@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "सर्व ठिकाणी याहवेहच्या डोळे आहेत — वाईट आणि चांगले पाहणारे.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठिकाणी"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "डोळे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "पाहणारे"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "आणि चांगले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:28.865542389Z",
+  "model": "glm-5.2"
+}

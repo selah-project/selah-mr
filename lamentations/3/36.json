@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "मनुष्याला त्याच्या वादात वक्र करण्यासाठी — अदोनाय पाहत नाही का?",
+  "tokens": [
+    {
+      "surface": "לְעַוֵּ֤ת",
+      "gloss": "वक्र करण्यासाठी"
+    },
+    {
+      "surface": "אָדָם֙",
+      "gloss": "मनुष्याला"
+    },
+    {
+      "surface": "בְרִיב֔וֹ",
+      "gloss": "त्याच्या वादात"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "רָאָֽה",
+      "gloss": "पाहत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:14.782488779Z",
+  "model": "glm-5.2"
+}

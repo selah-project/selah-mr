@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "सशक्त करा शिथिल हात, व लोंबत्या दुभाज्या दृढ करा.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "सशक्त करा"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हात"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "शिथिल"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "व दुभाज्या"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "लोंबत्या"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "दृढ करा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:07:00.472109003Z",
+  "model": "glm-5.2"
+}

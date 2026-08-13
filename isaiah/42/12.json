@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "याहवेहला तेज देत, व ⟨त्याची⟩ स्तुती बेटांमध्ये सांगत.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "देत"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "व त्याची स्तुती"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "बेटांमध्ये"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:09:55.557053242Z",
+  "model": "glm-5.2"
+}

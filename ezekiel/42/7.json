@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 42:7",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "आणि एक भिंत ⟨which was⟩ बाहेरच्या बाजूला, समांतर ⟨the⟩ कक्षांना, ⟨along⟩ ⟨the⟩ मार्गाला ⟨of⟩ ⟨the⟩ बाह्य प्रांगणाच्या, समोर ⟨the⟩ कक्षांच्या; ⟨its⟩ लांबी पन्नास हात.",
+  "tokens": [
+    {
+      "surface": "וגדר",
+      "gloss": "आणि-भिंत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "बाहेरच्या-बाजूला"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "समांतर"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "कक्षांना"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "मार्गाला"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "प्रांगणाच्या"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "बाह्य"
+    },
+    {
+      "surface": "אל",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "समोर-पाने"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "कक्षांच्या"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "लांबी"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:05:42.829286863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "तुझी हात ⟨होऊ⟩ मजला मदतीला, कारण तुझे विधी मी निवडले.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ती होऊ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तुझी हात"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "मजला मदतीला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "तुझे विधी"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "मी निवडले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:15.114858365Z",
+  "model": "glm-5.2"
+}

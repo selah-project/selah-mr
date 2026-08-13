@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "दान गोत्रासाठी, गमल्लीचा मुलगा अम्मिएल.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्रासाठी"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "अम्मिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "गमल्ली"
+    }
+  ],
+  "timestamp": "2026-08-13T11:01:38.187431566Z",
+  "model": "glm-5.2"
+}

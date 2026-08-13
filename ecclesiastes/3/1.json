@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "हर एक ⟨गोष्टीला⟩ काळ आहे, आणि हर एक इच्छेला आकाशांखाली ⟨एक⟩ वेळ आहे.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "हर एक ⟨गोष्टीला⟩"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "काळ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर एक इच्छेला"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशां"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:46.696139556Z",
+  "model": "glm-5.2"
+}

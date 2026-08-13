@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "सर्व दिवसां आपल्या नजिराच्या तो पवित्र ⟨आहे⟩ याहवेहासाठी.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवसां"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "आपल्या नजिराच्या"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:58:17.796704240Z",
+  "model": "glm-5.2"
+}

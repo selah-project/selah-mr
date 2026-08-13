@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "बाअना बेन हुशाय, आशेर ⟨मध्ये⟩ व बेअलोत ⟨मध्ये⟩.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "बाअना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन-"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हुशाय"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "आशेर ⟨मध्ये⟩"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "व बेअलोत ⟨मध्ये⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T12:26:37.417633635Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "अनादी सीमा हलवू नके, आणि अनाथांच्या शेतांत जाऊ नके.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नके"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "हलवू"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनादी"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "आणि शेतांत"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथांच्या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नके"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "जाऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:34.940927372Z",
+  "model": "glm-5.2"
+}

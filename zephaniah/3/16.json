@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "त्या दिवशी येरूशालायिमला असे म्हटले जाईल: भिऊ नको, हे सियोन, तुझे हात ढिले होऊ नकोत.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "त्या दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ते"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "असे म्हटले जाईल"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "येरूशालायिमला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "भिऊ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "हे सियोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ढिले होऊ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "तुझे हात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:23:04.650531954Z",
+  "model": "glm-5.2"
+}

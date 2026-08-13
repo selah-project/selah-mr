@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "तो आला आई वर, गेला मिग्रोन येथे; मिकमाश येथे तो आपली सामग्री देतो.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "तो आला"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "עית",
+      "gloss": "आई"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "गेला"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "मिग्रोन येथे"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "मिकमाश येथे"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "तो देतो"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "आपली सामग्री"
+    }
+  ],
+  "timestamp": "2026-08-13T12:57:35.328438820Z",
+  "model": "glm-5.2"
+}

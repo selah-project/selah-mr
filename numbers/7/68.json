@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक सोन्याची पाळी, दहा ⟨शेकेल⟩, धूप घातलेली.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "पाळी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोन्याची"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरलेली"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:08.463555708Z",
+  "model": "glm-5.2"
+}

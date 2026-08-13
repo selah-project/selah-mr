@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि गाद दावीदाकडे आला आणि त्याला म्हणाला: असे म्हणतो याहवेह: ⟨तू⟩ एक ⟨पर्याय⟩ स्वीकार:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आणि आला"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याकडे"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "स्वीकार"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:22.181239668Z",
+  "model": "glm-5.2"
+}

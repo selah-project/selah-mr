@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "गिबोन व ⟨the⟩ रामा व बेरोत",
+  "tokens": [
+    {
+      "surface": "גִּבְע֥וֹן",
+      "gloss": "गिबोन"
+    },
+    {
+      "surface": "וְהָֽרָמָ֖ה",
+      "gloss": "व ⟨the⟩ रामा"
+    },
+    {
+      "surface": "וּבְאֵרֽוֹת",
+      "gloss": "व बेरोत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:00.689108252Z",
+  "model": "glm-5.2"
+}

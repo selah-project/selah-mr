@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 45,
+  "translation": "तलवार तुझ्या मांधीवर बांध, हे बलवान; तुझे वैभव आणि तुझा वैभव!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "बांध"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "तुझी तलवार"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "मांधी"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "हे बलवान"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "तुझे वैभव"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "आणि तुझा वैभव"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:42.925994598Z",
+  "model": "glm-5.2"
+}

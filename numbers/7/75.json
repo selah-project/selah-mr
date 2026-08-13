@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक बैल, गुराचे एक बछडे, एक मेंढा, एक एक वर्षाचा खेळरू, दहनार्थे:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "—"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गुराचे बछडे"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेंढा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "खेळरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्षाचा"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "दहनार्थे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:08.717113211Z",
+  "model": "glm-5.2"
+}

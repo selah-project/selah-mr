@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "एलीएल व ओबेद व याशियाएल ⟨हा⟩ मत्सोबायीय",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "एलीएल"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "व ओबेद"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "व याशियाएल"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "मत्सोबायीय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:52.999195644Z",
+  "model": "glm-5.2"
+}

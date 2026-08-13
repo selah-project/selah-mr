@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "दुष्ट विचार याहवेहला घृणास्पद आहेत, आणि प्रसन्न वचने ⟨शुद्ध⟩ आहेत.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घृणास्पद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "आणि ⟨शुद्ध⟩"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचने"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "प्रसन्न"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:29.950977021Z",
+  "model": "glm-5.2"
+}

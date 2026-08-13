@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "व दिशोन व एत्सेर व दिशान; ⟨हे⟩ होरीचे सरदार, सेईरचे मुले, एदोम देशात.",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "व दिशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "व एत्सेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "व दिशान"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "होरीचे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईरचे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:15:06.634019941Z",
+  "model": "glm-5.2"
+}

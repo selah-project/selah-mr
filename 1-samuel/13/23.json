@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि फिलिश्टी तुकडीचा ठाणा मिकमाशच्या दरणाजवळ निघाला.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आणि निघाला"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ठाणा"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "फिलिश्टी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "दरणा"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "मिकमाशच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:59:30.385457926Z",
+  "model": "glm-5.2"
+}

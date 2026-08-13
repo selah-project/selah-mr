@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "हारीमला तिसरा, सेओरीमला चौथा.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "हारीमला"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसरा"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "सेओरीमला"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "चौथा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:11.817612348Z",
+  "model": "glm-5.2"
+}

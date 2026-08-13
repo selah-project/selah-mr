@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "माझ्या दोदीने आपला हात छिद्रातून पाठवला, आणि माझे उदर त्याच्यासाठी हलूपले।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "माझ्या दोदीने"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पाठवला"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपला हात"
+    },
+    {
+      "surface": "מן",
+      "gloss": "छिद्रातून"
+    },
+    {
+      "surface": "החר",
+      "gloss": "⟨छिद्र⟩"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "आणि माझे उदर"
+    },
+    {
+      "surface": "המו",
+      "gloss": "हलूपले"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्याच्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:33:07.224819599Z",
+  "model": "glm-5.2"
+}

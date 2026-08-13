@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "व शुप्पिम व हुप्पिम — इरचे पुत्र; हुशीम — अहेरचे पुत्र.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "व शुप्पिम"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "व हुप्पिम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "इरचे"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "हुशीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अहेरचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:55.629484570Z",
+  "model": "glm-5.2"
+}

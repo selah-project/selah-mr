@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "तुझ्या भावाच्या पत्नीची नग्नता उघडू नकोस; ती तुझ्या भावाची नग्नता ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नीची"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तुझ्या भावाच्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "उघडू"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तुझ्या भावाची"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ती"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:08.320382187Z",
+  "model": "glm-5.2"
+}

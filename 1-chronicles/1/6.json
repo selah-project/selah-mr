@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व गोमेरचे पुत्र: अश्कनज व रिफत व तोगर्मा.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व पुत्र"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "अश्कनज"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "व रिफत"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "व तोगर्मा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:17.460911029Z",
+  "model": "glm-5.2"
+}

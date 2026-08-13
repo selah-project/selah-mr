@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि नाहोर जगला नऊ व वीस वर्षे, आणि त्याने ⟨את⟩ तेरह जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाहोर"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेरह"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:46.088262366Z",
+  "model": "glm-5.2"
+}

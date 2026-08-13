@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 50,
+  "translation": "हा वचन जे याहवेहाने बाबेलविषयी, काश्दींच्या देशाविषयी, यिर्मेयाहू नबीच्या हातून बोलले.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "हे वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "विषयी"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "विषयी"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "काश्दींच्या"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हातून"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:43:22.282120943Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 73,
+  "translation": "तरीही मी सतत तुझ्यासोबत ⟨आहे⟩; तू माझा उजवा हात पकडला.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आणि मी"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सतत"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तुझ्यासोबत"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "तू पकडला"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "माझा उजवा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:14.315940727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "ज्यात ज्या ज्यात दोष असेल ते काहीही तुम्ही अर्पण करू नका, कारण ते तुमच्या स्वीकारासाठी नाही.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व ... जे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्यात"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "तुम्ही अर्पण करू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "स्वीकारासाठी"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होईल"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:52:29.135223877Z",
+  "model": "glm-5.2"
+}

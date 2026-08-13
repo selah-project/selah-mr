@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि याहवेह मोशेशी बोलला, असे म्हणावयास:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणावयास"
+    }
+  ],
+  "timestamp": "2026-08-13T10:52:31.548204646Z",
+  "model": "glm-5.2"
+}

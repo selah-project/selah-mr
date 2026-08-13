@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "ऐका, दूरचे ⟨जे⟩ मी केले, आणि ओळखा, जवळचे, माझी पराक्रम.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "दूरचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जे⟩"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "मी केले"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "आणि ओळखा"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "जवळचे"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "माझी पराक्रम"
+    }
+  ],
+  "timestamp": "2026-08-13T13:06:54.664559013Z",
+  "model": "glm-5.2"
+}

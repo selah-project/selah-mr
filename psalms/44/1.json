@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 44,
+  "translation": "मुख्य गायकासाठी, कोरहाच्या पुत्रांसाठी, बोधग्रंथ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य गायकासाठी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांसाठी"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बोधग्रंथ"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:21.144245372Z",
+  "model": "glm-5.2"
+}

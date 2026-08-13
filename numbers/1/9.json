@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "⟨ला⟩ झबुलून, एलिआब चेलोनचा मुलगा.",
+  "tokens": [
+    {
+      "surface": "לִזְבוּלֻ֕ן",
+      "gloss": "झबुलून ⟨ला⟩"
+    },
+    {
+      "surface": "אֱלִיאָ֖ב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "חֵלֹֽן",
+      "gloss": "चेलोन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:04.882646674Z",
+  "model": "glm-5.2"
+}

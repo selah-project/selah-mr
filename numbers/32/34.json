@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "आणि गादच्या पुत्रांनी बांधले ⟨את⟩ दीबोन आणि ⟨את⟩ अत्रोथ आणि ⟨את⟩ अरोएर.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "आणि बांधले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांनी"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादच्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दीबोन"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "दीबोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "अत्रोथ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अत्रोथ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "अरोएर"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "अरोएर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:12:41.312150975Z",
+  "model": "glm-5.2"
+}

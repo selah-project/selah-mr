@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "रत्सिनचे पुत्र, नेकोदाचे पुत्र, गज्जामचे पुत्र",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रत्सिन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नेकोदा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "गज्जाम"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:43.605797391Z",
+  "model": "glm-5.2"
+}

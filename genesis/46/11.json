@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "आणि लेवीचे मुले: गेरेशोन, केहात आणि मेरारी.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि-मुले"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरेशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आणि मेरारी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:37.306331509Z",
+  "model": "glm-5.2"
+}

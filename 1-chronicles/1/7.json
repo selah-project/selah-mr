@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व यवानचे पुत्र: एलिशा व तर्शीशा, कित्तीम व रोदनीम.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व पुत्र"
+    },
+    {
+      "surface": "יון",
+      "gloss": "यवान"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "एलिशा"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "व तर्शीशा"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "कित्तीम"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "व रोदनीम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:17.461050392Z",
+  "model": "glm-5.2"
+}

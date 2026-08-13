@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "तू ते खाऊ नकोस; ते जमिनीवर तू पाण्यासारखे ओतशील.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "तू ते खाशील"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिनीवर"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "तू ते ओतशील"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पाण्यासारखे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:05.490019339Z",
+  "model": "glm-5.2"
+}

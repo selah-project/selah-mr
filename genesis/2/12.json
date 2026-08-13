@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि त्या देशाचे सोने चांगले आहे; तिथे बदोलख आणि शोहम दगड ⟨आहे⟩।",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "आणि सोने"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशाचे"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "बदोलख"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "आणि दगड"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "शोहम"
+    }
+  ],
+  "timestamp": "2026-08-13T09:57:21.283082572Z",
+  "model": "glm-5.2"
+}

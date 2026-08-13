@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "त्या देशातून अश्शूर ⟨बाहेर आला⟩, आणि त्याने ⟨את⟩ नीनवे, ⟨את⟩ रहोबोथ-ईर आणि ⟨את⟩ कलह बांधली.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "तून"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "बाहेर आला"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "आणि बांधली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नीनवे"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "रहोबोथ-ईर"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "रहोबोथ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ईर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "कलह"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "कलह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:47.892820403Z",
+  "model": "glm-5.2"
+}

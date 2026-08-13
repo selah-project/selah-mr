@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "धन्य ⟨आहे⟩ तुझे टोपले व तुझे ⟨कणीक-भांडे⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तुझे टोपले"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "व तुझे कणीक-भांडे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:28.544711009Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "की ⟨तू⟩ ऐकशील तुझ्या एका शहरात जे याहवेह तुझा एलोहीम तुला तेथे राहण्यास देत आहे, ⟨असे⟩ म्हणून",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ऐकशील"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "एका"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "तुझ्या शहरात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तुझा एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देत आहे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "राहण्यास"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तेथे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:45.535491293Z",
+  "model": "glm-5.2"
+}

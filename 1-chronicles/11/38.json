@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "योएल नातानचा भाऊ, मिबखर ⟨the⟩ हाग्रीचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाऊ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातानचा"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "मिबखर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "⟨the⟩ हाग्रीचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:59.039314836Z",
+  "model": "glm-5.2"
+}

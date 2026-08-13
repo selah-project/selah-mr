@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "त्सीफचा पुत्र, एलकानाचा पुत्र, महातचा पुत्र, अमाशायचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "त्सीफचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकानाचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "महातचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "अमाशायचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:42.966857798Z",
+  "model": "glm-5.2"
+}

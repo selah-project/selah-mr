@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "⟨मला⟩ ⟨את⟩ त्याने हाकलले व अंधकारात चालवले, व ⟨नाही⟩ प्रकाश.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "मला"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "त्याने हाकलले"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "व चालवले"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अंधकारात"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:45.738225417Z",
+  "model": "glm-5.2"
+}

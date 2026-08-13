@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "जगणारा मनुष्य का तक्रार करील, पुरुष ⟨आपल्या⟩ पापाच्या शिक्षेवर?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "तक्रार करील"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जगणारा"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "आपल्या पापाच्या शिक्षे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:07.527227288Z",
+  "model": "glm-5.2"
+}

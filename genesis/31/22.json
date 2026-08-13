@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि तिसऱ्या दिवशी लवानला सांगण्यात आले, की याकोव पळून गेला.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "आणि सांगण्यात आले"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "लवानला"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसऱ्या"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "पळून गेला"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    }
+  ],
+  "timestamp": "2026-08-13T10:11:58.385714056Z",
+  "model": "glm-5.2"
+}

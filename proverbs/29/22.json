@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "रागाचा माणूस वाद उकळवितो, आणि उष्णतेचा धनी ⟨वाढतो⟩ अपराधात.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "माणूस"
+    },
+    {
+      "surface": "אף",
+      "gloss": "रागाचा"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "उकळवितो"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "वाद"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "आणि ⟨धनी⟩"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "उष्णतेचा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨वाढतो⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अपराधात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:25.500849366Z",
+  "model": "glm-5.2"
+}

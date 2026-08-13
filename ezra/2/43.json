@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "नतीनीम: त्सिहाचे पुत्र, खसुफाचे पुत्र, तब्बाओताचे पुत्र.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "नतीनीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "त्सिहा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "खसुफा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "तब्बाओत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:52:49.499261558Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "व यशयाहू खिजकीयाहूला म्हणाला, \"याहवेहचे वचन ऐक.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "व म्हणाला"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशयाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकीयाहू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:51:16.470190969Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि मिखाचे पुत्र ⟨होते⟩: पिथोन, व मेलेख, व तह्रेआ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... पुत्र"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखा"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पिथोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "व मेलेख"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "व तह्रेआ"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:52.315147685Z",
+  "model": "glm-5.2"
+}

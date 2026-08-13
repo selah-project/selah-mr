@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "ही ⟨आहे⟩ मुलाक सभामंडपात केहाती मुलांची सेवा, परमपवित्र वस्तूंची:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांची"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहाती"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "सभामंडपात"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मुलाक"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "परमपवित्र वस्तूंची"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:25.493473929Z",
+  "model": "glm-5.2"
+}

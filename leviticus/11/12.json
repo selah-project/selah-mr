@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "पाण्यात ज्याला पर्स व कात नाहीत असे सर्व काही — ते तुमच्यासाठी घृणास्पद ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व काही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्याला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याले"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पर्स"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "व कात"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पाण्यात"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणास्पद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ते"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमच्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:46:02.119228945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि म्हणाला, \"माझ्या भावांनो, कृपया असे वाईट करू नका.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नका"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "माझ्या भावांनो"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "असे वाईट करू"
+    }
+  ],
+  "timestamp": "2026-08-13T10:05:25.168448105Z",
+  "model": "glm-5.2"
+}

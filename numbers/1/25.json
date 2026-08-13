@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची मोजणी ⟨आहे⟩ गाद गोत्रासाठी — पाच व चाळीस हजार व सहाशे व वीत.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची मोजणी"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्रासाठी"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "व चाळीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "व वीत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:05.329404083Z",
+  "model": "glm-5.2"
+}

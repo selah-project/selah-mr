@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि मोशे घेतला ⟨את⟩ काठी याहवेहच्या समोरील, जसे त्याने ⟨him⟩ आज्ञा केली.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आणि घेतला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ह⟩ काठी"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨ह⟩ काठी"
+    },
+    {
+      "surface": "मלפני",
+      "gloss": "च्या समोरील"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसे"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "त्याने आज्ञा केली"
+    }
+  ],
+  "timestamp": "2026-08-13T11:06:08.932529466Z",
+  "model": "glm-5.2"
+}

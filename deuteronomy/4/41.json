@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "तेव्हा मोशेने यर्देनच्या पलीकडे सूर्योदयाच्या दिशेने तीन शहरे वेगळी केली.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तेव्हा"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "वेगळी केली"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेने"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "शहरे"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "पलीकडे"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देनच्या"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सूर्योदयाच्या दिशेने"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:27.882856568Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि सर्व देह पाहील की मी याहवेह आहे; मी ती पेटविली आहे — ती विझणार नाही.'",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "आणि पाहील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "मी ती पेटविली आहे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ती विझणार"
+    }
+  ],
+  "timestamp": "2026-08-13T13:54:26.278092388Z",
+  "model": "glm-5.2"
+}

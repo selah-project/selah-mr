@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि त्याने वध केले, आणि मोशेने ⟨את⟩ रक्त वेदीवर सभोवती शिंपडले.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "आणि त्याने वध केले"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "आणि शिंपडले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रक्त"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदीवर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "सभोवती"
+    }
+  ],
+  "timestamp": "2026-08-13T10:44:47.925804641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक शेंगरू, बकरीचा, पापार्थे:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "शेंगरू"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरीचा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापार्थे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:08.717233214Z",
+  "model": "glm-5.2"
+}

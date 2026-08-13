@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "मग्बीशचे पुत्र, शंभर पन्नास व सहा.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "मग्बीश"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "व सहा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:52.415323019Z",
+  "model": "glm-5.2"
+}

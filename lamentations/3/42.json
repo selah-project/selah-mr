@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आम्ही उल्लंघन केले व आम्ही बंड केले; तू न क्षमिलेस्.",
+  "tokens": [
+    {
+      "surface": "נַחְנוּ",
+      "gloss": "आम्ही"
+    },
+    {
+      "surface": "פָּשַׁעְנוּ",
+      "gloss": "उल्लंघन केले"
+    },
+    {
+      "surface": "וּמָרִינוּ",
+      "gloss": "व आम्ही बंड केले"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "न"
+    },
+    {
+      "surface": "סָלָחְתָּ",
+      "gloss": "क्षमिलेस्"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:54.126445931Z",
+  "model": "glm-5.2"
+}

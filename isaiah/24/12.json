@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "नगरात वाटोळी उरली ⟨आहे⟩ आणि दाराला कपट्याने ठोसा बसला.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "उरली"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगरात"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वाटोळी"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "आणि कपट्याने"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "ठोसा बसला"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दाराला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:02:34.393634322Z",
+  "model": "glm-5.2"
+}

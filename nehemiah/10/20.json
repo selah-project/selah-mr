@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "चारीफ, अनातोत, नोबाय,",
+  "tokens": [
+    {
+      "surface": "חָרִ֥יף",
+      "gloss": "चारीफ"
+    },
+    {
+      "surface": "עֲנָת֖וֹת",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "नोबाय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:00:41.471730758Z",
+  "model": "glm-5.2"
+}

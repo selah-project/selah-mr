@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि राजा म्हणाला, वळ, इथे उभे राह; आणि तो वळला आणि उभा राहिला.",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "סב",
+      "gloss": "वळ"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "उभे राह"
+    },
+    {
+      "surface": "כה",
+      "gloss": "इथे"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "आणि तो वळला"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "आणि उभा राहिला"
+    }
+  ],
+  "timestamp": "2026-08-13T12:20:12.964174099Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "आणि नफ्तालीच्या सीमेजवळ, पूर्व दिशेपासून पश्चिम दिशेपर्यंत, मनश्शे एक.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आणि ... जवळ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमेच्या"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्ताली"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "दिशेपासून"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "दिशेपर्यंत"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T16:42:55.122622188Z",
+  "model": "glm-5.2"
+}

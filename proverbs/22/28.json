@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "अमर सीमा, जी तुझ्या पितरांनी लावली, ती हलवू नकोस.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תַּ׭סֵּג",
+      "gloss": "तू हलवू"
+    },
+    {
+      "surface": "גְּב֣וּל",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "अमर"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "עָשׂ֣וּ",
+      "gloss": "त्यांनी लावली"
+    },
+    {
+      "surface": "אֲבוֹתֶֽיךָ",
+      "gloss": "तुझ्या पितरांनी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:43.752122966Z",
+  "model": "glm-5.2"
+}

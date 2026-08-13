@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि हे अहरोन व मोशे यांचे वंश आहेत, ज्या दिवशी याहवेह ⟨את⟩ मोशेशी सिनाय पर्वतावर बोलला.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "वंश"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "व मोशे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ज्या दिवशी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतावर"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सिनाय"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:37.997521613Z",
+  "model": "glm-5.2"
+}

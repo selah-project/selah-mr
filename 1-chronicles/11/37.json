@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "हत्स्रो ⟨the⟩ कर्मेली, नाअराय एज्बायचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "हत्स्रो"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨the⟩ कर्मेली"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "नाअराय"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "एज्बायचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:59.039044268Z",
+  "model": "glm-5.2"
+}

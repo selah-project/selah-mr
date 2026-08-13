@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि आता, माझ्या अदोनायचे सामर्थ्य मोठे होवो, जसे तू बोललास, या प्रमाणे:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "मोठे होवो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "כח",
+      "gloss": "सामर्थ्य"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनायचे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसे"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "तू बोललास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या प्रमाणे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:02:54.546903382Z",
+  "model": "glm-5.2"
+}

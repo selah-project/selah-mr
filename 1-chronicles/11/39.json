@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "त्सेलेक ⟨the⟩ अम्मोनी, नखराय ⟨the⟩ बेरोथी, योआब ⟨the⟩ त्सरूयाच्या पुत्राचा शस्त्रधारी.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "त्सेलेक"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "⟨the⟩ अम्मोनी"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "नखराय"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "⟨the⟩ बेरोथी"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "शस्त्रधारी"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "शस्त्रे"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरूयाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:59.039540066Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "तू स्त्री घेऊ नके, आणि तुला या स्थानी मुले व मुली नसतील;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नके"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "तू घेऊ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "असतील"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "व मुली"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "स्थानी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या"
+    }
+  ],
+  "timestamp": "2026-08-13T13:26:49.423120636Z",
+  "model": "glm-5.2"
+}

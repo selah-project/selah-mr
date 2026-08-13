@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "लाकूड नसताना आग विझते, आणि चहेडखोर नसताना भांडण शांत होते.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "नसताना"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लाकूड"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "विझते"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "आणि नसताना"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "चहेडखोर"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "शांत होते"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "भांडण"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:19.344283498Z",
+  "model": "glm-5.2"
+}

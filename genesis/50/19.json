@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 50,
+  "translation": "आणि योसेफ त्यांना म्हणाला: भिऊ नका; कारण ⟨तरी⟩ एलोहीमच्या जागी मी ⟨आहे⟩ का?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "भिऊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "जागी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमच्या"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:22:20.169714142Z",
+  "model": "glm-5.2"
+}

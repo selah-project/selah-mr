@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "लेखे याशूब, हयाशूबी कुळ; लेखे शिम्रोन, हशिम्रोनी कुळ.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "लेखे याशूब"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "हयाशूबी"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "लेखे शिम्रोन"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "हशिम्रोनी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:55.458408182Z",
+  "model": "glm-5.2"
+}

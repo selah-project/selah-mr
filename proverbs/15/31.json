@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "कान ⟨जो⟩ ऐकतो ⟨आजीव⟩ सुधारणेचा, तो ज्ञानींच्या मध्ये राहतो.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ऐकतो"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "सुधारणेचा"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ज्ञानींच्या"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "राहतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:53.428793243Z",
+  "model": "glm-5.2"
+}

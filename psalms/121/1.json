@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 121,
+  "translation": "मालावरील गीत; ⟨मी⟩ ⟨माझ्या⟩ डोळे डोंगरांकडे उचलतो, कोठून येईल ⟨माझी⟩ मदत?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "मालावरील"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उचलतो"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "डोळे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "डोंगरां"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कोठून"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "येईल"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "मदत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:26.342139117Z",
+  "model": "glm-5.2"
+}

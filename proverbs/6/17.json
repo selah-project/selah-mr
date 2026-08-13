@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "उत्तुंग डोळे, खोटी जीभ, व निरपराध रक्त सांडणारे हात,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "डोळे"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "उत्तुंग"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "खोटी"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "व हात"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "सांडणारे"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निरपराध"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:41.262165693Z",
+  "model": "glm-5.2"
+}

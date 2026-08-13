@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "बेथ-अझ्मावेतचे पुरुष बेताळीस.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "अझ्मावेतचे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:32.323124001Z",
+  "model": "glm-5.2"
+}

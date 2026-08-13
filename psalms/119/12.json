@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "धन्य ⟨आहेस⟩ तू, याहवेह; तू मला तुझे विधी शिकव.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "तू मला शिकव"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तुझे विधी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:58:22.707626376Z",
+  "model": "glm-5.2"
+}

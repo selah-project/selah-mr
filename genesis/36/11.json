@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि एलिफाजचे पुत्र ⟨होते⟩: तेमान, ओमार, त्सेफो, गाताम आणि केनाज.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨ते⟩ होते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाजचे"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ओमार"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "त्सेफो"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "आणि गाताम"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "आणि केनाज"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:56.232889574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 44,
+  "translation": "आणि त्याच्या शुद्धीनंतर त्याला सात दिवस गणतील.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "आणि ... नंतर"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "त्याच्या शुद्धी"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "गणतील"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:08:19.842081416Z",
+  "model": "glm-5.2"
+}

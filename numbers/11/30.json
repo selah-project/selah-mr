@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि मोशे छावणीकडे गेला, तो आणि इस्राएलचे वडील.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "आणि गेला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावणी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "आणि वडील"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलचे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:02:00.291243156Z",
+  "model": "glm-5.2"
+}

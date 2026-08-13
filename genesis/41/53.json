@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "आणि सात वर्षे संपली — ⟨समृद्धीची⟩ जी मित्स्रायिमच्या देशात होती.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "आणि संपली"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שני",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "⟨समृद्धीची⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होती"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मित्स्रायिमच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:18:20.114981722Z",
+  "model": "glm-5.2"
+}

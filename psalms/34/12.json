@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "या, ⟨हे⟩ मुलांनो, माझे ऐका; याहवेहचे भय ⟨तुम्हाला⟩ शिकवेन.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "या"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "मुलांनो"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझे"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "तुम्हाला शिकवेन"
+    }
+  ],
+  "timestamp": "2026-08-13T14:36:23.388730670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि जर तू उतरण्यास भित्रा असशील, तर तू व तुझा नोकर पुरा छावणीकडे उतर.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "भित्रा असशील"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "उतरण्यास"
+    },
+    {
+      "surface": "רד",
+      "gloss": "उतर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "व पुरा"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "तुझा नोकर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावणी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:46:31.975293393Z",
+  "model": "glm-5.2"
+}

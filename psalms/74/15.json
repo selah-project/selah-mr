@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 74,
+  "translation": "तूं झरा व नदी फोडली, तूं अफाट नद्या आटविल्या",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "तूं"
+    },
+    {
+      "surface": "בָּקַעְתָּ",
+      "gloss": "फोडली"
+    },
+    {
+      "surface": "מַעְיָן",
+      "gloss": "झरा"
+    },
+    {
+      "surface": "וָנָחַל",
+      "gloss": "व नदी"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "तूं"
+    },
+    {
+      "surface": "הוֹבַשְׁתָּ",
+      "gloss": "आटविल्या"
+    },
+    {
+      "surface": "נַהֲרוֹת",
+      "gloss": "नद्या"
+    },
+    {
+      "surface": "אֵיתָן",
+      "gloss": "अफाट"
+    }
+  ],
+  "timestamp": "2026-08-13T14:47:03.998142275Z",
+  "model": "glm-5.2"
+}

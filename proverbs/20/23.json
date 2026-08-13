@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "याहवेहला द्वेश्य वाटते ⟨हे⟩ दगड व दगड, व फसवणुकीचे तराजे ⟨हे⟩ चांगले नाहीत.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "द्वेश्य वाटते"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "दगड"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "व दगड"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "व तराजे"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "फसवणुकीचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:44.374122827Z",
+  "model": "glm-5.2"
+}

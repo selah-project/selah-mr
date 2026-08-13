@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि ⟨את⟩ एवाल आणि ⟨את⟩ अबीमाएल आणि ⟨את⟩ शबा",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "एवाल"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "एवाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "अबीमाएल"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "अबीमाएल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "शबा"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शबा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:30.150982798Z",
+  "model": "glm-5.2"
+}

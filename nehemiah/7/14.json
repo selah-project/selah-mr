@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "ज़क्कईचे पुत्र — सातशे ⟨व⟩ साठ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ज़क्कई"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:55.913001624Z",
+  "model": "glm-5.2"
+}

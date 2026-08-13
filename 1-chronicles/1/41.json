@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आनाचे ⟨हे⟩ पुत्र: दिशोन. आणि दिशोनचे पुत्र: हम्रान व एशबान व यित्रान व क्रान.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "आना"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आणि ⟨हे⟩ पुत्र"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "हम्रान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "व एशबान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "व यित्रान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "व क्रान"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:58.794096080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "लादानचे पुत्र — ⟨हा⟩ प्रमुख येहिएल व झेताम व योएल, तीन.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "लादानचे"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "येहिएल"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "व झेताम"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "व योएल"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:46.771773877Z",
+  "model": "glm-5.2"
+}

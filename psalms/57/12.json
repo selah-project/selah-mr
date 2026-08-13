@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 57,
+  "translation": "उंच राह, हे एलोहीम, आकाशांवर; तुझे वैभव ⟨राहो⟩ संपूर्ण पृथ्वीवर.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "उंच राह"
+    },
+    {
+      "surface": "על",
+      "gloss": "आकाशांवर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाशां"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "तुझे वैभव"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:09.539015725Z",
+  "model": "glm-5.2"
+}

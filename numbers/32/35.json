@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "आणि ⟨את⟩ अत्रोथ-शोफन आणि ⟨את⟩ याझेर आणि योग्बेहा.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "अत्रोथ-शोफन"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अत्रोथ"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "शोफन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "याझेर"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "याझेर"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "आणि योग्बेहा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:12:41.312328562Z",
+  "model": "glm-5.2"
+}

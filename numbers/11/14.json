@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "नाही मी सक्षम मी एकटा ⟨आहे⟩ ⟨את⟩ सर्व या लोकांना वाहू, कारण जड ⟨आहे⟩ माझ्यापेक्षा.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "मी सक्षम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "एकटा"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "वाहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व या लोकांना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकांना"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "जड"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "माझ्यापेक्षा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:02:17.883784639Z",
+  "model": "glm-5.2"
+}

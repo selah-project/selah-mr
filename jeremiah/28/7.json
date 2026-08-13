@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "तरीही आता ऐक हे बोल जे मी तुझ्या कानांत आणि सर्व लोकांच्या कानांत बोलत आहे",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "तरीही"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आता"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "हे बोल"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलत आहे"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "तुझ्या कानांत"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "आणि कानांत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकांच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T13:32:45.867297026Z",
+  "model": "glm-5.2"
+}

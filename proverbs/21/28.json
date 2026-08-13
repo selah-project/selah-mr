@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "खोटा साक्षी नाहीसा होईल, पण ऐकणारा माणूस साक्षी देत राहील.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "खोटा"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नाहीसा होईल"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "पण माणूस"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ऐकणारा"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "साक्षी देत राहील"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोलेल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:54.295423982Z",
+  "model": "glm-5.2"
+}

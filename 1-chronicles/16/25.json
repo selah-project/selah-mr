@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "कारण महान ⟨आहे⟩ याहवेह आणि अत्यंत स्तुत्य ⟨आहे⟩, आणि भयंकर ⟨आहे⟩ तो सर्व एलोहीमपेक्षा.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "आणि स्तुत्य"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "आणि भयंकर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पेक्षा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:09:20.693839201Z",
+  "model": "glm-5.2"
+}

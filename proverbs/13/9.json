@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "दीनांचा प्रकाश ⟨स⟩आनंदित होतो, आणि दुष्टांचा दिवा ⟨स⟩विझतो.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "दीनांचा"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨स⟩आनंदित होतो"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "आणि दिवा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांचा"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "⟨स⟩विझतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:19.635213162Z",
+  "model": "glm-5.2"
+}

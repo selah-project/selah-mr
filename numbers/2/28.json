@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व त्याचे सैन्य व त्यांची गणना: एक्केचाळीस हजार व पाचशे.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "व त्याचे सैन्य"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "व त्यांची गणना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "व चाळीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "व पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:17.153652409Z",
+  "model": "glm-5.2"
+}

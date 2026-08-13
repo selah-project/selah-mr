@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "लकीश ⟨होता⟩; कीशचे मुले ⟨होते⟩ यरह्मेएल.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "लकीश"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "कीश"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरह्मेएल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:55.024966284Z",
+  "model": "glm-5.2"
+}

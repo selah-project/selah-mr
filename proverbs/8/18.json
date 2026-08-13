@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "संपत्ती आणि सन्मान ⟨את⟩-बरोबर माझ्या, बारसाची संपत्ती आणि नीती.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "संपत्ती"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आणि सन्मान"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-बरोबर",
+      "marks": "माझ्या"
+    },
+    {
+      "surface": "הון",
+      "gloss": "संपत्ती"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "बारसाची"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आणि नीती"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:46.577964732Z",
+  "model": "glm-5.2"
+}

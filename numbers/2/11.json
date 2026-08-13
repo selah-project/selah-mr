@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व ⟨त्याचे⟩ सैन्य व ⟨त्याचे⟩ गणलेले — सहा व चाळीस हजार व पाचशे.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "व त्याचे सैन्य"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "व त्याचे गणलेले"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "व चाळीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "व पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:54.409476897Z",
+  "model": "glm-5.2"
+}

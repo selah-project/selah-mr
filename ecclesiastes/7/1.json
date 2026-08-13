@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "उत्तम ⟨आहे⟩ नाव चांगल्या तेलापेक्षा, आणि मृत्यूचा दिवस जन्माच्या दिवसापेक्षा.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाव"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "चांगल्या तेलापेक्षा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "आणि दिवस"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मृत्यूचा"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिवसापेक्षा"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "जन्माच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:46.185457388Z",
+  "model": "glm-5.2"
+}

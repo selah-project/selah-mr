@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "त्सादोक ⟨का⟩ त्याचा पुत्र, अहिमात्स ⟨का⟩ त्याचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याचा पुत्र"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "अहिमात्स"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याचा पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:04.963510045Z",
+  "model": "glm-5.2"
+}

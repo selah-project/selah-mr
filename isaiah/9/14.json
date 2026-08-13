@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "वृद्ध व चेहरा-उंच ⟨हा⟩ ते ⟨हे⟩ शीर्ष, व खोटे शिक्षवणारा नवी तो ⟨हा⟩ शेपूट.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "व उंच"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हा"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "शीर्ष"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "व नवी"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "शिक्षवणारा"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "खोटे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हा"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "शेपूट"
+    }
+  ],
+  "timestamp": "2026-08-13T12:58:26.939134667Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि जर तो दरिद्री माणूस असेल, तर तू त्याची तारणवस्तू जवळ घेऊन झोपू नकोस।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणूस"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दरिद्री"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "तू झोपू"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "त्याची तारणवस्तू जवळ घेऊन"
+    }
+  ],
+  "timestamp": "2026-08-13T11:25:59.115927164Z",
+  "model": "glm-5.2"
+}

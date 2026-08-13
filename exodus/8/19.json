@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व मी माझ्या लोकां व तुझ्या लोकां यांच्यामध्ये विभाजण ठेवीन; उद्या हे चिन्ह असेल.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "व मी ठेवीन"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "विभाजण"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "माझ्या लोकां"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "व"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तुझ्या लोकां"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "उद्या"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "האת",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:26:09.372191619Z",
+  "model": "glm-5.2"
+}

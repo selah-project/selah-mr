@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "ज़क्कायचे पुत्र, सातशे ⟨व⟩ साठ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ज़क्काय"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:41.073222547Z",
+  "model": "glm-5.2"
+}

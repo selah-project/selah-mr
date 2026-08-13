@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "पारबारला पश्चिमेकडे चार, रस्त्याला दोन, पारबारला.",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "पारबारला"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "पश्चिमेकडे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "रस्त्याला"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "לפרबר",
+      "gloss": "पारबारला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:13:25.963030022Z",
+  "model": "glm-5.2"
+}

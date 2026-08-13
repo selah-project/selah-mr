@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "ढगांच्या उंच जागांवर मी चढेन, सर्वोच्चासारखा मी होईन।",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "मी चढेन"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "उंच जागांवर"
+    },
+    {
+      "surface": "עב",
+      "gloss": "ढगांच्या"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "होईन"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "सर्वोच्चासारखा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:58:50.482776479Z",
+  "model": "glm-5.2"
+}

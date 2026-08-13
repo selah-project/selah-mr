@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "त्या दिवशी शूशन अरमाण्यात ठार केलेल्यांची संख्या राजासमोर आली.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आली"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "संख्या"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "ठार केलेल्यांची"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "शूशन"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "अरमाण्यात"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:44:16.134649537Z",
+  "model": "glm-5.2"
+}

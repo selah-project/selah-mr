@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व उठला एक नवा राजा मिस्राइमवर, ज्याला माहीत नव्हते ⟨את⟩ योसेफ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "व उठला"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नवा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्राइम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्याला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नव्हते"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "माहीत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योसेफ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-08-13T10:22:17.418217767Z",
+  "model": "glm-5.2"
+}

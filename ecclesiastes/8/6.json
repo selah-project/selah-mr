@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "कारण प्रत्येक इच्छेला ⟨हा⟩ काळ व न्याय आहे, कारण मानवाची वाईट दशा त्याच्यावर फार मोठी ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छेला"
+    },
+    {
+      "surface": "יש",
+      "gloss": "आहे"
+    },
+    {
+      "surface": "עת",
+      "gloss": "काळ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "व न्याय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "वाईट दशा"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानवाची"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "फार मोठी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्याच्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:53.825502789Z",
+  "model": "glm-5.2"
+}

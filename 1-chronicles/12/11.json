@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "मिशमन्नाह ⟨the⟩ चौथा, यिर्मेयाह ⟨the⟩ पाचवा",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "मिशमन्नाह"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "⟨the⟩ चौथा"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिर्मेयाह"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "⟨the⟩ पाचवा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:50:24.347254662Z",
+  "model": "glm-5.2"
+}

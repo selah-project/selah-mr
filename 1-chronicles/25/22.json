@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "पंधरावा लिरेमोथला, ⟨त्याची⟩ चिरंजीव, व ⟨त्याची⟩ भाऊ, बारा:",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "पंधरावा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨पंधरा⟩"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "लिरेमोथला"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "चिरंजीव"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨बारा⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:11.504140736Z",
+  "model": "glm-5.2"
+}

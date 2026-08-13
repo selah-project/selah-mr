@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि ⟨झाले⟩ सर्व कैनानचे दिवस दहा वर्षे आणि नऊशे वर्षे, आणि ⟨तो⟩ मेला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ⟨झाले⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "कैनानचे"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आणि नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि मेला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:29:01.949834405Z",
+  "model": "glm-5.2"
+}

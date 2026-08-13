@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "पहिल्या दिवशी ⟨आहे⟩ पवित्र सभा; कोणतीही सेवाकार्याची क्रिया तुम्ही करू नका.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिल्या"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणतीही"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "क्रिया"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवाकार्याची"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करू"
+    }
+  ],
+  "timestamp": "2026-08-13T10:53:00.437520658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 47,
+  "translation": "कारण याहवेह, ⟨आहे⟩ सर्वोच्च, भयंकर; ⟨एक⟩ महान राजा संपूर्ण पृथ्वीवर.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "सर्वोच्च"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भयंकर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:54.942948710Z",
+  "model": "glm-5.2"
+}

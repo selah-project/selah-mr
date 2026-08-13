@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि मला विपुल लाकडे तयार करून दे, कारण ⟨ते⟩ घर जे मी बांधत आहे ते मोठे व अद्भुत ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "आणि तयार करून दे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लाकडे"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "विपुल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ते⟩ घर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "बांधत आहे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "मोठे"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "व अद्भुत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:15:30.011742231Z",
+  "model": "glm-5.2"
+}

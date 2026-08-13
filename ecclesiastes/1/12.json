@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "मी, कोहेलेथ, ⟨होतो⟩ राजा यिस्राएलवर येरूशालायिममध्ये.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेथ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨होतो⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "येरूशालायिममध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:30.030838396Z",
+  "model": "glm-5.2"
+}

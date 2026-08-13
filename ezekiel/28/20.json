@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "आणि झाले याहवेहचे वचन मजकडे, यासाठी म्हणावे:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी म्हणावे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:59:28.418852658Z",
+  "model": "glm-5.2"
+}

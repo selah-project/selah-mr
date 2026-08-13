@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "याखातचा पुत्र, गेरेशोमचा पुत्र, लेवीचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יַ֥חַת",
+      "gloss": "याखात"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גֵּרְשֹׁ֖ם",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לֵוִֽי",
+      "gloss": "लेवी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:27.117037715Z",
+  "model": "glm-5.2"
+}

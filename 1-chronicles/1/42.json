@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "एत्सेरचे पुत्र: बिलहान व झावान, याकान; दिशोनचे पुत्र: उत्स व अरान.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "व झावान"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "याकान"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "व अरान"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:58.794351310Z",
+  "model": "glm-5.2"
+}

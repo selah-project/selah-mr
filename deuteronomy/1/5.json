@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "बाजूने हयर्द्दन, देशात मोआबच्या, इच्छिले मोशे यांनी स्पष्ट करण्यास ⟨את⟩ हा नियम हा, ते म्हणत:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "बाजूने"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "हयर्द्दन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबच्या"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "इच्छिले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "באר",
+      "gloss": "स्पष्ट करण्यास"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हा नियम"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "हा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ते म्हणत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:14:56.373099829Z",
+  "model": "glm-5.2"
+}

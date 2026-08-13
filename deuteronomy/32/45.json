@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "आणि मोशे ⟨करीत⟩ सांगणे संपवले ⟨את⟩ सर्व ⟨हे⟩ वचन ⟨ही⟩ सर्व इस्राएलाला.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "आणि संपवले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "सांगणे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ही"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलाला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:58.818235381Z",
+  "model": "glm-5.2"
+}

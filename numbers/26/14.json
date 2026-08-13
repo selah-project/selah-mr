@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "ही ⟨आहेत⟩ कुटुंबे ⟨हे⟩ शिमोनी: बाव्वीस हजार व दोनशे.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुटुंबे"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "हे-शिमोनी"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "व-दोनशे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:35.174952304Z",
+  "model": "glm-5.2"
+}

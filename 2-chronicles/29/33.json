@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि ⟨हे⟩ पवित्र वस्तू — बैल सहाशे, आणि मेंढ्या तीन हजार.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "आणि पवित्र वस्तू"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आणि मेंढ्या"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T16:25:22.339045088Z",
+  "model": "glm-5.2"
+}

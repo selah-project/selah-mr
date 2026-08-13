@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि म्हणाला मोशे: मी ⟨तरी⟩ वळून ⟨होईन⟩ ⟨आणि⟩ पाहीन ⟨हे⟩ ⟨את⟩ मोठे दर्शन हे, का झुडप जळत नाही.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "मी वळून"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨तरी⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "⟨आणि⟩ पाहीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोठे दर्शन"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "मोठे"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "जळत"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "झुडप"
+    }
+  ],
+  "timestamp": "2026-08-13T10:23:13.432815784Z",
+  "model": "glm-5.2"
+}

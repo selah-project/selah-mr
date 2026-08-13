@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "म्हणू नको: आपण वाईट फेडून घेईन; याहवेहची वाट बघ व ⟨तो⟩ तुला उद्धारेल.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "म्हणू"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "आपण फेडून घेईन"
+    },
+    {
+      "surface": "רע",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "वाट बघ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहची"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "व उद्धारेल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:44.373951102Z",
+  "model": "glm-5.2"
+}

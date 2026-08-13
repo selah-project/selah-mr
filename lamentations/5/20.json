@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "का साक्षात आम्हाला विसरशील? आम्हाला बराच काळ सोडशील?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "साक्षात"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "आम्हाला विसरशील"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "आम्हाला सोडशील"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "बराच काळ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवसांच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:04.022341777Z",
+  "model": "glm-5.2"
+}

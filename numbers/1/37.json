@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची मोजणी ⟨म्हणजे⟩ बिन्यामीन गोत्राची — पस्तिशी हजार व चारशे.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची मोजणी"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्राची"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "व तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "व चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:08.301824575Z",
+  "model": "glm-5.2"
+}

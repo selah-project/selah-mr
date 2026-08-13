@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "मी ⟨सांगतो⟩ — राजाच्या मुखाचे रक्षण कर, आणि एलोहीमच्या शपथेच्या कारणास्तव.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुखाचे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "रक्षण कर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि ... विषयी"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कारणास्तव"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "शपथेच्या"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:18.728940001Z",
+  "model": "glm-5.2"
+}

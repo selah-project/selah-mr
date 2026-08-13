@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि अव्राहाम एलोहीमला म्हणाला: इश्माएल तुझ्यासमोर जगो!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "काश"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "इश्माएल"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जगो"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तुझ्यासमोर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:04:14.793817248Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि अनाका, आणि गोजर, आणि लेटाआ, आणि खोमेट, आणि तिनशेमेत।",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "आणि अनाका"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "आणि गोजर"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "आणि लेटाआ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "आणि खोमेट"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "आणि तिनशेमेत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:46:24.960415691Z",
+  "model": "glm-5.2"
+}

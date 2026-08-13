@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "पिढी जाते व पिढी येते, व पृथ्वी ⟨आहे⟩ साक्षात उभी.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "पिढी"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जाते"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "व पिढी"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येते"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "व पृथ्वी"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "साक्षात"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "उभी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:37:57.934088724Z",
+  "model": "glm-5.2"
+}

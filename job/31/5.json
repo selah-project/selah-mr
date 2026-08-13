@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "जर मी व्यर्थासोबत चाललो, आणि माझे पाय फसवण्याकडे धावले,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "मी चाललो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सोबत"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "आणि धावले"
+    },
+    {
+      "surface": "על",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "फसवण्या"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "माझे पाय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:27:37.435948924Z",
+  "model": "glm-5.2"
+}

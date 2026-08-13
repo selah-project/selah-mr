@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "तानाकचा राजा एक; मगिद्दोचा राजा एक;",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תַּעְנַךְ֙",
+      "gloss": "तानाक"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מְגִדּ֖וֹ",
+      "gloss": "मगिद्दो"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:37:01.250904400Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "काट्यांमध्ये कमळासारखी, तशी माझी प्रियकरी कन्यांमध्ये.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "कमळासारखी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "काट्यां"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तशी"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "माझी प्रियकरी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "कन्यां"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:57.512676827Z",
+  "model": "glm-5.2"
+}

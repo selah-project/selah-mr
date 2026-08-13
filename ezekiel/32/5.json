@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "व ⟨את⟩ तुझे मांस डोंगरांवर ठेवीन, व दरीं तुझ्या रांगोंनी भरीन.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "व मी ठेवीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तुझे मांस"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "तुझे मांस"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "डोंगरां"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "व मी भरीन"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "दरीं"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "तुझ्या रांगो"
+    }
+  ],
+  "timestamp": "2026-08-13T14:00:08.344429724Z",
+  "model": "glm-5.2"
+}

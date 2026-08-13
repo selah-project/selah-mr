@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "ओबेद-एदोमला दक्षिणेकडे; आणि त्याच्या मुलांना आसुप्पीमचे घर.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "ओबेद-एदोमला"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "दक्षिणेकडे"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "आणि त्याच्या मुलांना"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "आसुप्पीमचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:47.699569418Z",
+  "model": "glm-5.2"
+}

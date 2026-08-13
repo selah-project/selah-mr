@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "मी ⟨את⟩ माझे शय्या सुगंधित केले — मूर, अगरु, व दालचिनी.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "मी सुगंधित केले"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "माझे शय्या"
+    },
+    {
+      "surface": "מר",
+      "gloss": "मूर"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "अगरु"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "व दालचिनी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:19.242428987Z",
+  "model": "glm-5.2"
+}

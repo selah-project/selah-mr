@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "हे यिस्राएलचे पुत्र होत: रूबेन, शिमोन, लेवी व यहूदा, यिस्साखार व जबुलून.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "והודה",
+      "gloss": "व यहूदा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साखार"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "व जबुलून"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:41.994229634Z",
+  "model": "glm-5.2"
+}

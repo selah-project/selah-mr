@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "गर्जणारा सिंह व मारेकरी अस्वल — दुर्जन दलित लोकांवर राज्य करतो.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "गर्जणारा"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "व अस्वल"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "मारेकरी"
+    },
+    {
+      "surface": "משל",
+      "gloss": "राज्य करतो"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुर्जन"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोकां"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दलित"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:34.370680282Z",
+  "model": "glm-5.2"
+}

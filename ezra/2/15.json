@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "अदीनची मुले, चारशे पन्नास व चार.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "עָדִין",
+      "gloss": "अदीनची"
+    },
+    {
+      "surface": "אַרְבַּע",
+      "gloss": "चारशे"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "चारशे"
+    },
+    {
+      "surface": "חֲמִשִּׁים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "וְאַרְבָּעָֽה",
+      "gloss": "व चार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:40.348916808Z",
+  "model": "glm-5.2"
+}

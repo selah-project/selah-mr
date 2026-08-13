@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "केरोसची मुले, सियाची मुले, पदोनची मुले.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "केरोसची"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "सियाची"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "पदोनची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:52.797762055Z",
+  "model": "glm-5.2"
+}

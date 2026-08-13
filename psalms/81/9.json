@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 81,
+  "translation": "ऐक, माझ्या लोकांनो, आणि मी तुला साक्ष देईन; इस्राएल, तू ऐकलास तर",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "माझ्या लोकांनो"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "आणि मी साक्ष देईन"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "तू ऐकशील"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:34.945831375Z",
+  "model": "glm-5.2"
+}

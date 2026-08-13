@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "अकरा दिवस, होरेब पासून, सेईर पर्वताच्या मार्गाने, कदेश-बर्नेयापर्यंत.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "अकरा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "[एक+दहा]"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "होरेब पासून"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "मार्गाने"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वताच्या"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कदेश"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "बर्नेया"
+    }
+  ],
+  "timestamp": "2026-08-13T16:33:22.482602451Z",
+  "model": "glm-5.2"
+}

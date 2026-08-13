@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व गोशेन, व होलोन, व गिलोह — शहरे अकरा, व त्यांची गाळी;",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "व गोशेन"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "व होलोन"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "व गिलोह"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "शहरे"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "अकरा"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "व त्यांची गाळी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:17.465882360Z",
+  "model": "glm-5.2"
+}

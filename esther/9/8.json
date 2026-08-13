@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि ⟨את⟩ पोरथा, आणि ⟨את⟩ अदल्या, आणि ⟨את⟩ अरिदथा.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पोरथा"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "पोरथा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अदल्या"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "अदल्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अरिदथा"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "अरिदथा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:44:05.671497019Z",
+  "model": "glm-5.2"
+}

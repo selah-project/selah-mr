@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "कान लावा स्वर्ग आणि मी बोलू; आणि ऐकोत पृथ्वी ⟨את⟩ माझ्या तोंडाचे वचन.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "कान लावा"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "स्वर्य"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "आणि मी बोलू"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "आणि ऐकोत"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ही⟩ पृथ्वी"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "פי",
+      "gloss": "माझ्या तोंडाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:29:45.156972936Z",
+  "model": "glm-5.2"
+}

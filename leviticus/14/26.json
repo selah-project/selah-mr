@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि तेलातून याजक याजकाच्या डाव्या तळहातावर ओतील।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आणि-तून"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेलातून"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ओतील"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כף",
+      "gloss": "तळहातावर"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजकाच्या"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "डाव्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:55.363704211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि ते झाले सर्व गणलेले सहाशे हजार व तीन हजार व पाचशे व पन्नास.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ते झाले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "गणलेले"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "व तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "व पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "व पन्नास"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:47.692258460Z",
+  "model": "glm-5.2"
+}

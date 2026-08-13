@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "आणि याहवेहचा वचन यिर्मेयाहूकडे याहवेहकडून आले, ⟨हे⟩ सांगत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨आतून⟩ ⟨את⟩",
+      "marks": "याहवेह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:37:09.170900429Z",
+  "model": "glm-5.2"
+}

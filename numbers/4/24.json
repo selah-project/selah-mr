@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "ही ⟨आहे⟩ गेरशूनी कुळांची सेवा — सेवा करण्यास व वहाण्यास.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळांची"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "गेरशूनी"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "सेवा करण्यास"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "व वहाण्यास"
+    }
+  ],
+  "timestamp": "2026-08-13T10:57:05.238635054Z",
+  "model": "glm-5.2"
+}

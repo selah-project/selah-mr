@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "व ⟨हाजनिं⟩ वर ⟨हा⟩ याझिझ ⟨हा⟩ हाग्री; सर्व हे संपत्तीचे सरदार होते, जी राजा दावीदची ⟨होती⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "व"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "मेंढ्यांवर"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "याझिझ"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "हाग्री"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "संपत्तीचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाची"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    }
+  ],
+  "timestamp": "2026-08-13T16:13:34.041076514Z",
+  "model": "glm-5.2"
+}

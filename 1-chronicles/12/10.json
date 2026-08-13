@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "एझेर ⟨हा⟩ प्रमुख, ओवद्याह ⟨हा⟩ दुसरा, एलिआव ⟨हा⟩ तिसरा.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "एझेर"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ओवद्याह"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरा"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआव"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तिसरा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:50:32.527419795Z",
+  "model": "glm-5.2"
+}

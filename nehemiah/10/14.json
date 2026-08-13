@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "होदियाह, बनी, बनिनू",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "होदियाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "बनिनू"
+    }
+  ],
+  "timestamp": "2026-08-13T16:49:54.508854766Z",
+  "model": "glm-5.2"
+}

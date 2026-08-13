@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "व शाखेम आपल्या वडिलां खमोराशी म्हणाला, म्हणजे, मला ⟨את⟩ ही बालकी पत्नी म्हणून घ्या.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "व म्हणाला"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शाखेम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "खमोराशी"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपल्या वडिलां"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणजे"
+    },
+    {
+      "surface": "קח",
+      "gloss": "घ्या"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ही बालकी"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "बालकी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "पत्नी म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:13:58.078669770Z",
+  "model": "glm-5.2"
+}

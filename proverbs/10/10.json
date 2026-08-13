@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "डोळा मिचकावणारा वेदना देतो, आणि मूर्ख ओठांचा पाडता येईल.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "मिचकावणारा"
+    },
+    {
+      "surface": "עין",
+      "gloss": "डोळा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देतो"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "वेदना"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "आणि मूर्ख"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठांचा"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "पाडता येईल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:23.457953619Z",
+  "model": "glm-5.2"
+}

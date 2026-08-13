@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "सरळ शब्द उत्तर देणाऱ्याला ओठांनी चुंबन ⟨केले⟩ जाते.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ओठांनी"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "चुंबन ⟨केले⟩ जाते"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "उत्तर देणाऱ्याला"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "सरळ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:27.897402048Z",
+  "model": "glm-5.2"
+}

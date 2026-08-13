@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "पाचवा नतन्याहू, त्याचे पुत्र व त्याचे भाऊ ⟨होते⟩ बारा.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "पाचवा"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "नतन्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "त्याचे पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व त्याचे भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:50.741307042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "यिर्मेयाहू दहावा, मखबन्नाय अकरावा.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "दहावा"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "मखबन्नाय"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "अकरा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:08:05.375898772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि याहवेह सेनाईचा वचन मजकडे आला, म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֛י",
+      "gloss": "आणि ⟨ते⟩ झाले"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "सेनाईचा"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T14:25:18.902419353Z",
+  "model": "glm-5.2"
+}

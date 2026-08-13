@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि ⟨את⟩ हहित्ती आणि ⟨את⟩ हप्रिजी आणि ⟨את⟩ हरफाईं —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हहित्ती"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हहित्ती"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हप्रिजी"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "हप्रिजी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हरफाईं"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "हरफाईं"
+    }
+  ],
+  "timestamp": "2026-08-13T10:03:52.579911659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "शेळकामेंढीचा एक बोका, पापार्पणासाठी।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "शेळकामेंढीचा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापार्पणासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:06.864465972Z",
+  "model": "glm-5.2"
+}

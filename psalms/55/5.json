@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 55,
+  "translation": "माझे हृदय माझ्या आत थरथरते आणि मृत्यूचे भय माझ्यावर पडले.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "माझे हृदय"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "थरथरते"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "माझ्या आत"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "आणि भय"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यूचे"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "पडले"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:18.369322812Z",
+  "model": "glm-5.2"
+}

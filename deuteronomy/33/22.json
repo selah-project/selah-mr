@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि दानविषयी त्याने म्हटले: दान सिंहाचे पिल्लू आहे, तो बाशानमधून झेप घेतो.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "आणि दानविषयी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "त्याने म्हटले"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "גור",
+      "gloss": "पिल्लू"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "सिंहाचे"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "झेप घेतो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:31:25.325175187Z",
+  "model": "glm-5.2"
+}

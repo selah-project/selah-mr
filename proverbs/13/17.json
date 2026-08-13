@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "दुष्टाचा दूत वाईटात पडतो, आणि विश्वासू दूत ⟨आहे⟩ ईलाज.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टाचा"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "पडतो"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "वाईटात"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "आणि दूत"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "विश्वासू"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ईलाज"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:47.860617422Z",
+  "model": "glm-5.2"
+}

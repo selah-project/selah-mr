@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "हाच तो वचन जे मी फारोकडे बोललो: जे हे एलोहीम करत आहे ते त्याने ⟨את⟩ फारोला दाखवले आहे.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "हाच तो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "मी बोललो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत आहे"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "दाखवले आहे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फारोला"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    }
+  ],
+  "timestamp": "2026-08-13T10:17:25.884613998Z",
+  "model": "glm-5.2"
+}

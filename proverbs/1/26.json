@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "मीही तुमच्या आपत्तीत हसून; तुमचा भय येताच मी उपहास करीन.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "मीही"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "तुमच्या आपत्तीत"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "हसून"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "मी उपहास करीन"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "येताच"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "तुमचा भय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:56.323112591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "हे एसावची मुले आहेत, आणि हे त्यांचे सरदार आहेत; तोच एदोम ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावची"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "त्यांचे सरदार"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तोच"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:15:18.430102896Z",
+  "model": "glm-5.2"
+}

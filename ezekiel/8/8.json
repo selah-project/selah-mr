@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि ⟨त्याने⟩ मला म्हटले: मनुष्याचा पुत्रा, आता भिंत खण, आणि मी भिंत खणली, आणि पाह, एक दरवाजा.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हटले"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्रा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्याचा"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "खण"
+    },
+    {
+      "surface": "नא",
+      "gloss": "आता"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "भिंत"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "आणि खणली"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "भिंत"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आणि पाह"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दरवाजा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T13:49:07.798915775Z",
+  "model": "glm-5.2"
+}

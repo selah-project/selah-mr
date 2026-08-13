@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "उत्तम ⟨आहे⟩ दुःख हसण्यापेक्षा, कारण चेहऱ्याच्या खिन्नतेने हृदय उत्तम होते.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "हसण्यापेक्षा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "खराब असल्याने"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "उत्तम होते"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:46.185902200Z",
+  "model": "glm-5.2"
+}

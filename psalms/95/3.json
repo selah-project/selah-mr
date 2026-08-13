@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 95,
+  "translation": "कारण याहवेह ⟨हा⟩ महान एल ⟨आहे⟩, सर्व दैवतांवर महान राजा.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "आणि राजा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "दैवतांवर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:52:14.477078680Z",
+  "model": "glm-5.2"
+}

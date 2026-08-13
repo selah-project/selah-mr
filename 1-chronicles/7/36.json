@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "त्सोफखचे मुले: सुख, आणि हर्नेफेर, आणि शुअल, आणि बेरी, आणि यिम्रा.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोफख"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "सुख"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "आणि हर्नेफेर"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "आणि शुअल"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "आणि बेरी"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "आणि यिम्रा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:28.399366157Z",
+  "model": "glm-5.2"
+}

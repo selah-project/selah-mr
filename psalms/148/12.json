@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 148,
+  "translation": "तरुण पुरुष व कुमारिका, वृद्ध व तरुण:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "तरुण पुरुष"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "व"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "कुमारिका"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "עם",
+      "gloss": "व"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "तरुण"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:43.966189617Z",
+  "model": "glm-5.2"
+}

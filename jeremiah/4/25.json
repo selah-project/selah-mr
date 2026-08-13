@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "मी पाहिले आणि पहा — ⟨हा⟩ मनुष्य नाही, आणि आकाशाचे सर्व पक्षी उडून गेले.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "मी पाहिले"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आणि पहा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशाचे"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "उडून गेले"
+    }
+  ],
+  "timestamp": "2026-08-13T13:21:13.164688090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 83,
+  "translation": "एलोहीम, ⟨तुझ्यावर⟩ शांतता नसू देवू नका, मूक होऊ नका आणि शांत बसू नका, हे एल.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नका"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "शांतता"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नका"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "मूक होऊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नका"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "शांत बसू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:44.664209310Z",
+  "model": "glm-5.2"
+}

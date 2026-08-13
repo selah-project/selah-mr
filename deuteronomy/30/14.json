@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "कारण जवळ ⟨is⟩ तू, वचन अत्यंत; तोझबीत तुझ्या तोंडात व तुझ्या हृदयात तो करण्यासाठी.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "तुझ्या तोंडात"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "व तुझ्या हृदयात"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "तो करण्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:29:15.920500305Z",
+  "model": "glm-5.2"
+}

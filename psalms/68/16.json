@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 68,
+  "translation": "एलोहीमचा पर्वत ⟨आहे⟩ बाशानचा पर्वत, शिखरांचा पर्वत ⟨आहे⟩ बाशानचा पर्वत.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमचा"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशानचा"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "शिखरांचा"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशानचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:44:40.583937544Z",
+  "model": "glm-5.2"
+}

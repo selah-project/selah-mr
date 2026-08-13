@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि फल्लूची मुले ⟨होती⟩: एलियाब.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि … मुले"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "फल्लूची"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाब"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:36.982134583Z",
+  "model": "glm-5.2"
+}

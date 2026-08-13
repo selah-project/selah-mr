@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 84,
+  "translation": "किती प्रिय ⟨आहेत⟩ तुझी निवासस्थाने, याहवेह सेनाय!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "किती"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "प्रिय"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "तुझी निवासस्थाने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाय"
+    }
+  ],
+  "timestamp": "2026-08-13T14:50:13.393352648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 120,
+  "translation": "काय दिले जाईल ⟨तुला⟩, आणि काय जोडले जाईल ⟨तुला⟩, फसवणाऱ्या जिभे?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिले जाईल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨तुला⟩"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आणि काय"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "जोडले जाईल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨तुला⟩"
+    },
+    {
+      "surface": "लשון",
+      "gloss": "जिभे"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "फसवणाऱ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:38.251119466Z",
+  "model": "glm-5.2"
+}

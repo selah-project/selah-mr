@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "जर ढग भरले गेले, तर ⟨ते⟩ पृथ्वीवर पाऊस ओततील, आणि जर झाड दक्षिणेकडे पडते, किंवा जर उत्तरेकडे, जिथे झाड पडते तिथे ते असते.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भरले गेले"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ढग"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "पाऊस"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ओततील"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "पडते"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "झाड"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "दक्षिणेकडे"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "किंवा जर"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "उत्तरेकडे"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जिथे"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "पडते"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "झाड"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "असते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:20.066884499Z",
+  "model": "glm-5.2"
+}

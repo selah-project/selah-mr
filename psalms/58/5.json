@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 58,
+  "translation": "त्यांची विष ⟨ची⟩ नागाच्या विषासारखी ⟨आहे⟩; जणू बधिर अजगर ⟨जो⟩ आपले कान बंद करतो,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "למו",
+      "gloss": "त्यांची"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "सारखी"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नागाच्या"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जणू"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "अजगर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बधिर"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "बंद करतो"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "आपले कान"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:34.081377481Z",
+  "model": "glm-5.2"
+}

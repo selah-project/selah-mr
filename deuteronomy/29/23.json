@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि म्हणतील सर्व गोयांचे, कशासाठी केले याहवेहने असे या देशाला, काय ⟨आहे⟩ हा तीव्र रागाचा उष्णता ⟨हा⟩ मोठा ⟨हा⟩",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "आणि म्हणतील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "गोयांचे"
+    },
+    {
+      "surface": "על",
+      "gloss": "कशासाठी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेऔने"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "या देशाला"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "हा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "उष्णता"
+    },
+    {
+      "surface": "האף",
+      "gloss": "रागाचा"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "मोठा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:29:22.715623123Z",
+  "model": "glm-5.2"
+}

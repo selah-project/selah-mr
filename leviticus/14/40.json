@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व हायतीतून हायतीच्या दरवाज्याजवळ यावे व हायती सात दिवस बंद करावी.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "व आज्ञा करील"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हा कोहेन"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "व काढून टाकावेत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हादगड"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "हे दगड"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्या"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ज्यांमध्ये"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "हा न्हाव"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "व फेकून द्यावेत"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ त्यांना",
+      "marks": "हेदगड"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहेर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "हाशहराच्या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जागी"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-13T10:48:00.808408528Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "नून त्याचा पुत्र, यहोशुआ त्याचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "נ֥וֹן",
+      "gloss": "नून"
+    },
+    {
+      "surface": "בְּנ֖וֹ",
+      "gloss": "त्याचा पुत्र"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֥עַ",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "त्याचा पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:11.218700076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 89,
+  "translation": "शिक्षावह ⟨कविता⟩, एथान एझ्रहीने ⟨रचलेली⟩.",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּיל",
+      "gloss": "शिक्षावह"
+    },
+    {
+      "surface": "לְאֵיתָן",
+      "gloss": "एथान"
+    },
+    {
+      "surface": "הָאֶזְרָחִי",
+      "gloss": "एझ्रही"
+    }
+  ],
+  "timestamp": "2026-08-13T14:50:52.190334073Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि शेलाह तीस वर्षे जगला, आणि त्याने जन्म दिला ⟨את⟩ एवेर.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "आणि शेलाह"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जगला"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एवेर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवेर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:10.491131681Z",
+  "model": "glm-5.2"
+}

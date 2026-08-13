@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि गोड ⟨आहे⟩ ⟨ते⟩ प्रकाश, आणि ⟨ते⟩ डोळ्यांना चांगले ⟨आहे⟩ सूर्य पाहणे.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "आणि गोड"
+    },
+    {
+      "surface": "האור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "आणि चांगले"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "डोळ्यांना"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "पाहणे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सूर्य"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:26.045844937Z",
+  "model": "glm-5.2"
+}

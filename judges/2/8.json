@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि यहोशू नूनचा पुत्र याहवेहचा दास ⟨मृत्यू पावला⟩ वय ⟨होते⟩ शंभर व दहा वर्षांचे.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आणि तो मृत्यू पावला"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "वय"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "व दहा"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-13T11:43:22.085016153Z",
+  "model": "glm-5.2"
+}

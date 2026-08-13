@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "आणि दानचे मुले: हुशीम.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि … मुले"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दानचे"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "हुशीम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:19:25.547987322Z",
+  "model": "glm-5.2"
+}

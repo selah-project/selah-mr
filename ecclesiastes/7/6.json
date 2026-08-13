@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "कारण कुंडाखालील काटकरीच्या आवाजाप्रमाणे तसेच ⟨आहे⟩ मूर्खाचा हसरा आवाज; आणि हेसुद्धा वाया ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "आवाजाप्रमाणे"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "काटकरीच्या"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "कुंडाखालील"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "कुंडाच्या"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "हसरा आवाज"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूर्खाचा"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हेसुद्धा"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "वाया"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:55.462128295Z",
+  "model": "glm-5.2"
+}

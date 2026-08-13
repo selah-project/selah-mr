@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "त्सिक्लाग, मदमाना, आणि सन्सना.",
+  "tokens": [
+    {
+      "surface": "וְצִֽקְלַ֥ג",
+      "gloss": "त्सिक्लाग"
+    },
+    {
+      "surface": "וּמַדְמַנָּ֖ה",
+      "gloss": "मदमाना"
+    },
+    {
+      "surface": "וְסַנְסַנָּֽה",
+      "gloss": "सन्सना"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:38.287739510Z",
+  "model": "glm-5.2"
+}

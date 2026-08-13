@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 89,
+  "translation": "धन्य ⟨होतो⟩ याहवेह सनातनकाळासाठी; आमेन व आमेन.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सनातनकाळासाठी"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "व आमेन"
+    }
+  ],
+  "timestamp": "2026-08-13T14:50:55.715187104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "तरी तू शेओलात खाली नेला जशील, खड्ड्याच्या टोकांवर।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "तरी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओलात"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "खाली नेला जशील"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "टोकांवर"
+    },
+    {
+      "surface": "בור",
+      "gloss": "खड्ड्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:58:50.482890923Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "जर ⟨नाहीसे⟩ तू, तर मला ऐक; तू ⟨शांत⟩ राह व ⟨मी⟩ तुला शिकवीन ज्ञान.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाहीसे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "⟨शांत⟩ राह"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "व ⟨मी⟩ तुला शिकवीन"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:11.194742206Z",
+  "model": "glm-5.2"
+}

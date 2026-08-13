@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "माझा प्रियकर माझ्यासाठी मोहराची पुडी आहे, तो माझ्या स्तनांमध्ये राहतो.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "पुडी"
+    },
+    {
+      "surface": "המר",
+      "gloss": "मोहराची"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "माझा प्रियकर"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझ्यासाठी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "माझ्या स्तनां"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "तो राहतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:48.671431597Z",
+  "model": "glm-5.2"
+}

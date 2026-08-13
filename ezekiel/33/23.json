@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि याहवेहचा वचन माझ्याजवळ आला, म्हणून:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याजवळ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T14:01:35.301829371Z",
+  "model": "glm-5.2"
+}

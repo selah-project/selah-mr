@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "आणि ओमेर ⟨ह⟩एपाहचा दहावा भाग ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "आणि ओमेर"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "दहावा भाग"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एपाहचा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "आहे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:29:49.328849806Z",
+  "model": "glm-5.2"
+}

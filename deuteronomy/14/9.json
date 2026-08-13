@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "⟨את⟩ हे तुम्ही खावे, जलातील सर्वांपैकी; ज्याला पर्स व खवले आहेत ते सर्व तुम्ही खावे.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "...पैकी सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "जलातील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्याला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याच्याजवळ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पर्स"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "व खवले"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:36.391387620Z",
+  "model": "glm-5.2"
+}

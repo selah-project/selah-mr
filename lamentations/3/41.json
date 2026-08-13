@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आपण आपले हृदय ऊर्ध्व हातांकडे उचलू, ⟨एल⟩ ⟨आकाशांमध्ये⟩",
+  "tokens": [
+    {
+      "surface": "נִשָּׂא",
+      "gloss": "उचलू"
+    },
+    {
+      "surface": "לְבָבֵנוּ",
+      "gloss": "आपले हृदय"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ऊर्ध्व"
+    },
+    {
+      "surface": "כַּפַּיִם",
+      "gloss": "हातांकडे"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨एल⟩"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "בַּשָּׁמָיִם",
+      "gloss": "⟨आकाशांमध्ये⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:54.126200299Z",
+  "model": "glm-5.2"
+}

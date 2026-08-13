@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "रामा व गेबा यांचे पुत्रः सहाशे एकीस वीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "रामा"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "व गेबा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:53.726902376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "फक्त दृढ राहा रक्त न खाण्यासाठी, कारण रक्त हे ⟨आहे⟩ जीवन, आणि तू जीवाला मांसासह खाऊ नकोस.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "दृढ राहा"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "न खाण्यासाठी"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाणे"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तू खाशील"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "जीवाला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सह"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांसासह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:05.489869997Z",
+  "model": "glm-5.2"
+}

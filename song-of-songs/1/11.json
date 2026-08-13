@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "सोन्याचे हार आम्ही तुझ्यासाठी बनवू, चांदीच्या गुंफा सह.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "हार"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोन्याचे"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "आम्ही बनवू"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्यासाठी"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सह"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "गुंफा"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चांदीच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:37.197007138Z",
+  "model": "glm-5.2"
+}

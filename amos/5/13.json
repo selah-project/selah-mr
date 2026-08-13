@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "त्यामुळे त्या वेळी बुद्धिमान ⟨असलेला⟩ मौन धरेल, कारण ती वाईट वेळ आहे.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "त्यामुळे"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "मौन धरेल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    }
+  ],
+  "timestamp": "2026-08-13T14:16:56.354536603Z",
+  "model": "glm-5.2"
+}

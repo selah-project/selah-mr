@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "कान शब्दांची परीक्षा करतो ना? आणि ताळू आपले अन्न चाखतो.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "करतो ना"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "शब्दांची"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "परीक्षा"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "आणि ताळू"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "चाखतो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:20:59.045201668Z",
+  "model": "glm-5.2"
+}

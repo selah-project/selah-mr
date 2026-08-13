@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 51,
+  "translation": "कारण माझे बंड मी जाणतो, आणि माझे पाप माझ्यासमोर सातत्याने ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "माझे बंड"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जाणतो"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "आणि माझे पाप"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "माझ्यासमोर"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सातत्याने"
+    }
+  ],
+  "timestamp": "2026-08-13T14:41:06.479473668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "joshua 15:59",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "व माआरात, व बेथ-अनोथ, व एलतेकोन; सहा नगरे व त्यांच्या गांवे.",
+  "tokens": [
+    {
+      "surface": "ומערת",
+      "gloss": "व माआरात"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "व बेथ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "अनोथ"
+    },
+    {
+      "surface": "ואלתקן",
+      "gloss": "व एलतेकोन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "व त्यांच्या गांवे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:37:50.409965075Z",
+  "model": "glm-5.2"
+}

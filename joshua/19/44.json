@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि एल्तके, आणि गिब्बेथोन, आणि बाअलात",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "आणि एल्तके"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "आणि गिब्बेथोन"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "आणि बाअलात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:40:36.560945810Z",
+  "model": "glm-5.2"
+}

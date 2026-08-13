@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "आणि ⟨ती⟩ तिसरी रांग — लेशेम, शबो आणि अहलामह.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "आणि रांग"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसरी"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "लेशेम"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "शबो"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "आणि अहलामह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:35:04.813941261Z",
+  "model": "glm-5.2"
+}

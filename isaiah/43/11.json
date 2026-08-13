@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 43,
+  "translation": "मी, मीच याहवेह; व माझ्यावाचून कोणीही मोक्षकर्ता नाही.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मीच"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "माझ्यावाचून"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "मोक्षकर्ता"
+    }
+  ],
+  "timestamp": "2026-08-13T13:10:43.512796601Z",
+  "model": "glm-5.2"
+}

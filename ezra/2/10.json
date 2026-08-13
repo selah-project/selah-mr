@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "बनीचे पुत्र, सहाशे बेचाळीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "बेचाळीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:41.073423441Z",
+  "model": "glm-5.2"
+}

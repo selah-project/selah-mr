@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि शेबाची राणीने ⟨את⟩ शलोमोचे ज्ञान पाहिले आणि ⟨את⟩ ⟨the⟩ भवन जो त्याने बांधला.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "आणि पाहिले"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "राणीने"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबाच्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ज्ञान"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोचे"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "आणि भवन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "त्याने बांधला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:17:50.336363802Z",
+  "model": "glm-5.2"
+}

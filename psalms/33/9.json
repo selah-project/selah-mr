@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "कारण तोच बोलला आणि ⟨आले⟩; तोच आज्ञा केली आणि ⟨उभे राहिले⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तोच"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोलला"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨आले⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तोच"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा केली"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "आणि ⟨उभे राहिले⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T14:36:30.629205224Z",
+  "model": "glm-5.2"
+}

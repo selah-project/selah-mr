@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "एलिफाजची मुले: तेमान व ओमार, त्सेफी व गाताम, कनाज व तिम्ना व अमालेक.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाजची"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "व ओमार"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "त्सेफी"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "व गाताम"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनाज"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "व तिम्ना"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "व अमालेक"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:18.626923834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि आता, हे मुलांनो, माझे ऐका, आणि माझ्या तोंडच्या वचनांपासून ढळू नका.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "हे मुलांनो"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नका"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ढळू"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "वचनांपासून"
+    },
+    {
+      "surface": "פי",
+      "gloss": "माझ्या तोंडच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:52.989684990Z",
+  "model": "glm-5.2"
+}

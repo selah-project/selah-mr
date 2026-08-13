@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "दुष्ट ⟨उसणे घेतो⟩ व ⟨हे⟩ फेडत नाही, व धर्मी ⟨कृपाळू⟩ आहे व देतो.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "उसणे घेतो"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व नाही"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "फेडतो"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "व धर्मी"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "कृपाळू आहे"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "व देतो"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:10.755753263Z",
+  "model": "glm-5.2"
+}

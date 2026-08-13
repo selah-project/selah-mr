@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "तर माझी आशा कुठे आहे? व माझी आशा, कोण ती पाहिल?",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "तर कुठे"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "मग"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "माझी आशा"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "व माझी आशा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "ती पाहिल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:23:12.471977715Z",
+  "model": "glm-5.2"
+}

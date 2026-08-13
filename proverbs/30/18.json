@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "तीन ⟨गोष्टी⟩ आहेत ज्या मला आश्चर्यकारक वाटतात, व चार जे मी जाणत नाही.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "המה",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "आश्चर्यकारक-वाटतात"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मला"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "व-चार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "मी-जाणत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:58.983045319Z",
+  "model": "glm-5.2"
+}

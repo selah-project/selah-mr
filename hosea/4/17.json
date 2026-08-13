@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "एफ्रायिम ग्रंथींशी जोडला आहे; ⟨त्याला⟩ सोडून दे.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "जोडला आहे"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "ग्रंथींशी"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "सोडून दे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨त्याला⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T14:09:26.983572282Z",
+  "model": "glm-5.2"
+}

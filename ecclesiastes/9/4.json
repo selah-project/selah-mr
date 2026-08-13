@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "कारण जो सर्व जिवंतांशी जोडला जातो त्याला आशा आहे; कारण जिवंत कुत्र्याला मेलेल्या सिंहापेक्षा चांगले आहे.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "מי",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "जोडला जातो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जिवंतांशी"
+    },
+    {
+      "surface": "יש",
+      "gloss": "आहे"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "कुत्र्याला"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिवंत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पेक्षा"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "सिंहापेक्षा"
+    },
+    {
+      "surface": "המת",
+      "gloss": "मेलेल्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:23.056031204Z",
+  "model": "glm-5.2"
+}

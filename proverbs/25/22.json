@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "कारण तू ⟨त्याच्या⟩ डोक्यावर अंगारे ओतशील, आणि याहवेह तुला फेड करीन.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "अंगारे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ओतशील"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "त्याच्या डोक्या"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आणि याहवेह"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "फेड करीन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:47:40.623715786Z",
+  "model": "glm-5.2"
+}

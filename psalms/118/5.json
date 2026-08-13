@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 118,
+  "translation": "संकुचिततेतून मी पाचारण केले याह; याहने मला उत्तर दिले रुंदीत याह.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "तून"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "संकुचितता"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "मी पाचारण केले"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "मला उत्तर दिले"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "रुंदीत"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-08-13T16:46:45.400334708Z",
+  "model": "glm-5.2"
+}

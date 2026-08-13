@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि त्या दिवशी एसाव आपल्या मार्गाने सेइराकडे परतला.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आणि परतला"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "आपल्या मार्गाने"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "सेइराकडे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:13:58.078677235Z",
+  "model": "glm-5.2"
+}

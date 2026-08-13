@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि अमालेक आला, आणि राफिदीम येथे इस्राएलांबरोबर लढला.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आणि आला"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "आणि लढला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "बरोबर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलां"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "राफिदीम येथे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:30:10.092790996Z",
+  "model": "glm-5.2"
+}

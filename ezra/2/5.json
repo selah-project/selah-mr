@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "अरखची मुले, सातशे पंच्याहत्तर.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "अरख"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आणि त्यहत्तर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:52.097672355Z",
+  "model": "glm-5.2"
+}

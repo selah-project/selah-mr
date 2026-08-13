@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "तेव्हा एलिफज हतेमानीने उत्तर दिले व बोलला.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिले"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफज"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "हतेमानीने"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "व बोलला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:24:24.669044246Z",
+  "model": "glm-5.2"
+}

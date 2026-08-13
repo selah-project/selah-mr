@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 50,
+  "translation": "तुझे तोंड वाईटाकडे पाठविले, आणि तुझी जीभ फसवणूक जोडते.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "तुझे तोंड"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "पाठविले"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "वाईटाकडे"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "आणि तुझी जीभ"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "जोडते"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "फसवणूक"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:37.543071805Z",
+  "model": "glm-5.2"
+}

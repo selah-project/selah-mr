@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "व ⟨את⟩ खोलोन व ⟨את⟩ तिची मिरास, व ⟨את⟩ देबीर व ⟨את⟩ तिची मिरास।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "खोलोन"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "खोलोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तिची मिरास"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "तिची मिरास"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "देबीर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "देबीर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "तिची मिरास"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "तिची मिरास"
+    }
+  ],
+  "timestamp": "2026-08-13T11:41:31.756054467Z",
+  "model": "glm-5.2"
+}

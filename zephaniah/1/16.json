@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "शंख आणि युद्धनादाचा दिवस, वर ⟨तो⟩ किल्लेबंद शहरांवर आणि वर ⟨हो⟩ उंच कोपऱ्यांवर.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शंख"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "आणि युद्धनादाचा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "शहरांवर"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "किल्लेबंद"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि वर"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "कोपऱ्यांवर"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "उंच"
+    }
+  ],
+  "timestamp": "2026-08-13T14:23:24.626517696Z",
+  "model": "glm-5.2"
+}

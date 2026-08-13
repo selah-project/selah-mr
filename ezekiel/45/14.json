@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 45,
+  "translation": "आणि तेलाचा विधान: तेलाचे बाथ — बाथाचा दशांश कोर मधून; दहा बाथ ⟨एक⟩ होमर, कारण दहा बाथ ⟨एक⟩ होमर.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "आणि विधान"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेलाचा"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "बाथ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेलाचे"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "दशांश"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "बाथाचा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "बाथ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "होमर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "बाथ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "होमर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:07:07.282754289Z",
+  "model": "glm-5.2"
+}

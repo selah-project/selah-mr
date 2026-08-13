@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 81,
+  "translation": "तुझ्यात परका एल नसेल, आणि तू परक्या एल ला दंडवत नसशील",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझ्यात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "זר",
+      "gloss": "परका"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "तू दंडवत नसशील"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एल ला"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परक्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:34.946070113Z",
+  "model": "glm-5.2"
+}

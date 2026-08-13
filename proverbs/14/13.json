@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "हसरीही हृदय ⟨स⟩ दुखत ⟨आहे⟩, आणि त्या आनंदाचा अंत ⟨हा⟩ दुःख ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ही"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "हसरी"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "दुखत"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "आणि त्याचा अंत"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनंदाचा"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "दुःख"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:55.847303407Z",
+  "model": "glm-5.2"
+}

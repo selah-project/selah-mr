@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "हे पहा, तो रात्री ⟨हा⟩ वंध्य ⟨होवो⟩; त्यात आनंदोल्लास ⟨येऊ⟩ नको.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हे पहा"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "तो रात्री"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨हा⟩"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨होवो⟩"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "वंध्य"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "⟨येऊ⟩"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "आनंदोल्लास"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T16:47:50.064641042Z",
+  "model": "glm-5.2"
+}

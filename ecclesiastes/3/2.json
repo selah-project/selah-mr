@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "जन्म घेण्याची वेळ, आणि मरण्याची वेळ; लागवड करण्याची वेळ, आणि ⟨लावलेली⟩ उपटण्याची वेळ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "एक वेळ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "जन्म घेण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरण्याची"
+    },
+    {
+      "surface": "עת",
+      "gloss": "एक वेळ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "लागवड करण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "उपटण्याची"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "लावलेली"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:46.696429955Z",
+  "model": "glm-5.2"
+}

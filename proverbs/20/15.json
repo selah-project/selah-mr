@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "सोने आहे व मोत्यांची बहुतांश आहे, पण ज्ञानाचे ओठ ⟨मौल्यवान अलंकार⟩ आहेत.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "आहे"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "व बहुतांश"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "मोत्यांची"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "व ⟨साधन⟩"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "मौल्यवान"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञानाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:46.650392936Z",
+  "model": "glm-5.2"
+}

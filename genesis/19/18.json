@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "व लोट त्यांना म्हणाला: नाही, आणि अदोनाय.",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "व म्हणाला"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोट"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "नא",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:29:26.238161653Z",
+  "model": "glm-5.2"
+}

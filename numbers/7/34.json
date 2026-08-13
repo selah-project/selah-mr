@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "शेळ्यांचा एक बोकड, पापार्पणासाठी:",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "बोकड"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "शेळ्यांचा"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "पापार्पणासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:11.207890507Z",
+  "model": "glm-5.2"
+}

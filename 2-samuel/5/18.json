@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि पलिश्ती आले आणि ते रेफाईंच्या दरीत पसरले.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "आणि पलिश्ती"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आले"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "आणि पसरले"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "दरीत"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाईंच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:13:29.885337658Z",
+  "model": "glm-5.2"
+}

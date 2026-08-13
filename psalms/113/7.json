@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 113,
+  "translation": "धूळातून दीन उभा करणारा, कूपातून अभावग्रस्त उंच करतो,",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "उभा करणारा"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "धूळातून"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "कूपातून"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उंच करतो"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "अभावग्रस्त"
+    }
+  ],
+  "timestamp": "2026-08-13T14:56:52.406481685Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि सर्व येरेदचे दिवस सठ्ठाव व वासष्ट वर्षे व नऊशे वर्षे झाली, आणि तो मेला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि होते"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "येरेदचे"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "सठ्ठाव"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व वासष्ट"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "व नऊशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि तो मेला"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:29.993926383Z",
+  "model": "glm-5.2"
+}

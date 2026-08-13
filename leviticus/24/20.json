@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "भंगाऐवजी भंग, डोळ्याऐवजी डोळा, दाताऐवजी दात; जसा तो माणसाला दोष देईल, तसा त्याला दिला जाईल.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "भंग"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ऐवजी"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "भंग"
+    },
+    {
+      "surface": "עין",
+      "gloss": "डोळा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ऐवजी"
+    },
+    {
+      "surface": "עין",
+      "gloss": "डोळा"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ऐवजी"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दात"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "तो देईल"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "माणसाला"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसा"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "दिला जाईल"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:52:49.258626022Z",
+  "model": "glm-5.2"
+}

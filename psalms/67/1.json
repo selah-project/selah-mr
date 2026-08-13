@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 67,
+  "translation": "मुख्यांसाठी, तारा-वाद्यांवर, ⟨एक⟩ मजमोर, ⟨एक⟩ गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्यांसाठी"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "तारा-वाद्यांवर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मजमोर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:44:06.830750308Z",
+  "model": "glm-5.2"
+}

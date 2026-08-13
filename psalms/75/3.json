@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 75,
+  "translation": "जेव्हा मी ⟨एक⟩ नियतकाल घेईन, मी स्वतः ⟨सरळपणे⟩ न्याय करीन.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "मी घेईन"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "नियतकाल"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी स्वतः"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सरळपणे"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "न्याय करीन"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:34.053376860Z",
+  "model": "glm-5.2"
+}

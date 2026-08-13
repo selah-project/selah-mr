@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "तीन, हे ⟨आहेत⟩ नोहाची मुले; आणि यांच्यापासून संपूर्ण पृथ्वी विखुरली गेली.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहाची"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "आणि यांच्यापासून"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "विखुरली गेली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:01.090543569Z",
+  "model": "glm-5.2"
+}

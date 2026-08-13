@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "लेवीचे पुत्र — गेरेशोम, कहाथ व मरारी.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहाथ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "व मरारी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:48.363774302Z",
+  "model": "glm-5.2"
+}

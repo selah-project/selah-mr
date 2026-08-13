@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "भिंत नसलेली उघडी राहणारी नगरी, जो माणूस ज्याच्या आत्म्यावर नियंत्रण नाही ⟨तो आहे⟩.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "उघडी राहणारी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "भिंत"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणूस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "नियंत्रण"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "आत्म्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:52.462976602Z",
+  "model": "glm-5.2"
+}

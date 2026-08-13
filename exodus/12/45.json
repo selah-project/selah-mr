@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "तोषब व सामान्य करारी कामगार ⟨त्याचे⟩ खाऊ नये.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "तोषब"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "व सामान्य करारी कामगार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नही"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाईल"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्याचे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:27:39.125429317Z",
+  "model": "glm-5.2"
+}

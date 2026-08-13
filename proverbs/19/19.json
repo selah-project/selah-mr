@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "क्रूर क्रोधाचा ⟨मनुष्य⟩ दंड वाहिल, कारण जर तू त्याला सोडवशील तर पुन्हा व तू ⟨ते⟩ जोडशील.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "क्रूर"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोधाचा"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "वाहिल"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "दंड"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "तू सोडवशील"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "पुन्हा"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "तू ⟨ते⟩ जोडशील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:31.115807962Z",
+  "model": "glm-5.2"
+}

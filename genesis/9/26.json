@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि तो म्हणाला: धन्य याहवेह, शेमचा एलोहीम; आणि कनान त्यांचा दास होऊ द्या.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि तो म्हणाला"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेमचा"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आणि होऊ द्या"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "למו",
+      "gloss": "त्यांचा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:32.211935557Z",
+  "model": "glm-5.2"
+}

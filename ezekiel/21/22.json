@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि देखील मी ⟨माझी⟩ ताळी ताळीवर वाजवीन, आणि मी ⟨माझा⟩ क्रोध शमवीन; मी याहवेह, मी बोललो.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आणि देखील"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "वाजवीन"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ताळी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ताळी"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "आणि मी शमवीन"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "माझा क्रोध"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "मी बोललो"
+    }
+  ],
+  "timestamp": "2026-08-13T13:55:16.834914951Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि तुम्ही ⟨את⟩ देश पाहा — कसा ⟨हा⟩, आणि ⟨את⟩ लोक त्यावर राहणारे — सबळ ⟨आहेत⟩ की दुर्बळ, थोडे ⟨आहेत⟩ की अनेक.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "आणि तुम्ही पाहा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "देश"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कसा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हा⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "लोक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "राहणारे"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "त्यावर"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "सबळ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨आहेत⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "दुर्बळ"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "थोडे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨आहेत⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "רב",
+      "gloss": "अनेक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:02:55.461693918Z",
+  "model": "glm-5.2"
+}

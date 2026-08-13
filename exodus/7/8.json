@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि याहवेह मोशे व अहरोन यांच्याशी बोलला, असे म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि कडे"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणाला:"
+    }
+  ],
+  "timestamp": "2026-08-13T16:30:07.948511729Z",
+  "model": "glm-5.2"
+}

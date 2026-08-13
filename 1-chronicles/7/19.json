@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 7:19",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि शमिदाचे मुले ⟨होते⟩: अख्यान, आणि शखेम, आणि लिखी, आणि अनियाम.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ते होते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "शमिदा"
+    },
+    {
+      "surface": "אחין",
+      "gloss": "अख्यान"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "आणि शखेम"
+    },
+    {
+      "surface": "ולקחי",
+      "gloss": "आणि लिखी"
+    },
+    {
+      "surface": "ואניעם",
+      "gloss": "आणि अनियाम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:48.464682233Z",
+  "model": "glm-5.2"
+}

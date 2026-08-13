@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व सेइरचे ⟨⟩पुत्र: लोतन, व शोबल, व झिबोन, व अना, व दिशोन, व एझेर, व दिशान.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व ⟨⟩पुत्र"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतन"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "व शोबल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "व झिबोन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "व अना"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "व दिशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "व एझेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "व दिशान"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:36.831057834Z",
+  "model": "glm-5.2"
+}

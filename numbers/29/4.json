@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि प्रत्येक एका मेंढपाडासाठी एक दशांश, सात मेंढपाडांसाठी;",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "आणि दशांश"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "मेंढपाडासाठी"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "मेंढपाडांसाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:48.245287506Z",
+  "model": "glm-5.2"
+}

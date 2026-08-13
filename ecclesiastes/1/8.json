@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "सर्व ⟨हे⟩ गोष्टी थकवणाऱ्या आहेत; एक ⟨हा⟩ माणूस बोलू शकत नाही; डोळा तृप्त होत नाही पाहण्याने, आणि कान भरत नाही ऐकण्याने.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "गोष्टी"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "थकवणाऱ्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "शकत"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणूस"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोलू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "तृप्त होत"
+    },
+    {
+      "surface": "עין",
+      "gloss": "डोळा"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "पाहण्याने"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि भरत"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भरत"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ऐकण्याने"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:28.120834144Z",
+  "model": "glm-5.2"
+}

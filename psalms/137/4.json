@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 137,
+  "translation": "आम्ही कसे गाऊ ⟨את⟩ याहवेहचे गीत, परदेशी भूमीवर?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कसे"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "आम्ही गाऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याहवेहचे गीत"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "भूमी"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेशी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:02:27.629845965Z",
+  "model": "glm-5.2"
+}

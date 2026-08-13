@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "अंत आला, आला अंत; त्याने तुझ्याविरुद्ध जागे केले आहे; हे पाह, ती येत आहे.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "त्याने जागे केले आहे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझ्याविरुद्ध"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हे पाह"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ती येत आहे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:48:18.012204295Z",
+  "model": "glm-5.2"
+}

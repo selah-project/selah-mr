@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "खा, माझ्या पुत्रा, मध कारण ते चांगले ⟨आहे⟩, व मधमाशीचे थेंब तुझ्या टाळूला गोड ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "माझ्या पुत्रा"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मध"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "व मधमाशीचे थेंब"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "गोड"
+    },
+    {
+      "surface": "על",
+      "gloss": "तुझ्या ... ला"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "टाळूला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:17.936754688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि यफ्लेतचे मुले: पसख, बिमहाल आणि अश्वात. हे यफ्लेतचे मुले.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि … मुले"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "यफ्लेत"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "पसख"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "आणि बिमहाल"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "आणि अश्वात"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "यफ्लेत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:28.398835148Z",
+  "model": "glm-5.2"
+}

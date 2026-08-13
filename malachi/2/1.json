@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि आता तुमच्याकडे ही आज्ञा ⟨आहे⟩ हे याजकांनो",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तुमच्याकडे"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ही आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "हे याजकांनो"
+    }
+  ],
+  "timestamp": "2026-08-13T14:28:48.279044391Z",
+  "model": "glm-5.2"
+}

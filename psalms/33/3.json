@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "त्याला गाणे म्हणा, नवीन गीत; उत्तम वाजवा वाद्य, टाहोनिनादात.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाणे म्हणा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नवीन"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "उत्तम वाजवा"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "वाद्य"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "टाहोनिनादात"
+    }
+  ],
+  "timestamp": "2026-08-13T14:36:51.912645565Z",
+  "model": "glm-5.2"
+}

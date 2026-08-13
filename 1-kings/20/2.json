@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि त्याने दूत पाठवले अहाबकडे, इस्राएलचा राजा, शहरात.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "आणि त्याने पाठवले"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...कडे"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "शहरात"
+    }
+  ],
+  "timestamp": "2026-08-13T12:36:53.697087840Z",
+  "model": "glm-5.2"
+}

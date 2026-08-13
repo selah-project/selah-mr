@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि असे होईल, जर एका घरात दहा माणसे उरले, तर ते मरतील.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आणि असे होईल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "उरले"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "माणसे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "एका घरात"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "तर ते मरतील"
+    }
+  ],
+  "timestamp": "2026-08-13T14:17:04.267566560Z",
+  "model": "glm-5.2"
+}

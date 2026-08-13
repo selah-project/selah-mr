@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि याहवेहचा वचन मजकडे आला, या सांगत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:47:37.397513090Z",
+  "model": "glm-5.2"
+}

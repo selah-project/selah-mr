@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि चौथ्या दिवशी दहा बैल, दोन मेंढरे, चौदा एकवर्षीय कोकरे, निर्दोष.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आणि दिवशी"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथ्या"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेंढरे"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "कोकरे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पिल्ले"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षाचे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:55.798754103Z",
+  "model": "glm-5.2"
+}

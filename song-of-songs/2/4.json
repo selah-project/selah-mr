@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "मला द्राक्षारसाच्या घरात आणले, आणि त्याचा ध्वज माझ्यावर प्रेम ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "मला आणले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरात"
+    },
+    {
+      "surface": "היין",
+      "gloss": "द्राक्षारसाच्या"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "आणि त्याचा ध्वज"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावर"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "प्रेम"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:57.513002758Z",
+  "model": "glm-5.2"
+}

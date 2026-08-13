@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "चेहरा ओळखणे चांगले नाही, आणि तोडीभाग भाकरीसाठी एक माणूस उल्लंघन करतो.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ओळखणे"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि ... साठी"
+    },
+    {
+      "surface": "פת",
+      "gloss": "तुकडा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भाकरी"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "उल्लंघन करतो"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "माणूस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:58.658148984Z",
+  "model": "glm-5.2"
+}

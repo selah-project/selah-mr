@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व रामची — येरहमेलच्या पहिल्याची — मुले होते: मात्स, व यामिन, व एकेर.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "व होते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिल्याच्या"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "येरहमेल"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "मात्स"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "व यामिन"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "व एकेर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:19.069728848Z",
+  "model": "glm-5.2"
+}

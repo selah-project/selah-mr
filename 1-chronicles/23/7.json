@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "गेर्शोनीकरिता — लादान व शिमई.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "गेर्शोनीकरिता"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "लादान"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "व शिमई"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:46.771634755Z",
+  "model": "glm-5.2"
+}

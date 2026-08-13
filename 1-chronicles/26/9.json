@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि मेशेलेम्याहूला ⟨होते⟩ पुत्र व भाऊ, बलवान पुत्र, अठरा.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "आणि मेशेलेम्याहूला"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "व भाऊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:45.069417937Z",
+  "model": "glm-5.2"
+}

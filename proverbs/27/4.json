@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "क्रूरता ⟨is⟩ रोषाची आणि ⟨the⟩ रागाचा भरतो, पण कोण उभा राहील ⟨before⟩ ईर्ष्येपुढे?",
+  "tokens": [
+    {
+      "surface": "אַכְזְרִיּ֣וּת",
+      "gloss": "क्रूरता"
+    },
+    {
+      "surface": "חֵ֭מָה",
+      "gloss": "रोषाची"
+    },
+    {
+      "surface": "וְשֶׁ֣טֶף",
+      "gloss": "आणि ⟨the⟩ भरतो"
+    },
+    {
+      "surface": "אָ֑ף",
+      "gloss": "रागाचा"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "पण कोण"
+    },
+    {
+      "surface": "יַ֝עֲמֹד",
+      "gloss": "उभा राहील"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "⟨before⟩ पुढे"
+    },
+    {
+      "surface": "קִנְאָֽה",
+      "gloss": "ईर्ष्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:49.658705457Z",
+  "model": "glm-5.2"
+}

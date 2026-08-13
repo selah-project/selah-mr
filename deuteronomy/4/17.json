@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कोणत्याही पृथ्वीवरील प्राण्याचे रूप, कोणत्याही पक्ष्याचे रूप, जे आकाशात उडते —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणत्याही"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "प्राण्याचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीवरील"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणत्याही"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "पक्ष्याचे"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "पंखाचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "उडते"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाशात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:10.917719264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि सरूग जगला तीस वर्षे, आणि त्याने ⟨את⟩ नाहोर जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "सरूग"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाहोर"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाहोर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:46.087984935Z",
+  "model": "glm-5.2"
+}

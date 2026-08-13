@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कोण ⟨हा⟩ बोलले आणि ⟨ते⟩ घडले? अदोनायने ⟨ते⟩ आज्ञापले नाही ⟨का⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोलले"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आणि ⟨ते⟩ घडले"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनायने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञापले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:07.526854677Z",
+  "model": "glm-5.2"
+}

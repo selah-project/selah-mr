@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कुटुंबे ⟨the⟩ गर्शुनी — ⟨the⟩ निवासामागे ती छावणी करतील, पश्चिमेस.",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "कुटुंबे"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "हगर्शुनी"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "मागे"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "हनिवासामागे"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "तीछावणीकरतील"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिमेस"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:51.988710573Z",
+  "model": "glm-5.2"
+}

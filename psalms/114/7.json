@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 114,
+  "translation": "अदोनायच्या समोर, ⟨हे⟩ पृथ्वी, थरथर; याकोवच्या एलोहच्या समोर!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "……च्या समोर"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "थरथर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "……च्या समोर"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोह"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    }
+  ],
+  "timestamp": "2026-08-13T14:57:20.424085085Z",
+  "model": "glm-5.2"
+}

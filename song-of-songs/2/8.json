@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "माझ्या प्रियकराचा आवाज! पाहा, हा येतो, पर्वतांवरून उडी मारतो, टेकड्यांवरून झेप घेतो.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "माझ्या प्रियकराचा"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "पाहा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हा"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येतो"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "उडी मारतो"
+    },
+    {
+      "surface": "על",
+      "gloss": "वरून"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पर्वतां"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "झेप घेतो"
+    },
+    {
+      "surface": "על",
+      "gloss": "वरून"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "टेकड्यां"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:59.448255645Z",
+  "model": "glm-5.2"
+}

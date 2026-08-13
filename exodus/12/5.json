@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "दुबा सदोश, नर, एका वर्षाचे तुम्हाला असेल; मेंढ्यांपैकी व बकऱ्यांपैकी तुम्ही घ्या.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "दुबा"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "सदोश"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हाला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पैकी"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "मेंढ्यां"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "व पैकी"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "बकऱ्यां"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "तुम्ही घ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:26:41.328812445Z",
+  "model": "glm-5.2"
+}

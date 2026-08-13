@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व सर्व पंखेरूप सरपटणारे ते तुम्हाला अशुद्ध आहे, ते खाल्ले जाऊ नयेत",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "सरपटणारे"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "पंखेरूप"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ते"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नये"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाल्ले जाऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:12.117788173Z",
+  "model": "glm-5.2"
+}

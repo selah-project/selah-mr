@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि चार महान प्राणी समुद्रातून चढत होते, एक दुसऱ्यापासून वेगळे.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "आणि चार"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "महान"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "चढत होते"
+    },
+    {
+      "surface": "מן",
+      "gloss": "तून"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "समुद्रातून"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "वेगळे"
+    },
+    {
+      "surface": "דא",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पासून"
+    },
+    {
+      "surface": "דא",
+      "gloss": "दुसऱ्यापासून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:48:48.934809358Z",
+  "model": "glm-5.2"
+}

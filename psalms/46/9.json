@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "या, पाहा याहवेहच्या कृती, ज्याने पृथ्वीत उद्ध्वस्तस्थळे ठेवली.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "या"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "पाहा"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "कृती"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्याने"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ठेवली"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "उद्ध्वस्तस्थळे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:04.688642941Z",
+  "model": "glm-5.2"
+}

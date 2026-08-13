@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "इस्राएलमधील प्रत्येक समर्पित ⟨वस्तू⟩ तुझी ⟨असेल⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "समर्पित ⟨वस्तू⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएलमधील"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझी"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨असेल⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:05:23.096704920Z",
+  "model": "glm-5.2"
+}

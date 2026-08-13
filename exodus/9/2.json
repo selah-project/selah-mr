@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "कारण जर तू सोडण्यास नकार देत असशील, आणि तू अजून त्यांना पकडून धरले असेल,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "नकार देत असशील"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "सोडण्यास"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "आणि तू अजून"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "पकडून धरले असेल"
+    },
+    {
+      "surface": "בם",
+      "gloss": "त्यांना"
+    }
+  ],
+  "timestamp": "2026-08-13T10:25:32.335746607Z",
+  "model": "glm-5.2"
+}

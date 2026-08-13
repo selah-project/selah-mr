@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि सर्व महललएलाचे दिवस पाच व नव्वद वर्षे व आठशे वर्षे झाली, आणि तो मेला.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि होते"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललएलाचे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "व नव्वद"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "व आठशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आणि तो मेला"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:29.993305773Z",
+  "model": "glm-5.2"
+}

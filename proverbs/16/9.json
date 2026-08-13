@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "माणसाचे हृदय ⟨त्याचा⟩ मार्ग कल्पतो, आणि याहवेह ⟨त्याची⟩ पावले दृढ करतो.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "माणसाचे"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "कल्पतो"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आणि याहवेह"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "दृढ करतो"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "पावले"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:51.716482843Z",
+  "model": "glm-5.2"
+}

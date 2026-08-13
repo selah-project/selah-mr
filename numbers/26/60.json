@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि अहरोनाला ⟨את⟩ नादाब व ⟨את⟩ अबीहू, ⟨את⟩ एलाझार व ⟨את⟩ इतामर जन्म झाले.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म झाले"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोनाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नादाब"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "अबीहू"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "अबीहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलाझार"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाझार"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "इतामर"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "इतामर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:39.873058256Z",
+  "model": "glm-5.2"
+}

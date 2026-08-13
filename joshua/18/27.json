@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "व रेकेम व यिर्पेल व तरला",
+  "tokens": [
+    {
+      "surface": "וְרֶ֥קֶם",
+      "gloss": "व रेकेम"
+    },
+    {
+      "surface": "וְיִרְפְּאֵ֖ל",
+      "gloss": "व यिर्पेल"
+    },
+    {
+      "surface": "וְתַרְאֲלָֽה",
+      "gloss": "व तरला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:00.689428383Z",
+  "model": "glm-5.2"
+}

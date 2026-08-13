@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि याहवेह मोशेशी बोलला, या अर्थाने:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याशी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या अर्थाने"
+    }
+  ],
+  "timestamp": "2026-08-13T10:36:29.400355708Z",
+  "model": "glm-5.2"
+}

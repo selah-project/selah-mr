@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "माणसाचा गर्व ⟨त्याला⟩ नमवितो, आणि नम्र आत्मा ⟨धरून⟩ ठेईल सन्मान.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "गर्व"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "माणसाचा"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "⟨त्याला⟩ नमवितो"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "आणि नम्र"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मा"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "⟨धरून⟩ ठेईल"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "सन्मान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:25.500983688Z",
+  "model": "glm-5.2"
+}

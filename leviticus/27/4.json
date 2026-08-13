@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि जर स्त्री ⟨असेल⟩ ती, तर ⟨असेल⟩ तुझे मूल्यांकन तीस शेकेल.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तर ⟨असेल⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "तुझे मूल्यांकन"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:11.102979660Z",
+  "model": "glm-5.2"
+}

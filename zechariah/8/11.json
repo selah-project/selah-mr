@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "पण आता जसे पहिले दिवस होते तसे मी या लोकांच्या शेषाप्रत ⟨नाही⟩, याहवेह सेनाओंचा उद्गार.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "पण आता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "जसे दिवस"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "शेषाप्रत"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकांच्या"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "उद्गार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओंचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:41.814553876Z",
+  "model": "glm-5.2"
+}

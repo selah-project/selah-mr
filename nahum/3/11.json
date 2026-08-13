@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "गम तू दारू पिऊन घशगुंड हशील, तू लपलेली हशील; गम तू शत्रूकडून आश्रय शोधशील.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "गम"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "दारू पिऊन घशगुंड हशील"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "हशील"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "लपलेली"
+    },
+    {
+      "surface": "גם",
+      "gloss": "गम"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "शोधशील"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "आश्रय"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "शत्रूकडून"
+    }
+  ],
+  "timestamp": "2026-08-13T14:21:20.529478036Z",
+  "model": "glm-5.2"
+}

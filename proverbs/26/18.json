@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "जणू वेड्यासारखा, जो दिवेधाडे, बाण आणि मृत्यू ⟨मारतो⟩.",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "जणू वेड्यासारखा"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "जो मारतो"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "दिवेधाडे"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "बाण"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "आणि मृत्यू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:19.344018931Z",
+  "model": "glm-5.2"
+}

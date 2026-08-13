@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि ⟨त्याने⟩ उठून निघून गेले, आणि यहोनातान ⟨शहरात⟩ आला.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "आणि उठला"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आणि गेला"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "आणि यहोनातान"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨शहरात⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T12:05:41.066874562Z",
+  "model": "glm-5.2"
+}

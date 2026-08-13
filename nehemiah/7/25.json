@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "गिबोनचे पुत्र नव्व्याण्णव.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबोनचे"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नव्वद"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "व पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:32.322435894Z",
+  "model": "glm-5.2"
+}

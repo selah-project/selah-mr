@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "लगर्शोन — ⟨the⟩ कुटुंब ⟨the⟩ लिब्नी व ⟨the⟩ कुटुंब ⟨the⟩ शिमई; हे होत ती कुटुंबे ⟨the⟩ गर्शुनी.",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "लगर्शोन"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुटुंब"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "हलिब्नी"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "वकुटुंब"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "हशिमई"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "होत"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुटुंबे"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "हगर्शुनी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:51.988337653Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि याहवेह ने मोशे ला बोलून म्हणाला:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "आणि बोलून म्हणाला"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "—ला"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "म्हणत:"
+    }
+  ],
+  "timestamp": "2026-08-13T10:28:03.129541682Z",
+  "model": "glm-5.2"
+}

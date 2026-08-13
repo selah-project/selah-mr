@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व एलिएनाय, व ज़िल्लेथाय, व एलिएल.",
+  "tokens": [
+    {
+      "surface": "וֶאֱלִיעֵנַ֥י",
+      "gloss": "व एलिएनाय"
+    },
+    {
+      "surface": "וְצִלְּתַ֖י",
+      "gloss": "व ज़िल्लेथाय"
+    },
+    {
+      "surface": "וֶאֱלִיאֵֽל",
+      "gloss": "व एलिएल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:48.310565449Z",
+  "model": "glm-5.2"
+}

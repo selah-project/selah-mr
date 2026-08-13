@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "तुझे भाकरी पाण्याच्या चेहऱ्यावर सोड, कारण बऱ्याच दिवसांत तुला ती सापडेल.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "सोड"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "तुझे भाकरी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहऱ्यावर"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पाण्याच्या"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "बऱ्याच"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिवसांत"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "तुला ती सापडेल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:20.066459746Z",
+  "model": "glm-5.2"
+}

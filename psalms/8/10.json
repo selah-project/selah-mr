@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "याहवेह ⟨आमचे⟩ अदोनाय, किती भव्य ⟨आहे⟩ तुझे नाव संपूर्ण पृथ्वीत!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "מה",
+      "gloss": "किती"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "भव्य"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तुझे नाव"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:30:44.842473932Z",
+  "model": "glm-5.2"
+}

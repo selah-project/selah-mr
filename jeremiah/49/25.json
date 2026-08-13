@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "कशी ⟨आहे⟩ न सोडलेली ⟨ही⟩ स्तुतीची नगरी, ⟨ही⟩ माझ्या आनंदाची नगरी!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कशी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "सोडलेली"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "स्तुतीची"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "माझ्या आनंदाची"
+    }
+  ],
+  "timestamp": "2026-08-13T13:42:15.276741866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि पहिला गोरळ यहोयारीबला बाहेर आला, यदअयाहला दुसरा.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आणि बाहेर आला"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरळ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "यहोयारीबला"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "यदअयाहला"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:11.817505890Z",
+  "model": "glm-5.2"
+}

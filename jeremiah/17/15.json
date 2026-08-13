@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "पाह, हे ⟨लोक⟩ मला म्हणत आहेत: याहवेहचा वचन कुठे आहे? ते यावे ना!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "המה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "म्हणत आहेत"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कुठे आहे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ते यावे"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    }
+  ],
+  "timestamp": "2026-08-13T13:28:02.717663621Z",
+  "model": "glm-5.2"
+}

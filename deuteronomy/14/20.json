@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "प्रत्येक शुद्ध पक्षी तुम्ही खावे",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:12.117887938Z",
+  "model": "glm-5.2"
+}

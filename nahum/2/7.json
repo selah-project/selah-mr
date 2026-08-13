@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "नद्यांचे दरवाजे उघडले गेले, आणि ⟨ते⟩ भवन विरघळले.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "दरवाजे"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "नद्यांचे"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "उघडले गेले"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "आणि भवन"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "विरघळले"
+    }
+  ],
+  "timestamp": "2026-08-13T14:20:48.559020003Z",
+  "model": "glm-5.2"
+}

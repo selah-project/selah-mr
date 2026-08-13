@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "महाचालकासाठी, कोरहच्या पुत्रांसाठी, अलमोथवर एक गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महाचालकासाठी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांसाठी"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरहच्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "अलमोथवर"
+    },
+    {
+      "surface": "עלमות",
+      "gloss": "अलमोथ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "एक गीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:29.424997801Z",
+  "model": "glm-5.2"
+}

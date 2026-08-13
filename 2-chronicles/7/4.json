@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि राजा आणि सर्व जनता याहवेहसमोर बलिदान वधत होते.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "आणि राजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "वधत होते"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलिदान"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T16:16:44.972354170Z",
+  "model": "glm-5.2"
+}

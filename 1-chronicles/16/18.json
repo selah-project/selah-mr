@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "म्हणाला: तुला असे — मी कनान देश, तुमच्या वारशाचा दोर, देईन.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "मी देईन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "तुमच्या वारशाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:08:55.346106652Z",
+  "model": "glm-5.2"
+}

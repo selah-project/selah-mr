@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "अहीनदब बेन इद्दो, मखनयीम ⟨मध्ये⟩.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "अहीनदब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन-"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "इद्दो"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "मखनयीम ⟨मध्ये⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T12:26:37.417310925Z",
+  "model": "glm-5.2"
+}

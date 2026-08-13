@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "त्यांनी पाहिले, तसेच ते थक्क झाले; ते घाबरले, धडपडत गेले.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "त्यांनी"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "पाहिले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "थक्क झाले"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "घाबरले"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "धडपडत गेले"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:16.740534160Z",
+  "model": "glm-5.2"
+}

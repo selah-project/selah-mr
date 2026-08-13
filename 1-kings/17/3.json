@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "येथून जा, आणि तू पूर्वेकडे तोंड फिरव, आणि करित नदीत लपव, जी यर्दनच्या समोर ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "येथून"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "आणि फिरव"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्वेकडे"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "आणि लपव"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नदीत"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "करित"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "על",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दनच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:35:31.487396268Z",
+  "model": "glm-5.2"
+}

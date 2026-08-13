@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "आणि फरौह योसेफकडे म्हणाला; पाह, मी तुला संपूर्ण मिस्र देशावर ठेवले ⟨את⟩ आहे.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मी दिले आहे"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "तुला"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देशावर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्र"
+    }
+  ],
+  "timestamp": "2026-08-13T10:17:58.768210665Z",
+  "model": "glm-5.2"
+}

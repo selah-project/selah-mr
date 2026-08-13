@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "व एलीहूने उत्तर दिले व म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "व उत्तर दिले"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलीहूने"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "व म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:29.929279385Z",
+  "model": "glm-5.2"
+}

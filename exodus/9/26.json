@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "फक्त गोशेन देशात, जिथे इस्राएलचे पुत्र ⟨होते⟩, गारापाट ⟨नव्हती⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "गोशेन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिथे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होते"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "गारापाट"
+    }
+  ],
+  "timestamp": "2026-08-13T10:26:09.788549931Z",
+  "model": "glm-5.2"
+}

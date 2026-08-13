@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "मुख्यगायकाला; कोरहाच्या पुत्रांचा; एक मझमोर.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्यगायकाला"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांचा"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरहाच्या"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एक मझमोर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:16.396001282Z",
+  "model": "glm-5.2"
+}

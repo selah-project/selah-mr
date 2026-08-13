@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "त्यानंतर दानीएल राजाशी बोलला: राजा, अनंतकाळ जगो!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "त्यानंतर"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानीएल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "याच्याशी"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "बोलला"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "अनंतकाळ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जगो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:49:26.134935809Z",
+  "model": "glm-5.2"
+}

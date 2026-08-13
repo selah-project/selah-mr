@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "व मी म्हणालो माझ्याशी बोलणाऱ्या दूताला हे कुठे नेत ⟨आहेत⟩ ⟨त्या⟩ ⟨את⟩ एफाला",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "व मी म्हणालो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ला"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "दूताला"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बोलणाऱ्या"
+    },
+    {
+      "surface": "בי",
+      "gloss": "माझ्याशी"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कुठे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "नेत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफाला"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एफाला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:44:42.552442227Z",
+  "model": "glm-5.2"
+}

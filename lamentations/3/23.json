@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "नवीन ⟨त्या⟩ प्रत्येक प्रभाती; मोठी ⟨आहे⟩ तिची निष्ठा.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "नवीन"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "प्रभाती"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "मोठी"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "तिची निष्ठा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:48:33.191445436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "त्याने मला तृप्त केले कडू गोष्टींनी, त्याने मला पाजले अफरूं.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "त्याने मला तृप्त केले"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "कडू गोष्टींनी"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "त्याने मला पाजले"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "अफरूं"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:56.347880899Z",
+  "model": "glm-5.2"
+}

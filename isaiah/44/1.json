@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 44,
+  "translation": "आणि आता ऐक, याकोब माझा दास, आणि इस्राएल ज्याला मी निवडले.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "माझा दास"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आणि इस्राएल"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "मी निवडले"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ज्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T13:10:54.372130509Z",
+  "model": "glm-5.2"
+}

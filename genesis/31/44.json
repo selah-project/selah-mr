@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि आता ये, आपण करू करार मी आणि तू, आणि तो होईल साक्षी माझ्या आणि तुझ्या मध्ये.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "आपण करू"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आणि तो होईल"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "माझ्या"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "आणि तुझ्या मध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T10:12:45.837695693Z",
+  "model": "glm-5.2"
+}

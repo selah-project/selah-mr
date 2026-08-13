@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि ती तिला म्हणाली, ⟨जे⟩ काही तू सांगशील ते सर्व मी करेन.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आणि ती म्हणाली"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "तिला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "तू सांगशील"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "मी करेन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:24.065094482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि आशेरच्या मुलीचे नाव ⟨होते⟩ सेरह.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आणि नाव"
+    },
+    {
+      "surface": "בת",
+      "gloss": "मुलीचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेरच्या"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "सेरह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:40.880979983Z",
+  "model": "glm-5.2"
+}

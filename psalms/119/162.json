@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "मी तुझ्या वचनावर आनंदित आहे, मोठा लूट मिळवणाऱ्याप्रमाणे.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "आनंदित आहे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "तुझ्या वचना"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "मिळवणाऱ्याप्रमाणे"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "רב",
+      "gloss": "मोठा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:11.181455794Z",
+  "model": "glm-5.2"
+}

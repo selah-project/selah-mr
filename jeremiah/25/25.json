@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि ⟨את⟩ सर्व झिम्रीचे राजे, आणि ⟨את⟩ सर्व एलामचे राजे, आणि ⟨את⟩ सर्व मादीचे राजे",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "झिम्रीचे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलामचे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "मादीचे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:31:18.520540730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "आणि हे नगराच्या सीमा ⟨आहेत⟩: उत्तरेकडील बाजूपासून पाच सौ आणि चार हजार माप.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगराच्या"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "बाजूपासून"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तरेकडील"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "आणि चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "माप"
+    }
+  ],
+  "timestamp": "2026-08-13T14:09:58.653567616Z",
+  "model": "glm-5.2"
+}

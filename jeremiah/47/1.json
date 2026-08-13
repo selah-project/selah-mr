@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 47,
+  "translation": "जो झाले याहवेहचा शब्द यिर्मेयाहू नबीकडे, पलिश्तींकडे, त्याच्या आधी की फारो ⟨את⟩ गाजावर प्रहार करील:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीं"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "आधी"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "प्रहार करील"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गाजा"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "गाजा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:41.909129435Z",
+  "model": "glm-5.2"
+}

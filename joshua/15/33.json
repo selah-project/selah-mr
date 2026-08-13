@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "पर्वताळ भागात एश्ताओल, व त्सोरआ, व अश्ना —",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "पर्वताळ भागात"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "एश्ताओल"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "व त्सोरआ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "व अश्ना"
+    }
+  ],
+  "timestamp": "2026-08-13T11:37:50.521891528Z",
+  "model": "glm-5.2"
+}

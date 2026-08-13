@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "गहू व जव असलेला देश, द्राक्षावेल, अंजीर व डाळिंब असलेला, ऑलिव्ह तेल व मध असलेला देश.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गहू"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "व जव"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "द्राक्षावेल"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "अंजीर"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "व डाळिंब"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ऑलिव्ह"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "व मध"
+    }
+  ],
+  "timestamp": "2026-08-13T11:18:42.181606864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "मी माझ्या प्रियकराची आहे, आणि त्याची तृष्णा माझ्याकडे ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "माझ्या प्रियकराची"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "आणि माझ्याकडे"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "त्याची तृष्णा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:15.016518570Z",
+  "model": "glm-5.2"
+}

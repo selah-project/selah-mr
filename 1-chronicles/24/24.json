@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "उझ्झीएलची मुले: मीखा; लव्ह-मीखाच्या मुलांना: शामूर",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उझ्झीएलच्या"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लव्ह-मुलांना"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखाच्या"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "शामूर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:27.940340537Z",
+  "model": "glm-5.2"
+}

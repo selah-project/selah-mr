@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "आणि बिल्आम म्हणाला बालाक याला, मला येथे सात यागवेद्या बांध आणि मला येथे सात बैल आणि सात मेंढे तयार कर.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिल्आम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "याला"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बांध"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "येथे"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "यागवेद्या"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "आणि तयार कर"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "येथे"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "आणि सात"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "मेंढे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:19.515913627Z",
+  "model": "glm-5.2"
+}

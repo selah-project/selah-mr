@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "लोखंडाला तोडता येईल का — उत्तरेकडील लोखंड व तांबे?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "तोडता येईल का"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोखंडाला"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोखंड"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तरेकडील"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "व तांबे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:40:07.040496928Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "चांगले ⟨होय⟩ गरीब व ज्ञानी तरुण ⟨हे⟩ वृद्ध व मूर्ख राजापेक्षा, जो ⟨आणखी⟩ सावध करण्याचे ज्ञान ठेवीत नाही.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "तरुण"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "व ज्ञानी"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "राजापेक्षा"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "व मूर्ख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाणत"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "सावध करण्याचे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आणखी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:26.746411902Z",
+  "model": "glm-5.2"
+}

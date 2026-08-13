@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि तुझ्या दरवाज्यांत असलेला लेवी तू सोडू नकोस, कारण त्याला तुझ्यासोबत वाटा किंवा वारसा नाही;",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "आणि लेवी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "तुझ्या दरवाज्यांत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "तू सोडू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "वाटा"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "आणि वारसा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तुझ्यासोबत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:20.493648281Z",
+  "model": "glm-5.2"
+}

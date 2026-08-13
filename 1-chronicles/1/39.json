@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व लोतनचे ⟨⟩पुत्र: होरी व होमम; व लोतनची बहीण ⟨⟩होती तिम्ना.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व ⟨⟩पुत्र"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतन"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "होरी"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "व होमम"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "व बहीण"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतन"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिम्ना"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:36.831213829Z",
+  "model": "glm-5.2"
+}

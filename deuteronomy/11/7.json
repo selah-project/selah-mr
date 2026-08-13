@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "कारण तुमच्या डोळ्यांनी ⟨את⟩ सर्व याहवेहचे महान कार्य जे ⟨त्याने⟩ केले पाहिले ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "तुमच्या डोळ्यांनी"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "पाहिले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:02.943549857Z",
+  "model": "glm-5.2"
+}

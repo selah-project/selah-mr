@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आणि जर हे वचन सत्य ⟨असेल⟩, कन्याच्या कौमार्याची चिन्हे सापडली नाहीत —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "היה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "सापडली"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "कौमार्याची चिन्हे"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "कन्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:23.750629915Z",
+  "model": "glm-5.2"
+}

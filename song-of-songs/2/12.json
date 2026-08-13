@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "फुले पृथ्वीत दिसू लागली, ⟨the⟩ गाण्याची वेळ आली, व कबुतराचा आवाज आमच्या देशात ऐकू येतो.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "फुले"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "दिसू लागली"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीत"
+    },
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "गाण्याची"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "आली"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "व आवाज"
+    },
+    {
+      "surface": "התור",
+      "gloss": "कबुतराचा"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ऐकू येतो"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "आमच्या देशात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:54.678893760Z",
+  "model": "glm-5.2"
+}

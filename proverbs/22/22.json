@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "दीनाचा लूटमार करू नको, कारण तो दीन आहे; आणि दारात दीनाचा पायदेव करू नको.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "लूटमार करू"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीनाचा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो ⟨आहे⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नको"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "पायदेव करू"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीनाचा"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दारात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:56.166443418Z",
+  "model": "glm-5.2"
+}

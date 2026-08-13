@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "हे माझ्या मुला, तुझ्या वडिलांच्या आज्ञा जप व तुझ्या आईचा शिक्षण सोडू नकोस.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "जप"
+    },
+    {
+      "surface": "בני",
+      "gloss": "माझ्या मुला"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तुझ्या वडिलांच्या"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व नकोस"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "सोडू"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "शिक्षण"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तुझ्या आईचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:41.262684234Z",
+  "model": "glm-5.2"
+}

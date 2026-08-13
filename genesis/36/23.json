@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "व ही ⟨होत⟩ शोबालची मुले: अल्वान व मनाहत व एबाल, शेफो व ओनाम.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "व ही"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "शोबालची"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "अल्वान"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "व मनाहत"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "व एबाल"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "शेफो"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "व ओनाम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:15:06.634471213Z",
+  "model": "glm-5.2"
+}

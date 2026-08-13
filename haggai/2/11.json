@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "असे म्हणाला याहवेह सेनापती: याजकांना ⟨את⟩ तोराह विचार, लेखण:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनापती"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आता"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याजकांना"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "याजकांना"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोराह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेखण"
+    }
+  ],
+  "timestamp": "2026-08-13T14:24:27.481212714Z",
+  "model": "glm-5.2"
+}

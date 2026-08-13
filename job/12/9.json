@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "कोण यांपैकी सर्वांजवळ जाणत नाही की याहवेहच्या हाताने हे केले?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाणत"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सर्वांजवळ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यांपैकी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाताने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "केले"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "हे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:20:59.044817687Z",
+  "model": "glm-5.2"
+}

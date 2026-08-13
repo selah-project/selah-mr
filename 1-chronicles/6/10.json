@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "व एल्कानाचे चिरे: अमासय व अहीमोत.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "व चिरे"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्कानाचे"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "अमासय"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "व अहीमोत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:43.156623563Z",
+  "model": "glm-5.2"
+}

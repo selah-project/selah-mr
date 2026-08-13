@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि जेरहच्या पुत्रांपैकी येउएल, आणि त्यांचे भाऊ सहाशे नव्वद.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आणि ... पासून"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांपैकी"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरह"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "येउएल"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "आणि त्यांचे भाऊ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहाशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "₹₹"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "नव्वद"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:16.626104050Z",
+  "model": "glm-5.2"
+}

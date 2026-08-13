@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि अहितोफेल राजाचा सल्लाधारा होता, आणि हूशै द अर्की राजाचा मित्र होता.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "आणि अहितोफेल"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सल्लाधारा"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाचा"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "आणि हूशै"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "द अर्की"
+    },
+    {
+      "surface": "רע",
+      "gloss": "मित्र"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:13:14.432570261Z",
+  "model": "glm-5.2"
+}

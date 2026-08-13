@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "एक कोकरू तुम्ही सकाळी करा, आणि दुसरे ⟨את⟩ कोकरू तुम्ही संध्याकाळी करा.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कोकरू"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तुम्ही करा"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "सकाळी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "कोकरू"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरे"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तुम्ही करा"
+    },
+    {
+      "surface": "בין",
+      "gloss": "-"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "संध्याकाळी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:23.023731579Z",
+  "model": "glm-5.2"
+}

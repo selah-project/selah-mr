@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "मनुष्याच्या पुत्रा, दोन स्त्रिया, एका आईच्या कन्या होत्या.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्याच्या"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रिया"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "कन्या"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आईच्या"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एका"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होत्या"
+    }
+  ],
+  "timestamp": "2026-08-13T13:56:20.442428726Z",
+  "model": "glm-5.2"
+}

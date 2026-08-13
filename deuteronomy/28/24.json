@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "याहवेह तुझ्या देशाचा ⟨את⟩ पाऊस धूळ व पुडके देईल; आकाशातून ते तुझ्यावर उतरेल, तू नामशेष होईपर्यंत.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "देईल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाऊस"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "पाऊस"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "तुझ्या देशाचा"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "धूळ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "व पुडके"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पासून"
+    },
+    {
+      "surface": "השमים",
+      "gloss": "आकाशातून"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरेल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "तू नामशेष हशील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:51.343872225Z",
+  "model": "glm-5.2"
+}

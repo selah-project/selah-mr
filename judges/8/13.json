@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि गिदओन योआशचा मुलगा युद्धातून परत आला, चढत्या उन्हाच्या ठिकाणाहून.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आणि परत आला"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदओन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पासून"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "चढून"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "उन्हाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:47:24.254294591Z",
+  "model": "glm-5.2"
+}

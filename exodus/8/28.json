@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि पर्वाने यावेळीही ⟨את⟩ आपले अंतःकरण जड केले, आणि त्याने ⟨את⟩ लोकांना सोडले नाही.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "आणि जड केले"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "पर्वाने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अंतःकरण"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "आपले अंतःकरण"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ही"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "या"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाही"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "सोडले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोकांना"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    }
+  ],
+  "timestamp": "2026-08-13T10:25:32.427005091Z",
+  "model": "glm-5.2"
+}

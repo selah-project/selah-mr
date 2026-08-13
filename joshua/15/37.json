@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "त्सेनान, व हदशाह, व मिग्दल-गाद;",
+  "tokens": [
+    {
+      "surface": "צְנָ֥ן",
+      "gloss": "त्सेनान"
+    },
+    {
+      "surface": "וַחֲדָשָׁ֖ה",
+      "gloss": "व हदशाह"
+    },
+    {
+      "surface": "וּמִגְדַּל",
+      "gloss": "व मिग्दल"
+    },
+    {
+      "surface": "גָּֽד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-08-13T11:38:02.396985953Z",
+  "model": "glm-5.2"
+}

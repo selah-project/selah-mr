@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "हे एत्सेरचे मुले ⟨होते⟩: बिलहान आणि झावान आणि अकान.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेरचे"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "आणि झावान"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "आणि अकान"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:48.228812958Z",
+  "model": "glm-5.2"
+}

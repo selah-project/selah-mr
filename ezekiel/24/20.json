@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि मी त्यांना म्हणालो, याहवेहचा वचन मजकडे आले, यास्तव:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आणि मी म्हणालो"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आले"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यास्तव"
+    }
+  ],
+  "timestamp": "2026-08-13T13:57:10.030000115Z",
+  "model": "glm-5.2"
+}

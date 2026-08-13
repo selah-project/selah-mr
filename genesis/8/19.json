@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "सर्व ⟨the⟩ सजीव प्राणी, सर्व ⟨the⟩ सरपटणारे, व सर्व ⟨the⟩ पक्षी, सर्व पृथ्वीवर सरपटणारे — त्यांच्या कुळांनुसार ⟨the⟩ तेबाच्यातून बाहेर आले.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨the⟩ सजीव प्राणी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "⟨the⟩ सरपटणारे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨the⟩ पक्षी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "सरपटणारे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "त्यांच्या कुळांनुसार"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "बाहेर आले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "तून"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "⟨the⟩ तेबा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:11.878721105Z",
+  "model": "glm-5.2"
+}

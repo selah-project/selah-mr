@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "तुझे झरे बाहेर पसरतील का, रस्त्यांमध्ये पाण्याच्या धारा",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "पसरतील"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "तुझे झरे"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहेर"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "रस्त्यांमध्ये"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "धारा"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:42.164362499Z",
+  "model": "glm-5.2"
+}

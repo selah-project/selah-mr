@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि माखीरला मी दिले ⟨את⟩ गिल्याद.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "आणि माखीरला"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मी दिले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिल्याद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिल्याद"
+    }
+  ],
+  "timestamp": "2026-08-13T11:15:47.247109855Z",
+  "model": "glm-5.2"
+}

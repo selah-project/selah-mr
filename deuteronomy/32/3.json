@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "कारण याहवेहचे नाव मी पुकारीत; द्या महत्त्व आमच्या एलोहीमला.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שם",
+      "gloss": "...चे नाव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "मी पुकारीत"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "द्या"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "महत्त्व"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "आमच्या एलोहीमला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:29:45.157321227Z",
+  "model": "glm-5.2"
+}

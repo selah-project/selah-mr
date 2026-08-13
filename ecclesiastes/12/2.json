@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "पर्यंत ज्या पर्यंत सूर्य ⟨आणि⟩ प्रकाश आणि चंद्र आणि तारे ग्रहण नाहीत आणि ढग पावसानंतर परत जात नाहीत.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ग्रहण"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "आणि प्रकाश"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "आणि चंद्र"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "आणि तारे"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "आणि परत जात नाहीत"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ढग"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "नंतर"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "पाऊस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:58.851266060Z",
+  "model": "glm-5.2"
+}

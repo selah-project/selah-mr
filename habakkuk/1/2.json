@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "किती काळ, याहवेह, मी ओरडले आणि तू ऐकत नाहीस! मी तुझ्याजवळ ओरडतो, जुलूम! आणि तू तारणार नाहीस!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "किती"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "काळ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "मी ओरडले"
+    },
+    {
+      "surface": "ו",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीस"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "तू ऐकत"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "मी ओरडतो"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझ्याजवळ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "जुलूम"
+    },
+    {
+      "surface": "ו",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीस"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "तू तारणार"
+    }
+  ],
+  "timestamp": "2026-08-13T14:21:47.520853406Z",
+  "model": "glm-5.2"
+}

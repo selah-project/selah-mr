@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि नोआ याहवेहच्या दृष्टीत कृपा मिळवली.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "आणि-नोआ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "मिळवली"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "दृष्टीत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:28.015674591Z",
+  "model": "glm-5.2"
+}

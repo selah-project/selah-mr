@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "व ते दाविदसह टोळीविरुद्ध मदत करीत, की सर्व शूरवीर पुरुष होते व ⟨ते⟩ सैन्यात सरदार झाले.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "व ते"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "मदत केली"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सह"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविदाच्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "टोळी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "शूरवीर"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सर्ते"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "व ⟨ते⟩ झाले"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "सैन्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T16:08:23.885003775Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि तो स्त्रीला तिच्या कौमार्यात घेईल",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "आणि तो"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्रीला"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "तिच्या कौमार्यात"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "घेईल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:51:33.239128655Z",
+  "model": "glm-5.2"
+}

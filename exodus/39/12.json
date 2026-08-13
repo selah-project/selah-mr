@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "आणि ⟨ही⟩ रांग ⟨ही⟩ तिसरी: लेशेम, शेबू आणि अहलामा",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "आणि ही रांग"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसरी"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "लेशेम"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "शेबू"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "आणि अहलामा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:39:47.329235748Z",
+  "model": "glm-5.2"
+}

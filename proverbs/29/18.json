@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "दर्शन नसताना ⟨एक⟩ लोक उघडे होतील; परंतु तोरा राखणारा — धन्य तो!",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "नसताना"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "उघडे होतील"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "परंतु राखणारा"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "धन्य तो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:00.778610290Z",
+  "model": "glm-5.2"
+}

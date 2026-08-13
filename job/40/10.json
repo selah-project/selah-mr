@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "मग धनसा आणि उंचपणा धारण कर, आणि वैभव व भव्यता परिधान कर.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "धारण कर"
+    },
+    {
+      "surface": "נא",
+      "gloss": "मग"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "धनसा"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "आणि उंचपणा"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "आणि वैभव"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "व भव्यता"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "परिधान कर"
+    }
+  ],
+  "timestamp": "2026-08-13T15:30:59.260311292Z",
+  "model": "glm-5.2"
+}

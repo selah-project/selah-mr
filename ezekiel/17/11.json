@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "व याहवेहचा वचन माझ्याकडे आला, या प्रमाणे:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "व झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या प्रमाणे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:52:44.937666186Z",
+  "model": "glm-5.2"
+}

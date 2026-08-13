@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि आता हा ⟨आहे⟩ ⟨हा⟩ बोल जो आपण गिबा-ला करू — तिच्यावर गोरळाने.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "हा बोल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "आपण करू"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "गिबा-ला"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "तिच्यावर"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "गोरळाने"
+    }
+  ],
+  "timestamp": "2026-08-13T11:53:13.610642076Z",
+  "model": "glm-5.2"
+}

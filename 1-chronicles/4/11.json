@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "व कलूब, शूहाचा भाऊ, याने ⟨את⟩ महीरला जन्म दिला; तो एश्तोनचा पिता ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "व कलूब"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाऊ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "शूहाचा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "याने ... जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महीरला"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "महीरला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "एश्तोनचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:27.852835839Z",
+  "model": "glm-5.2"
+}

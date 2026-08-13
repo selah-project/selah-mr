@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "आणि तिसऱ्या दिवशी बैल अकरा, मेंढरे दोन, एक वर्षांचे कोकरू चौदा, निर्विकार ⟨होते⟩।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आणि दिवशी"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसऱ्या"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "अकरा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेंढरे"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पाठलगे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक वर्षांचे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्विकार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:01.868100968Z",
+  "model": "glm-5.2"
+}

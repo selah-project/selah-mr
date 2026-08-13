@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "कारण जवळ ⟨आहे⟩ दिवस, आणि जवळ ⟨आहे⟩ याहवेहचा दिवस — ढगांचा दिवस, गोयांचे काळ ⟨होईल⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "आणि जवळ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ढगांचा"
+    },
+    {
+      "surface": "עת",
+      "gloss": "काळ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयांचे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨होईल⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T13:58:54.921402344Z",
+  "model": "glm-5.2"
+}

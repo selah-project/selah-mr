@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "व यिबहार व एलिशामा व एलिफलेत.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "व-यिबहार"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "व-एलिशामा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "व-एलिफलेत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:33.058273160Z",
+  "model": "glm-5.2"
+}

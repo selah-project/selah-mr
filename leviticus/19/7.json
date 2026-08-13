@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि जर ते खरोखर तिसऱ्या दिवशी खाल्ले गेले, तर ते घृणित आहे; ते स्वीकारले जाणार नाही.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "खाणे"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाल्ले गेले"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसऱ्या"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ते ⟨आहे⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "स्वीकारले जाईल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:33.844544852Z",
+  "model": "glm-5.2"
+}

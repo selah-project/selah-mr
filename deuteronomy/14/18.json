@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व सारस, व बगुला त्याच्या प्रकारानुसार, व हुपूप व वटवाघोळ",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "व सारस"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "व बगुला"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "तिच्या प्रकारानुसार"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "व हुपूप"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "व वटवाघोळ"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:12.117660082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "उम्मा आणि अफेक आणि रेखोब; वीस आणि दोन नगरे व त्यांची गावे.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "उम्मा"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "आणि अफेक"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आणि रेखोब"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "आणि दोन"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "व त्यांची गावे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:40:27.681474396Z",
+  "model": "glm-5.2"
+}

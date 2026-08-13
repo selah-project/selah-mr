@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व मृत झाला योसेफ व सर्व त्याचे भाऊ व सर्व ती पिढी.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "व मृत झाला"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "त्याचे भाऊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ती पिढी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ती"
+    }
+  ],
+  "timestamp": "2026-08-13T10:22:17.417868084Z",
+  "model": "glm-5.2"
+}

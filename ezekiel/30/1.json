@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "आणि याहवेहचा वचन मला झाला, या सांगत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨झाला⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:58:54.920931842Z",
+  "model": "glm-5.2"
+}

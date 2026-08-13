@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "कारण गड्याची स्त्री एक खोल दरी आहे, व परकी स्त्री एक अरुंद विहीर ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "दरी"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "गड्याची स्त्री"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "व विहीर"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "अरुंद"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "परकी स्त्री"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:52.606986202Z",
+  "model": "glm-5.2"
+}

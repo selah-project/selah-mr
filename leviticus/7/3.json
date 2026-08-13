@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि त्याच्यापैकी तो सर्व चरबी अर्पण करील — ⟨את⟩ शेपूट, आणि ⟨את⟩ आतरे झाकणारे चरबी;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "तो अर्पण करील"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "त्याच्यापैकी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेपूट"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "शेपूट"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "झाकणारे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आतरे"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "आतरे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:43:58.547037046Z",
+  "model": "glm-5.2"
+}

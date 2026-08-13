@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि नोह पाचशे वर्षांचा पुत्र होता, आणि नोहने ⟨את⟩ शेम, ⟨את⟩ खाम आणि ⟨את⟩ याफेत जन्माला घातले.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि होता"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "याफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:27.931710460Z",
+  "model": "glm-5.2"
+}

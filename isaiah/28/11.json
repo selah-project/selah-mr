@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "कारण टिंगल ओठांच्या व दुसऱ्या जिभेच्या बोलण्याने तो या लोकांशी बोलेल.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "टिंगल"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओठांच्या"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "व जिभेच्या"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "दुसऱ्या"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "तो बोलेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकां"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या"
+    }
+  ],
+  "timestamp": "2026-08-13T13:03:51.943956913Z",
+  "model": "glm-5.2"
+}

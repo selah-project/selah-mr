@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कारण कयीन सातपट बदला घेतला जाईल, आणि लेमेख सत्त्याहत्तर व सात.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "सातपट"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "बदला घेतला जाईल"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कयीन"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "आणि लेमेख"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्त्याहत्तर"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "व सात"
+    }
+  ],
+  "timestamp": "2026-08-13T09:58:59.555715380Z",
+  "model": "glm-5.2"
+}

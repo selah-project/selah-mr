@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "माझा प्रियकर माझा आहि आणि मी त्याची, ⟨he⟩ गुलाबांमध्ये चरखतो.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "माझा प्रियकर"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझा"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आणि मी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याची"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "⟨he⟩ चरखतो"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "गुलाबांमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T15:32:04.017492406Z",
+  "model": "glm-5.2"
+}

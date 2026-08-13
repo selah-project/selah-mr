@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "व ⟨את⟩ आपले कपडे काढो व दुसरे कपडे घालो; व ⟨את⟩ राख मुख्य छावणीच्या बाहेर पवित्र ठिकाणी नेऊन टाको.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "व काढो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपले कपडे"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आपले कपडे"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "व घालो"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "कपडे"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दुसरे"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "व नेऊन टाको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राख"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "राख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहेर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावणीच्या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडी"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठिकाणी"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "पवित्र"
+    }
+  ],
+  "timestamp": "2026-08-13T10:44:20.004339373Z",
+  "model": "glm-5.2"
+}

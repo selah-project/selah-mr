@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 80,
+  "translation": "तिने आपले फांदे समुद्रापर्यंत पाठवले, व आपले कोंब ⟨the⟩ नदीपर्यंत.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "तिने पाठवले"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "तिचे फांदे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्रापर्यंत"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व ईकडे"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "तिचे कोंब"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:14.971777252Z",
+  "model": "glm-5.2"
+}

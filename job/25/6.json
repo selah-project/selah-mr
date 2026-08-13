@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "त्याहून किती अधिक — की मानव कृमी आहे, आणि मानवाचा पुत्र अळी!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "त्याहून किती अधिक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मानव"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "कृमी"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आणि पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानवाचा"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "अळी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:25:03.252949436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "रक्ताची माणसे निष्कलंकाचा द्वेष करतात, व सरळ लोक त्याचा जीव शोधतात.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "माणसे"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रक्ताची"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "द्वेष करतात"
+    },
+    {
+      "surface": "תם",
+      "gloss": "निष्कलंकाचा"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "व सरळ लोक"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "शोधतात"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "त्याचा जीव"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:02.376259384Z",
+  "model": "glm-5.2"
+}

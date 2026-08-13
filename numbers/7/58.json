@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक शेळका-बोकड, पापार्पणास:",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "शेळका-बोकड"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "शेळ्यांचा"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "पापार्पणास"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:30.974033787Z",
+  "model": "glm-5.2"
+}

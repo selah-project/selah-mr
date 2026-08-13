@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "जर तू झोपी, तरी भिणार नाहीस; व तू झोपलास तर तुझी झोप गोड होईल:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "तू झोपशील"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "भिणार"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "व तू झोपलास"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "व गोड होईल"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "तुझी झोप"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:34.751224665Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "धार्मिकाचे तोंड ज्ञान बोलते, आणि त्याची जीभ न्याय बोलते.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "तोंड"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धार्मिकाचे"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "बोलते"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "आणि त्याची जीभ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोलते"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:01.750855961Z",
+  "model": "glm-5.2"
+}

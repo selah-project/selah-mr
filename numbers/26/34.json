@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "ही ⟨कुटुंबे⟩ मनश्याची आहेत; व त्यांची गणना दोन व पन्नास हजार व सातशे ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुटुंबे"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्य"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "व त्यांची गणना"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "व पन्नास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "व सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:49.113666908Z",
+  "model": "glm-5.2"
+}

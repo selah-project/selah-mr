@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "व नोगह व नेफेग व याफिया.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "व-नोगह"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "व-नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "व-याफिया"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:33.058414046Z",
+  "model": "glm-5.2"
+}

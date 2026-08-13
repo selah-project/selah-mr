@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि ते अजून झोपले नव्हते, तरच ती छतावर त्यांच्याकडे चढली.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "आणि ते"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "अजून"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "झोपले नव्हते"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "तरच ती"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "चढली"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "त्यांच्याकडे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "छतावर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:32:39.287870112Z",
+  "model": "glm-5.2"
+}

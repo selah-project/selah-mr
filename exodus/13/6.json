@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "सात दिवस तू मत्झोत खाशील, आणि सातव्या दिवशी याहवेहचा सण असेल.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तू खाशील"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "मत्झोत"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "आणि दिवशी"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातव्या"
+    },
+    {
+      "surface": "חג",
+      "gloss": "सण"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहचा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:28:13.881244068Z",
+  "model": "glm-5.2"
+}

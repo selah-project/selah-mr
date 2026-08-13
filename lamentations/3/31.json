@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "कारण अदोनाय ⟨काहीही⟩ साठवता सारखे कायमचे नाकारत नाही.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "नाकारत"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "साठवता सारखे कायमचे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:55.910556677Z",
+  "model": "glm-5.2"
+}

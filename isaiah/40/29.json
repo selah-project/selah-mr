@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "⟨हे⟩ थकलेल्याला बळ देतो, आणि ज्यांत बळ नाही त्यांना ताकद वाढवितो.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "देतो"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "थकलेल्याला"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बळ"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "आणि ज्यांत नाही"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "बळ"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "ताकद"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "वाढवितो"
+    }
+  ],
+  "timestamp": "2026-08-13T13:09:02.657280644Z",
+  "model": "glm-5.2"
+}

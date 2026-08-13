@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "व ⟨ते⟩ होतील तुझे आकाश जे तुझ्या डोक्यावर आहे ते तांबे, व ⟨ती⟩ जमीन जी तुझ्या खाली आहे ती लोखंड.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "व ते होतील"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "तुझे आकाश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तुझ्या डोक्यावर"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तांबे"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "व जमीन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "तुझ्या खाली"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोखंड"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:51.343741419Z",
+  "model": "glm-5.2"
+}

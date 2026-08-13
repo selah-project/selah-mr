@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "असाहेल योआबचा भाऊ तीसांपैकी ⟨एक⟩; एल्हानान दोदोचा पुत्र बेथ-लेहेमचा;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "असाहेल"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाऊ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआबचा"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "तीसांपैकी"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "एल्हानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "दोदोचा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेमचा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:23:17.277375794Z",
+  "model": "glm-5.2"
+}

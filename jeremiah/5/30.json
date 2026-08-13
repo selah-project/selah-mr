@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आश्चर्य व भयंकर वस्तू ⟨ती⟩ देशात ⟨घडली⟩ ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "भयंकर"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "व आश्चर्य"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨ती⟩ ⟨घडली⟩ ⟨आहे⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    }
+  ],
+  "timestamp": "2026-08-13T13:21:49.926887335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "नाही असे ⟨का⟩ माझा दास मोशे; माझ्या संपूर्ण घरात तो विश्वासू ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "असे"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "माझा दास"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "संपूर्ण ... मध्ये"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "माझ्या घरात"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "विश्वासू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    }
+  ],
+  "timestamp": "2026-08-13T16:32:37.181791288Z",
+  "model": "glm-5.2"
+}

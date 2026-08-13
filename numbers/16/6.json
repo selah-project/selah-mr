@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "हे करा: स्वतःसाठी घ्या अग्निपात्रे, तुम्ही कोरह व तुमची संपूर्ण सभा,",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "हे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करा"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "घ्या"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "स्वतःसाठी"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "अग्निपात्रे"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "तुम्ही कोरह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व संपूर्ण"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "तुमची सभा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:03:53.257372914Z",
+  "model": "glm-5.2"
+}

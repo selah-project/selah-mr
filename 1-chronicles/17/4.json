@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "जा आणि माझ्या दास दावीदाला सांग: याहवेह असे म्हणतो: तू मला राहण्यासाठी घर बांधणार नाही.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आणि सांग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांना"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीदाला"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "माझ्या दास"
+    },
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बांधणार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "राहण्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:09:52.410488740Z",
+  "model": "glm-5.2"
+}

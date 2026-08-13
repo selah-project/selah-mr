@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "श्रीमंताला होते शेळकरी आणि गोधन ⟨हे⟩ अतिशय अनेक.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "श्रीमंताला"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होते"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "शेळकरी"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आणि गोधन"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "अनेक"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अतिशय"
+    }
+  ],
+  "timestamp": "2026-08-13T12:15:06.281264242Z",
+  "model": "glm-5.2"
+}

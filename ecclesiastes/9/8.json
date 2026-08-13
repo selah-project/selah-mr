@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "प्रत्येक वेळी तुझी वस्त्रे पांढरी ⟨असोत⟩, आणि तुझ्या डोक्यावर तेल कमी होऊ नये.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "असोत"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "तुझी वस्त्रे"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "पांढरी"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "आणि तेल"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तुझ्या डोक्या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नये"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कमी होऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:08.661868411Z",
+  "model": "glm-5.2"
+}

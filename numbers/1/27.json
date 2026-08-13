@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची मोजणी ⟨आहे⟩ यहूदा गोत्रासाठी — चार व सत्तर हजार व सहाशे.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची मोजणी"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्रासाठी"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "व सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:05.329821561Z",
+  "model": "glm-5.2"
+}

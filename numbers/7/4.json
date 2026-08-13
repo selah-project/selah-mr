@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि याहवेहाने मोशेशी बोलला:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहाने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:12.881112953Z",
+  "model": "glm-5.2"
+}

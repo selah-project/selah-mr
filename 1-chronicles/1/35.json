@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "एसावची मुले: एलिफाज, रेउएल व येउश व यालाम व कोरह.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावची"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाज"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "व येउश"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "व यालाम"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "व कोरह"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:18.626762398Z",
+  "model": "glm-5.2"
+}

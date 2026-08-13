@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि ओबेद जन्म दिला ⟨את⟩ यिशाय, आणि यिशाय जन्म दिला ⟨את⟩ दावीद.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "आणि ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशाय"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशाय"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "आणि यिशाय"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दावीद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:18.319979600Z",
+  "model": "glm-5.2"
+}

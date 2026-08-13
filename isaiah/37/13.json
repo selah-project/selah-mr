@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "कुठे ⟨आहे⟩ खमातचा राजा व अर्पदचा राजा व स्फर्वयिम नगराचा राजा, हेना व इव्वा?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "कुठे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमात"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "व राजा"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "अर्पद"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "व राजा"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगराचा"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "स्फर्वयिम"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "हेना"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "व इव्वा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:08:03.912925253Z",
+  "model": "glm-5.2"
+}

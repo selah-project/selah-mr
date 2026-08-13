@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "व शिकेम मिनाराच्या सर्व धनींनी ⟨हे⟩ ऐकले, व ते बेरित बाइत किल्ल्याजवळ आले.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "व ऐकले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "धनींनी"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "मिनाराच्या"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शिकेम"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "व ते आले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "किल्ल्याजवळ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बाइत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "बेरित"
+    }
+  ],
+  "timestamp": "2026-08-13T11:48:59.925108013Z",
+  "model": "glm-5.2"
+}

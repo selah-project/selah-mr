@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "आणि त्याने त्यांना म्हटले: ऐका, आता, हे स्वप्न जे मी पाहिले.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि-म्हटले"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आता"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "हे स्वप्न"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "मी पाहिले"
+    }
+  ],
+  "timestamp": "2026-08-13T10:15:32.999969875Z",
+  "model": "glm-5.2"
+}

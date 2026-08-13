@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "कारण आज्ञा आज्ञेवर, आज्ञा आज्ञेवर, रेषा रेषेवर, रेषा रेषेवर, थोडे इथे, थोडे तिथे.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "צו",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "आज्ञेवर"
+    },
+    {
+      "surface": "צו",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "आज्ञेवर"
+    },
+    {
+      "surface": "קו",
+      "gloss": "रेषा"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "रेषेवर"
+    },
+    {
+      "surface": "קו",
+      "gloss": "रेषा"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "रेषेवर"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "थोडे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "इथे"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "थोडे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:03:51.943823311Z",
+  "model": "glm-5.2"
+}

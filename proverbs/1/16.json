@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "कारण त्यांचे पाय वाईटाकडे धावतात, आणि ते रक्त सांडण्यास घाई करतात",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "त्यांचे पाय"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "वाईटाकडे"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "धावतात"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "आणि ते घाई करतात"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "सांडण्यास"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रक्त"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:57.786442053Z",
+  "model": "glm-5.2"
+}

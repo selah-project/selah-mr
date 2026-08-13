@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 11:21",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि ⟨the⟩ नतीनीम ओफेल मध्ये राहत होते; आणि त्सिहा आणि गिश्पा ⟨were⟩ नतीनीम वर होते.",
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "आणि नतीनीम"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "राहत होते"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "ओफेल मध्ये"
+    },
+    {
+      "surface": "וציחא",
+      "gloss": "आणि त्सिहा"
+    },
+    {
+      "surface": "וגשפא",
+      "gloss": "आणि गिश्पा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "नतीनीम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:13.381918811Z",
+  "model": "glm-5.2"
+}

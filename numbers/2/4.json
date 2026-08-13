@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि त्याचे सैन्य व त्यांची मोजणी — चार व सत्तर हजार व सहाशे.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आणि त्याचे सैन्य"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "व त्यांची मोजणी"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "व सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "व सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:12.659336270Z",
+  "model": "glm-5.2"
+}

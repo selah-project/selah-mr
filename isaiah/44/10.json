@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 44,
+  "translation": "कोणी एक घडविले, आणि एक ढळून घातले, ⟨जे⟩ उपयोगी न ठरण्यासाठी?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "घडविले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "आणि मूर्ती"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ढळून घातले"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "न ठरण्यासाठी"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "उपयोगी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:11:44.984251394Z",
+  "model": "glm-5.2"
+}

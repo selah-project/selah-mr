@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "धार्मिकतेचे बलिदान करा, आणि याहवेहवर भरवसा ठेवा.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "बलिदान करा"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलिदान"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धार्मिकतेचे"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "आणि भरवसा ठेवा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T14:30:01.559089212Z",
+  "model": "glm-5.2"
+}

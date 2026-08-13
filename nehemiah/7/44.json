@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "गायक: आसाफचे मुले — एकशे आठेचालीस.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गायक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफचे"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आणि आठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:48.167355161Z",
+  "model": "glm-5.2"
+}

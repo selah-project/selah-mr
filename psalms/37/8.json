@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "रागापासून थांब, आणि प्रकोप सोडून दे; तापू नकोस, फक्त वाईट करण्यासाठी.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "थांब"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "रागापासून"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "आणि सोडून दे"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "प्रकोप"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "तापू"
+    },
+    {
+      "surface": "אך",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "वाईट करण्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:37:33.471982518Z",
+  "model": "glm-5.2"
+}

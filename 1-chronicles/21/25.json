@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि दावीद अर्नानाला जागेसाठी सोन्याचे शेकेल दिले — वजन सहाशे.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आणि दिले"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "अर्नानाला"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जागेसाठी"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोन्याचे"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "वजन"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:24.828776895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि याहवेह मोशेशी बोलला, या म्हणून:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि-बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याशी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "या-म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:28:25.764036962Z",
+  "model": "glm-5.2"
+}

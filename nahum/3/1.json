@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "हाय! ⟨the⟩ रक्ताच्या ⟨the⟩ शहराला, संपूर्ण दुबारपणाची ⟨and⟩ लुटारूची भरलेली, ⟨the⟩ लाट दूर होत नाही.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "शहराला"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रक्ताच्या"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "दुबारपणाची"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "लुटारूची"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरलेली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "दूर होत"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "लाट"
+    }
+  ],
+  "timestamp": "2026-08-13T14:21:26.486685120Z",
+  "model": "glm-5.2"
+}

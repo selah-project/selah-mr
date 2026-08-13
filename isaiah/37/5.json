@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 37,
+  "translation": "आणि राजा खिजकियाहूचे दास यशायाहूकडे आले.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आणि आले"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दास"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकियाहूचे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याकडे"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशायाहू"
+    }
+  ],
+  "timestamp": "2026-08-13T13:07:20.795536042Z",
+  "model": "glm-5.2"
+}

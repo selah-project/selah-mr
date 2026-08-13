@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "मी ⟨את⟩ जीवनाचा द्वेष केला, कारण मला ते काम दुःखकारक आहे जे सूर्याखाली केले जाते; कारण ⟨the⟩ सर्व व्यर्थ आहे व ⟨the⟩ वायूचे दुःख आहे.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "मी द्वेष केला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जीवनाचा"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुःखकारक"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "जे केले जाते"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्याच्या"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "व दुःख"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वायूचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:49.185047023Z",
+  "model": "glm-5.2"
+}

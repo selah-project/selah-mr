@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि योएल, आणि येहू योशिब्याहाचा पुत्र, सरायाहाचा पुत्र, असिएलाचा पुत्र,",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "आणि योएल"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "आणि येहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "योशिब्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "सरायाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "असिएल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:54.379430542Z",
+  "model": "glm-5.2"
+}

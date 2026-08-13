@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "तुझे सर्व झाडे व तुझ्या जमिनीचे फळ, ⟨तो⟩ टोळे ग्रासतील.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "तुझे झाडे"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "व फळ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "तुझ्या जमिनीचे"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ग्रासतील"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "टोळे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:25.552502424Z",
+  "model": "glm-5.2"
+}

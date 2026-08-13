@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "बलियालचा वचन त्याच्यावर ओतला, आणि जो आडवा झाला तो पुन्हा उठणार नाही.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बलियाल"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ओतला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्याच्यावर"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आणि जो"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "आडवा झाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "पुन्हा"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "उठणार"
+    }
+  ],
+  "timestamp": "2026-08-13T14:38:53.527992221Z",
+  "model": "glm-5.2"
+}

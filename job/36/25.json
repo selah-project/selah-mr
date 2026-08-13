@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "सर्व मनुष्य ⟨त्याला⟩ पाहतात; मरणधर दूरून बघतो.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "पाहतात"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨त्याला⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरणधर"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "बघतो"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "दूरून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:29:26.654108682Z",
+  "model": "glm-5.2"
+}

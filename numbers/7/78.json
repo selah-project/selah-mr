@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "बाराव्या ⟨दिवशी⟩ नफ्तालीच्या पुत्रांचा नाशी — अखीरा बेन एनान.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "बाराव्या ⟨दिवशी⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नाशी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "पुत्रांचा"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्तालीच्या"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-13T11:00:19.275133660Z",
+  "model": "glm-5.2"
+}

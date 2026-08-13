@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "व ⟨את⟩ केशेद व ⟨את⟩ खझो व ⟨את⟩ पिल्दाश व ⟨את⟩ यिदलाफ व ⟨את⟩ बेथुएल",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "केशेद"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "केशेद"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "खझो"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "खझो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "पिल्दाश"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "पिल्दाश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "यिदलाफ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "यिदलाफ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "बेथुएल"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "बेथुएल"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:11.887679477Z",
+  "model": "glm-5.2"
+}

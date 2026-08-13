@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि कालेबचे मुले, येफुन्नेहचा मुलगा: इरू, एला आणि नाम. आणि एलाचे मुले: आणि कनाज.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि मुले"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "येफुन्नेह"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "इरू"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "आणि नाम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आणि मुले"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "आणि कनाज"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:51.203531223Z",
+  "model": "glm-5.2"
+}

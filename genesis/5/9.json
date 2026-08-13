@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि एनोश नव्वद वर्षे जगला, आणि ⟨त्याने⟩ ⟨את⟩ कैनान जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि जगला"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नव्वद"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कैनान"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "कैनान"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:06.267794522Z",
+  "model": "glm-5.2"
+}

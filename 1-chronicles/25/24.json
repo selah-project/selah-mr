@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "सतरावा ल्याश्बेकाशाला, ⟨त्याची⟩ चिरंजीव, व ⟨त्याची⟩ भाऊ, बारा:",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "सतरावा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨सतरा⟩"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "ल्याश्बेकाशाला"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "चिरंजीव"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨बारा⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:11.504456263Z",
+  "model": "glm-5.2"
+}

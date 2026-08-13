@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "हृदयहीन माणूस हात थाबवतो, आपल्या जवळच्याच्या समोर जामीन ठरतो.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "माणूस"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "हीन"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "थाबवतो"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ठरतो"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "जामीन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपल्या जवळच्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:19.817363487Z",
+  "model": "glm-5.2"
+}

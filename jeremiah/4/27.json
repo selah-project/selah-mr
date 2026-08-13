@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कारण असे याहवेह बोलतो: संपूर्ण पृथ्वी वायफट होईल, आणि ⟨तिचा⟩ अंत मी करणार नाही.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כה",
+      "gloss": "असे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोलतो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "वायफट"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होईल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "आणि अंत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "मी करणार"
+    }
+  ],
+  "timestamp": "2026-08-13T13:21:13.165072065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "चतुर ⟨मनुष्य⟩ वाईट पाहतो, ⟨व⟩ लपवतो; भोळे ⟨लोक⟩ पुढे जातात, व सजा भोगतात.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "पाहतो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "लपवतो"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "भोळे"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "पुढे जातात"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "सजा भोगतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:29.645866907Z",
+  "model": "glm-5.2"
+}

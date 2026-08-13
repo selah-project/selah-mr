@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "येतूर, नाफीश, व केदेमा; हे यिश्माएलाचे पुत्र ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "येतूर"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "नाफीश"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "व केदेमा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएलाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:33.870085869Z",
+  "model": "glm-5.2"
+}

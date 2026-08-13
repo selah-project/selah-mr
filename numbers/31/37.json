@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि याहवेहचा ⟨हा⟩ कर म्हणजे मेंढरांपैकी सहाशे पंच्याहत्तर ⟨होते⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि व्हता"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "तो कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पासून"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "मेंढरां"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आणि सत्तर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:43.643528127Z",
+  "model": "glm-5.2"
+}

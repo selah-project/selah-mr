@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "तेवीस दलायाहूला, चोवीस माअज़्याहूला.",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "दलायाहूला"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "माअज़्याहूला"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "वीस"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:41.676029421Z",
+  "model": "glm-5.2"
+}

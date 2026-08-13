@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 81,
+  "translation": "उचला गीत व द्या ढोल, रम्य याळ आत नावल।",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "उचला"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "व द्या"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ढोल"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "याळ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "रम्य"
+    },
+    {
+      "surface": "עם",
+      "gloss": "आत"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नावल"
+    }
+  ],
+  "timestamp": "2026-08-13T14:48:23.201285506Z",
+  "model": "glm-5.2"
+}

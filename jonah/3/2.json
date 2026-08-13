@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "उठ, त्या मोठ्या नगरी नीनवे येथे जा, आणि तिला ती ⟨कळवणी⟩ कळव जी मी तुला सांगतो.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "मोठ्या"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "आणि कळव"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "तिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कळवणी"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "कळवणी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "सांगतो"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:43:38.954549480Z",
+  "model": "glm-5.2"
+}

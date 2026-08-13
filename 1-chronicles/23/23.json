@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "मूशीचे पुत्र — महली व एदर व येरेमोत, तीन.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "मूशी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "व एदर"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "व येरेमोत"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:47.401806568Z",
+  "model": "glm-5.2"
+}

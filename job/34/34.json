@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "हृदयाचे माणसे मला म्हणतील, आणि जो ज्ञानी पुरुष मला ऐकतो ⟨तोही⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "माणसे"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हृदयाचे"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "म्हणतील"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "आणि पुरुष"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानी"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐकतो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:28:58.597055998Z",
+  "model": "glm-5.2"
+}

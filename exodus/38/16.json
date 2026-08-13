@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "अंगणाचे सर्व पडदे चारही बाजूंस वल्कल केलेले सनी ⟨होते⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "पडदे"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "अंगणाचे"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारही बाजूंस"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सनी"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "वल्कल केलेले"
+    }
+  ],
+  "timestamp": "2026-08-13T10:39:24.983792267Z",
+  "model": "glm-5.2"
+}

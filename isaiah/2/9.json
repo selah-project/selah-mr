@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि मानव झुकला आणि पुरुष दीन झाला — ⟨त्यांची⟩ उचलू नकोस.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "आणि झुकला"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानव"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "आणि दीन झाला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नको"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उचलू"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨त्यांची⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T12:53:43.606403144Z",
+  "model": "glm-5.2"
+}

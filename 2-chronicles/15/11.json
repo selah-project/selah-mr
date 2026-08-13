@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि त्यांनी याहवेहला त्या दिवशी ⟨the⟩ लूटमधून ⟨which⟩ ते आणले होते त्याचे बळी दिले — बैल सातशे व मेंढरे सात हजार.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "आणि त्यांनी बळी दिले"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिवशी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ते आणले होते"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सातशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨सातशे⟩"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "व मेंढरे"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T16:19:23.231187750Z",
+  "model": "glm-5.2"
+}

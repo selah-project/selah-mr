@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "एलिआब ⟨त्याचा⟩ चिरू, यरोहाम ⟨त्याचा⟩ चिरू, एल्काना ⟨त्याचा⟩ चिरू.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याचा चिरू"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोहाम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याचा चिरू"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याचा चिरू"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:43.156967386Z",
+  "model": "glm-5.2"
+}

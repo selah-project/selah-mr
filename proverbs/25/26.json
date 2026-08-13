@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "मेटाळलेला झरा आणि बिघडलेला पाझर, धार्मिक दुष्टापुढे ढलू ⟨पडतो⟩.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "झरा"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "मेटाळलेला"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "आणि पाझर"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "बिघडलेला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "מט",
+      "gloss": "ढलू"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "...पुढे"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:52.462720602Z",
+  "model": "glm-5.2"
+}

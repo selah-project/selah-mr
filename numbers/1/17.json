@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि मोशे व अहरोन यांनी ⟨את⟩ ⟨हे⟩ माणसे घेतली, जी नावांनी निवडली गेली.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आणि घेतले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "व अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे माणसे"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "माणसे"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "निवडली गेली"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "नावांनी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:53.419188026Z",
+  "model": "glm-5.2"
+}

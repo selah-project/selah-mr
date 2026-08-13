@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि नोहाने केले, ⟨जे⟩ सर्व याहवेहने त्याला आज्ञा केली होती.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आणि केले"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहाने"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जे⟩"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "त्याला आज्ञा केली होती"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:45.645973040Z",
+  "model": "glm-5.2"
+}

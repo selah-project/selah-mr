@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "तुझी पासरी देशातून गोळा कर, ⟨हे⟩ घेराबंदीत राहणाऱ्या",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "गोळा कर"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देशातून"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "तुझी पासरी"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "⟨हे⟩ राहणाऱ्या"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "घेराबंदीत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:24:22.209999679Z",
+  "model": "glm-5.2"
+}

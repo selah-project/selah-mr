@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "गवत वाळते, फूल कुजते, आणि आमच्या एलोहीमचा वचन साक्षात उभे राहील.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "वाळते"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "गवत"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "कुजते"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "फूल"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आणि वचन"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "आमच्या एलोहीमचा"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उभे राहील"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "साक्षात"
+    }
+  ],
+  "timestamp": "2026-08-13T13:09:49.063720209Z",
+  "model": "glm-5.2"
+}

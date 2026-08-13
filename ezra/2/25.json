@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "किर्यात-यारीम, कफीरा व बेरोत यांचे पुत्रः सातशे चाळीस तीन.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यात"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "यारीम"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "कफीरा"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "व बेरोत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:53.726552110Z",
+  "model": "glm-5.2"
+}

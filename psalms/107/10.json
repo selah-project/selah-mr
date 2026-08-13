@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 107,
+  "translation": "अंधाराचे व मृत्युछायेचे रहिवासी, दुःख व लोहाचे बंदी.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "रहिवासी"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अंधाराचे"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "व मृत्युछायेचे"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "बंदी"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "व लोहाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:55:33.146621957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि जर एकाने जोर चालविला तर दोन त्याच्यासमोर उभे राहतील; आणि तिहेरी दोरा लवकर तुटत नाही.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "जोर चालविला"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एकाने"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "उभे राहतील"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "त्याच्यासमोर"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "आणि दोरा"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "तिहेरी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "במהरה",
+      "gloss": "लवकर"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "तुटत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:15.406713500Z",
+  "model": "glm-5.2"
+}

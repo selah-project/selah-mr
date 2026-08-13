@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि याहवेह यिहोशुरबरोबर ⟨was⟩, आणि त्याची कीर्ती सर्व पृथ्वीत पसरली ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨was⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिहोशुर"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यिहोशुरबरोबर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨was⟩"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "त्याची कीर्ती"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:34:01.741750276Z",
+  "model": "glm-5.2"
+}

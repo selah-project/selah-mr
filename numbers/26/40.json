@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व बेलाचे पुत्र होते अर्द व नामान; अर्दाला — अर्दी कुळ; नामानाला — नामी कुळ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "व होते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "बेला"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "अर्द"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "व नामान"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "अर्दी"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "नामानाला"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "नामी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:00.270898337Z",
+  "model": "glm-5.2"
+}

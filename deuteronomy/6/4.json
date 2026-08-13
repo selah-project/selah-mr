@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "ऐक, हे यिस्राएल: याहवेह आमचा एलोहीम, याहवेह ⟨एक⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "हे यिस्राएल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "आमचा एलोहीम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T11:18:07.614796466Z",
+  "model": "glm-5.2"
+}

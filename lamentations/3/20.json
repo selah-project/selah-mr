@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "निश्चित स्मरण करते माझी नफ्शी, आणि आत खचते माझ्यात.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "निश्चित स्मरण"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "करते"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "आणि खचते"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "माझी नफ्शी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:54.195134437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "तसेच जर दोन झोपले तर त्यांना उबदारी मिळते; पण एकट्याला कसे उबदार व्हावे?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "झोपले"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "उबदारी मिळते"
+    },
+    {
+      "surface": "להם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "पण एकट्याला"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कसे"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "उबदार व्हावे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:15.406535581Z",
+  "model": "glm-5.2"
+}

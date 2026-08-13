@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "आणि याहवेह मोशेला म्हणाला: मी ⟨את⟩ हे लोक पाहिले, आणि हे बघ, हा एक कठोर-मानेचा लोक ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याकडे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मी पाहिले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे लोक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "हे लोक"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आणि बघ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "मान"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    }
+  ],
+  "timestamp": "2026-08-13T10:37:36.715645034Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "हाय! अरिएल, अरिएल, दावीद यांची छावणी असलेली ⟨नगरी⟩; वर्षावर वर्ष जोडा ⟨आणि⟩ सणांची फेरी फिरो.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "अरिएल"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "अरिएल"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "⟨नगरी⟩"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "छावणी"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "जोडा"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "सणांची"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "फेरी फिरो"
+    }
+  ],
+  "timestamp": "2026-08-13T13:04:51.189517663Z",
+  "model": "glm-5.2"
+}

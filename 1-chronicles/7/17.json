@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि ऊलामचे मुले: बेदान. हे गिलादचे मुले होत, माखीरचा मुलगा, मनश्शेचा मुलगा.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ... मुले"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ऊलाम"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "बेदान"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "माखीर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:48.464233955Z",
+  "model": "glm-5.2"
+}

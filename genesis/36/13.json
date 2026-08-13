@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि हे रेउएलचे पुत्र होत: नहत व झेरह, शम्मा व मिझ्झा; हे बश्मतचे, एसावच्या पत्नीचे, पुत्र होते.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आणि हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएलचे"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "नहत"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "व झेरह"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "शम्मा"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "व मिझ्झा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बश्मतचे"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नीचे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:34.316331Z",
+  "model": "glm-5.2"
+}

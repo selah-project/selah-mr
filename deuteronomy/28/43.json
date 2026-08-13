@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "तुझ्यामध्ये असलेला ⟨हा⟩ परकीय तुझ्यावर अधिकाधिक चढत जाईल, आणि तू अधिकाधिक खाली उतरशील.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "परकीय"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तुझ्यामध्ये"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढत जाईल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ्यावर"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "अधिक"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "अधिक"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "उतरशील"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "खाली"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:25.552647047Z",
+  "model": "glm-5.2"
+}

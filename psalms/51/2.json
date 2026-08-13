@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 51,
+  "translation": "नातान ⟨the⟩ नबी त्याच्याजवळ आला, जेव्हा तो बत-शेबा येथे गेला.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "येण्याच्या वेळी"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "त्याच्याजवळ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "येथे"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:41:00.264192334Z",
+  "model": "glm-5.2"
+}

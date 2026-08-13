@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि मोशे व अहरोन मोबल निवासाच्या समोर आले.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आणि आले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "व अहरोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "निवास"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोबल"
+    }
+  ],
+  "timestamp": "2026-08-13T11:05:33.248776236Z",
+  "model": "glm-5.2"
+}

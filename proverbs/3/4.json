@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि अनुग्रह व उत्तम बुद्धी शोध, एलोहीम व मनुष्य यांच्या दृष्टीत.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "आणि शोध"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "व बुद्धी"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "दृष्टीत"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "व मनुष्य"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:58.185341461Z",
+  "model": "glm-5.2"
+}

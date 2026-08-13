@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "व दावीद याने मरुभूमीत ऐकले की नाबाल ⟨את⟩ आपली कुरळी लोकर कापत आहे.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "व ऐकले"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमीत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "लोकर कापत आहे"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपली कुरळी"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "आपली कुरळी"
+    }
+  ],
+  "timestamp": "2026-08-13T12:06:30.189279636Z",
+  "model": "glm-5.2"
+}

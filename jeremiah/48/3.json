@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "होरोनाइमकडून ओरड्याचा आवाज, विध्वंस आणि मोठा भंग!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ओरड्याचा"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "होरोनाइमकडून"
+    },
+    {
+      "surface": "שד",
+      "gloss": "विध्वंस"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "आणि भंग"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "मोठा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:32.877859005Z",
+  "model": "glm-5.2"
+}

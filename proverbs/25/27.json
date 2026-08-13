@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "भरभरून मध खाणे चांगले नाही, आणि आपल्या गौरवाचा शोध घेणे गौरव ⟨नाही⟩.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खाणे"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मध"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "भरभरून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "आणि शोध घेणे"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "आपल्या गौरवाचा"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "गौरव"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:52.462843662Z",
+  "model": "glm-5.2"
+}

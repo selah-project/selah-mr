@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि तू, मनुष्याच्या पुत्रा, त्सोरवर एक केन्हा उचल:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्रा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्याच्या"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उचल"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "एक केन्हा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:57:58.843535567Z",
+  "model": "glm-5.2"
+}

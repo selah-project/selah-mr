@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "जो भल्याऐवजी वाईट परत करतो, त्याच्या घरातून वाईट दूर होणार नाही.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "परत करतो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ऐवजी"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भल्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "दूर होणार"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "त्याच्या घरातून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:25.971227916Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "आणि यित्सहाकाचे दिवस — शंभर व ऐंशी वर्ष — होते.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आणि ... होते"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाकाचे"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "व ऐंशी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:24.086609394Z",
+  "model": "glm-5.2"
+}

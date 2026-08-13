@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "त्याचा डावा हात माझ्या डोक्याखाली, व त्याचा उजवा मला मिठी मारील.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "त्याचा डावा हात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "माझ्या डोक्या"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "व त्याचा उजवा"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "मला मिठी मारील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:03.808120937Z",
+  "model": "glm-5.2"
+}

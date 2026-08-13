@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि याजक तेलाच्या लोगमधून घेईल आणि याजकाच्या डाव्या ओंजळीवर ओतील.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "आणि-घेईल"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "लोगमधून"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेलाच्या"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "आणि-ओतील"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ओंजळीवर"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजकाच्या"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "डाव्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:35.831483951Z",
+  "model": "glm-5.2"
+}

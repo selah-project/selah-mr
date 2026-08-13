@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "शोधण्याची वेळ, आणि गमावण्याची वेळ; जपण्याची वेळ, आणि फेकण्याची वेळ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "शोधण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि … वेळ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "गमावण्याची"
+    },
+    {
+      "surface": "עת",
+      "gloss": "वेळ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "जपण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि … वेळ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फेकण्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T16:48:56.621051725Z",
+  "model": "glm-5.2"
+}

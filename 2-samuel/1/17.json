@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि दावीद याने ⟨את⟩ ⟨the⟩ शोकगीत ⟨this⟩ गायली, शाऊल आणि यहोनाथन याच्यावर, त्याच्या ⟨son⟩",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "आणि शोकगीत गायली"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शोकगीत"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "शोकगीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि ...वर"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनाथन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "त्याचा पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T12:10:43.357098440Z",
+  "model": "glm-5.2"
+}

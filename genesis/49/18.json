@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "तुझ्या मुक्तीकरिता मी राहिलो आहे, याहवेह.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "तुझ्या मुक्तीकरिता"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "मी राहिलो आहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:21:39.647186117Z",
+  "model": "glm-5.2"
+}

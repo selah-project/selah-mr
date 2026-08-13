@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "शिमेयचे पुत्र — शेलोमोत, हाझिएल आणि हारान, तीन. हे लादानचे पितृ-प्रमुख ⟨होते⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमेयचे"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "शेलोमोत"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "आणि हाझिएल"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "आणि हारान"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "पितृ"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "लादानचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:41.917599510Z",
+  "model": "glm-5.2"
+}

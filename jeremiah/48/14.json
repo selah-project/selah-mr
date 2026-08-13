@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "कसे म्हणता ⟨तुम्ही⟩, 'आम्ही शूरवीर आहोत, आणि युद्धासाठी बलवान पुरुष'?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कसे"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "म्हणता"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "शूरवीर"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "आम्ही"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "आणि पुरुष"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "युद्धासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:29.541179509Z",
+  "model": "glm-5.2"
+}

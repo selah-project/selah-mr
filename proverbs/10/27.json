@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "याहवेहचे भय दिवस वाढविते, आणि दुष्टांची वर्षे लहान होतील.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचे"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "वाढविते"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "आणि-वर्षे"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांची"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "लहान-होतील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:45.368238585Z",
+  "model": "glm-5.2"
+}

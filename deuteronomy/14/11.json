@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "प्रत्येक शुद्ध पक्षी तुम्ही खावे.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:36.391793012Z",
+  "model": "glm-5.2"
+}

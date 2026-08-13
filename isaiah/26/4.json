@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "याहवेहवर भरवसा ठेवा — सदासर्वकाळ, कारण बाज, याहवेह ⟨आहे⟩ सनातनी शिला.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "भरवसा ठेवा"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "याहवेहवर"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सदासर्वकाळ"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "बाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "צור",
+      "gloss": "शिला"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "सनातनी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:03:17.035257215Z",
+  "model": "glm-5.2"
+}

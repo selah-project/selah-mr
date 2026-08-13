@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व मी, निष्कपटतेने चालेन; मला सोडव व माझ्यावर कृपा कर।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "व मी"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "निष्कपटतेने"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "चालेन"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "मला सोडव"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "व माझ्यावर कृपा कर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:34.814174965Z",
+  "model": "glm-5.2"
+}

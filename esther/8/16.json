@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "यहूदी लोकांना प्रकाश, व आनंद, व उल्हास, व मान होते.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "यहूदी लोकांना"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "होते"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "व आनंद"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "व उल्हास"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "व मान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:45:06.461087911Z",
+  "model": "glm-5.2"
+}

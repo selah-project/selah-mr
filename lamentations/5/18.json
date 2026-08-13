@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "सीोन पर्वतावरून — ⟨जो⟩ निर्जन ⟨होता⟩ — त्यात शृगाळांनी फिरले.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "...वरून"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सीोन"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "निर्जन"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "शृगाळांनी"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "फिरले"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:04.022083580Z",
+  "model": "glm-5.2"
+}

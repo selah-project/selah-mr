@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "हिस्सा द्ये सातला आणि देखील आठला, कारण तुला माहीत नाही की पृथ्वीवर काय संकट येईल.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "द्ये"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "सातला"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आणि देखील"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "आठला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "तुला माहीत"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होईल"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:41:20.066713574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "एका करूबाची उंची दहा आही ⟨होती⟩, व तसेच ⟨होता⟩ दुसरा करूब.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "उंची"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूबाची"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दहा"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "आही"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "व तसेच"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:27:08.683751906Z",
+  "model": "glm-5.2"
+}

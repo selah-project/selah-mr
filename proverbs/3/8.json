@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "⟨ते⟩ तुझ्या शरीराला आरोग्य असेल व तुझ्या अस्थींना ओलावा.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "आरोग्य"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "तुझ्या शरीराला"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "व ओलावा"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "तुझ्या अस्थींना"
+    }
+  ],
+  "timestamp": "2026-08-13T15:05:34.651400167Z",
+  "model": "glm-5.2"
+}

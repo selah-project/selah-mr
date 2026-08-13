@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची मोजणी ⟨म्हणजे⟩ दान गोत्राची — बासष्ट हजार व सातशे.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची मोजणी"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्राची"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "व साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "व सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:08.302202375Z",
+  "model": "glm-5.2"
+}

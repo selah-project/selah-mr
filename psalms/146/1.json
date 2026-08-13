@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 146,
+  "translation": "स्तुति करा याह! स्तुति कर माझ्या जीवाने ⟨את⟩ याहवेह!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करा"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "स्तुति कर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "माझ्या जीवाने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याहवेह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:11.803322543Z",
+  "model": "glm-5.2"
+}

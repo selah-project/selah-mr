@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "याहवेहचा आवाज ⟨आहे⟩ पाण्यांवर; वैभवाचा एल गडगडावी; याहवेह ⟨आहे⟩ अनेक पाण्यांवर.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पाण्यां"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "वैभवाचा"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गडगडावी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्यां"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "अनेक"
+    }
+  ],
+  "timestamp": "2026-08-13T14:34:58.325370519Z",
+  "model": "glm-5.2"
+}

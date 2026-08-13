@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "⟨तू⟩ व्यभिचार न करीं.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "⟨तू⟩ व्यभिचार करशील"
+    }
+  ],
+  "timestamp": "2026-08-13T10:30:35.584492382Z",
+  "model": "glm-5.2"
+}

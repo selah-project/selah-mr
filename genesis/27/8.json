@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "आणि आता, माझ्या मुला, ऐक माझे आवाज, ⟨जे⟩ मी तुला आज्ञा करतो ⟨अशाप्रमाणे⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "בני",
+      "gloss": "माझ्या मुला"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "माझे आवाज"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा करतो"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तुला",
+      "marks": "तुला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:09:56.559725440Z",
+  "model": "glm-5.2"
+}

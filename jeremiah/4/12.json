@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "यांपेक्षा एक ओली वारा मला येईल; आता तर मीच ⟨त्यांच्याविषयी⟩ मी निवाडे बोलेन एल ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "वारा"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ओली/संपूर्ण"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "यांपेक्षा"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "येईल"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "आता"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलेन"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "निवाडे"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "त्यांना"
+    }
+  ],
+  "timestamp": "2026-08-13T13:21:43.043612766Z",
+  "model": "glm-5.2"
+}

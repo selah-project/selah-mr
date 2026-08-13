@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि याकोवाने भाजी शिजवली; आणि एसाव तर वाळवंटातून आला आणि तो थकला होता.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "आणि शिजवली"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोवाने"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "भाजी"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आणि आला"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "वाळवंटात"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आणि तो"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "थकला होता"
+    }
+  ],
+  "timestamp": "2026-08-13T10:09:24.962265876Z",
+  "model": "glm-5.2"
+}

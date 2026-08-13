@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 108,
+  "translation": "जागे हो, नावल आणि किन्नर; मी जागा करीन पहाट.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जागे हो"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "नावल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "आणि किन्नर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "मी जागा करीन"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "पहाट"
+    }
+  ],
+  "timestamp": "2026-08-13T14:56:07.899976448Z",
+  "model": "glm-5.2"
+}

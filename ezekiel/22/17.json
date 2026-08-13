@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आणि याहवेहचा वचन मजकडे आला, यास्तव:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होते⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मजकडे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यास्तव"
+    }
+  ],
+  "timestamp": "2026-08-13T13:56:48.034537689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "तिचे पाय मृत्यूकडे उतरतात, शिओल तिचे पाऊल धरतात.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "तिचे पाय"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "उतरतात"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यूकडे"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शिओल"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "तिचे पाऊल"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "धरतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:52.989306722Z",
+  "model": "glm-5.2"
+}

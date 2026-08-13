@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व हादाद मृत झाला. व एदोमचे सरदार होते: तिम्ना सरदार, अल्या सरदार, येतेत सरदार.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "व मृत झाला"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हादाद"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "व ⟨ते⟩ होते"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमचे"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिम्ना"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "अल्या"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "येतेत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:35.339531031Z",
+  "model": "glm-5.2"
+}

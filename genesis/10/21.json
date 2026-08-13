@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि शेम याला देखील — सर्व बनय-अेबेरचा पिता, यफेत मोठ्या भावाचा — ⟨त्याला⟩ अपत्ये जन्मली.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "आणि शेम याला"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मली"
+    },
+    {
+      "surface": "גם",
+      "gloss": "देखील"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨त्याला⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनी-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेरचा"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भावाचा"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "यफेत"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "मोठ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:28.904917554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि तू व्यभिचार करू नको.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आणि नको"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "तू व्यभिचार करशील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:18.475050594Z",
+  "model": "glm-5.2"
+}

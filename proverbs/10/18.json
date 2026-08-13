@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "खोट्या ओठांनी ⟨हे⟩ द्वेष झाकणारा, आणि चाळी बाहेर काढणारा तो मूर्ख ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "झाकणारा"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "द्वेष"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठांनी"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "खोट्या"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "आणि बाहेर काढणारा"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "चाळी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "कסיל",
+      "gloss": "मूर्ख"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:21.513191282Z",
+  "model": "glm-5.2"
+}

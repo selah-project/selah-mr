@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 121,
+  "translation": "दिवसा ⟨हे⟩ सूर्य ⟨तुला⟩ मारणार नाही आणि चंद्र ⟨हे⟩ रात्री.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिवसा"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "हे सूर्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "मारणार"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "आणि चंद्र"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात्री"
+    }
+  ],
+  "timestamp": "2026-08-13T15:00:51.910701354Z",
+  "model": "glm-5.2"
+}

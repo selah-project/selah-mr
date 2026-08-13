@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "शेळ्यांचा एक बोकड, पापार्थासाठी;",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "बोकड"
+    },
+    {
+      "surface": "עִזִּים",
+      "gloss": "शेळ्यांचा"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "पापार्थासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:32:14.436536283Z",
+  "model": "glm-5.2"
+}

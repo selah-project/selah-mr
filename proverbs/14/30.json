@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "मांसाचे जीवन — ⟨हे⟩ शांत हृदय; आणि हाडांचे कोळंबण — ⟨ही⟩ ईर्ष्या.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "शांत"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "आणि कोळंबण"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "हाडांची"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ईर्ष्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:46.265376874Z",
+  "model": "glm-5.2"
+}

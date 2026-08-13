@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "व अय्योब याने उत्तर दिले व म्हणाला:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "व उत्तर दिले"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "व म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:17:53.180352904Z",
+  "model": "glm-5.2"
+}

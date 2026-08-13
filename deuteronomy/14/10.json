@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व ज्याला पर्स व खवले नाहीत ते सर्व तुम्ही खाऊ नये; ते तुमच्यासाठी अशुद्ध ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याच्याजवळ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पर्स"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "व खवले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खावे"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ते"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमच्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:36.391581128Z",
+  "model": "glm-5.2"
+}

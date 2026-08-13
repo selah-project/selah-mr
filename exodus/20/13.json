@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "⟨तू⟩ खून न करीं.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "⟨तू⟩ खून करशील"
+    }
+  ],
+  "timestamp": "2026-08-13T10:30:35.584247520Z",
+  "model": "glm-5.2"
+}

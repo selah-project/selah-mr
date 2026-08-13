@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि अज़र्या, एज़्रा आणि मशुल्लाम",
+  "tokens": [
+    {
+      "surface": "וַעֲזַרְיָ֥ה",
+      "gloss": "आणि अज़र्या"
+    },
+    {
+      "surface": "עֶזְרָ֖א",
+      "gloss": "एज़्रा"
+    },
+    {
+      "surface": "וּמְשֻׁלָּֽם",
+      "gloss": "आणि मशुल्लाम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:57.727055951Z",
+  "model": "glm-5.2"
+}

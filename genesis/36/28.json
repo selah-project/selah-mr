@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "हे दिशोनचे मुले ⟨होते⟩: उत्स आणि अरान.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दिशोनचे"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "आणि अरान"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:48.228974955Z",
+  "model": "glm-5.2"
+}

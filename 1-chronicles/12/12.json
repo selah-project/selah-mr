@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "अत्ताय ⟨the⟩ सहावा, एलिएल ⟨the⟩ सातवा",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "अत्ताय"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "⟨the⟩ सहावा"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "एलिएल"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "⟨the⟩ सातवा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:50:24.347447861Z",
+  "model": "glm-5.2"
+}

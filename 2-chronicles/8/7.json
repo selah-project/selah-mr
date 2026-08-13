@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "सर्व लोक उरलेले — हित्ती, एमोरी, परिझ्झी, हिव्वी व यबूसी मधून — जे इस्राएलचे नव्हते ते होते.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "उरलेले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मधून"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "एमोरी"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "परिझ्झी"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "हिव्वी"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "यबूसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नव्हते"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इस्राएलचे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ते होते"
+    }
+  ],
+  "timestamp": "2026-08-13T16:18:14.995597478Z",
+  "model": "glm-5.2"
+}

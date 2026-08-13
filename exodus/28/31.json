@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "व तू बनवशील ⟨את⟩ वस्त्र एफोदाचे संपूर्ण निळे.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "व तू बनवशील"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वस्त्र"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "एफोदाचे"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "निळे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:36:14.172968543Z",
+  "model": "glm-5.2"
+}

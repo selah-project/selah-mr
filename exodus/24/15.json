@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "आणि मोशे डोंगरावर गेला, आणि ढग ⟨את⟩ डोंगर झाकला.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "आणि गेला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "डोंगरावर"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "आणि झाकला"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ढग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "डोंगर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "डोंगर"
+    }
+  ],
+  "timestamp": "2026-08-13T10:33:25.844387870Z",
+  "model": "glm-5.2"
+}

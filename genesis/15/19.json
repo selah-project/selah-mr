@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "⟨अर्थात⟩ ⟨את⟩ हकैनी आणि ⟨את⟩ हकनिजी आणि ⟨את⟩ हकद्मोनी —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हकैनी"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "हकैनी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हकनिजी"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "हकनिजी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हकद्मोनी"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "हकद्मोनी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:03:52.579787747Z",
+  "model": "glm-5.2"
+}

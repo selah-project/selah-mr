@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आळशी म्हणतो, बाहेर सिंह ⟨आहे⟩; रस्त्यांच्या मध्ये मी ठार मारला जाईन.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "म्हणतो"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आळशी"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहेर"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "रस्त्यांच्या"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "मी ठार मारला जाईन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:13:23.248203956Z",
+  "model": "glm-5.2"
+}

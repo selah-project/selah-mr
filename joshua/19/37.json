@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "और केदेश, और एद्रेई, और एन-हात्सोर",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "और केदेश"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "और एद्रेई"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "और एन"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "हात्सोर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:52.319567327Z",
+  "model": "glm-5.2"
+}

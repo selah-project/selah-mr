@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "व याहवेहें मोशेशी बोलला, ⟨म्हणाला⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "व-बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी-प्रति"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:42.213860192Z",
+  "model": "glm-5.2"
+}

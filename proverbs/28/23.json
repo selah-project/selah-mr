@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "एका माणसाला टोकणारा नंतर कृपा शोधतो, जिभेने चाटणाऱ्यापेक्षा.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "टोकणारा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "माणसाला"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "नंतर"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "शोधतो"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "चाटणाऱ्यापेक्षा"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिभेने"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:58.658542312Z",
+  "model": "glm-5.2"
+}

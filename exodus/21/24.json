@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "डोळा डोळ्याच्या बदली, दात दाताच्या बदली, हात हाताच्या बदली, पाय पायाच्या बदली.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "डोळा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदली"
+    },
+    {
+      "surface": "עין",
+      "gloss": "डोळ्याच्या"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदली"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाताच्या"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदली"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाताच्या"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "पाय"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदली"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "पायाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:31:52.680306584Z",
+  "model": "glm-5.2"
+}

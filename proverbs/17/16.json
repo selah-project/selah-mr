@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "हे का ⟨आहे⟩ — हातात मूल्य मूर्खाच्या, ज्ञान विकत घेण्यासाठी, आणि मन नाही?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "का"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "मूल्य"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हातात"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खाच्या"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "विकत घेण्यासाठी"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आणि मन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:25.971765956Z",
+  "model": "glm-5.2"
+}

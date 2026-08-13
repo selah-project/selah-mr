@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 56,
+  "translation": "खेळातील सर्व प्राणी, भक्षण करण्याकरता या, अरण्यातील सर्व प्राणी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेळातील"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "या"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "भक्षण करण्याकरता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "अरण्यातील"
+    }
+  ],
+  "timestamp": "2026-08-13T13:15:33.885755880Z",
+  "model": "glm-5.2"
+}

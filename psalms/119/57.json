@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "माझा वाटा याहवेह ⟨आहे⟩; मी म्हटले आहे ⟨की⟩ तुझे वचन जपेन.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "माझा वाटा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मी म्हटले आहे"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "जपेन"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तुझे वचन"
+    }
+  ],
+  "timestamp": "2026-08-13T14:58:53.605421246Z",
+  "model": "glm-5.2"
+}

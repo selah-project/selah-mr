@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 48,
+  "translation": "जवळ आहे मोआबचा विपत्ती येण्यास, आणि त्याचे दुःख अत्यंत लवकर ⟨येत आहे⟩.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "जवळ आहे"
+    },
+    {
+      "surface": "איד",
+      "gloss": "विपत्ती"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबचा"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "येण्यास"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "आणि त्याचे दुःख"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "लवकर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:29.541489817Z",
+  "model": "glm-5.2"
+}

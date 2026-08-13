@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि शिलोमोह राज्याच्या सिंहासनावर बसला ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसला"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शिलोमोह"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासनाच्या"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "राज्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T12:25:07.917047308Z",
+  "model": "glm-5.2"
+}

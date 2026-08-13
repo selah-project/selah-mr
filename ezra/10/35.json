@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "बनाया, बेदाया, केलूहय.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "बेदाया"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "केलूहय"
+    }
+  ],
+  "timestamp": "2026-08-13T15:56:25.863237333Z",
+  "model": "glm-5.2"
+}

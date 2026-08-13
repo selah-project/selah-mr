@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 74,
+  "translation": "तुझा आहे दिवस, तुझीच आहे रात्र; तूं प्रकाश व सूर्य तयार केले",
+  "tokens": [
+    {
+      "surface": "לְךָ",
+      "gloss": "तुझा"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "तुझीच"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "रात्र"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "तूं"
+    },
+    {
+      "surface": "הֲכִינוֹתָ",
+      "gloss": "तयार केले"
+    },
+    {
+      "surface": "מָאוֹר",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "וָשָׁמֶשׁ",
+      "gloss": "व सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-13T14:47:03.998312128Z",
+  "model": "glm-5.2"
+}

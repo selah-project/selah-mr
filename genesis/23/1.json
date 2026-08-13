@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "व शाराचे जीवन ⟨होते⟩ एकशे वीस वर्ष व सात वर्षे; शाराच्या जीवनाची वर्षे।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "व ⟨होते⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "शाराचे"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "व वीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "व सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "שני",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जीवनाची"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "शाराच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:17.883009705Z",
+  "model": "glm-5.2"
+}

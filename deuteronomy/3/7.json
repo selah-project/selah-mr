@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि सर्व जनावरे व शहरांचा लूटमाल आम्ही आपल्यासाठी लुटला.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "जनावरे"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "व लूटमाल"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "शहरांचा"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "आम्ही लुटला"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "आपल्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:15:29.043593631Z",
+  "model": "glm-5.2"
+}

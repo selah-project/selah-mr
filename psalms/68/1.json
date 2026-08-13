@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 68,
+  "translation": "मुख्य संगीतकारासाठी, दावीदचा, एक भजन, एक गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकारासाठी"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदचा"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एक भजन"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "एक गीत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:44:14.076242919Z",
+  "model": "glm-5.2"
+}

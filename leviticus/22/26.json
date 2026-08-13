@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आणि याहवेह मोशेशी बोलला, असे म्हणून:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T10:52:16.934452763Z",
+  "model": "glm-5.2"
+}

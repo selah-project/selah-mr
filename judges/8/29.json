@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि यरुब्बाल, योआशचा पुत्र, गेला आणि ⟨आपल्या⟩ घरी राहिला.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आणि गेला"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "यरुब्बाल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आणि राहिला"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "घरी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:46:56.006298257Z",
+  "model": "glm-5.2"
+}

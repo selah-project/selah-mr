@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि ⟨את⟩ बालात, आणि ⟨את⟩ तामार ⟨जे⟩ मरुभूमीत ⟨आहे⟩ देशात.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "बालात"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "बालात"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "तामार"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "तामार"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमीत"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशात"
+    }
+  ],
+  "timestamp": "2026-08-13T12:31:24.708472218Z",
+  "model": "glm-5.2"
+}

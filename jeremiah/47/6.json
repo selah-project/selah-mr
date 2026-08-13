@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 47,
+  "translation": "हाय! तलवार याहवेहची — किती काळ तू ⟨शांत⟩ नाही होशील? एकत्रित हो, म्यानात न जा, थांब व शांत हो.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहची"
+    },
+    {
+      "surface": "עד",
+      "gloss": "किती"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "काळ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "तू शांत होशील"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "एकत्रित हो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "थांब"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "व शांत हो"
+    }
+  ],
+  "timestamp": "2026-08-13T13:41:46.469322630Z",
+  "model": "glm-5.2"
+}

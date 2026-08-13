@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "अमर्याहचा पुत्र, अज़रायाहचा पुत्र, मेरायोतचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अज़रायाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "मेरायोत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:53:53.263200817Z",
+  "model": "glm-5.2"
+}

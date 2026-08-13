@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "कारण देखील अनेक वेळा तुझे हृदय जाणते की देखील तू ⟨असे की⟩ ⟨את⟩ ⟨तू⟩ इतरांना शाप दिलास.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "देखील"
+    },
+    {
+      "surface": "פְּעָמִ֥ים",
+      "gloss": "वेळा"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "अनेक"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "जाणते"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "तुझे हृदय"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "की"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "देखील"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू",
+      "marks": "तू"
+    },
+    {
+      "surface": "קִלַּ֥לְתָּ",
+      "gloss": "शाप दिलास"
+    },
+    {
+      "surface": "אֲחֵרִֽים",
+      "gloss": "इतरांना"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:18.796346047Z",
+  "model": "glm-5.2"
+}

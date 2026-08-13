@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "स्मरण कर, याहवेह, काय आमच्यावर आले; पाह व ⟨र⟩ ⟨את⟩ आमची अपमान्यता बघ.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "स्मरण कर"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "आले"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "आमच्यावर"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "व ⟨र⟩ बघ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आमची अपमान्यता"
+    },
+    {
+      "surface": "חֶרְפָּתֵנוּ",
+      "gloss": "आमची अपमान्यता"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:10.466927400Z",
+  "model": "glm-5.2"
+}

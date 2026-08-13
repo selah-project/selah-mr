@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व तो मातीच्या भांड्यात ⟨את⟩ एका पक्ष्याला, जिवंत पाण्यावर, वध करील.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "व वध करील"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एका पक्ष्याला"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भांडे"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मातीचे"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्या"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिवंत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:48:23.608524670Z",
+  "model": "glm-5.2"
+}

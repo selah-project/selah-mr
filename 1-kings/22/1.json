@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आणि ते तीन वर्षे बसले; अराम आणि इस्राएल यांच्यामध्ये युद्ध नव्हते.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "आणि ते बसले"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नव्हते"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "בין",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-13T12:38:54.350849379Z",
+  "model": "glm-5.2"
+}

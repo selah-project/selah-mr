@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "लयत्सर — कुळ मला घडवणारा; लशिल्लेम — कुळ पूर्ण कर.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "लित्सेर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "हयित्सरी"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "लशिल्लेम"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "हशिल्लेमी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:42.213329286Z",
+  "model": "glm-5.2"
+}

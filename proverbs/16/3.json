@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "तुझे कर्म याहवेहकडे रोळ, आणि तुझ्या विचारांना स्थिरता मिळेल.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "रोळ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "तुझे कर्म"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "आणि स्थिरता मिळेल"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "तुझ्या विचारांना"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:20.477096689Z",
+  "model": "glm-5.2"
+}

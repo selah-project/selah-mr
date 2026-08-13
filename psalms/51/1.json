@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 51,
+  "translation": "मुख्य गायकासाठी; एक गीत; दावीदाचे.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य गायकासाठी"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:41:00.263989708Z",
+  "model": "glm-5.2"
+}

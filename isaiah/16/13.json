@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "हे ⟨is⟩ वचन जे याहवेह मोआबविषयी पूर्वपासून बोलला.",
+  "tokens": [
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הַדָּבָ֗ר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "बोलला"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "विषयी"
+    },
+    {
+      "surface": "מוֹאָ֖ב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מֵאָֽז",
+      "gloss": "पूर्वपासून"
+    }
+  ],
+  "timestamp": "2026-08-13T13:00:05.735264145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "एकाचे नाव पिशोन; तो ⟨आहे⟩ जो ⟨את⟩ संपूर्ण हविला देशाला वेढतो, जिथे सोने आहे।",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "नाव"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एकाचे"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "पिशोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "वेढतो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "संपूर्ण हविला देशाला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "हविला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिथे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोने"
+    }
+  ],
+  "timestamp": "2026-08-13T09:57:21.282945535Z",
+  "model": "glm-5.2"
+}

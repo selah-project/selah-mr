@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "नरम उत्तर राग दूर ढकलते, आणि वेदनादायक शब्द क्रोध चढवतात.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "רך",
+      "gloss": "नरम"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "दूर ढकलते"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "राग"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आणि शब्द"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "वेदनादायक"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढवतात"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:28.865188458Z",
+  "model": "glm-5.2"
+}

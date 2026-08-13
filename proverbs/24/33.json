@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "थोडेसे झोप, थोडीशी तंद्री, थोडके हातांचे जोडणे — आडवे टाकण्यासाठी.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "थोडेसे"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "झोप"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोडीशी"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "तंद्री"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोडके"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "जोडणे"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हातांचे"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "आडवे टाकण्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:19.270320127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "उठ, हे याहवेह — नको समर्थ होऊ द्या एनोश; गोयम शिक्षित होतील तुझ्या समोर.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "समर्थ होऊ द्या"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "शिक्षित होतील"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयम"
+    },
+    {
+      "surface": "על",
+      "gloss": "तुझ्या"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "समोर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:31:22.883136054Z",
+  "model": "glm-5.2"
+}

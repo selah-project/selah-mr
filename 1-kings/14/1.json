@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "त्या वेळी यारवामचा मुलगा अविय्या आजारी पडला.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "त्या वेळी"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨ती⟩"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "आजारी पडला"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अविय्या"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारवामचा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:33:43.325391213Z",
+  "model": "glm-5.2"
+}

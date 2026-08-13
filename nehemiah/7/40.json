@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "इम्मेर यांचे पुत्र — हजार बावन्न.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दोन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:59:03.816603190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "त्या दिवसांमध्ये मी दानीएल तीन आठवडे दिवस ⟨म्हणजेच एकवीस दिवस⟩ शोक करत होतो.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिवसांमध्ये"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानीएल"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "होतो"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "शोक करत"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "आठवडे"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T16:49:47.037985123Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 66,
+  "translation": "अनिष्ट, जर मी माझ्या हृदयात पाहिले तर अदोनाय ऐकणार नाही.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "अनिष्ट"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मी पाहिले"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "माझ्या हृदयात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ऐकणार"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-13T14:44:08.468776070Z",
+  "model": "glm-5.2"
+}

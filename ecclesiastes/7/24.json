@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "दूर आहे जे काही झाले आहे, आणि खोल, खोल — कोण ते शोधून काढील?",
+  "tokens": [
+    {
+      "surface": "רָח֖וֹק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "जे काही"
+    },
+    {
+      "surface": "שֶׁהָיָ֑ה",
+      "gloss": "झाले आहे"
+    },
+    {
+      "surface": "וְעָמֹ֥ק",
+      "gloss": "आणि खोल"
+    },
+    {
+      "surface": "עָמֹ֖ק",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יִמְצָאֶֽנּוּ",
+      "gloss": "ते शोधून काढील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:18.796666024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि सर्व उंच मनोऱ्यांवर, आणि सर्व बुरुज भिंतींवर —",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आणि ... वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "मनोऱ्यांवर"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "उंच"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आणि ... वर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "भिंतींवर"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "बुरुज"
+    }
+  ],
+  "timestamp": "2026-08-13T12:53:41.466080357Z",
+  "model": "glm-5.2"
+}

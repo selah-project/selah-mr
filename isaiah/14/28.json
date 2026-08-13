@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "राजा आखाज याच्या मृत्यूच्या वर्षी हा भार ⟨झाला⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "वर्षी"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यूच्या"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आखाज"
+    },
+    {
+      "surface": "היה",
+      "gloss": "झाला"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:59:27.875536521Z",
+  "model": "glm-5.2"
+}

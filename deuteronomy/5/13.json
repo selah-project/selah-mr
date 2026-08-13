@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "सहा दिवस तू काम करशील व ⟨तू⟩ करशील तुझे सर्व काम:",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "तू काम करशील"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "व ⟨तू⟩ करशील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "तुझे काम"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:29.934894949Z",
+  "model": "glm-5.2"
+}

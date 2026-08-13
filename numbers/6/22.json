@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "आणि याहवेहे मोशेशी बोलला, असे म्हणत:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याशी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "असे म्हणत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:03.866784448Z",
+  "model": "glm-5.2"
+}

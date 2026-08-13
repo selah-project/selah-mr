@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि बेथ-हा-अराबा, त्समराइम, आणि बेथ-एल.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "आणि बेथ-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "हा-अराबा"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "त्समराइम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आणि बेथ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:04.867535930Z",
+  "model": "glm-5.2"
+}

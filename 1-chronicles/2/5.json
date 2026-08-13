@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "पेरेसचे मुले: हेस्रोन व चामूल.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेस"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "हेस्रोन"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "व चामूल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:53.970434281Z",
+  "model": "glm-5.2"
+}

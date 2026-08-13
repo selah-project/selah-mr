@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "व ⟨את⟩ ओवाल व ⟨את⟩ अबीमाएल व ⟨את⟩ शेबा.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "ओवाल"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ओवाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "अबीमाएल"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "अबीमाएल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "शेबा"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:52.357165599Z",
+  "model": "glm-5.2"
+}

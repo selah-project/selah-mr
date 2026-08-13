@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "व उठला यरबाम, नबातचा मुलगा, शलोमोचा दास, दावीदचा मुलगा, व बंड केले आपल्या धन्यावर.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "व उठला"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "नबातचा"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीदचा"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "व बंड केले"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "आपल्या धन्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:19:41.369630883Z",
+  "model": "glm-5.2"
+}

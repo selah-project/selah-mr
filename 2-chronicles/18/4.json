@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि यहोशाफात म्हणाला इस्राएलच्या राजाला: आजच ⟨आता⟩ याहवेहचा ⟨את⟩ वचन शोध.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "याला"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलचा"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "शोध"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आता"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "आजच"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:20:26.253556661Z",
+  "model": "glm-5.2"
+}

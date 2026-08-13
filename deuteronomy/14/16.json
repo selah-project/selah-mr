@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "⟨את⟩ ⟨the⟩ लहान घुबड, व ⟨את⟩ ⟨the⟩ मोठी घुबड, व ⟨the⟩ पांढरी घुबड",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ लहान घुबड"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "⟨the⟩ लहान घुबड"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "⟨the⟩ मोठी घुबड"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "⟨the⟩ मोठी घुबड"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "व ⟨the⟩ पांढरी घुबड"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:09.286809095Z",
+  "model": "glm-5.2"
+}

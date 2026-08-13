@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "आणि एसाव सेईर पर्वतात राहू लागला — एसाव ⟨म्हणजेच⟩ एदोम.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आणि राहू लागला"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतात"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨म्हणजेच⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:14:35.536291953Z",
+  "model": "glm-5.2"
+}

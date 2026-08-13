@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "कारण गोष्टी अनेक असतात ज्या हेबल वाढवतात; मनुष्याला काय अतिरिक्त लाभ ⟨होतो⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "יש",
+      "gloss": "असतात"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "गोष्टी"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "अनेक"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "वाढवतात"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "अतिरिक्त"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "मनुष्याला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:51.420254640Z",
+  "model": "glm-5.2"
+}

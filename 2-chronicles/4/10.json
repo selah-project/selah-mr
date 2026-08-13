@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि ⟨את⟩ ⟨the⟩ समुद्र त्याने उजव्या खांद्यापासून पूर्वेकडे, दक्षिणेसमोर ठेवला.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "समुद्र"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "त्याने ठेवला"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "खांद्यापासून"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "उजव्या"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्वेकडे"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "दक्षिणेला"
+    }
+  ],
+  "timestamp": "2026-08-13T16:15:24.260571311Z",
+  "model": "glm-5.2"
+}

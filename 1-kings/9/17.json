@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि शलोमोने ⟨את⟩ गेझेर आणि ⟨את⟩ बेथ-होरोन तळागळाचे बांधले.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "आणि बांधले"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गेझेर"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "गेझेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "बेथ-होरोन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-होरोन"
+    },
+    {
+      "surface": "חרן",
+      "gloss": ""
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "तळागळाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:31:24.708253500Z",
+  "model": "glm-5.2"
+}

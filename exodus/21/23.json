@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "पण जर अपघात होत असेल, तर तू जीवाला जीवाच्या बदली देशील.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "पण जर"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "अपघात"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होत असेल"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "तर तू देशील"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीवाला"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदली"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीवाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:31:52.680160196Z",
+  "model": "glm-5.2"
+}

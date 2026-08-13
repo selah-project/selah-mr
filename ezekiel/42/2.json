@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 42,
+  "translation": "समोर लांबी शंभर ⟨cubits⟩ होती, उत्तरेचे द्वार, आणि रुंदी पन्नास ⟨cubits⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लांबी"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "⟨cubits⟩"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "शंभर"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तरेचे"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "आणि रुंदी"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "⟨cubits⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T14:05:43.005574604Z",
+  "model": "glm-5.2"
+}

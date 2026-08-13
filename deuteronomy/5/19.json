@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि तू चोरी करू नको.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आणि नको"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "तू चोरी करशील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:17:18.475141502Z",
+  "model": "glm-5.2"
+}

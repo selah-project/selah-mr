@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "व माझी जीभ तुझा न्याय बडबडेल, संपूर्ण दिवस तुझी स्तुती!",
+  "tokens": [
+    {
+      "surface": "ושוני",
+      "gloss": "व माझी जीभ"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "बडबडेल"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "तुझा न्याय"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तुझी स्तुती"
+    }
+  ],
+  "timestamp": "2026-08-13T14:37:19.524860684Z",
+  "model": "glm-5.2"
+}

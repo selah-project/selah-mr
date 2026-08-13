@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "हदद, आणि तेमा, येतुर, नाफिश, आणि केदेमा.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "आणि तेमा"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "येतुर"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "नाफिश"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "आणि केदेमा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:08:33.951415342Z",
+  "model": "glm-5.2"
+}

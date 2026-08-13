@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "एक बैल, गुराचे शिंगर, एक मेंढा, एक कोकरू, एक वर्षाचे, दहन-अर्पणासाठी.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "शिंगर"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गुराचे"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेंढा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "कोकरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एक वर्षाचे"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": ""
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "दहन-अर्पणासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:29.783537253Z",
+  "model": "glm-5.2"
+}

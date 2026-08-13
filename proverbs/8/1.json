@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "हेके चातुर्य हाका मारत नाही? आणि विवेक आपला आवाज देत नाही?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "हेके"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "चातुर्य"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "हाका मारत नाही"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "आणि विवेक"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देत नाही"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "आपला आवाज"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:57.328742174Z",
+  "model": "glm-5.2"
+}

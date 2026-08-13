@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "सीदोन्यांचा हेर्मोनला 'शिर्योन' कॉरतात, आणि आमोरी त्याला 'शनिर' कॉरतात.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "सीदोन्यांचा"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "कॉरतात"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "हेर्मोनला"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "शिर्योन"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "आणि आमोरी"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "कॉरतात"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "शनिर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:15:55.594968012Z",
+  "model": "glm-5.2"
+}

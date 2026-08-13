@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "ऐका ⟨आहे⟩ ⟨את⟩ हे वचन जे मी तुमच्यावर उचलतो ⟨आहे⟩ एक क्रंदगीत, ⟨हे⟩ यिस्राएलचे घर!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ऐका"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उचलतो"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तुमच्यावर"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "क्रंदगीत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलचे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:16:26.728923650Z",
+  "model": "glm-5.2"
+}

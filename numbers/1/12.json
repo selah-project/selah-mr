@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "⟨ला⟩ दान, अहीएझेर अम्मिशद्दायचा मुलगा.",
+  "tokens": [
+    {
+      "surface": "לְדָ֕ן",
+      "gloss": "दान ⟨ला⟩"
+    },
+    {
+      "surface": "אֲחִיעֶ֖זֶר",
+      "gloss": "अहीएझेर"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "עַמִּֽישַׁדָּֽי",
+      "gloss": "अम्मिशद्दाय"
+    }
+  ],
+  "timestamp": "2026-08-13T10:55:04.883174908Z",
+  "model": "glm-5.2"
+}

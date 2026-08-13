@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व तो तेथून गेला दबीरच्या रहिवाशांकडे; व नाव दबीरचे पूर्वी ⟨होते⟩ किर्यत-सेफर.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "व तो गेला"
+    },
+    {
+      "surface": "משם",
+      "gloss": "तेथून"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "रहिवाशां"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "दबीरच्या"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "व नाव"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "दबीरचे"
+    },
+    {
+      "surface": "לפनים",
+      "gloss": "पूर्वी"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "सेफर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:42:00.883465073Z",
+  "model": "glm-5.2"
+}

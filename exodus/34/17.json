@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "ढाळणीचे देव तू ⟨स्वतःला⟩ बनवू नकोस.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "देव"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ढाळणीचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू बनवशील"
+    },
+    {
+      "surface": "לך",
+      "gloss": "स्वतःला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:38:26.819144441Z",
+  "model": "glm-5.2"
+}

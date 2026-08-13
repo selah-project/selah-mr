@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "वृद्धांचा मुकुट ⟨म्हणजे⟩ नातवंडे, आणि मुलांचा तेज ⟨त्यांचे⟩ वडील ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्धांचा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांचे"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "नातवंडे"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "आणि तेज"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "मुलांचा"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "वडील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:24.224360490Z",
+  "model": "glm-5.2"
+}

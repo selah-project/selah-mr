@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि गुरे छत्तीस हजार, आणि त्यांचा याहवेहला कर दुहेरी सत्तर.",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "आणि गुरे"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आणि तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "आणि त्यांचा कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दोन"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आणि सत्तर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:43.643778876Z",
+  "model": "glm-5.2"
+}

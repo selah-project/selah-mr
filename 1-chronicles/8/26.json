@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व शमशेरय, व शहरयाह, व अतलयाह.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "व शमशेरय"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "व शहरयाह"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "व अतलयाह"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:56.197327877Z",
+  "model": "glm-5.2"
+}

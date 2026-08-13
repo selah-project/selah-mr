@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "आणि सीमा कक्षांच्या समोर — एक हात, आणि एक हात ⟨सीमा⟩ इथून; आणि कक्ष ⟨होता⟩ सहा हात इथून, आणि सहा हात इथून.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "आणि सीमा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "कक्षांच्या"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "एक हात"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आणि एक हात"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "इथून"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "आणि कक्ष"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "इथून"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आणि सहा"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "इथून"
+    }
+  ],
+  "timestamp": "2026-08-13T14:05:19.314681371Z",
+  "model": "glm-5.2"
+}

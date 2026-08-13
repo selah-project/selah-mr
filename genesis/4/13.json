@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि कयीन म्हणाला याहवेला: माझा अपराध मनावण्यापेक्षा ⟨मोठा⟩ आहे.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कयीन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "मोठा"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "माझा अपराध"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "मनावण्यापेक्षा"
+    }
+  ],
+  "timestamp": "2026-08-13T09:59:07.703786410Z",
+  "model": "glm-5.2"
+}

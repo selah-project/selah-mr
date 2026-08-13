@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि याहवेहचा वचन माझ्याजवळ आला, यास म्हणून:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "माझ्याजवळ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यास म्हणून"
+    }
+  ],
+  "timestamp": "2026-08-13T13:53:56.652805202Z",
+  "model": "glm-5.2"
+}

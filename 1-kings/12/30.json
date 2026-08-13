@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि हे गोष्ट पाप झाली, आणि लोक एका ◄पुढे► गेले, दानपर्यंत.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि झाली"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "हे गोष्ट"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "आणि गेले"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "◄पुढे►"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-08-13T12:32:54.770565481Z",
+  "model": "glm-5.2"
+}

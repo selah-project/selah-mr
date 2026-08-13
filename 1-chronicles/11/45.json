@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "यदियाएल शिम्रीचा पुत्र व योहा त्याचा भाऊ ⟨हा⟩ तीजीय",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "यदियाएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "शिम्री"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व त्याचा भाऊ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "तीजीय"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:52.998831162Z",
+  "model": "glm-5.2"
+}

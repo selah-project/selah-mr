@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि अव्राहाम म्हणाला, मी शपथ करेन.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहाम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "शपथ करेन"
+    }
+  ],
+  "timestamp": "2026-08-13T10:06:15.317408064Z",
+  "model": "glm-5.2"
+}

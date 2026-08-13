@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "खोटा साक्षी ⟨न⟩ निर्दोष सुटणार नाही, आणि खोटे उचलणारा नष्ट होईल.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "खोटा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨न⟩"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "निर्दोष सुटणार नाही"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "आणि उचलणारा"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "खोटे"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नष्ट होईल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:13.079152177Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "बरेच दिवस यिहोशुआने ⟨את⟩ हे सर्व राजे यांच्याशी युद्ध केले.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बरेच"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यिहोशुआने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे सर्व राजे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    }
+  ],
+  "timestamp": "2026-08-13T11:36:48.806137169Z",
+  "model": "glm-5.2"
+}

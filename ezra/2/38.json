@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "पश्हूरचे पुत्र — हजार दोनशे चाळीस व सात.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "पश्हूर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चाळीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "व सात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:55.145824600Z",
+  "model": "glm-5.2"
+}

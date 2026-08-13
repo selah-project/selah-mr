@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि इस्राएलचे पुत्र पहाटे उठले आणि गिबा वर त्यांनी छावणी केली.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "आणि उठले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलचे"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "पहाटे"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "आणि छावणी केली"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबा"
+    }
+  ],
+  "timestamp": "2026-08-13T11:54:24.364641842Z",
+  "model": "glm-5.2"
+}

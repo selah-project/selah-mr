@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "कापणी गेली, उन्हाळी संपले, आणि आम्हाला तारण मिळाले नाही.",
+  "tokens": [
+    {
+      "surface": "עָבַר",
+      "gloss": "गेली"
+    },
+    {
+      "surface": "קָצִיר",
+      "gloss": "कापणी"
+    },
+    {
+      "surface": "כָּלָה",
+      "gloss": "संपले"
+    },
+    {
+      "surface": "קָיִץ",
+      "gloss": "उन्हाळी"
+    },
+    {
+      "surface": "וַאֲנַחְנוּ",
+      "gloss": "आणि आम्ही"
+    },
+    {
+      "surface": "לוֹא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "נוֹשָׁעְנוּ",
+      "gloss": "तारण मिळाले"
+    }
+  ],
+  "timestamp": "2026-08-13T13:23:37.619689139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "व झिल्पा, लेआची दासी, याकोवला एक ⟨पुत्र⟩ जन्म देत आहे.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "व जन्म देत आहे"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "झिल्पा"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआची"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोवला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एक पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T10:11:19.244232359Z",
+  "model": "glm-5.2"
+}

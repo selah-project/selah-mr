@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि दंव रात्री छावणीवर उतरत असताना, मन्न त्यावर उतरे.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "आणि उतरत असताना"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "दंव"
+    },
+    {
+      "surface": "על",
+      "gloss": "...वर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावणी"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात्री"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरे"
+    },
+    {
+      "surface": "המן",
+      "gloss": "मन्न"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T11:02:31.758537162Z",
+  "model": "glm-5.2"
+}

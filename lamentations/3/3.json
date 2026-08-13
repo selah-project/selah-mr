@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "खरोखर माझ्यावर तो परत फिरतो, तो फिरवतो ⟨आपला⟩ हात सारा दिवस.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "בי",
+      "gloss": "माझ्यावर"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "तो परत फिरतो"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "तो फिरवतो"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:45.738366785Z",
+  "model": "glm-5.2"
+}

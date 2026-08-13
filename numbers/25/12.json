@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "त्यासाठी म्हण: हे मी त्याला ⟨את⟩ माझी शांततेची करार देत आहे.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "त्यासाठी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "म्हण"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "हे मी"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देत आहे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "माझी शांततेची करार"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "माझी करार"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांततेची"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:32.645177363Z",
+  "model": "glm-5.2"
+}

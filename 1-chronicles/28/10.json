@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "पाह आता, की याहवेहने तुला पवित्र-स्थानासाठी घर बांधण्याकरता निवडले आहे; धैर्य धर आणि कर.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "पाह"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "आता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "निवडले"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बांधण्याकरता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "पवित्र-स्थानासाठी"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "धैर्य धर"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आणि कर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:14:26.900494391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "कधीपर्यंत, आळशी, तू झोपशील? कधी तू तुझ्या झोपेतून उठशील?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कधीपर्यंत"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कधी"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "हे आळशी"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "तू झोपशील"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कधी"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "तू उठशील"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "तुझ्या झोपेतून"
+    }
+  ],
+  "timestamp": "2026-08-13T15:07:09.067732417Z",
+  "model": "glm-5.2"
+}

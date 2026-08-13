@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "आणि तिने त्याला मुले जन्माला घातली, ⟨את⟩ येउश आणि ⟨את⟩ शेमर्याह आणि ⟨את⟩ झहम.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "आणि तिने जन्माला घातली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येउश"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "येउश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "शेमर्याह"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "शेमर्याह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "झहम"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "झहम"
+    }
+  ],
+  "timestamp": "2026-08-13T16:18:33.068934054Z",
+  "model": "glm-5.2"
+}

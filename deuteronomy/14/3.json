@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "कोणतीही जगृती खाऊ नका.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणतीही"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "जगृती"
+    }
+  ],
+  "timestamp": "2026-08-13T11:20:30.169686214Z",
+  "model": "glm-5.2"
+}

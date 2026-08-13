@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "अनातोतचे पुरुष एकशे बावीस.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोतचे"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "व आठ"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:32.322974518Z",
+  "model": "glm-5.2"
+}

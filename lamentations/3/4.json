@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "जीर्ण केले ⟨माझे⟩ मांस व ⟨माची⟩ त्वचा; तुटल्या ⟨माझ्या⟩ हाडे.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "जीर्ण केले"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "व त्वचा"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तुटल्या"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "हाडे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:45.738486069Z",
+  "model": "glm-5.2"
+}

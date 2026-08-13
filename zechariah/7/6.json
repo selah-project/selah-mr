@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि जेव्हा खात आणि जेव्हा पिता, तुम्हीच ना ⟨हे⟩ खाणारे आणि तुम्हीच ⟨हे⟩ पिणारे?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आणि जेव्हा"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाता"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आणि जेव्हा"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "तुम्हीच ना"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्ही"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "खाणारे"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आणि तुम्ही"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "पिणारे"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:01.604192878Z",
+  "model": "glm-5.2"
+}

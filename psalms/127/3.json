@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 127,
+  "translation": "हे पाहा, मुले म्हणजे याहवेहचा वारसा आहेत, गर्भाचे फळ ⟨हे⟩ बक्षीस ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हे पाहा"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "वारसा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "बक्षीस"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फळ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "गर्भाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:46:35.314060138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि त्यांच्या शहरांच्या उपनगराचे शेत विकले जाऊ नये, कारण ती त्यांची सनातन मालकी आहे.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "आणि शेत"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "उपनगराचे"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "त्यांच्या शहरांच्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नये"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "विकले जाऊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "मालकी"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सनातन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "להם",
+      "gloss": "त्यांची"
+    }
+  ],
+  "timestamp": "2026-08-13T10:53:58.073805005Z",
+  "model": "glm-5.2"
+}

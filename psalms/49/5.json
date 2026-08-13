@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "मी ⟨माझे⟩ कान मसालकडे झुकवितो, मी ⟨माझी⟩ गूढगोष्ट किनोरवर उघडतो:",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "झुकवितो"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "मसालकडे"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "कान"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "उघडतो"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "किनोरवर"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "गूढगोष्ट"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:11.207211827Z",
+  "model": "glm-5.2"
+}

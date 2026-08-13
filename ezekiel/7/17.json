@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "सर्व हात शिथिल होतील आणि सर्व गुडघे पाण्यासारखे होतील.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "हात"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "शिथिल होतील"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि सर्व"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "गुडघे"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "होतील"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्यासारखे"
+    }
+  ],
+  "timestamp": "2026-08-13T13:48:31.663104483Z",
+  "model": "glm-5.2"
+}

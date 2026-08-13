@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "व अहिया, चनन, अनन.",
+  "tokens": [
+    {
+      "surface": "וַאֲחִיָּ֥ה",
+      "gloss": "व अहिया"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "gloss": "चनन"
+    },
+    {
+      "surface": "עָנָֽן",
+      "gloss": "अनन"
+    }
+  ],
+  "timestamp": "2026-08-13T16:00:46.442002206Z",
+  "model": "glm-5.2"
+}

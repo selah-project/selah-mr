@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "व अव्राहामने देशाच्या लोकांसमोर नमस्कार केला",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "व नमस्कार केला"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहामने"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोकां"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:18.780863404Z",
+  "model": "glm-5.2"
+}

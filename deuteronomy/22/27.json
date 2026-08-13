@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "कारण रानात तो तिला सापडला, ओरडली ⟨ही⟩ तरुणी साखरझडा केलेली, आणि नव्हता तिला तारणारा",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "रानात"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "तो तिला सापडला"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ओरडली"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "तरुणी"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "साखरझडा केलेली"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आणि नव्हता"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "तारणारा"
+    },
+    {
+      "surface": "לה",
+      "gloss": "तिला"
+    }
+  ],
+  "timestamp": "2026-08-13T11:25:25.036756859Z",
+  "model": "glm-5.2"
+}

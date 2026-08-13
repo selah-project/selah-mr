@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "आणि एसाव म्हणाला, मला बरेच आहे, माझ्या बंधू, तुझ्याची ती तुझ्यापाशी राहो.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨आहे⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बरेच"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "माझ्या बंधू"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "राहो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्यापाशी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:13:48.074572990Z",
+  "model": "glm-5.2"
+}

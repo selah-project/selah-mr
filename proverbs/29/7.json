@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "एक धार्मिक ⟨माणूस⟩ गरिबांचा न्याय जाणतो; एक दुष्ट ⟨माणूस⟩ ज्ञान समजत नाही.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "जाणतो"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "एक धार्मिक"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "गरिबांचा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "एक दुष्ट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समजत"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:58.350119415Z",
+  "model": "glm-5.2"
+}

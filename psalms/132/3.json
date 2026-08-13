@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 132,
+  "translation": "जर मी माझ्या घराच्या तंबूत आलो तर; जर मी माझ्या पलंगावर चढ़लो तर —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "आलो तर"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तंबूत"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "माझ्या घराच्या"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "चढ़लो तर"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "पलंगावर"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "माझ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:01:27.178559419Z",
+  "model": "glm-5.2"
+}

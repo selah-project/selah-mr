@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 92,
+  "translation": "वाद्यगीत, गीत, शब्बाथ-दिनासाठी.",
+  "tokens": [
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "वाद्यगीत"
+    },
+    {
+      "surface": "שִׁ֗יר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לְי֣וֹם",
+      "gloss": "दिनासाठी"
+    },
+    {
+      "surface": "הַשַּׁבָּֽת",
+      "gloss": "शब्बाथ"
+    }
+  ],
+  "timestamp": "2026-08-13T14:51:21.792925601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि अबिशय, त्सरूयाचा मुलगा, त्याने ⟨את⟩ एदोम मीठ दरीत मारले — अठरा हजार.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "आणि अबिशय"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरूयाचा"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मारले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोम"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "दरीत"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "मीठ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठरा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T16:10:53.112083349Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "तुझ्या आईच्या बहिणीची नग्नता उघडू नकोस; कारण ती तुझ्या आईची नातेवाईकिण ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिणीची"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तुझ्या आईच्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "उघडू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "नातेवाईकिण"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तुझ्या आईची"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ती"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:08.319905413Z",
+  "model": "glm-5.2"
+}

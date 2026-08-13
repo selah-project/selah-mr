@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "हृदयाने ज्ञानी ⟨तो⟩ आज्ञा स्वीकारील, आणि ओंगळ बोलणारा मूर्ख पडेल.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानी"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयाने"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "स्वीकारील"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "आणि मूर्ख"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओंगळ बोलणारा"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "पडेल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:35.063477513Z",
+  "model": "glm-5.2"
+}

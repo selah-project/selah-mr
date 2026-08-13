@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "अहियाम ⟨ह⟩हरारी साकारचा पुत्र, एलिफल उरचा पुत्र",
+  "tokens": [
+    {
+      "surface": "אֲחִיאָ֧ם",
+      "gloss": "अहियाम"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שָׂכָ֛ר",
+      "gloss": "साकार"
+    },
+    {
+      "surface": "הַהֲרָרִ֖י",
+      "gloss": "⟨ह⟩हरारी"
+    },
+    {
+      "surface": "אֱלִיפַ֥ל",
+      "gloss": "एलिफल"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אֽוּר",
+      "gloss": "उर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:06:46.631043160Z",
+  "model": "glm-5.2"
+}

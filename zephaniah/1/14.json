@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "जवळ ⟨तो⟩ याहवेहचा ⟨तो⟩ महान दिवस; जवळ आणि अत्यंत जलद ⟨तो⟩; ⟨तो⟩ याहवेहच्या दिवसाचा आवाज — कडू; तिथे बलवान गरजतो.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "आणि जलद"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कडू"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "तो गरजतो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिथे"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-08-13T14:23:24.626200404Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "जिथे बैल नाहीत तिथे रिकामी गोठा, आणि बैलाच्या बळाने भरपूर उत्पन्न ⟨मिळते⟩.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "जिथे नाहीत तिथे"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "गोठा"
+    },
+    {
+      "surface": "बר",
+      "gloss": "रिकामी"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "आणि भरपूर"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "उत्पन्न"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "बळाने"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैलाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:40.305651003Z",
+  "model": "glm-5.2"
+}

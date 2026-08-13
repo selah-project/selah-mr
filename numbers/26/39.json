@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "शफूपामाला — शूपामी कुळ; हूपामाला — हूपामी कुळ.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "शफूपामाला"
+    },
+    {
+      "surface": "मשפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "शूपामी"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "हूपामाला"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुळ"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "हूपामी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:10:00.270769606Z",
+  "model": "glm-5.2"
+}

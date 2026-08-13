@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "बिग्वयचे पुत्र, दोन हजार साठसात.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בִגְוָ֔י",
+      "gloss": "बिग्वय"
+    },
+    {
+      "surface": "אַלְפַּ֖יִם",
+      "gloss": "दोन हजार"
+    },
+    {
+      "surface": "שִׁשִּׁ֥ים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "וְשִׁבְעָֽה",
+      "gloss": "आणि सात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:52.158662111Z",
+  "model": "glm-5.2"
+}

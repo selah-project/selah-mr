@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 35,
+  "translation": "तुझी शहरे मी खंडहर बनवीन, आणि तू ओसाड होशील, आणि तू जाणशील की मी याहवेह ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "तुझी शहरे"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "खंडहर"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "मी बनवीन"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आणि तू"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ओसाड"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होशील"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "आणि तू जाणशील"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T14:02:08.645203088Z",
+  "model": "glm-5.2"
+}

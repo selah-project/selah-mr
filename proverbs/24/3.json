@@ -1,0 +1,33 @@
+{
+  "tier": "hand",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "ज्ञानाने ⟨एक⟩ घर बांधले जाते, व समजुतीने ते स्थापित होते.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "ज्ञानाने"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨ते⟩ बांधले जाते"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "व समजुतीने"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ते स्थापित होते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:01.055529366Z",
+  "model": "glm-5.2"
+}

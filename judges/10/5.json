@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि याइर मेला, आणि ⟨त्याला⟩ कामोन मध्ये दफन केले.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आणि मेला"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याइर"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "आणि दफन केले"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "कामोन मध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T11:49:12.255260735Z",
+  "model": "glm-5.2"
+}

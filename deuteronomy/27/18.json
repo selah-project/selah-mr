@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "अभिशप्त ⟨हा⟩ मार्गावर आंधळ्याला भरकटवणारा, व संपूर्ण लोक म्हणतील, आमेन.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिशप्त"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "भरकटवणारा"
+    },
+    {
+      "surface": "עור",
+      "gloss": "आंधळा"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्गावर"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "व म्हणतील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-13T11:28:21.114469741Z",
+  "model": "glm-5.2"
+}

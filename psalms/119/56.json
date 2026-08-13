@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "हे ⟨माझ्यासाठी⟩ झाले, कारण तुझ्या आज्ञा मी राखल्या.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "हे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "झाले"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨माझ्यासाठी⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "तुझ्या आज्ञा"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "मी राखल्या"
+    }
+  ],
+  "timestamp": "2026-08-13T14:58:45.168784264Z",
+  "model": "glm-5.2"
+}

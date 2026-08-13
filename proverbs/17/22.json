@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आनंदी हृदय ⟨होते⟩ उपचार; आणि पिडा सहन करणारा आत्मा हाडे कोरडी करतो.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "आनंदी"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "होते"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "उपचार"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आणि आत्मा"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "पिडा सहन करणारा"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "कोरडी करतो"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "हाडे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:18.413854696Z",
+  "model": "glm-5.2"
+}

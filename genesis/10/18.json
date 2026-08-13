@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "आणि ⟨את⟩ ⟨the⟩ अरवदी, आणि ⟨את⟩ ⟨the⟩ झेमारी, आणि ⟨את⟩ ⟨the⟩ हमथी; आणि नंतर कनानीच्या कुळे पसरली.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "अरवदी"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "अरवदी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "झेमारी"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "झेमारी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हमथी"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "हमथी"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "आणि नंतर"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "पसरली"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "कुळे"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानीच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:02:16.963491919Z",
+  "model": "glm-5.2"
+}

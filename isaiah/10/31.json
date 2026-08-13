@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "मद्मेना पळून गेली; गेबिमचे रहिवासी आश्रय घेत आहेत.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "पळून गेली"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "मद्मेना"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहिवासी"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "गेबिमचे"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "आश्रय घेत आहेत"
+    }
+  ],
+  "timestamp": "2026-08-13T12:57:37.156429014Z",
+  "model": "glm-5.2"
+}

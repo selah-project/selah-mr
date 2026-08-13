@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 148,
+  "translation": "वन्य प्राणी व सर्व ढोरे, सरपटणारे प्राणी व पंखाचे पक्षी:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "वन्य प्राणी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "व सर्व"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ढोरे"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "सरपटणारे प्राणी"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "व पक्षी"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "पंखाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:04:43.965902327Z",
+  "model": "glm-5.2"
+}

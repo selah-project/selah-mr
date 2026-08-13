@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "एक अंजली विश्रांती चांगली, दोन मुठींचा परिश्रम व वाऱ्याची दुष्टता यापेक्षा.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "चांगली"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "रास"
+    },
+    {
+      "surface": "כף",
+      "gloss": "अंजली"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "विश्रांती"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "यापेक्षा"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "दोन मुठींचा"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "व दुष्टता"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वाऱ्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:17.398416895Z",
+  "model": "glm-5.2"
+}

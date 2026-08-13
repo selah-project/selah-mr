@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "कहाथचे पुत्र — अम्राम, यित्सहार, हेब्रोन आणि उझ्झिएल, चार.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहाथचे"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अम्राम"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "हेब्रोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "आणि उझ्झिएल"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-13T16:11:41.918249981Z",
+  "model": "glm-5.2"
+}

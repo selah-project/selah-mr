@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 34,
+  "translation": "आणि ⟨את⟩ नेगेव, आणि ⟨את⟩ प्रदेश — येरीहोची दरी, खजुराची नगरी, त्सोअरपर्यंत.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "नेगेव"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "नेगेव"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "प्रदेश"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "प्रदेश"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "दरी"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "येरीहोची"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "खजुराची"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "צער",
+      "gloss": "त्सोअरपर्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:31:34.139593526Z",
+  "model": "glm-5.2"
+}

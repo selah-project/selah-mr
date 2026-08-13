@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आमचे पाणी रुपयाने पिले, आमची लाकडे मोबदल्यात येतात.",
+  "tokens": [
+    {
+      "surface": "מֵימֵינוּ",
+      "gloss": "आमचे पाणी"
+    },
+    {
+      "surface": "בְּכֶסֶף",
+      "gloss": "रुपयाने"
+    },
+    {
+      "surface": "שָׁתִינוּ",
+      "gloss": "पिले"
+    },
+    {
+      "surface": "עֵצֵינוּ",
+      "gloss": "आमची लाकडे"
+    },
+    {
+      "surface": "בִּמְחִיר",
+      "gloss": "मोबदल्यात"
+    },
+    {
+      "surface": "יָבֹאוּ",
+      "gloss": "येतात"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:10.467442720Z",
+  "model": "glm-5.2"
+}

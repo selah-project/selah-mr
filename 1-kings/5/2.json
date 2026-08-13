@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि शलमोहाचे ⟨अन्न⟩ एका दिवसाला होते: तीस कोर श्रेष्ठ पीठ आणि साठ कोर पीठ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि ⟨होता⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलमोहाचे"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "एका दिवसाला"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एका"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "श्रेष्ठ पीठ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आणि साठ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "पीठ"
+    }
+  ],
+  "timestamp": "2026-08-13T12:27:30.700899050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "तर तू तिचा ⟨את⟩ हात कापून घेशील — तुझे डोळे संकोच करू नयेत.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "तर तू कापून घेशील"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हात"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "तिचा हात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "संकोच करू"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तुझे डोळे"
+    }
+  ],
+  "timestamp": "2026-08-13T11:26:34.740283126Z",
+  "model": "glm-5.2"
+}

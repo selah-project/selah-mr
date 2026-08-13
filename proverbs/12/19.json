@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "सत्याचे ओठ कायमचे स्थिर राहतील, आणि खोटी जीभ क्षणभर ⟨राहते⟩.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्याचे"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "स्थिर राहतील"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "कायमचे"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आणि"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "क्षणभर"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "खोटी"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:29.815098282Z",
+  "model": "glm-5.2"
+}

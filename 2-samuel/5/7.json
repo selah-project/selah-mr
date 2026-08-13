@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "तरीही दावीदाने ⟨את⟩ त्सियोनाचा गढ पकडला; तीच दावीदाचे शहर.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "व पकडले"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीदाने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सियोनाचा गढ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "गढ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोनाचा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "तीच"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "शहर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीदाचे"
+    }
+  ],
+  "timestamp": "2026-08-13T12:13:26.096477710Z",
+  "model": "glm-5.2"
+}

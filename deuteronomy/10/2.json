@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "व तू लिहीन पाट्यांवर ⟨את⟩ ते वचन जे पहिल्या पाट्यांवर होते ज्या तू फोडल्या व तू त्या कर्दळात ठेवशील.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "व लिहीन"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "पाट्यां"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ते वचन"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ते वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होते"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "पाट्यां"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहिल्या"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ज्या"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "तू फोडल्या"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "व तू ठेवशील"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "कर्दळात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:19:55.461634326Z",
+  "model": "glm-5.2"
+}

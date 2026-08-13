@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 36,
+  "translation": "हे सेईर होरीचे मुले आहेत, ⟨जे⟩ देशाचे रहिवासी: लोतान, शोबाल, झिबेओन आणि अना.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "होरीचे"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहिवासी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशाचे"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "शोबाल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "झिबेओन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "अना"
+    }
+  ],
+  "timestamp": "2026-08-13T10:15:18.430246216Z",
+  "model": "glm-5.2"
+}

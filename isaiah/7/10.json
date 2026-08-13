@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "व याहवेह अहाजला बोलण्याच जोडले, यासाठी ⟨की⟩:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "व जोडले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलण्याच"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाजला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी ⟨की⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T12:56:34.856824574Z",
+  "model": "glm-5.2"
+}

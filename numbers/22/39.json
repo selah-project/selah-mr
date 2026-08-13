@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "आणि गेला बिलाम बालाकासोबत, आणि आले ते किर्यत-हुत्सोथ येथे.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आणि गेला"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सोबत"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आणि आले"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "हुत्सोथ"
+    }
+  ],
+  "timestamp": "2026-08-13T11:08:21.325860515Z",
+  "model": "glm-5.2"
+}

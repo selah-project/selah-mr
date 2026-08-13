@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "हामचे पुत्र: कूश व मिस्रयिम, पुट व कनान.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חם",
+      "gloss": "हाम"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "व मिस्रयिम"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "पुट"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "व कनान"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:17.461159746Z",
+  "model": "glm-5.2"
+}

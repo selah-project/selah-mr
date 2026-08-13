@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "कारण अचानक त्यांचा विनाश उभा राहील, आणि त्या दोघांचा अंत कोण जाणत?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उभा राहील"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "त्यांचा विनाश"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "आणि अंत"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "त्या दोघांचा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जाणत"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:14.235546098Z",
+  "model": "glm-5.2"
+}

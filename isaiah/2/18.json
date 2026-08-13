@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "और ⟨त्या⟩ थोरल्या देवता संपूर्णपणे नाहीशा होतील।",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "और देवता"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "संपूर्णपणे"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "नाहीशा होतील"
+    }
+  ],
+  "timestamp": "2026-08-13T12:54:26.192384009Z",
+  "model": "glm-5.2"
+}

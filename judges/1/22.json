@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आणि योसेफचे घर, तेही, बेथ-एलावर चढले; आणि याहवेह त्यांच्यासह ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "आणि चढले"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफचे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "देखील"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ते"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आणि याहवेह"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "त्यांच्यासह"
+    }
+  ],
+  "timestamp": "2026-08-13T16:34:19.758533408Z",
+  "model": "glm-5.2"
+}

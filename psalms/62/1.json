@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 62,
+  "translation": "मुख्य संगीतकारासाठी, यदूतूनवर, दावीदाचा गीत.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकारासाठी"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "यदूतूनवर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीदाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:42:49.703098271Z",
+  "model": "glm-5.2"
+}

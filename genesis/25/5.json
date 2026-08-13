@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "आणि अव्राहामने ⟨את⟩ सर्व जे त्याच्याकडे होते ते यित्सहाकला दिले.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आणि दिले"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहामने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सर्व"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याच्याकडे"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सहाकला"
+    }
+  ],
+  "timestamp": "2026-08-13T10:07:57.825238485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 130,
+  "translation": "जर ⟨तू⟩ अपराधांची नोंद ठेवशील, याह, अदोनाय, कोण उभा राहील?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "अपराधांची"
+    },
+    {
+      "surface": "תשמर",
+      "gloss": "नोंद ठेवशील"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "उभा राहील"
+    }
+  ],
+  "timestamp": "2026-08-13T15:01:02.907822845Z",
+  "model": "glm-5.2"
+}

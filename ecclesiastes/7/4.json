@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "ज्ञानींचे हृदय शोकगृहात ⟨आहे⟩, आणि मूर्खांचे हृदय आनंदगृहात.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ज्ञानींचे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "गृहात"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "शोक"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आणि हृदय"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खांचे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "गृहात"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनंद"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:46.186013137Z",
+  "model": "glm-5.2"
+}

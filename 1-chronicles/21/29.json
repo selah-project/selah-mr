@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 21:29",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "आणि मिशकन याहवेह अशर ⟨दावीदने⟩ केले ⟨होते⟩ मोशे मध्ये ⟨of⟩ मीदबर, व मिजबेह ⟨of⟩ होलाह, वेळी ती, बामाह गिबओन.",
+  "tokens": [
+    {
+      "surface": "ומשכן",
+      "gloss": "व मिशकन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "अशर"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मध्ये ⟨of⟩ मीदबर"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "व मिजबेह"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "होलाह"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "वेळी"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "बामाह"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "गिबओन"
+    }
+  ],
+  "timestamp": "2026-08-13T16:10:38.729778915Z",
+  "model": "glm-5.2"
+}

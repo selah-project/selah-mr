@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "आणि जर तू बाहेर जाण्यास नकार देशील, तर हे ⟨हे⟩ वचन ⟨आहे⟩ जे याहवेहने मला दाखवले ⟨आहे⟩:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "नकार देशील"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "बाहेर जाण्यास"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "मला दाखवले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    }
+  ],
+  "timestamp": "2026-08-13T13:38:06.637897081Z",
+  "model": "glm-5.2"
+}

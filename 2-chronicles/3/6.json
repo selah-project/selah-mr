@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि ⟨את⟩ घर त्याने बहुमोल दगडांनी शोभिवंत केले, आणि सोने ⟨होते⟩ परवाइमचे सोने.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "आणि आच्छादित केले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "दगडांनी"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "बहुमोल"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "शोभेसाठी"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "आणि सोने"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "परवाइमचे"
+    }
+  ],
+  "timestamp": "2026-08-13T16:15:25.227420535Z",
+  "model": "glm-5.2"
+}

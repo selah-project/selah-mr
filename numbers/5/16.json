@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि याजक तिला ⟨את⟩ समोर आणील, आणि तिला याहवेहासमोर उभी करील",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "आणि समोर आणील"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "तिला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "आणि उभी करील"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:07.015940966Z",
+  "model": "glm-5.2"
+}

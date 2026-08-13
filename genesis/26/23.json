@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "आणि तो तिथून बेर-शबा येथे गेला.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "आणि तो गेला"
+    },
+    {
+      "surface": "משם",
+      "gloss": "तिथून"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-शबा"
+    }
+  ],
+  "timestamp": "2026-08-13T10:09:30.593481042Z",
+  "model": "glm-5.2"
+}

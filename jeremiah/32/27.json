@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "घा, मी याहवेह आहे, सर्व मांसाचा एलोहीम; माझ्याकडून काहीही अद्भुत असेल का?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "घा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "...चा एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांसाचा"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "माझ्याकडून"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "अद्भुत असेल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "काहीही"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "गोष्ट"
+    }
+  ],
+  "timestamp": "2026-08-13T13:34:49.931501324Z",
+  "model": "glm-5.2"
+}

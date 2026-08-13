@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "त्या रात्री बेलशात्सार, कसदींचा राजा, मारला गेला.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "रात्री"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "मारला गेला"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "बेलशात्सार"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "कसदींचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:47:39.288375851Z",
+  "model": "glm-5.2"
+}

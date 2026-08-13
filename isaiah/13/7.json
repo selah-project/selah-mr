@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "त्यामुळे सर्व हात शिथिल होतील आणि प्रत्येक मानवाचे अंतःकरण विरत होईल.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यामुळे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हात"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "शिथिल होतील"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आणि प्रत्येक"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "अंतःकरण"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मानवाचे"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "विरत होईल"
+    }
+  ],
+  "timestamp": "2026-08-13T12:58:37.144964062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि त्यांची ओरडणी व ⟨את⟩ हे वचन ऐकल्यावर मला फार चीत्कार झाला.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "आणि जळले"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "फार"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "मी ऐकले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्यांची ओरडणी"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "त्यांची ओरडणी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "हे वचन"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "हे वचन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "हे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:19.884341001Z",
+  "model": "glm-5.2"
+}

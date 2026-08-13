@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "अगूर याकेह-पुत्राचे वचन — ⟨हे⟩ भार। ⟨हा⟩ गबराने इतीएलला, इतीएल व उखाल यांना सांगितलेला ⟨हा⟩ श्री।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "अगूर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "याकेह"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "श्री"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "गबर"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "इतीएलला"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "इतीएल"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "व उखाल"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:44.189252382Z",
+  "model": "glm-5.2"
+}

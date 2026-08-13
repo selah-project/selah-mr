@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "रागीट माणूस वाद भडकवतो, आणि संतप्त होण्यास विलंब करणारा वाद शांत करतो.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "माणूस"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "रागीट"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "भडकवतो"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "वाद"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "आणि विलंब करणारा"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "संतप्त होण्यास"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "शांत करतो"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "वाद"
+    }
+  ],
+  "timestamp": "2026-08-13T15:10:25.636002851Z",
+  "model": "glm-5.2"
+}

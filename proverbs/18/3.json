@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "दुष्ट येतो, तेव्हा तिरस्कार सुद्धा येतो, आणि लज्जेसह अपमान ⟨येतो⟩.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "येतो तेव्हा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "בא",
+      "gloss": "येतो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "सुद्धा"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "तिरस्कार"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आणि ... सह"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "लज्जा"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "अपमान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:52.850504385Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "तेढ आल्यास लाजणी येते, व ⟨आहे⟩ ⟨את⟩ नम्रांची ज्ञान.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "आल्यास"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "तेढ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "तेव्हा येते"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "लाजणी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नम्रांची ज्ञान"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "नम्रांची"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    }
+  ],
+  "timestamp": "2026-08-13T15:09:00.908184824Z",
+  "model": "glm-5.2"
+}

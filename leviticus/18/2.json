@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "इस्राएलपुत्रांशी बोल आणि त्यांना सांग: मी याहवेह तुमचा एलोहीम ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याशी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांच्या"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आणि सांग"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुमचा एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:50:04.313558049Z",
+  "model": "glm-5.2"
+}

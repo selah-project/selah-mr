@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "गर्व करू नको स्वतःचा राजाच्या समोर, आणि मोठ्यांच्या स्थानी उभा राहू नको.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "गर्व करू"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "आणि ... स्थानी"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "मोठ्यांच्या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नको"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "उभा राहू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:31.464106393Z",
+  "model": "glm-5.2"
+}

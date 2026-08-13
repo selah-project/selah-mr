@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 15,
+  "translation": "आणि जर त्यात ⟨कोणताही⟩ दोष असेल — पांगळा किंवा आंधळा, कोणताही वाईट दोष — तर तू ते याहवेह तुझ्या एलोहीमला बळी देऊ नकोस.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आणि जर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पांगळा"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "עור",
+      "gloss": "आंधळा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोणताही"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "רע",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "ते बळी देऊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तुझ्या एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T11:22:03.865639138Z",
+  "model": "glm-5.2"
+}

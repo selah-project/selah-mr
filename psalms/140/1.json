@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 140,
+  "translation": "नेत्यासाठी ⟨एक⟩ मझमोर दावीदाचा",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "नेत्यासाठी"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "मझमोर"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "दावीदाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:02:55.810307722Z",
+  "model": "glm-5.2"
+}

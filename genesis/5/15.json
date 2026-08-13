@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि महललएल जगला पाच वर्षे आणि साठ वर्षे, आणि त्याने ⟨את⟩ येरेद जन्म दिला.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आणि-जगला"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललएल"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आणि-साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षे"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आणि-जन्म-दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येरेद"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "येरेद"
+    }
+  ],
+  "timestamp": "2026-08-13T16:29:26.218077388Z",
+  "model": "glm-5.2"
+}

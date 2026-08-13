@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "व ⟨את⟩ सर्व मंडळी जमा कर ⟨त्यांना⟩ मिळाप-तंबूच्या दरवाज्याजवळ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "सर्व मंडळी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "मंडळी"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "जमा कर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जवळ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दरवाज्या"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तंबू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिळाप"
+    }
+  ],
+  "timestamp": "2026-08-13T10:44:37.971905939Z",
+  "model": "glm-5.2"
+}

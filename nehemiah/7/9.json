@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "शेफत्याचे ⟨मुले⟩, तीनशे अठ्ठ्याहत्तर.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "शेफत्याचे"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "⟨मुले⟩"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "अठ्ठ्याहत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "व"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:20.874960180Z",
+  "model": "glm-5.2"
+}

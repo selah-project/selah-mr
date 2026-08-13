@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "मनुष्याचा पुत्र, हे बंडखोर घर, म्हणजे यिस्राएलचे घर, यांनी तुला विचारले नाही का: तू काय करत आहात?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "विचारले"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुला"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "बंडखोर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत आहात"
+    }
+  ],
+  "timestamp": "2026-08-13T13:50:22.318872388Z",
+  "model": "glm-5.2"
+}

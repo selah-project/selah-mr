@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आळशी आपला हात भांड्यात दडवतो, तोंतापर्यंत तो तो परतणार नाही.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "दडवतो"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आळशी"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपला हात"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "भांड्यात"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोंतापर्यंत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "तोंत्याच्या"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "तो परतणार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:19.012098189Z",
+  "model": "glm-5.2"
+}

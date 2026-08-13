@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 24,
+  "translation": "त्यात तुकडे गोळा कर, प्रत्येक चांगला तुकडा, काठी आणि खांदा, उत्तम हाडांनी ती भर.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "गोळा कर"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "तुकडे"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "तुकडा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगला"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "काठी"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "आणि खांदा"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "हाडांनी"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ती भर"
+    }
+  ],
+  "timestamp": "2026-08-13T13:56:46.771992624Z",
+  "model": "glm-5.2"
+}

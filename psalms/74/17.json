@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 74,
+  "translation": "तू सर्व पृथ्वीच्या सीमा स्थापिल्या; उन्हाळा व हिवाळा तू रचलास.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "स्थापिल्या"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वीच्या"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "उन्हाळा"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "व हिवाळा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "रचलास"
+    }
+  ],
+  "timestamp": "2026-08-13T14:46:32.510035522Z",
+  "model": "glm-5.2"
+}

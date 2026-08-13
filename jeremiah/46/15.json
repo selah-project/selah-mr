@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 46,
+  "translation": "का तुझे बलवान झडले? ⟨ते⟩ उभे राहिले नाहीत, कारण याहवेहने ⟨त्यांना⟩ पराभूत केले.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "का"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "झडले"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "तुझे बलवान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "उभे राहिले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "पराभूत केले"
+    }
+  ],
+  "timestamp": "2026-08-13T13:40:19.119500222Z",
+  "model": "glm-5.2"
+}

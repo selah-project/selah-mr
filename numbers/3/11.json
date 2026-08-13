@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि याहवेह मोशेशी बोलला, यासाठी त्याने सांगावे:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "शी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यासाठी त्याने सांगावे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:29.668782114Z",
+  "model": "glm-5.2"
+}

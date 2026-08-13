@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "होय! तिय्योन, पळ काढ, बाबेलची कन्या ⟨आहे⟩ तेथे राहणाऱ्या!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "होय"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "तिय्योन"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "पळ काढ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "राहणाऱ्या"
+    },
+    {
+      "surface": "בת",
+      "gloss": "कन्या"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेलची"
+    }
+  ],
+  "timestamp": "2026-08-13T14:25:30.272200092Z",
+  "model": "glm-5.2"
+}

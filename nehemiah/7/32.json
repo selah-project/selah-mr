@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "बेथ-एल व हाईचे पुरुष: एकशे तेवीस.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-एल"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "व हाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एकशे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "वीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "व तीन"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:46.007095401Z",
+  "model": "glm-5.2"
+}

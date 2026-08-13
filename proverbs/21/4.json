@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 21,
+  "translation": "डोळ्यांचा उन्मळप व हृदयाचा रुंडवा — दुष्टांची ⟨ती⟩ माती ⟨आणि⟩ पाप ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "उन्मळप"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "डोळ्यांचा"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "रुंडवा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयाचा"
+    },
+    {
+      "surface": "נר",
+      "gloss": "माती"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टांची"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-08-13T15:12:53.867833833Z",
+  "model": "glm-5.2"
+}

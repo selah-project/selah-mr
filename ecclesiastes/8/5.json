@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आज्ञेचे रक्षण करणारा ⟨हा⟩ वाईट गोष्ट जाणणार नाही, आणि काळ व न्याय जाणतो ज्ञानीचे हृदय.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "रक्षण करणारा"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञेचे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाणणार"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "गोष्ट"
+    },
+    {
+      "surface": "רע",
+      "gloss": "वाईट"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि काळ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "व न्याय"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाणतो"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ज्ञानीचे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:53.825281135Z",
+  "model": "glm-5.2"
+}

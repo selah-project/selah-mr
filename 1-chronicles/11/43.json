@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 11,
+  "translation": "खानान माअखाहचा पुत्र, व योशाफात ⟨हा⟩ मित्नी",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअखाह"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "व योशाफात"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "मित्नी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:50:07.765872571Z",
+  "model": "glm-5.2"
+}

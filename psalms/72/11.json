@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 72,
+  "translation": "व त्याला सर्व राजे दंडवतील, सर्व राष्ट्रे त्याची सेवा करतील.",
+  "tokens": [
+    {
+      "surface": "ושחוה",
+      "gloss": "व दंडवतील"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "राष्ट्रे"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "त्याची सेवा करतील"
+    }
+  ],
+  "timestamp": "2026-08-13T14:45:42.516773015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि त्यांची सीमा ⟨होती⟩ — खेल्कत व खली व बेतेन व अक्शाफ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि व्हती"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "त्यांची सीमा"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "खेल्कत"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "व खली"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "व बेतेन"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "व अक्शाफ"
+    }
+  ],
+  "timestamp": "2026-08-13T11:39:44.423223134Z",
+  "model": "glm-5.2"
+}

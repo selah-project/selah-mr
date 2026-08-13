@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 27,
+  "translation": "तृप्त जीव मधुगोळीला तुडवतो, आणि भुकेल्या जीवाला प्रत्येक कडू गोड वाटते.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "तृप्त"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "तुडवतो"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "मधुगोळीला"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "आणि जीवाला"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "भुकेल्या"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कडू"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "गोड वाटते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:15:14.078086375Z",
+  "model": "glm-5.2"
+}

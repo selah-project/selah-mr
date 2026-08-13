@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 53,
+  "translation": "सर्व वेगळे झाले एकत्र घटण झाले, नाही करणारा भले, नाही गम एक.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "סג",
+      "gloss": "वेगळे झाले"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "घटण झाले"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करणारा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भले"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "גם",
+      "gloss": "गम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-13T14:41:33.513280317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "आणि बरिआची मुले: खेबेर आणि मल्किएल — तो बिर्झोतचा पिता ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि ...मुले"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बरिआची"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "खेबेर"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "मल्किएल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "बिर्झोतचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:05:35.686288113Z",
+  "model": "glm-5.2"
+}

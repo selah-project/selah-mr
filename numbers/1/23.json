@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "त्यांची गणना ⟨होती⟩ लगती शिमोनच्या — नऊ व अठ्ठावन्न हजार व तीनशे.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "त्यांची गणना"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "लगती"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोनच्या"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "व अठ्ठावन्न"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "व तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    }
+  ],
+  "timestamp": "2026-08-13T10:56:07.804839360Z",
+  "model": "glm-5.2"
+}

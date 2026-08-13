@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "काय मी टोचू? एल टोचत नाही! आणि काय मी रागावू? याहवेह रागावत नाही!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "मी टोचू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "टोचत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आणि काय"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "मी रागावू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "रागावत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:11.990215423Z",
+  "model": "glm-5.2"
+}

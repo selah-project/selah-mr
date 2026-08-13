@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 40,
+  "translation": "प्रसन्न हो, याहवेह, मला तारण्यास; याहवेह, मदतीस धाव ये.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "प्रसन्न हो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "मला तारण्यास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "मदतीस"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "धाव ये"
+    }
+  ],
+  "timestamp": "2026-08-13T14:39:02.406437534Z",
+  "model": "glm-5.2"
+}

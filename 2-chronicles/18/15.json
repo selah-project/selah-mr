@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "mr",
+  "chapter": 18,
+  "translation": "आणि राजा त्याला म्हणाला, किती वेळा मी तुला शपथ देऊ, की तू मला फक्त सत्य याहवेहच्या नावाने बोलशील नाही?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "त्याला"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "किती"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "वेळा"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "प्रवास"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मी"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "तुला शपथ देऊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "की"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तू बोलशील"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "רק",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नावाने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T16:20:35.741312616Z",
+  "model": "glm-5.2"
+}

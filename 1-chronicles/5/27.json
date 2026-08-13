@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "लेवीचे पुत्र: गेरेशोन, कहाथ आणि मेरारी.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवीचे"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरेशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहाथ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आणि मेरारी"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:42.364484148Z",
+  "model": "glm-5.2"
+}

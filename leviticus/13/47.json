@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "आणि वस्त्र की त्यात आघात असेल — चांदणीचा — लोकरीच्या वस्त्रात किंवा अळशीच्या वस्त्रात",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "आणि वस्त्र"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असेल"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यात"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "आघात"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "चांदणीचा"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "वस्त्रात"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "लोकरीच्या"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "वस्त्रात"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "अळशीच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:45.322396635Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि खेलाहचे पुत्र — त्सेरेत, यित्सहार आणि एत्नान.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि पुत्र"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "खेलाहचे"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "त्सेरेत"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "आणि एत्नान"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:53.393487941Z",
+  "model": "glm-5.2"
+}

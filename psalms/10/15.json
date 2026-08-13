@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "रस्टाचा हात तोड; आणि दुष्टाची दुष्टता तपास — ⟨जेणेकरून⟩ काहीच सापडू नये.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "तोड"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "हात"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "रस्ट"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "आणि दुष्ट"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "तपास"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "दुष्टता"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नये"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "सापडू"
+    }
+  ],
+  "timestamp": "2026-08-13T14:31:27.410142790Z",
+  "model": "glm-5.2"
+}

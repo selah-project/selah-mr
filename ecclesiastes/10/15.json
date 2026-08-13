@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "मूर्खांचा परिश्रम ⟨त्यांना⟩ थकवतो, ⟨कारण⟩ तो शहराकडे जाणे जाणत नाही.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम"
+    },
+    {
+      "surface": "हכסילים",
+      "gloss": "मूर्खांचा"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "थकवतो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨कारण⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाणत"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाणे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कडे"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "शहराकडे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:47.546956147Z",
+  "model": "glm-5.2"
+}

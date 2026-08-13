@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 135,
+  "translation": "की याकोव निवडला लावला याह; यिस्राएल त्याच्या विशेषधनाला!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "निवडला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "लावला"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "त्याच्या विशेषधनाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:01:49.168935813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "दुसऱ्या एलामचे पुत्र, एक हजार दोनशे चोपन्नास.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसरा"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "व चार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:52.415421472Z",
+  "model": "glm-5.2"
+}

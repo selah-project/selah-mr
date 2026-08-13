@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 5:22",
+  "book": "isaiah",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "हाय! द्राक्षारस पिण्यात शूर, आणि दारू मिसळण्यात पराक्रमी!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "शूर"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पिण्यात"
+    },
+    {
+      "surface": "יין",
+      "gloss": "द्राक्षारस"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "आणि पुरुष"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "पराक्रमी"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "मिसळण्यात"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "दारू"
+    }
+  ],
+  "timestamp": "2026-08-13T12:55:32.279137974Z",
+  "model": "glm-5.2"
+}

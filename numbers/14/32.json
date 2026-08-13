@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व तुमची प्रेते तुम्ही, या जंगली ठिकाणी पडतील.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "व तुमची प्रेते"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्ही"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "पडतील"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "या जंगली ठिकाणी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:03:18.386593596Z",
+  "model": "glm-5.2"
+}

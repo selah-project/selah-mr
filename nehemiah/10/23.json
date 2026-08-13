@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "पलत्याह, खानान, अनायाह",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "पलत्याह"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "अनायाह"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:04.021974575Z",
+  "model": "glm-5.2"
+}

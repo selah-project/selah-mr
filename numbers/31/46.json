@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि मनुष्यांच्या ⟨नफशांची⟩ सोळा हजार,",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आणि-⟨नफशांची⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्यांच्या"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दहा"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:55.284133658Z",
+  "model": "glm-5.2"
+}

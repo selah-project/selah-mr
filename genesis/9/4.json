@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "पण देह ज्याच्या जीवन-शक्तीत त्याचे रक्त आहे ते तुम्ही खाऊ नका.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "पण"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "त्याच्या जीवन-शक्तीत"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "त्याचे रक्त"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम्ही खाऊ"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:08.797777526Z",
+  "model": "glm-5.2"
+}

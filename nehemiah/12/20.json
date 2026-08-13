@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "लसल्लायचा कल्लाय; लअमोकचा एबेर.",
+  "tokens": [
+    {
+      "surface": "לְסַלַּי",
+      "gloss": "लसल्लायचा"
+    },
+    {
+      "surface": "קַלָּי",
+      "gloss": "कल्लाय"
+    },
+    {
+      "surface": "לְעָמוֹק",
+      "gloss": "लअमोकचा"
+    },
+    {
+      "surface": "עֵבֶר",
+      "gloss": "एबेर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:20.515455851Z",
+  "model": "glm-5.2"
+}

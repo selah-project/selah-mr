@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "व ⟨את⟩ नदीवर याहवेहने आघात केल्यावर सात दिवस पूर्ण झाले.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "व पूर्ण झाले"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "नंतर"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "आघात केल्यावर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नदी"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-08-13T10:27:06.576549605Z",
+  "model": "glm-5.2"
+}

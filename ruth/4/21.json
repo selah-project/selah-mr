@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि शल्मोन जन्म दिला ⟨את⟩ बोअज, आणि बोअज जन्म दिला ⟨את⟩ ओबेद.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "आणि शल्मोन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअज"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "आणि बोअज"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    }
+  ],
+  "timestamp": "2026-08-13T15:34:18.319708308Z",
+  "model": "glm-5.2"
+}

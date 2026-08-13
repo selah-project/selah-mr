@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "आणि बेला अजाजचा पुत्र, शेमाचा पुत्र, योएलचा पुत्र; तो अरोेर ते नबो आणि बाल-मोन येथे राहत होता.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "आणि बेला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "अजाजचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "शेमाचा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएलचा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "राहत होता"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "अरोेरमध्ये"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आणि पर्यंत"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नबो"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "आणि बाल"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "मोन"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:20.281752128Z",
+  "model": "glm-5.2"
+}

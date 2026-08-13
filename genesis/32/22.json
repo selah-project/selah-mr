@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "आणि अर्पण त्याच्यासमोरून गेले, आणि तो त्या रात्री छावणीत राहिला.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "आणि गेले"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "अर्पण"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "त्याच्या चेहऱ्यासमोर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आणि तो"
+    },
+    {
+      "surface": "לן",
+      "gloss": "राहिला"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात्री"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्या"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "छावणीत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:13:27.388946140Z",
+  "model": "glm-5.2"
+}

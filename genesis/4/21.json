@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "आणि त्याचा भाऊ नाव यूवल; तो सर्व जे किन्नोर धरतात व उगाव वाजवतात त्यांचा पिता ⟨होता⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आणि नाव"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "त्याचा भाऊ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "यूवल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨होता⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्ब"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "जे धरतात"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "किन्नोर"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "व उगाव वाजवतात"
+    }
+  ],
+  "timestamp": "2026-08-13T09:58:59.555109940Z",
+  "model": "glm-5.2"
+}

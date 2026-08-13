@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "रडण्याची वेळ, आणि हसण्याची वेळ; शोक करण्याची वेळ, आणि नाचण्याची वेळ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "एक वेळ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "रडण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "हसण्याची"
+    },
+    {
+      "surface": "עת",
+      "gloss": "एक वेळ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "शोक करण्याची"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आणि एक वेळ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "नाचण्याची"
+    }
+  ],
+  "timestamp": "2026-08-13T15:38:46.696765493Z",
+  "model": "glm-5.2"
+}

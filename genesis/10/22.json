@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "शेमाची चिरंजीव: एलाम, आश्शूर, अर्पकशद, लूद व अराम.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "चिरंजीव"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेमाची"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "आश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "अर्पकशद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "व अराम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:01:28.905261966Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "कारण तो हेबलमध्ये आला, व अंधारात जातो, व अंधारात त्याचे नाव झाकले जाते:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "हेबलमध्ये"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आला"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "व अंधारात"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जातो"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "व अंधारात"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "त्याचे नाव"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "झाकले जाते"
+    }
+  ],
+  "timestamp": "2026-08-13T15:40:51.642621097Z",
+  "model": "glm-5.2"
+}

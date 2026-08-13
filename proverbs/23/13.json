@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 23,
+  "translation": "मूलबालाकडून शिक्षा रोखू नकोस, की ⟨तू⟩ त्याला काठीने मारशील तर तो मरणार नाही.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "रोखू"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "मूलबालाकडून"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "शिक्षा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "त्याला मारशील"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "काठीने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरणार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:14:01.129163944Z",
+  "model": "glm-5.2"
+}

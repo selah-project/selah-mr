@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "नियम जो मोशेने आम्हाला आज्ञा केली, याकोवच्या मंडळीचा वारसा;",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा केली"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "आम्हाला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेने"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "वारसा"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "मंडळीचा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोवच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:30:59.213899516Z",
+  "model": "glm-5.2"
+}

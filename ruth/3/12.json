@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "आणि आता, जरी खरोखर सत्य आहे की मी गोएल ⟨आहे⟩, तरी एक गोएल माझ्यापेक्षा जवळचा आहे.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आणि आता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जरी"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "खरोखर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אם",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "गोएल"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "तरी"
+    },
+    {
+      "surface": "יש",
+      "gloss": "एक आहे"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "गोएल"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "जवळचा"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "माझ्यापेक्षा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:35:43.277525754Z",
+  "model": "glm-5.2"
+}

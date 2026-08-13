@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "तुझ्यासाठी इतर एलोहीम माझ्या समोर असणार नाहीत.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "असणार"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझ्यासाठी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "इतर"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर \/ समोर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "माझ्या चेहऱ्याच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:38.867558173Z",
+  "model": "glm-5.2"
+}

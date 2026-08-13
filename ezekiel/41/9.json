@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 41:9",
+  "book": "ezekiel",
+  "lang": "mr",
+  "chapter": 41,
+  "translation": "रवहब रुंदी अशेर ला-त्सेला एल हा-हुत्स खमेश अम्मा, व-अशेर मुन्नाख बैत त्सेलाव अशेर ल-बैत.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "रुंदी"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "अशेर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ला-त्सेला"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "हा-हुत्स"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "खमेश"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "व-अशेर"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "मुन्नाख"
+    },
+    {
+      "surface": "מנח",
+      "gloss": "बैत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "त्सेलाव"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "अशेर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ल-बैत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:04:54.404237783Z",
+  "model": "glm-5.2"
+}

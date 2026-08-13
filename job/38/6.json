@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 38,
+  "translation": "कशावर तिचे पाया रोवले गेले? किंवा कोणी तिचा कोनाचा दगड आणला,",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "कशावर"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "तिचे पाया"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "रोवले गेले"
+    },
+    {
+      "surface": "או",
+      "gloss": "किंवा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोणी"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "आणला"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "दगड"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "तिचा कोनाचा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:30:44.258977531Z",
+  "model": "glm-5.2"
+}

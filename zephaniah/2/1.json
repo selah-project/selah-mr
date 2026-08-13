@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "एकत्र जमा व्हा, हो, एकत्र जमा व्हा, ⟨हे⟩ राष्ट्र ⟨जे⟩ लाजले नाही.",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "एकत्र जमा व्हा"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "हो, एकत्र जमा व्हा"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨हे⟩ राष्ट्र"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "लाजले"
+    }
+  ],
+  "timestamp": "2026-08-13T14:22:57.599833617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "झबुलून गोत्रासाठी, सोदीचा मुलगा गद्दिएल.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्रासाठी"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "झबुलून"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "गद्दिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "मुलगा"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "सोदी"
+    }
+  ],
+  "timestamp": "2026-08-13T11:01:38.187160019Z",
+  "model": "glm-5.2"
+}

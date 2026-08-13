@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 6,
+  "translation": "ती सुंदर व ती कोमल स्त्री, ⟨जिला⟩ मी बात त्सियोनच्या रूपाने मोडून टाकले.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "ती सुंदर"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "व ती कोमल"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "मी मोडून टाकले"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    }
+  ],
+  "timestamp": "2026-08-13T13:23:14.133110737Z",
+  "model": "glm-5.2"
+}

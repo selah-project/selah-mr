@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 29,
+  "translation": "मशल मकशिब अल दबर शकर कल त्याचे सेवक रशाईम",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "मशल"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "मकशिब"
+    },
+    {
+      "surface": "על",
+      "gloss": "अल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "दबर"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "शकर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कल"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "त्याचे सेवक"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "रशाईम"
+    }
+  ],
+  "timestamp": "2026-08-13T15:16:02.376579950Z",
+  "model": "glm-5.2"
+}

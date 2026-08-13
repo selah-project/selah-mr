@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "कोण शुद्धाला अशुद्धापासून देऊ शकेल? ⟨तरी⟩ एकही नाही.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोण"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देऊ शकेल"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "अशुद्धापासून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एकही"
+    }
+  ],
+  "timestamp": "2026-08-13T15:21:39.980269823Z",
+  "model": "glm-5.2"
+}

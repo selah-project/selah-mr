@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "परत जातील दुष्ट शेओलाकडे — सर्व गोयम, एलोहीम विसरणारे.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "परत जातील"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "शेओलाकडे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयम"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "विसरणारे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T14:31:22.882899572Z",
+  "model": "glm-5.2"
+}

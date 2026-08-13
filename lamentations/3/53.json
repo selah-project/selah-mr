@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "त्यांनी विहिरीत माझे जीवन नष्ट केले आणि माझ्यावर दगड टाकला.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "त्यांनी नष्ट केले"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "विहिरीत"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "माझे जीवन"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "आणि टाकला"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "दगड"
+    },
+    {
+      "surface": "בי",
+      "gloss": "माझ्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T16:48:36.436428760Z",
+  "model": "glm-5.2"
+}

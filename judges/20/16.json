@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 20:16",
+  "book": "judges",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "या सर्व लोकांपैकी सातशे निवडक माणसे डाव्या हाताची — हे सर्व दगड मारून केसावर टिपू शकत आणि चुकत नाहीत.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "पैकी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोकां"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या सर्व"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सातशे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "माणसे"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "निवडक"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "डाव्या हाताची"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाताची"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "उजव्या"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "दगड मारून"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "दगड"
+    },
+    {
+      "surface": "אל",
+      "gloss": "वर"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "केसावर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आणि नाहीत"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "चुकत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:53:27.679715986Z",
+  "model": "glm-5.2"
+}

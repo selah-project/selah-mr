@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "व खिडक्या तीन रांगा, व दृश्यासमोर दृश्य, तीन वेळा.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "व खिडक्या"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "रांगा"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "व दृश्यासमोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तोंड"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "दृश्य"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "वेळा"
+    }
+  ],
+  "timestamp": "2026-08-13T12:26:56.690877124Z",
+  "model": "glm-5.2"
+}

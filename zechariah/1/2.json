@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "याहवेह ⟨रागावला⟩ तुमच्या पितरांवर — मोठ्या रागाने.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "रागावला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "तुमच्या पितरां"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "मोठ्या रागाने"
+    }
+  ],
+  "timestamp": "2026-08-13T14:24:30.063493951Z",
+  "model": "glm-5.2"
+}

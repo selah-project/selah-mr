@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "काय लाभ ⟨आहे⟩ ⟨त्या⟩ कर्त्याला ज्यामध्ये तो श्रम करतो?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "काय"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "⟨त्या⟩ कर्त्याला"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ज्यामध्ये"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तो"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "श्रम करतो"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:23.409995759Z",
+  "model": "glm-5.2"
+}

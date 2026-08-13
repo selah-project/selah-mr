@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 119,
+  "translation": "उत्तम ⟨आहेस⟩ तू व उत्तम करतोस; तुझे विधी मला शिकव.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "व उत्तम करतोस"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "मला शिकव"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तुझे विधी"
+    }
+  ],
+  "timestamp": "2026-08-13T14:59:28.958001993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 28,
+  "translation": "अभिशप्त ⟨तुझे⟩ ⟨तुझे⟩ टोपली व तुझे आटणकाठ",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिशप्त"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तुझे टोपली"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "व तुझे आटणकाठ"
+    }
+  ],
+  "timestamp": "2026-08-13T11:27:46.808335639Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "कारण सर्व राष्ट्रांच्या एलोहीम व्यर्थ ⟨आहेत⟩, पण याहवेहने आकाश बनविले.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "राष्ट्रांच्या"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "पण याहवेह"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनविले"
+    }
+  ],
+  "timestamp": "2026-08-13T16:09:20.694064270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 133,
+  "translation": "मालवार्तिकेचे गीत, दाविदाचे. पहा, किती चांगले व किती मनोहर ⟨आहे⟩ भाऊ एकत्र राहणे.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "मालवार्तिकेचे"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविदाचे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "पहा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "किती"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "चांगले"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "व किती"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "मनोहर"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "राहणे"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "भाऊ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "देखील"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकत्र"
+    }
+  ],
+  "timestamp": "2026-08-13T15:02:03.158698611Z",
+  "model": "glm-5.2"
+}

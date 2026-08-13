@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "आमच्या घराच्या कड्या देवदारू आहेत, ⟨आमची⟩ पट्ट्या सरू आहेत.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "कड्या"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "आमच्या घराच्या"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदारू"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "आमच्या पट्ट्या"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "सरू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:20.866800422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "नाही तुम्ही कराल असे याहवेह तुमच्या एलोहीमला.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "तुम्ही कराल"
+    },
+    {
+      "surface": "כן",
+      "gloss": "असे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुमच्या एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:01.774071456Z",
+  "model": "glm-5.2"
+}

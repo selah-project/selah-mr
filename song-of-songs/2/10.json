@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "माझा प्रियकर उत्तर देतो व मला म्हणतो: उठ, माझ्या प्रिये, माझ्या सुंदरी, व चल.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "उत्तर देतो"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "माझा प्रियकर"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "व म्हणतो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "माझ्या प्रिये"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "माझ्या सुंदरी"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "व चल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    }
+  ],
+  "timestamp": "2026-08-13T15:31:54.678621966Z",
+  "model": "glm-5.2"
+}

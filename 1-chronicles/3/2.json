@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "तिसरा अब्शालोम, माआखाचा, तल्मई गशूर राजाच्या मुलीचा पुत्र; चौथा अदोनिया, हग्गीतचा पुत्र।",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "तिसरा"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "अब्शालोम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माआखाचा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "मुलीचा"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "तल्मई"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाच्या"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "गशूर"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथा"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "अदोनिया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "हग्गीतचा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:04:00.128794840Z",
+  "model": "glm-5.2"
+}

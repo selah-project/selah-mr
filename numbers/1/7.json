@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "यहूदाला — नख्शोन, अम्मीनादाबचा पुत्र.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदाला"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "नख्शोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "अम्मीनादाब"
+    }
+  ],
+  "timestamp": "2026-08-13T10:54:46.837569386Z",
+  "model": "glm-5.2"
+}

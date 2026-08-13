@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 32,
+  "translation": "व ⟨ते⟩ मला ⟨होतील⟩ लोक, व मी त्यांना ⟨असेन⟩ एलोहीम.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "व ⟨ते⟩ ⟨होतील⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "व मी"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨असेन⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "त्यांना"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-13T13:36:17.594489262Z",
+  "model": "glm-5.2"
+}

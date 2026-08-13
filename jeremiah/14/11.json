@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "आणि याहवेहाने मला सांगितले: या जनतेसाठी भल्यासाठी प्रार्थना करू नकोस.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि सांगितले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहाने"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नकोस"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "प्रार्थना करू"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "साठी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनतेसाठी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "या"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भल्यासाठी"
+    }
+  ],
+  "timestamp": "2026-08-13T13:26:33.693998708Z",
+  "model": "glm-5.2"
+}

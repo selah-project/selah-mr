@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 31,
+  "translation": "आणि गाढवे तीस हजार आणि पाचशे, आणि त्यांचा याहवेहला कर एकसष्ट.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "आणि गाढवे"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आणि पाच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "आणि त्यांचा कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "याहवेहला"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आणि साठ"
+    }
+  ],
+  "timestamp": "2026-08-13T11:11:43.643915212Z",
+  "model": "glm-5.2"
+}

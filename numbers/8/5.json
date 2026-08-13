@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 8,
+  "translation": "आणि याहवेह मोशेशी बोलला, असे म्हणत:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आणि बोलला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...कडे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "असे म्हणत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:59:57.663680727Z",
+  "model": "glm-5.2"
+}

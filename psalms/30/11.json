@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "ऐक, याहवेह, व मला कृपा कर; याहवेह, माझा साह्यकार ⟨हो⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ऐक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "व मला कृपा कर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "साह्यकार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "माझा"
+    }
+  ],
+  "timestamp": "2026-08-13T14:35:32.828395111Z",
+  "model": "glm-5.2"
+}

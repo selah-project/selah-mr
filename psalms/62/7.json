@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 62,
+  "translation": "फक्त तोच ⟨आहे⟩ माझा दगड आणि माझे तारण, माझा उंच गड; ⟨मी⟩ हलू नये.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तोच"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "माझा दगड"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "आणि माझे तारण"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "माझा उंच गड"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नये"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "हलू"
+    }
+  ],
+  "timestamp": "2026-08-13T14:43:44.950893452Z",
+  "model": "glm-5.2"
+}

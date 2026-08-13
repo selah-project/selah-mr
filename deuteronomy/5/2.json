@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "याहवेह आमचा एलोहीम आमच्याबरोबर कापला ⟨את⟩करार चोरेबमध्ये.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "आमचा एलोहीम"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "कापला"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "आमच्याबरोबर"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "चोरेबमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:35.698638241Z",
+  "model": "glm-5.2"
+}

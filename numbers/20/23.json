@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 20,
+  "translation": "आणि याहवेह ने मोशे व अहरोन ला एदोम देशाच्या सीमेवरील होर पर्वतात सांगितले:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि सांगितले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "व"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन ला"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतात"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देशाच्या"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "सांगत"
+    }
+  ],
+  "timestamp": "2026-08-13T11:06:35.649381385Z",
+  "model": "glm-5.2"
+}

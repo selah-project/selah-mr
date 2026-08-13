@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "तिने ⟨आपली⟩ हत्या केली, ⟨आपले⟩ दारू मिसळले, तसेच ⟨आपणा⟩ मेज मांडला",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "तिने केली"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "हत्या"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "मिसळले"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "आपले दारू"
+    },
+    {
+      "surface": "אף",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "मांडला"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "आपणा मेज"
+    }
+  ],
+  "timestamp": "2026-08-13T15:08:24.600940906Z",
+  "model": "glm-5.2"
+}

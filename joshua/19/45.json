@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि एहूद, व बने-बेराक, व गट-रिम्मोन ⟨आहेत⟩.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "व यहूद"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "व बने-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "बेराक"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "व गट-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    }
+  ],
+  "timestamp": "2026-08-13T17:01:43.469898240Z",
+  "model": "glm-5.2"
+}

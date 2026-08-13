@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कारण मी माझ्या पित्याचा होतो पुत्र, कोमल, आणि माझ्या आईच्या समोर एकमेव.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "मी होतो"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "माझ्या पित्याचा"
+    },
+    {
+      "surface": "רך",
+      "gloss": "कोमल"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "आणि एकमेव"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "समोर"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "माझ्या आईच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T15:06:25.575388126Z",
+  "model": "glm-5.2"
+}

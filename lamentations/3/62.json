@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "mr",
+  "chapter": 3,
+  "translation": "माझ्या विरोधकांच्या ओठ ⟨व⟩ त्यांची गुणगुणणूक माझ्यावरील सारा दिवस.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "माझ्या विरोधकांच्या"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "व त्यांची गुणगुणणूक"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माझ्यावरील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिवस"
+    }
+  ],
+  "timestamp": "2026-08-13T15:36:49.445529450Z",
+  "model": "glm-5.2"
+}

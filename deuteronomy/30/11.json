@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 30,
+  "translation": "कारण ही आज्ञा जी मी आज तुला आज्ञा करतो ⟨ही⟩ तुझ्यापासून अद्भुत नाही, व ⟨ही⟩ दूर नाही.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ही-आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मी"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुला-आज्ञा-करतो"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "अद्भुत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ही⟩"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुझ्यापासून"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "व-नाही"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ही⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T11:29:33.872604818Z",
+  "model": "glm-5.2"
+}

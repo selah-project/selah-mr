@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "गरीब लोकांप्रमाणे, धनिकांप्रमाणे; एकत्र, श्रीमंत ⟨आणि⟩ गरीब.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "गरीब लोकांप्रमाणे"
+    },
+    {
+      "surface": "בני",
+      "gloss": ""
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": "धनिकांप्रमाणे"
+    },
+    {
+      "surface": "בני",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "श्रीमंत"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "गरीब"
+    }
+  ],
+  "timestamp": "2026-08-13T14:40:16.396386746Z",
+  "model": "glm-5.2"
+}

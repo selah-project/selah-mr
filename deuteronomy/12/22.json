@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "फक्त जसे ⟨את⟩ हरीण आणि ⟨את⟩ हरिण खाल्ले जाते, तसेच तू ते खाशील; ⟨हा⟩ अशुद्ध आणि ⟨हा⟩ शुद्ध मिळून ते खातील.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसे"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाल्ले जाते"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हरीण"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "हरीण"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आणि ⟨את⟩",
+      "marks": "हरिण"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "हरिण"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "तू ते खाशील"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "आणि शुद्ध"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "मिळून"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ते खातील"
+    }
+  ],
+  "timestamp": "2026-08-13T11:21:05.489616161Z",
+  "model": "glm-5.2"
+}

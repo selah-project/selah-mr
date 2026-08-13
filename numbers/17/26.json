@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "आणि मोशे तसेच केले; जसे याहवेह ने ⟨את⟩ त्याला आज्ञा दिली होती, तसेच त्याने केले.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आणि केले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिली"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ त्याला"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "केले"
+    }
+  ],
+  "timestamp": "2026-08-13T11:04:58.667206277Z",
+  "model": "glm-5.2"
+}

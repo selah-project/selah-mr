@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "mr",
+  "chapter": 5,
+  "translation": "⟨जो⟩ विनाशाला बलावर चमकविणारा, आणि विनाश दुर्गावर येईल",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "चमकविणारा"
+    },
+    {
+      "surface": "שד",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "आणि विनाश"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "येईल"
+    }
+  ],
+  "timestamp": "2026-08-13T14:16:21.380707969Z",
+  "model": "glm-5.2"
+}

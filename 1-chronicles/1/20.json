@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 1,
+  "translation": "व योक्तानने ⟨את⟩ अल्मोदद व ⟨את⟩ शेलेफ व ⟨את⟩ हत्सरमावेथ व ⟨את⟩ येरख जन्माला घातले.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "व योक्तानने"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्माला घातले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अल्मोदद"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "अल्मोदद"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "शेलेफ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "शेलेफ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "हत्सरमावेथ"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "हत्सरमावेथ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "येरakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "येरख"
+    }
+  ],
+  "timestamp": "2026-08-13T16:02:52.148724500Z",
+  "model": "glm-5.2"
+}

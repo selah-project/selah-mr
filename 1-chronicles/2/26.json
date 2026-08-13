@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "व येरहमेलला दुसरी पत्नी होती, व तिचे नाव अतारा — ती ओनामची आई ⟨होती⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "व होती"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "दुसरी"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "येरहमेलला"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "व तिचे नाव"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "अतारा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आई"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनामची"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:19.069533916Z",
+  "model": "glm-5.2"
+}

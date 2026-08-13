@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "आणि ऐकले मोशेने, आणि पडला आपल्या चेहऱ्यावर",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आणि ऐकले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "आणि पडला"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आपल्या चेहऱ्या"
+    }
+  ],
+  "timestamp": "2026-08-13T11:04:20.735820666Z",
+  "model": "glm-5.2"
+}

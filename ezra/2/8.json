@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "जत्तूची मुले, नऊशे पंचेचाळीस.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "मुले"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "जत्तू"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "आणि चाळीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आणि पाच"
+    }
+  ],
+  "timestamp": "2026-08-13T15:51:52.098164508Z",
+  "model": "glm-5.2"
+}

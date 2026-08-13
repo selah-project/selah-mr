@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 16,
+  "translation": "त्याच्या समोर संपूर्ण पृथ्वी थरथरा, अथवा ⟨ती⟩ जगृती निश्चल आहे, ⟨ती⟩ हालचाल नाही.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "थरथरा"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "त्याच्या समोर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "संपूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "निश्चल ⟨आहे⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "जगृती"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "हालचाल"
+    }
+  ],
+  "timestamp": "2026-08-13T16:09:50.558543259Z",
+  "model": "glm-5.2"
+}

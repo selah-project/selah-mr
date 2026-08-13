@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "mr",
+  "chapter": 26,
+  "translation": "हे ⟨होत⟩ इस्राएलच्या वंशजांचे गणलेले — सहाशे हजार एक हजार, सातशे व तीस.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "गणलेले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "वंशज"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सहा"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "व-एक-हजार"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "शे"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "व-तीस"
+    }
+  ],
+  "timestamp": "2026-08-13T11:09:42.213728014Z",
+  "model": "glm-5.2"
+}

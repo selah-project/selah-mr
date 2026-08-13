@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि ⟨ते⟩ घडले, जेव्हा युद्धातील सर्व पुरुष संपून मृत्यू पावले, ⟨तेव्हा⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आणि-⟨ते⟩-घडले"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जेव्हा"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "संपून"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्धातील"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मृत्यू-पावले"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "लोकांतून"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    }
+  ],
+  "timestamp": "2026-08-13T16:32:57.432819687Z",
+  "model": "glm-5.2"
+}

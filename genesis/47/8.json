@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 47,
+  "translation": "आणि फारो याकोवाला म्हणाला, तुझ्या जीवनाच्या वर्षांचे दिवस किती ⟨आहेत⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आणि म्हणाला"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांना"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "छמה",
+      "gloss": "किती"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिवस"
+    },
+    {
+      "surface": "שני",
+      "gloss": "वर्षांचे"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "तुझ्या जीवनाच्या"
+    }
+  ],
+  "timestamp": "2026-08-13T10:20:42.680394667Z",
+  "model": "glm-5.2"
+}

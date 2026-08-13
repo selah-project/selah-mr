@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "आणि तुम्ही फळ द्या आणि वाढा; पृथ्वीत तुम्ही दाट वसा आणि त्यात वाढा.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "आणि तुम्ही"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "फळ द्या"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "आणि वाढा"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "दाट वसा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीत"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "आणि वाढा"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यात"
+    }
+  ],
+  "timestamp": "2026-08-13T10:00:59.134383302Z",
+  "model": "glm-5.2"
+}

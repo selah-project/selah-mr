@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "सोळावा लहनन्याहूला, ⟨त्याची⟩ चिरंजीव, व ⟨त्याची⟩ भाऊ, बारा:",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "सोळावा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨सोळा⟩"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "लहनन्याहूला"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "चिरंजीव"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "व भाऊ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨बारा⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T16:12:11.504317872Z",
+  "model": "glm-5.2"
+}

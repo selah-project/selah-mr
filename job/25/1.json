@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "mr",
+  "chapter": 25,
+  "translation": "तेव्हा बिलदद हाशूही याने उत्तर दिले व म्हणाला,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिले"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "बिलदद"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "हाशूही"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "म्हणाला"
+    }
+  ],
+  "timestamp": "2026-08-13T15:25:20.860507078Z",
+  "model": "glm-5.2"
+}

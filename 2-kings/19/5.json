@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "mr",
+  "chapter": 19,
+  "translation": "आणि राजा यित्सहाकाचे ⟨→⟩ चे सेवक यशयहवला आले.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आणि ते आले"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यांच्याकडे"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशयहव"
+    }
+  ],
+  "timestamp": "2026-08-13T12:49:38.641230288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "माअझ्याह, बिल्गय, शेमअयाह; हे ⟨होते⟩ याजक.",
+  "tokens": [
+    {
+      "surface": "מַֽעַזְיָ֥ה",
+      "gloss": "माअझ्याह"
+    },
+    {
+      "surface": "בִלְגַּ֖י",
+      "gloss": "बिल्गय"
+    },
+    {
+      "surface": "שְׁמַֽעְיָ֑ה",
+      "gloss": "शेमअयाह"
+    },
+    {
+      "surface": "אֵ֖לֶּה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "הַכֹּהֲנִֽים",
+      "gloss": "याजक"
+    }
+  ],
+  "timestamp": "2026-08-13T16:00:49.697195996Z",
+  "model": "glm-5.2"
+}

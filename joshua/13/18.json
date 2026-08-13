@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "mr",
+  "chapter": 13,
+  "translation": "व यहत्सा, व कदेमोत, व मेफात;",
+  "tokens": [
+    {
+      "surface": "וְיַ֥הְצָה",
+      "gloss": "व यहत्सा"
+    },
+    {
+      "surface": "וּקְדֵמֹ֖ת",
+      "gloss": "व कदेमोत"
+    },
+    {
+      "surface": "וּמֵפָֽעַת",
+      "gloss": "व मेफात"
+    }
+  ],
+  "timestamp": "2026-08-13T11:37:24.160532178Z",
+  "model": "glm-5.2"
+}

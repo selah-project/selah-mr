@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "आणि खेब्रोनची मुले: कोरह आणि तप्पुह आणि रेकेम आणि शमा.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आणि मुले"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेब्रोनची"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "आणि तप्पुह"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "आणि रेकेम"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आणि शमा"
+    }
+  ],
+  "timestamp": "2026-08-13T16:03:16.549965561Z",
+  "model": "glm-5.2"
+}

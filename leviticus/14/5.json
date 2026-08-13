@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "mr",
+  "chapter": 14,
+  "translation": "व याजकाने आज्ञा केली, व ⟨את⟩ एक पक्षी वधला, मातीच्या भांड्यात ⟨अभिः⟩ जिवंत पाण्यावर.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "व आज्ञा केली"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजकाने"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "व वधला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक पक्षी"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨अभिः⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भांड्यात"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मातीच्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "वर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पाण्या"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिवंत"
+    }
+  ],
+  "timestamp": "2026-08-13T10:47:18.008121807Z",
+  "model": "glm-5.2"
+}

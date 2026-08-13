@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "mr",
+  "chapter": 4,
+  "translation": "कारण जर एक पडला, तर तो ⟨आपल्या⟩ सोबत्याला उठवेल; पण एकटा जर पडला तर त्याला उठवणारा दुसरा नाही.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जर"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "पडला"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "उठवेल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सोबत्याला"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "त्याचा सोबती"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "पण"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एकटा"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "पडला"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "नाही"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुसरा"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "त्याला उठवणारा"
+    }
+  ],
+  "timestamp": "2026-08-13T15:39:15.406369675Z",
+  "model": "glm-5.2"
+}

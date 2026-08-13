@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 33,
+  "translation": "रुबेन जगो आणि मरू नये, आणि त्याचे लोक संख्येने ⟨लहान नसोत⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "जगो"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रुबेन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आणि नये"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "मरू"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आणि असोत"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "त्याचे लोक"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "संख्येने"
+    }
+  ],
+  "timestamp": "2026-08-13T11:31:02.251221452Z",
+  "model": "glm-5.2"
+}

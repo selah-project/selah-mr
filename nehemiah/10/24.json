@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 10,
+  "translation": "होशेआ, खानन्याह, खश्शूब",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "होशेआ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "खानन्याह"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "खश्शूब"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:04.022081454Z",
+  "model": "glm-5.2"
+}

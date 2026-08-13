@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "mr",
+  "chapter": 17,
+  "translation": "मूर्खाला उत्कृष्ट ओठ ⟨शोभत⟩ नाहीत; तर मग नोबालाला खोटे ओठ कसे ⟨शोभतील⟩?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाहीत"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "शोभत"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "मूर्खाला"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "उत्कृष्ट"
+    },
+    {
+      "surface": "אף",
+      "gloss": "तर मग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कसे"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "नोबालाला"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "खोटे ओठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "खोटे"
+    }
+  ],
+  "timestamp": "2026-08-13T15:11:24.224512146Z",
+  "model": "glm-5.2"
+}

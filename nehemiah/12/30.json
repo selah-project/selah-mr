@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि याजक व लेवी शुद्ध झाले, आणि त्यांनी ⟨את⟩ ⟨the⟩ लोक व ⟨את⟩ ⟨the⟩ दरवाजे व ⟨את⟩ ⟨the⟩ भिंत शुद्ध केले.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "आणि शुद्ध झाले"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "व लेवी"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "आणि शुद्ध केले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "दरवाजे"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "दरवाजे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "व ⟨את⟩",
+      "marks": "भिंत"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "भिंत"
+    }
+  ],
+  "timestamp": "2026-08-13T16:01:46.390417793Z",
+  "model": "glm-5.2"
+}

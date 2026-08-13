@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "mr",
+  "chapter": 9,
+  "translation": "व चमातही ⟨त्याच्याशी⟩ सीमा मिळवील; त्सोर व त्सिदोन, कारण ⟨ती⟩ अत्यंत ज्ञानी ⟨आहे⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "व ही"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "चमात"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "सीमा मिळवील"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्याच्याशी"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "व त्सिदोन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञानी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    }
+  ],
+  "timestamp": "2026-08-13T14:26:36.110244761Z",
+  "model": "glm-5.2"
+}

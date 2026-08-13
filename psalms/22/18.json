@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "mr",
+  "chapter": 22,
+  "translation": "मी ⟨माझी⟩ सर्व हाडे मोजतो, ते ⟨माझ्याकडे⟩ पाहतात, माझ्यावर टक मारतात",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "मी मोजतो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सर्व"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "हाडे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ते"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "पाहतात"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "टक मारतात"
+    },
+    {
+      "surface": "בי",
+      "gloss": "माझ्यावर"
+    }
+  ],
+  "timestamp": "2026-08-13T14:33:50.651091456Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "mr",
+  "chapter": 7,
+  "translation": "दुसऱ्या एलामच्या ⟨पुत्र⟩, एक हजार दोनशे चोपन्नास.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसऱ्या"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दोनशे"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पन्नास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "व चार"
+    }
+  ],
+  "timestamp": "2026-08-13T15:58:36.867190166Z",
+  "model": "glm-5.2"
+}

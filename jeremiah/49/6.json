@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "mr",
+  "chapter": 49,
+  "translation": "आणि त्यानंतर मी परत आणीन ⟨את⟩ बंधुत्व अम्मोन मुलांचे, याहवेहचा उच्चार.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "आणि त्यानंतर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तसेच"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "मी परत आणीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बंधुत्व"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "बंधुत्व"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मुलांचे"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "उच्चार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेहचा"
+    }
+  ],
+  "timestamp": "2026-08-13T13:42:12.645163522Z",
+  "model": "glm-5.2"
+}

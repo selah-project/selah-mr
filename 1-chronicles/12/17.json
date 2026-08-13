@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "mr",
+  "chapter": 12,
+  "translation": "आणि बिन्यामीन आणि यहूदा यांच्या पुत्रांपैकी काही दावीदयेथे गडापर्यंत आले.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आणि आले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "पैकी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रांचे"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आणि यहूदा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "पर्यंत"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "गडाला"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दावीदयेस"
+    }
+  ],
+  "timestamp": "2026-08-13T16:09:14.881085329Z",
+  "model": "glm-5.2"
+}

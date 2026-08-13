@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "mr",
+  "chapter": 39,
+  "translation": "आणि ⟨ही⟩ रांग ⟨ही⟩ दुसरी: नोफेख, सप्पिर आणि यहलोम",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "आणि ही रांग"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरी"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "नोफेख"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "सप्पिर"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "आणि यहलोम"
+    }
+  ],
+  "timestamp": "2026-08-13T10:39:47.329114841Z",
+  "model": "glm-5.2"
+}

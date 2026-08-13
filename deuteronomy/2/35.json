@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "mr",
+  "chapter": 2,
+  "translation": "फक्त जनावरे आपण आपल्यासाठी लुटली, आणि जी शहरे आपण जिंकली त्यांचा माल.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "फक्त"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "जनावरे"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "आपण लुटली"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "आपल्यासाठी"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "आणि माल"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "शहरांचा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जी"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "आपण जिंकली"
+    }
+  ],
+  "timestamp": "2026-08-13T11:16:00.722316297Z",
+  "model": "glm-5.2"
+}
