@@ -5,97 +5,65 @@
   "book": "1-kings",
   "lang": "mr",
   "chapter": 10,
-  "translation": "आणि ⟨होते⟩ सुवर्णाचे वजन जे शलोमोहाकडे एका वर्षात आले: सहाशे सषष्ट आणि सहा सुवर्णाच्या किकार.",
+  "translation": "आणि द्रव्यमान ⟨होते⟩ त्या सोन्याचे जे शलोमोला एका वर्षी आले — सहाशे सषष्ठ आणि सहा किकार सोने.",
   "tokens": [
     {
-      "surface": "והמלך",
-      "gloss": ""
+      "surface": "וֽיְהִי֙",
+      "gloss": "आणि ⟨होते⟩"
     },
     {
-      "surface": "שלמה",
-      "gloss": ""
+      "surface": "מִשְׁקַ֣ל",
+      "gloss": "द्रव्यमान"
     },
     {
-      "surface": "נתן",
-      "gloss": ""
+      "surface": "הַזָּהָ֔ב",
+      "gloss": "त्या सोन्याचे"
     },
     {
-      "surface": "למלכת",
-      "gloss": ""
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "जे"
     },
     {
-      "surface": "שבא",
-      "gloss": ""
+      "surface": "בָּ֥א",
+      "gloss": "आले"
     },
     {
-      "surface": "את",
-      "gloss": ""
+      "surface": "לִשְׁלֹמֹ֖ה",
+      "gloss": "शलोमोला"
     },
     {
-      "surface": "כל",
-      "gloss": ""
+      "surface": "בְּשָׁנָ֣ה",
+      "gloss": "वर्षी"
     },
     {
-      "surface": "חפצה",
-      "gloss": ""
+      "surface": "אֶחָ֑ת",
+      "gloss": "एका"
     },
     {
-      "surface": "אשר",
-      "gloss": ""
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "सहाशे"
     },
     {
-      "surface": "שאלה",
-      "gloss": ""
+      "surface": "מֵא֛וֹת",
+      "gloss": "⟨शेजोडी⟩"
     },
     {
-      "surface": "מלבד",
-      "gloss": ""
+      "surface": "שִׁשִּׁ֥ים",
+      "gloss": "सषष्ठ"
     },
     {
-      "surface": "אשר",
-      "gloss": ""
+      "surface": "וָשֵׁ֖שׁ",
+      "gloss": "आणि सहा"
     },
     {
-      "surface": "נתן",
-      "gloss": ""
+      "surface": "כִּכַּ֥ר",
+      "gloss": "किकार"
     },
     {
-      "surface": "לה",
-      "gloss": ""
-    },
-    {
-      "surface": "כיד",
-      "gloss": ""
-    },
-    {
-      "surface": "המלך",
-      "gloss": ""
-    },
-    {
-      "surface": "שלמה",
-      "gloss": ""
-    },
-    {
-      "surface": "ותפן",
-      "gloss": ""
-    },
-    {
-      "surface": "ותלך",
-      "gloss": ""
-    },
-    {
-      "surface": "לאरצה",
-      "gloss": ""
-    },
-    {
-      "surface": "היא",
-      "gloss": ""
-    },
-    {
-      "surface": "ועבדיה",
-      "gloss": ""
+      "surface": "זָהָֽב",
+      "gloss": "सोने"
     }
   ],
-  "timestamp": "2026-08-13T12:31:25.437882226Z",
+  "timestamp": "2026-08-14T00:15:23.594380543Z",
   "model": "glm-5.2"
 }
