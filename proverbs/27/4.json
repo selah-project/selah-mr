@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "mr",
   "chapter": 27,
-  "translation": "क्रूरता ⟨is⟩ रोषाची आणि ⟨the⟩ रागाचा भरतो, पण कोण उभा राहील ⟨before⟩ ईर्ष्येपुढे?",
+  "translation": "क्रोधाचा उन्माद भीषण ⟨आहे⟩, आणि रागाचा पूर भीषण; पण ईर्ष्येसमोर कोण उभे राहू शकेल?",
   "tokens": [
     {
-      "surface": "אַכְזְרִיּ֣וּת",
-      "gloss": "क्रूरता"
+      "surface": "אכזריות",
+      "gloss": "भीषण"
     },
     {
-      "surface": "חֵ֭מָה",
-      "gloss": "रोषाची"
+      "surface": "חמה",
+      "gloss": "क्रोधाचा उन्माद"
     },
     {
-      "surface": "וְשֶׁ֣טֶף",
-      "gloss": "आणि ⟨the⟩ भरतो"
+      "surface": "ושטף",
+      "gloss": "आणि पूर"
     },
     {
-      "surface": "אָ֑ף",
-      "gloss": "रागाचा"
+      "surface": "אף",
+      "gloss": "राग"
     },
     {
-      "surface": "וּמִ֥י",
+      "surface": "ומי",
       "gloss": "पण कोण"
     },
     {
-      "surface": "יַ֝עֲמֹד",
-      "gloss": "उभा राहील"
+      "surface": "יעמד",
+      "gloss": "उभे राहू शकेल"
     },
     {
-      "surface": "לִפְנֵ֥י",
-      "gloss": "⟨before⟩ पुढे"
+      "surface": "לפני",
+      "gloss": "समोर"
     },
     {
-      "surface": "קִנְאָֽה",
-      "gloss": "ईर्ष्ये"
+      "surface": "קנאה",
+      "gloss": "ईर्ष्या"
     }
   ],
-  "timestamp": "2026-08-13T15:15:49.658705457Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:00.508888218Z",
+  "model": "glm-5.3"
 }

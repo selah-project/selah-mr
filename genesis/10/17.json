@@ -5,36 +5,36 @@
   "book": "genesis",
   "lang": "mr",
   "chapter": 10,
-  "translation": "आणि ⟨את⟩ ⟨the⟩ हिवी, आणि ⟨את⟩ ⟨the⟩ अर्की, आणि ⟨את⟩ ⟨the⟩ सिनी.",
+  "translation": "आणि ⟨את⟩ हिव्वी, आणि ⟨את⟩ अर्क्वी, आणि ⟨את⟩ सिन्वी.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "आणि ⟨את⟩",
-      "marks": "हिवी"
+      "gloss": "⟨את⟩",
+      "marks": "हिव्वी"
     },
     {
       "surface": "החוי",
-      "gloss": "हिवी"
+      "gloss": "हिव्वी"
     },
     {
       "surface": "ואת",
-      "gloss": "आणि ⟨את⟩",
-      "marks": "अर्की"
+      "gloss": "⟨את⟩",
+      "marks": "अर्क्वी"
     },
     {
-      "surface": "הערקי",
-      "gloss": "अर्की"
+      "surface": "हערקי",
+      "gloss": "अर्क्वी"
     },
     {
       "surface": "ואת",
-      "gloss": "आणि ⟨את⟩",
-      "marks": "सिनी"
+      "gloss": "⟨את⟩",
+      "marks": "सिन्वी"
     },
     {
       "surface": "הסיני",
-      "gloss": "सिनी"
+      "gloss": "सिन्वी"
     }
   ],
-  "timestamp": "2026-08-13T10:02:16.963183918Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:08:06.211948300Z",
+  "model": "glm-5.3"
 }

@@ -5,25 +5,25 @@
   "book": "song-of-songs",
   "lang": "mr",
   "chapter": 1,
-  "translation": "गीत गीतांपैकी जे ⟨is⟩ शलमोनाचे.",
+  "translation": "गीतांचे गीत, जे शलोमोहचे आहे.",
   "tokens": [
     {
-      "surface": "שִׁ֥יר",
+      "surface": "שיר",
       "gloss": "गीत"
     },
     {
-      "surface": "הַשִּׁירִ֖ים",
-      "gloss": "गीतांपैकी"
+      "surface": "השירים",
+      "gloss": "गीतांचे"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "जे"
     },
     {
-      "surface": "לִשְׁלֹמֹֽה",
-      "gloss": "शलमोनाचे"
+      "surface": "לשלמה",
+      "gloss": "शलोमोहचे"
     }
   ],
-  "timestamp": "2026-08-13T15:32:14.745787670Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:22.267609674Z",
+  "model": "glm-5.3"
 }

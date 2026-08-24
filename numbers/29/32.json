@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "mr",
   "chapter": 29,
-  "translation": "आणि व ⟨the⟩ सातव्या दिवशी ⟨on the seventh day⟩: सात बैल, दो मेंढराचे काठीण, चौदा एकवर्षाचे कोकरू ⟨without blemish⟩।",
+  "translation": "आणि सातव्या दिवशी सात बैल, दोन मेंढे, चौदा एकवर्षाचे कोकरू, निष्कलंक.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "आणि ⟨on⟩ ⟨the⟩ दिवशी"
+      "gloss": "आणि दिवशी"
     },
     {
       "surface": "השביעי",
-      "gloss": "सातवा"
+      "gloss": "सातव्या"
     },
     {
       "surface": "פרים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אילם",
-      "gloss": "मेंढराचे काठीण"
+      "gloss": "मेंढे"
     },
     {
       "surface": "שנים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "पिल्ले"
+      "gloss": "…चे"
     },
     {
       "surface": "שנה",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "ארבעה",
-      "gloss": "चार"
+      "gloss": "चौदा"
     },
     {
       "surface": "עשר",
-      "gloss": "दहा"
+      "gloss": "(चौ-दा)"
     },
     {
       "surface": "תמימם",
-      "gloss": "निर्दोष"
+      "gloss": "निष्कलंक"
     }
   ],
-  "timestamp": "2026-08-13T11:10:57.011527683Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:10:21.207347448Z",
+  "model": "glm-5.3"
 }

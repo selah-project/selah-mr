@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "mr",
   "chapter": 11,
-  "translation": "इरा ⟨the⟩ यित्री, गारेब ⟨the⟩ यित्री.",
+  "translation": "इरा ⟨ה⟩इथ्री, गारेब ⟨ה⟩इथ्री.",
   "tokens": [
     {
       "surface": "עירא",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "היתרי",
-      "gloss": "⟨the⟩ यित्री"
+      "gloss": "इथ्री"
     },
     {
       "surface": "גרב",
       "gloss": "गारेब"
     },
     {
-      "surface": "היתרי",
-      "gloss": "⟨the⟩ यित्री"
+      "surface": "हיתרי",
+      "gloss": "इथ्री"
     }
   ],
-  "timestamp": "2026-08-13T16:06:59.039678486Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:51.471136Z",
+  "model": "glm-5.3"
 }

@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "mr",
   "chapter": 11,
-  "translation": "उरिय्याह ⟨the⟩ हित्ती, झाबाद अहलायचा पुत्र",
+  "translation": "ऊरिय्याच हित्ती, झाबाद, अहलायचा मुलगा",
   "tokens": [
     {
       "surface": "אוריה",
-      "gloss": "उरिय्याह"
+      "gloss": "ऊरिय्याच"
     },
     {
       "surface": "החתי",
       "gloss": "हित्ती"
     },
     {
-      "surface": "זבד",
+      "surface": "खबद",
       "gloss": "झाबाद"
     },
     {
       "surface": "בן",
-      "gloss": "पुत्र"
+      "gloss": "मुलगा"
     },
     {
       "surface": "אחלי",
-      "gloss": "अचलायचा"
+      "gloss": "अहलायचा"
     }
   ],
-  "timestamp": "2026-08-13T16:50:29.383902959Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:26.723436545Z",
+  "model": "glm-5.3"
 }

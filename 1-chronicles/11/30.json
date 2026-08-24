@@ -5,33 +5,33 @@
   "book": "1-chronicles",
   "lang": "mr",
   "chapter": 11,
-  "translation": "महराय ⟨the⟩ नेतोफाथी, खेलेद बेन बानाह ⟨the⟩ नेतोफाथी.",
+  "translation": "महाराय नेतोफाती, खेलेद बानाचा मुलगा नेतोफाती;",
   "tokens": [
     {
-      "surface": "מַהְרַי",
-      "gloss": "महराय"
+      "surface": "מהרי",
+      "gloss": "महाराय"
     },
     {
-      "surface": "הַנְּטֹפָתִי",
-      "gloss": "नेतोफाथी"
+      "surface": "הנטפתי",
+      "gloss": "नेतोफाती"
     },
     {
-      "surface": "חֵלֶד",
+      "surface": "חלד",
       "gloss": "खेलेद"
     },
     {
-      "surface": "בֶּן",
-      "gloss": "बेन"
+      "surface": "בן",
+      "gloss": "मुलगा"
     },
     {
-      "surface": "בַּעֲנָה",
-      "gloss": "बानाह"
+      "surface": "בענה",
+      "gloss": "बाना"
     },
     {
-      "surface": "הַנְּטוֹפָתִי",
-      "gloss": "नेतोफाथी"
+      "surface": "הנטופתי",
+      "gloss": "नेतोफाती"
     }
   ],
-  "timestamp": "2026-08-13T16:07:33.114304632Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:28.215833356Z",
+  "model": "glm-5.3"
 }

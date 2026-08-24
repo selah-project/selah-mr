@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "mr",
   "chapter": 11,
-  "translation": "योएल नातानचा भाऊ, मिबखर ⟨the⟩ हाग्रीचा पुत्र.",
+  "translation": "योएल, नातानचा भाऊ, मिबखार, हाग्रीचा मुलगा.",
   "tokens": [
     {
       "surface": "יואל",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "נתן",
-      "gloss": "नातानचा"
+      "gloss": "नातान"
     },
     {
       "surface": "מבחר",
-      "gloss": "मिबखर"
+      "gloss": "मिबखार"
     },
     {
       "surface": "בן",
-      "gloss": "पुत्र"
+      "gloss": "मुलगा"
     },
     {
       "surface": "הגרי",
-      "gloss": "⟨the⟩ हाग्रीचा"
+      "gloss": "हाग्री"
     }
   ],
-  "timestamp": "2026-08-13T16:06:59.039314836Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:51.470771850Z",
+  "model": "glm-5.3"
 }

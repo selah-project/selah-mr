@@ -5,41 +5,41 @@
   "book": "daniel",
   "lang": "mr",
   "chapter": 5,
-  "translation": "आणि हा ⟨is⟩ तो लेख जो लिहिला गेला: मने, मने, तेकेल, उफरसिन.",
+  "translation": "हे ⟨आहे⟩ ते लेखन जे लिहिले गेले: मेने, मेने, तेकेल, उफरसिन.",
   "tokens": [
     {
       "surface": "ודנה",
-      "gloss": "आणि हा"
+      "gloss": "आणि हे"
     },
     {
       "surface": "כתבא",
-      "gloss": "लेख"
+      "gloss": "लेखन"
     },
     {
       "surface": "די",
-      "gloss": "जो"
+      "gloss": "जे"
     },
     {
       "surface": "רשים",
-      "gloss": "लिहिला गेला"
+      "gloss": "लिहिले गेले"
     },
     {
       "surface": "מנא",
-      "gloss": "मने"
+      "gloss": "मेने"
     },
     {
       "surface": "מנא",
-      "gloss": "मने"
+      "gloss": "मेने"
     },
     {
-      "surface": "תקל",
+      "surface": "תקल",
       "gloss": "तेकेल"
     },
     {
       "surface": "ופרסין",
-      "gloss": "उफरसिन"
+      "gloss": "आणि उफरसिन"
     }
   ],
-  "timestamp": "2026-08-13T15:47:57.858506423Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:48.819881053Z",
+  "model": "glm-5.3"
 }

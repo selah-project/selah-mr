@@ -5,41 +5,41 @@
   "book": "isaiah",
   "lang": "mr",
   "chapter": 16,
-  "translation": "हे ⟨is⟩ वचन जे याहवेह मोआबविषयी पूर्वपासून बोलला.",
+  "translation": "हाच तो वचन जे याहवेहने मोआबाविषयी त्या काळापासून बोलले आहे.",
   "tokens": [
     {
-      "surface": "זֶ֣ה",
-      "gloss": "हे"
+      "surface": "זה",
+      "gloss": "हाच"
     },
     {
-      "surface": "הַדָּבָ֗ר",
-      "gloss": "वचन"
+      "surface": "הדבר",
+      "gloss": "तो वचन"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "जे"
     },
     {
-      "surface": "דִּבֶּ֥ר",
-      "gloss": "बोलला"
+      "surface": "דבר",
+      "gloss": "बोलले"
     },
     {
-      "surface": "יְהוָ֛ה",
-      "gloss": "याहवेह"
+      "surface": "יהוה",
+      "gloss": "याहवेहने"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "विषयी"
     },
     {
-      "surface": "מוֹאָ֖ב",
-      "gloss": "मोआब"
+      "surface": "מואב",
+      "gloss": "मोआबाविषयी"
     },
     {
-      "surface": "מֵאָֽז",
-      "gloss": "पूर्वपासून"
+      "surface": "מאז",
+      "gloss": "त्या काळापासून"
     }
   ],
-  "timestamp": "2026-08-13T13:00:05.735264145Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:14:51.665846471Z",
+  "model": "glm-5.3"
 }

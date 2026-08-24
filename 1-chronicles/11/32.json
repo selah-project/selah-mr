@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "mr",
   "chapter": 11,
-  "translation": "हुराय मिनहले गाश, अबिएल ⟨the⟩ अर्बाथी.",
+  "translation": "खुराय गाअशच्या नद्यांचा, अविएल अरबती;",
   "tokens": [
     {
-      "surface": "חוּרַי",
-      "gloss": "हुराय"
+      "surface": "חורי",
+      "gloss": "खुराय"
     },
     {
-      "surface": "מִנַּחֲלֵי",
-      "gloss": "मिनहले"
+      "surface": "מנחלי",
+      "gloss": "नद्यांचा"
     },
     {
-      "surface": "גַּעַשׁ",
-      "gloss": "गाश"
+      "surface": "געש",
+      "gloss": "गाअश"
     },
     {
-      "surface": "אֲבִיאֵל",
-      "gloss": "अबिएल"
+      "surface": "אביאל",
+      "gloss": "अविएल"
     },
     {
-      "surface": "הָעַרְבָתִי",
-      "gloss": "अर्बाथी"
+      "surface": "הערבתי",
+      "gloss": "अरबती"
     }
   ],
-  "timestamp": "2026-08-13T16:07:33.114619998Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:28.216152708Z",
+  "model": "glm-5.3"
 }

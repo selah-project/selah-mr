@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "mr",
   "chapter": 2,
-  "translation": "आणि राजा शलोमोह ⟨is⟩ धन्य, आणि दावीदाचे सिंहासन याहवेहसमोर ⟨will be⟩ स्थिर ⟨forever⟩.",
+  "translation": "आणि राजा शलोमो धन्य आहे, आणि दावीदाचे सिंहासन याहवेहासमोर साशन ⟨राहणार⟩ आहे, सार्वकाळपर्यंत.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "शलोमोह"
+      "gloss": "शलोमो"
     },
     {
       "surface": "ברוך",
-      "gloss": "धन्य"
+      "gloss": "धन्य आहे"
     },
     {
       "surface": "וכסא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨will be⟩"
+      "gloss": "राहणार आहे"
     },
     {
       "surface": "נכון",
-      "gloss": "स्थिर"
+      "gloss": "साशन"
     },
     {
       "surface": "לפני",
-      "gloss": "समोर"
+      "gloss": "…समोर"
     },
     {
       "surface": "יהוה",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "⟨forever⟩"
+      "gloss": "…पर्यंत"
     },
     {
       "surface": "עולם",
-      "gloss": "⟨forever⟩"
+      "gloss": "सार्वकाळ"
     }
   ],
-  "timestamp": "2026-08-13T12:24:32.733201504Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:13:32.160739059Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "mr",
   "chapter": 29,
-  "translation": "और व ⟨the⟩ दुसऱ्या दिवशी ⟨on the sixth day⟩: आठ बैल, दो मेंढराचे काठीण, चौदा एकवर्षाचे कोकरू ⟨without blemish⟩।",
+  "translation": "आणि सहाव्या दिवशी आठ बैले, दोन मेंढे, चौदा एकवर्षाचे कोकरू, निर्दोष ⟨होते⟩.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "आणि ⟨on⟩ ⟨the⟩ दिवशी"
+      "gloss": "आणि सहाव्या दिवशी"
     },
     {
-      "surface": "הששי",
+      "surface": "हששי",
       "gloss": "सहावा"
     },
     {
       "surface": "פרים",
-      "gloss": "बैल"
+      "gloss": "बैले"
     },
     {
       "surface": "שמנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אילם",
-      "gloss": "मेंढराचे काठीण"
+      "gloss": "मेंढे"
     },
     {
       "surface": "שנים",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "בני",
-      "gloss": "पिल्ले"
+      "gloss": "एकवर्षाचे"
     },
     {
       "surface": "שנה",
-      "gloss": "एक वर्षाचे"
+      "gloss": "वर्षाचे"
     },
     {
       "surface": "ארבעה",
-      "gloss": "चार"
+      "gloss": "चौदा"
     },
     {
       "surface": "עשר",
-      "gloss": "दहा"
+      "gloss": "(चौदा)"
     },
     {
       "surface": "תמימם",
       "gloss": "निर्दोष"
     }
   ],
-  "timestamp": "2026-08-13T11:10:57.010984674Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:10:13.137727495Z",
+  "model": "glm-5.3"
 }

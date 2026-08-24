@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "mr",
   "chapter": 12,
-  "translation": "अत्ताय ⟨the⟩ सहावा, एलिएल ⟨the⟩ सातवा",
+  "translation": "अत्ताय ⟨the⟩ सहावा, एलिएल ⟨the⟩ सातवा.",
   "tokens": [
     {
       "surface": "עתי",
@@ -24,6 +24,6 @@
       "gloss": "⟨the⟩ सातवा"
     }
   ],
-  "timestamp": "2026-08-13T16:50:24.347447861Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:18:33.498147464Z",
+  "model": "glm-5.3"
 }

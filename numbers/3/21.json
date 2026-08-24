@@ -5,45 +5,45 @@
   "book": "numbers",
   "lang": "mr",
   "chapter": 3,
-  "translation": "लगर्शोन — ⟨the⟩ कुटुंब ⟨the⟩ लिब्नी व ⟨the⟩ कुटुंब ⟨the⟩ शिमई; हे होत ती कुटुंबे ⟨the⟩ गर्शुनी.",
+  "translation": "ला-गेरशोन: लिब्नी कुळ व शिमई कुळ; हीच ती गेरशोन्यांची कुळे ⟨आहेत⟩.",
   "tokens": [
     {
       "surface": "לגרשון",
-      "gloss": "लगर्शोन"
+      "gloss": "ला-गेरशोन"
     },
     {
       "surface": "משפחת",
-      "gloss": "कुटुंब"
+      "gloss": "कुळ"
     },
     {
       "surface": "הלבני",
-      "gloss": "हलिब्नी"
+      "gloss": "लिब्नी"
     },
     {
       "surface": "ומשפחת",
-      "gloss": "वकुटुंब"
+      "gloss": "व कुळ"
     },
     {
       "surface": "השמעי",
-      "gloss": "हशिमई"
+      "gloss": "शिमई"
     },
     {
       "surface": "אלה",
-      "gloss": "हे"
+      "gloss": "हीच ती"
     },
     {
       "surface": "הם",
-      "gloss": "होत"
+      "gloss": "ती"
     },
     {
       "surface": "משפחת",
-      "gloss": "कुटुंबे"
+      "gloss": "कुळे"
     },
     {
       "surface": "הגרשני",
-      "gloss": "हगर्शुनी"
+      "gloss": "गेरशोन्यांची"
     }
   ],
-  "timestamp": "2026-08-13T10:56:51.988337653Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:11:03.661495685Z",
+  "model": "glm-5.3"
 }

@@ -5,31 +5,31 @@
   "book": "deuteronomy",
   "lang": "mr",
   "chapter": 14,
-  "translation": "⟨את⟩ ⟨the⟩ लहान घुबड, व ⟨את⟩ ⟨the⟩ मोठी घुबड, व ⟨the⟩ पांढरी घुबड",
+  "translation": "⟨את⟩ लहान बहेरी, व ⟨את⟩ मोठी बहेरी, व पांढरी बहेरी.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ लहान घुबड"
+      "marks": "लहान बहेरी"
     },
     {
       "surface": "הכוס",
-      "gloss": "⟨the⟩ लहान घुबड"
+      "gloss": "लहान बहेरी"
     },
     {
       "surface": "ואת",
       "gloss": "व ⟨את⟩",
-      "marks": "⟨the⟩ मोठी घुबड"
+      "marks": "मोठी बहेरी"
     },
     {
       "surface": "הינשוף",
-      "gloss": "⟨the⟩ मोठी घुबड"
+      "gloss": "मोठी बहेरी"
     },
     {
       "surface": "והתנשמת",
-      "gloss": "व ⟨the⟩ पांढरी घुबड"
+      "gloss": "व पांढरी बहेरी"
     }
   ],
-  "timestamp": "2026-08-13T11:21:09.286809095Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:10:45.242782223Z",
+  "model": "glm-5.3"
 }

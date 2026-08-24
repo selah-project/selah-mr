@@ -5,30 +5,30 @@
   "book": "deuteronomy",
   "lang": "mr",
   "chapter": 14,
-  "translation": "व ⟨את⟩ ⟨the⟩ गिद्ध व ⟨the⟩ ससाणा व ⟨the⟩ गरुड प्रकारानुसार",
+  "translation": "व ⟨את⟩ कापशी-गिधाड, व ससाणा, व पत्री-ससाणा त्याच्या प्रजातीप्रमाणे.",
   "tokens": [
     {
       "surface": "והראה",
-      "gloss": "व"
+      "gloss": "व कापशी-गिधाड"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ गिद्ध"
+      "marks": "ससाणा"
     },
     {
       "surface": "האיה",
-      "gloss": "⟨the⟩ गिद्ध"
+      "gloss": "ससाणा"
     },
     {
       "surface": "והדיה",
-      "gloss": "व ⟨the⟩ ससाणा"
+      "gloss": "व पत्री-ससाणा"
     },
     {
       "surface": "למינה",
-      "gloss": "प्रकारानुसार"
+      "gloss": "त्याच्या प्रजातीप्रमाणे"
     }
   ],
-  "timestamp": "2026-08-13T11:21:09.286236957Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:10:14.513933532Z",
+  "model": "glm-5.3"
 }

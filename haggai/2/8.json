@@ -5,27 +5,27 @@
   "book": "haggai",
   "lang": "mr",
   "chapter": 2,
-  "translation": "माझे ⟨is⟩ ⟨the⟩ चांदी आणि माझे ⟨is⟩ ⟨the⟩ सोने, उद्गार याहवेह सेनापतिंचे.",
+  "translation": "माझे ⟨आहे⟩ चांदी व माझे ⟨आहे⟩ सोने, असे वदतो याहवेह त्सेवाओत.",
   "tokens": [
     {
       "surface": "לי",
-      "gloss": "माझे"
+      "gloss": "माझे आहे"
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨the⟩ चांदी"
+      "gloss": "चांदी"
     },
     {
       "surface": "ולי",
-      "gloss": "आणि माझे"
+      "gloss": "व माझे आहे"
     },
     {
-      "surface": "הזהब",
-      "gloss": "⟨the⟩ सोने"
+      "surface": "הזהב",
+      "gloss": "सोने"
     },
     {
       "surface": "נאם",
-      "gloss": "उद्गार"
+      "gloss": "वदतो"
     },
     {
       "surface": "יהוה",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "सेनापति"
+      "gloss": "त्सेवाओत"
     }
   ],
-  "timestamp": "2026-08-13T14:24:18.908466069Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:17:09.766427601Z",
+  "model": "glm-5.3"
 }

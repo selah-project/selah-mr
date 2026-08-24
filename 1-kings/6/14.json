@@ -5,30 +5,30 @@
   "book": "1-kings",
   "lang": "mr",
   "chapter": 6,
-  "translation": "व शलोमोने बांधला ⟨את⟩ ⟨the⟩ भवन व तो पूर्ण केला।",
+  "translation": "आणि शलोमोने ⟨את⟩ घर बांधले व ते पूर्ण केले.",
   "tokens": [
     {
-      "surface": "וַיִּ֧בֶן",
-      "gloss": "व बांधला"
+      "surface": "ויבן",
+      "gloss": "आणि बांधले"
     },
     {
-      "surface": "שְׁלֹמֹ֛ה",
+      "surface": "שלמה",
       "gloss": "शलोमोने"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "भवन"
+      "marks": "घर"
     },
     {
-      "surface": "הַבַּ֖יִת",
-      "gloss": "भवन"
+      "surface": "הבית",
+      "gloss": "घर"
     },
     {
-      "surface": "וַיְכַלֵּֽהוּ",
-      "gloss": "व तो पूर्ण केला"
+      "surface": "ויכלהו",
+      "gloss": "व ते पूर्ण केले"
     }
   ],
-  "timestamp": "2026-08-13T12:27:34.413090689Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:14:17.240758882Z",
+  "model": "glm-5.3"
 }
