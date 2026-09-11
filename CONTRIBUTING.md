@@ -58,3 +58,8 @@
 पडताळणी करते — मान्य करू शकते, तुमच्यासोबत सोडवू शकते, अधिक
 आधाराची वाट पाहू शकते, किंवा कारण देऊन नाकारू शकते. पाठाची
 पारख करा, व्यक्तीची नाही.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
