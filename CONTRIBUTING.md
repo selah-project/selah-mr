@@ -12,7 +12,7 @@
 - **Pull request** उघडा जर चूक आणि तिचा योग्य पर्याय दोन्ही स्पष्ट
   असतील.
 - सॉफ्टवेअर बिघाड, किंवा सुरक्षा/खाते/गोपनीयतेच्या मुद्द्यांसाठी
-  [Selah Support](https://selahproject.com/support) वापरा.
+  [Selah Support](https://s33k3r.com/learn/support) वापरा.
 
 ## काय समाविष्ट करावे
 
